@@ -3,7 +3,9 @@ name: Grab game list
 on:
   schedule:
     - cron: "0 0 * * *"
-  push
+  push:
+    branches:
+      - main
 
 jobs:
   build:
