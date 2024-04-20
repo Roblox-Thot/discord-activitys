@@ -1,6 +1,6 @@
 import http.client, json
 
-conn = http.client.HTTPSConnection("discord.com")
+conn = http.client.HTTPSConnection("ptb.discord.com")
 
 conn.request("GET", "/api/v9/applications/detectable")
 
