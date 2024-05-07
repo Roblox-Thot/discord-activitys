@@ -14,3 +14,4 @@ Grabs the detected games from Discord's API `api/v9/applications/detectable` and
 
 TODO:
 - [ ] Make a list of new games added
+- [ ] Don't commit if nothing has changed
