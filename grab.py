@@ -1,7 +1,7 @@
 import http.client, json
 Main:bool = True
-PTB:bool = True
-Canary:bool = True
+PTB:bool = False
+Canary:bool = False
 
 #region Main discord
 if Main:
