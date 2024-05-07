@@ -48,13 +48,16 @@ if PTB:
         new_data = json.loads(data.decode())
 
         old_names = [x['name'] for x in old_data]
+        old_exes = [x['executables'] for x in old_data if "executables" in x]
         new_names = [x['name'] for x in new_data]
+        new_exes = [x['executables'] for x in new_data if "executables" in x]
 
         # Print new names that are not in the old list
         added_games = [name for name in new_names if name not in old_names]
         added_execs = [name for name in new_exes if name not in old_exes]
         print("[PTB]",f"{len(old_data)} -> {len(new_data)} games (+{len(new_data) - len(old_data)})")
         print("[PTB] New games:",added_games)
+        print(len(added_execs))
 
         if len(added_games) or len(added_execs):
             file.seek(0)
@@ -76,7 +79,9 @@ if Canary:
         new_data = json.loads(data.decode())
 
         old_names = [x['name'] for x in old_data]
+        old_exes = [x['executables'] for x in old_data if "executables" in x]
         new_names = [x['name'] for x in new_data]
+        new_exes = [x['executables'] for x in new_data if "executables" in x]
         
         # Print new names that are not in the old list
         added_games = [name for name in new_names if name not in old_names]
