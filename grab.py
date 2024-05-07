@@ -17,15 +17,21 @@ if Main:
         new_data = json.loads(data.decode())
 
         old_names = [x['name'] for x in old_data]
+        old_exes = [x['executables'] for x in old_data if "executables" in x]
         new_names = [x['name'] for x in new_data]
+        new_exes = [x['executables'] for x in new_data if "executables" in x]
         
         # Print new names that are not in the old list
+        added_games = [name for name in new_names if name not in old_names]
+        added_execs = [name for name in new_exes if name not in old_exes]
         print("[Main]",f"{len(old_data)} -> {len(new_data)} games (+{len(new_data) - len(old_data)})")
-        print("[Main] New games:",[name for name in new_names if name not in old_names])
+        print("[Main] New games:",added_games)
+        # print("[Main] New executables:",added_execs)
 
-        file.seek(0)
-        json.dump(new_data, indent=4, fp=file)
-        file.truncate()
+        if len(added_games) or len(added_execs):
+            file.seek(0)
+            json.dump(new_data, indent=4, fp=file)
+            file.truncate()
 #endregion
 
 #region PTB discord
@@ -44,12 +50,16 @@ if PTB:
         old_names = [x['name'] for x in old_data]
         new_names = [x['name'] for x in new_data]
 
+        # Print new names that are not in the old list
+        added_games = [name for name in new_names if name not in old_names]
+        added_execs = [name for name in new_exes if name not in old_exes]
         print("[PTB]",f"{len(old_data)} -> {len(new_data)} games (+{len(new_data) - len(old_data)})")
-        print("[PTB] New games:",[name for name in new_names if name not in old_names])
+        print("[PTB] New games:",added_games)
 
-        file.seek(0)
-        json.dump(new_data, indent=4, fp=file)
-        file.truncate()
+        if len(added_games) or len(added_execs):
+            file.seek(0)
+            json.dump(new_data, indent=4, fp=file)
+            file.truncate()
 #endregion
 
 #region Canary discord
@@ -69,10 +79,13 @@ if Canary:
         new_names = [x['name'] for x in new_data]
         
         # Print new names that are not in the old list
+        added_games = [name for name in new_names if name not in old_names]
+        added_execs = [name for name in new_exes if name not in old_exes]
         print("[Canary]", f"{len(old_data)} -> {len(new_data)} games (+{len(new_data) - len(old_data)})")
-        print("[Canary] New games:", [name for name in new_names if name not in old_names])
+        print("[Canary] New games:", added_games)
 
-        file.seek(0)
-        json.dump(new_data, indent=4, fp=file)
-        file.truncate()
+        if len(added_games) or len(added_execs):
+            file.seek(0)
+            json.dump(new_data, indent=4, fp=file)
+            file.truncate()
 #endregion
