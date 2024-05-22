@@ -3,7 +3,7 @@
 
 
 # github-activitys
-[![Grab game list](https://github.com/Roblox-Thot/github-activitys/actions/workflows/run.yml/badge.svg?event=push)](https://github.com/Roblox-Thot/github-activitys/actions/workflows/run.yml)
+[![Grab game list](https://github.com/Roblox-Thot/github-activitys/actions/workflows/run.yml/badge.svg)](https://github.com/Roblox-Thot/github-activitys/actions/workflows/run.yml)
 
 </div
 
