@@ -10,7 +10,7 @@
 
 JSON log of all the detectable apps for discord
 
-Grabs the detected games from Discord's API `api/v9/applications/detectable` and pushes it to detectable every day.
+Grabs the detected games from Discord's API `api/v9/applications/detectable` and pushes it to [detectable.json](https://github.com/Roblox-Thot/github-activitys/blob/main/json/detectable.json) every day.
 
 TODO:
 - [x] ~~Make a list of new games added~~ (Printed in the ran action)
