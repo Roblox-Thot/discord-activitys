@@ -25,7 +25,7 @@ with open("json/detectable.json",'r+') as file:
     
     commmit_msg = '(Apps update) Updated JSONs\n'
     for game in added_games:
-        commmit_msg = commmit_msg + game + '\n'
+        commmit_msg += f'- {game}\n'
     open('temp_commit.txt','w').write(commmit_msg)
 
     if len(added_games) or len(added_execs):
