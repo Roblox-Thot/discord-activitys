@@ -30,7 +30,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git pull origin main
         git add 'json'
-        git commit -m "(Apps update) Updated JSONs"
+        git commit -F temp_commit.txt
         git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
