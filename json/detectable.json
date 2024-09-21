@@ -3,40 +3,6 @@
         "executables": [
             {
                 "is_launcher": false,
-                "name": "speedrunners.exe",
-                "os": "win32"
-            }
-        ],
-        "hook": true,
-        "id": "259392830932254721",
-        "name": "SpeedRunners"
-    },
-    {
-        "executables": [
-            {
-                "is_launcher": false,
-                "name": "move or die/love/win/love.exe",
-                "os": "win32"
-            },
-            {
-                "is_launcher": false,
-                "name": "move or die/love/osx32/love.app/contents/macos/love",
-                "os": "darwin"
-            },
-            {
-                "is_launcher": false,
-                "name": "move or die/love/linux32/love",
-                "os": "linux"
-            }
-        ],
-        "hook": true,
-        "id": "343232907390746625",
-        "name": "Move or Die"
-    },
-    {
-        "executables": [
-            {
-                "is_launcher": false,
                 "name": "holodrive.exe",
                 "os": "win32"
             }
