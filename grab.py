@@ -16,10 +16,11 @@ with open("json/detectable.json",'r+') as file:
     new_names = [x['name'] for x in new_data]
     new_execs = [x['executables'] for x in new_data if "executables" in x]
 
+    execs_list = [name for name in new_execs]
     new_names.sort()
-    new_execs.sort()
+    execs_list.sort()
     names_text_list = ('\n').join(new_names)
-    execs_text_list = ('\n').join([name for name in new_execs])
+    execs_text_list = ('\n').join(execs_list)
     open('data/games.txt','w').write(names_text_list)
     open('data/executables.txt','w').write(execs_text_list)
 
