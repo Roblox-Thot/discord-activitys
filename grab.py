@@ -16,7 +16,7 @@ with open("json/detectable.json",'r+') as file:
     new_names = [x['name'] for x in new_data]
     new_execs = [x['executables'] for x in new_data if "executables" in x]
 
-    execs_list = [name for name in new_execs]
+    execs_list = [y["name"] for x in new_execs for y in x]
     new_names.sort()
     execs_list.sort()
     names_text_list = ('\n').join(new_names)
