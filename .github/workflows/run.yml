@@ -31,6 +31,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git pull origin main
         git add 'json'
+        git add 'text'
         git commit -F temp_commit.txt
         git push origin main
       env:
