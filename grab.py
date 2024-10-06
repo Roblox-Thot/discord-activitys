@@ -19,7 +19,7 @@ with open("json/detectable.json",'r+') as file:
     new_names.sort()
     new_execs.sort()
     names_text_list = ('\n').join(new_names)
-    execs_text_list = ('\n').join(new_execs)
+    execs_text_list = ('\n').join([name for name in new_execs])
     open('data/games.txt','w').write(names_text_list)
     open('data/executables.txt','w').write(execs_text_list)
 
