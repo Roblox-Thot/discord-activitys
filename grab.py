@@ -21,8 +21,8 @@ with open("json/detectable.json",'r+') as file:
     execs_list.sort()
     names_text_list = ('\n').join(new_names)
     execs_text_list = ('\n').join(execs_list)
-    open('data/games.txt','w').write(names_text_list)
-    open('data/executables.txt','w').write(execs_text_list)
+    open('text/games.txt','w').write(names_text_list)
+    open('text/executables.txt','w').write(execs_text_list)
 
     # Print new names that are not in the old list
     added_games = [name for name in new_names if name not in old_names]
