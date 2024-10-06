@@ -16,13 +16,12 @@ with open("json/detectable.json",'r+') as file:
     new_names = [x['name'] for x in new_data]
     new_execs = [x['executables'] for x in new_data if "executables" in x]
 
+    # Make data used for the TXT data files
     execs_list = [y["name"] for x in new_execs for y in x]
     new_names.sort()
     execs_list.sort()
     names_text_list = ('\n').join(new_names)
     execs_text_list = ('\n').join(execs_list)
-    open('text/games.txt','w').write(names_text_list)
-    open('text/executables.txt','w').write(execs_text_list)
 
     # Print new names that are not in the old list
     added_games = [name for name in new_names if name not in old_names]
@@ -46,5 +45,8 @@ with open("json/detectable.json",'r+') as file:
     cleaned_names = sorted(set(new_names))
     cleaned_execs = sorted(set(exe_list))
 
+    # Write extra data
     open('json/games.json','w').write(json.dumps(cleaned_names, indent=4))
     open('json/executables.json','w').write(json.dumps(cleaned_execs, indent=4))
+    open('text/games.txt','w').write(names_text_list)
+    open('text/executables.txt','w').write(execs_text_list)
