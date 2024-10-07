@@ -1383,6 +1383,7 @@ conflict of nations/conflict of nations.exe
 conflict_desert_storm/desertstorm.exe
 conquestofelysium5/coe5.exe
 conquests/civ3conquests.exe
+conscript/conscript.exe
 consim2015.exe
 construct2-win64/construct2.exe
 construction simulator 2 us - pocket edition/consim2uspe.exe
@@ -4499,6 +4500,7 @@ mountblade warband/binkplay.exe
 mountblade warband/mb_warband.exe
 mountblade warband/mb_warband_old.exe
 mountyourfriends.exe
+mouthwashing/mouthwashing.exe
 movavi video editor plus 2020/videoeditorplus.exe
 movavi video suite 18/suite.exe
 movavi video suite/suite.exe
@@ -7555,6 +7557,7 @@ vergelostchapter/verge.exe
 verlet swing/verlet swing.exe
 vermintide.exe
 versus game/versus.exe
+vertigo 2/vertigo2.exe
 victor vran/victorvransteam.exe
 victoria 2/v2game.exe
 victoria 2/vcredist_x86.exe
@@ -8330,6 +8333,7 @@ win64/maine-win64-shipping.exe
 win64/maneater-win64-shipping.exe
 win64/manofmedan-win64-shipping.exe
 win64/manorlords-win64-shipping.exe
+win64/mansionescape-win64-shipping.exe
 win64/mantaswarbox-win64-shipping.exe
 win64/marblesonstream-win64-shipping.exe
 win64/mariana-win64-shipping.exe
