@@ -165,6 +165,7 @@ Abalyte
 Abandon Ship
 Abiotic Factor
 Above Snakes: Prologue
+Absconding Zatwor
 Absolute Drift
 Absolver
 Abyss The Forgotten Past: Prologue
@@ -1592,6 +1593,7 @@ DR LIVESEY ROM AND DEATH EDITION
 DRAGON BALL FighterZ
 DRAGON BALL XENOVERSE
 DRAGON BALL XENOVERSE 2
+DRAGON BALL: Sparking! ZERO
 DRAGON BALL: THE BREAKERS
 DRAGON QUEST BUILDERS 2 JUMBO DEMO
 DRAGON QUEST BUILDERS™ 2
@@ -3710,6 +3712,7 @@ KARDS - The WWII Card Game
 KEO
 KHOLAT
 KIDS
+KILL KNIGHT
 KILL la KILL -IF
 KINGDOM HEARTS III + Re Mind (DLC)
 Kabounce
@@ -4066,6 +4069,7 @@ Lords Mobile
 Lords Of The Fallen
 Lords and Villeins
 Lorelei and the Laser Eyes
+Lorn's Lure
 Lossless Scaling
 Lossless Scaling Demo
 Lost
@@ -4934,6 +4938,7 @@ Obscure
 Obscure 2
 Observation
 Observer
+Observer: System Redux
 Obsideo
 Occult
 Occupy Mars: Prologue
@@ -5662,6 +5667,7 @@ Receiver 2
 Recettear: An Item Shop's Tale
 Recipe for Disaster
 Record of Lodoss War-Deedlit in Wonder Labyrinth-
+Recycling Center Simulator
 Recycling Center Simulator: Prologue
 Red Alert 3 Demo
 Red Crucible: Firestorm
