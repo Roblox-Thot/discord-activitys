@@ -5600,6 +5600,7 @@ rhythm doctor/rhythm doctor.exe
 rhythm sprout/rhythm sprout.exe
 richie's plank experience/richiesplankexperience.exe
 richman10/richman10.exe
+richman11/richman11.exe
 rickandmortyvr/rickandmortyvr.exe
 ride - game/ridex64.exe
 ride 2/ride2x64.exe
@@ -6936,6 +6937,7 @@ the incredible adventures of van helsing ii/vanhelsing_x64.exe
 the incredible adventures of van helsing iii/vanhelsing_x64.exe
 the incredible adventures of van helsing/vanhelsing_x64.exe
 the jackbox megapicker/the jackbox megapicker.exe
+the jackbox naughty pack/the jackbox naughty pack.exe
 the jackbox party pack 10/the jackbox party pack 10.exe
 the jackbox party pack 2.exe
 the jackbox party pack 3.exe
@@ -8515,6 +8517,7 @@ win64/project_flames-win64-shipping.exe
 win64/project_k-win64-shipping.exe
 win64/projectagartha-win64-shipping.exe
 win64/projectalpha-win64-shipping.exe
+win64/projectbakery-win64-shipping.exe
 win64/projectboundarysteam-win64-shipping.exe
 win64/projectcoop-win64-shipping.exe
 win64/projectcoral-win64-shipping.exe
