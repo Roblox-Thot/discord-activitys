@@ -6063,6 +6063,7 @@ simairport/simairport.exe
 simcity 4.exe
 simcity.exe
 simmiland/simmiland.exe
+simple fish adventure/simple fish adventure.exe
 simpleplanes.exe
 simplerockets2/simplerockets2.exe
 simpsons.exe
@@ -8433,6 +8434,7 @@ win64/omd-win64-shipping.exe
 win64/omfgame-win64-shipping.exe
 win64/omno-win64-shipping.exe
 win64/omt-win64-shipping.exe
+win64/online_game-win64-shipping.exe
 win64/onlinehorror-win64-shipping.exe
 win64/onlyclimbtogether-win64-shipping.exe
 win64/onlyup-win64-shipping.exe

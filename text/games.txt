@@ -6332,6 +6332,7 @@ SimCity™
 SimRail - The Railway Simulator
 SimRail - The Railway Simulator: Prologue
 Simmiland
+Simple Fish Adventure
 SimplePlanes
 Simply Chess
 Simutrans
@@ -7859,6 +7860,7 @@ Unleash
 Unnamed Space Idle
 UnnyWorld
 Unpacking
+Unplagued
 Unrailed!
 Unrailed! Demo
 Unravel
