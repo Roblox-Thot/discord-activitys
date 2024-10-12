@@ -509,6 +509,7 @@ backpack hero demo/backpack hero.exe
 backpack hero/backpack hero.exe
 backtobed/backtobed.exe
 backup/tanki online.exe
+backyard baseball 97/baseball.exe
 bacon may die/bacon.exe
 bad end theater/badendtheater.exe
 badland/badland.exe
@@ -976,6 +977,7 @@ broken ground/brokenground.exe
 broken reality/brokenreality.exe
 broken sword shadow of the templars/bs1dc.exe
 brokenage.exe
+brokenheartsisland/brokenheartsisland.exe
 brokeprotocol.exe
 brotato/brotato.exe
 brotatodemo/brotatodemo.exe
@@ -4013,6 +4015,7 @@ lossless scaling demo/losslessscaling.exe
 lossless scaling/losslessscaling.exe
 lost castle 2/lostcastle2.exe
 lost egg 2 be together/lost egg 2.exe
+lost eidolons/losteidolons.exe
 lost epic/lostepic.exe
 lost horizon/autostarter.exe
 lost in random/lost in random.exe
@@ -4284,6 +4287,7 @@ metalheadgames/back to the dawn.exe
 metalwaltz/sherman.exe
 metamorphos/metamorphos.exe
 metaphor refantazio demo/metaphor.exe
+metaphor/metaphor.exe
 metel - horror escape/metel.exe
 meteor60seconds.exe
 meteorvolleyball/meteorvolleyball.exe
@@ -5587,6 +5591,7 @@ reus.app
 reus.exe
 reus2/reus 2.exe
 reventure/reventure.exe
+reverse 1999/reverse1999.exe
 revita/revita.exe
 revolt.exe
 revolver/revolver.exe
@@ -7031,6 +7036,7 @@ the ship single player/ship.exe
 the ship/ship.exe
 the shrouded isle/theshroudedisle.exe
 the silent age/thesilentage.exe
+the silver case/thesilvercase.exe
 the sims 4.app
 the slormancer/the slormancer.exe
 the song of saya/saya_steam.exe

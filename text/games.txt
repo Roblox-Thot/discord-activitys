@@ -563,6 +563,7 @@ Backpack Hero Demo
 Backrooms Rec.
 Backrooms Society
 Backrooms: Escape Together
+Backyard Baseball '97
 Bacon May Die
 Bad Dream: Coma
 Bad Guys at School
@@ -925,6 +926,7 @@ Broforce
 Broken Age
 Broken Edge
 Broken Ground
+Broken Hearts Island
 Broken Reality
 Broken Sword 1 - Shadow of the Templars: Director's Cut
 Brotato
@@ -4079,6 +4081,7 @@ Lost
 Lost Ark
 Lost Castle
 Lost Castle 2
+Lost Eidolons
 Lost Ember
 Lost Horizon
 Lost Horizon 2
@@ -4400,6 +4403,7 @@ Metal Wolf Chaos XD
 Metal: Hellsinger
 Metal: Hellsinger Demo
 Metamorphos
+Metaphor: ReFantazio
 Metel - Horror Escape
 Meteor 60 Seconds!
 Metin2
@@ -5754,6 +5758,7 @@ Reus
 Reus 2
 Revelation Online
 Reventure
+Reverse: 1999
 Revita
 Rexaura
 Rez Infinite
@@ -7361,6 +7366,7 @@ The Ship Single Player
 The Ship: Remasted
 The Shrouded Isle
 The Silent Age
+The Silver Case
 The Simpsons Hit & Run(TM)
 The Sims 2: Ultimate Collection
 The Sims 3
