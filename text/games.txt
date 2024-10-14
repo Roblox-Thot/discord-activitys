@@ -1259,6 +1259,7 @@ Classic Racers
 Classic Sudoku
 Classroom Aquatic Demo
 Clatter
+Click Click Dig: Prologue
 Click to Eleven
 Clicker Guardians
 Clicker Guild
@@ -3329,6 +3330,7 @@ Hog Hunter 2021
 Hogwarts Legacy
 Hokko Life
 Holdfast: Nations At War
+Hole Dweller
 Hollow Knight
 Hollow Survivors: Prologue
 Holo X Break
@@ -6199,6 +6201,7 @@ Session
 Settlement Survival
 Seven: Enhanced Edition
 Sevgilim Olur musun ?
+Sex & Blood: Vampires
 Sex Chess
 Sex Coach: Hot Yoga - Prologue
 Sex Simulator
@@ -6343,6 +6346,7 @@ Simmiland
 Simple Fish Adventure
 SimplePlanes
 Simply Chess
+Simson Tuningwerkstatt 3D
 Simutrans
 SinaRun
 Sine Mora EX
@@ -7002,6 +7006,7 @@ Tales of Berseria
 Tales of Escape
 Tales of Maj'Eyal
 Tales of Monkey Island
+Tales of Rein Ravine
 Tales of Symphonia
 Tales of Vesperia: Definitive Edition
 Tales of Yore
@@ -8031,6 +8036,7 @@ WARSAW
 WASTED
 WAVESHAPER
 WE ARE FOOTBALL
+WEBFISHING
 WGT Golf
 WHAT THE GOLF?
 WILD HEARTS™
@@ -8327,6 +8333,7 @@ Wyoming Winter
 Wytchwood
 X Invader: Prologue
 X Rebirth
+X-Angels
 X-COM: UFO Defense
 X-Morph: Defense
 X-Plane 11

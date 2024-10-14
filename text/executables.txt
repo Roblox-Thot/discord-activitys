@@ -1257,6 +1257,7 @@ classroom aquatic demo/game.exe
 clatter/clatter.exe
 cleaner/cleaner-btd6.exe
 cleaning simulator/freshstart.exe
+click click dig prologue/click click dig prologue.exe
 click to ten/click to ten.exe
 clicker guardians/clicker guardians.exe
 clicker guild/guild.exe
@@ -3321,6 +3322,7 @@ hoi3game.exe
 hoi4.exe
 hokko life/hokko life.exe
 holdfast naw.exe
+hole dweller/holedweller.exe
 hollow cocoon/hollow cocoon.exe
 hollow survivors prologue/hollow survivors.exe
 hollow_knight.exe
@@ -5944,6 +5946,7 @@ setup/ue3redist.exe
 setup/vcredist_x86.exe
 seum.exe
 sevgilim/sevgilim.exe
+sex & blood vampires/sex & blood vampires.exe
 sex coach hot yoga - prologue/sex coach hot yoga - prologue.exe
 sex of thrones/sex of thrones.exe
 sex simulator/sex simulator.exe
@@ -6078,6 +6081,7 @@ simpsons.exe
 simrail/simrail.exe
 simrailprologue/simrail.exe
 sims2ep9.exe
+simson tuningwerkstatt 3d/tuningwerkstatt.exe
 simulacra 2/simulacra2.exe
 simulacra pipe dreams/pipedreams.exe
 simulacra/simulacra.exe
@@ -7741,6 +7745,7 @@ we were here too.exe
 we were here.exe
 weapon of choice/wocgame.exe
 webbed/webbed.exe
+webfishing/webfishing.exe
 wedding witch/wedding witch.exe
 weed shop 2/weed shop 2.exe
 weed shop 3/weed shop 3.exe
@@ -8251,6 +8256,7 @@ win64/hope.exe
 win64/horror_game-win64-shipping.exe
 win64/horrorgame-win64-shipping.exe
 win64/horrorwaiwai-win64-shipping.exe
+win64/horsegame-win64-shipping.exe
 win64/hospital666-win64-shipping.exe
 win64/hotwheels-win64-shipping.exe
 win64/hsho-win64-shipping.exe
@@ -9149,6 +9155,7 @@ x64/sor4.exe
 x64/talos_vr.exe
 x64/vrmark.exe
 x64r/emergency5.exe
+xangels/xangel.exe
 xcom2.exe
 xcomew.exe
 xcomgame.exe
