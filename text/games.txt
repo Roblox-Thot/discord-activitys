@@ -569,6 +569,7 @@ Bacon May Die
 Bad Dream: Coma
 Bad Guys at School
 Bad North
+Bad Parenting 1: Mr. Red Face
 Bad Rats
 Badlanders
 Bakery Magnate: Beginning
@@ -6694,6 +6695,7 @@ Stolen Realm
 Stonehearth
 Stoneshard: Prologue
 Stonies
+Storage Hunter
 Storage Hustle
 Stories Untold
 Stories: The Path of Destinies
@@ -7665,6 +7667,7 @@ Tower and Sword of Succubus
 Tower of Time
 Tower!3D Pro
 TowerFall Ascension
+Towerborne
 Town of Salem
 Town of Salem 2
 Town of Sins

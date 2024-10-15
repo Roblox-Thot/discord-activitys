@@ -513,6 +513,7 @@ backup/tanki online.exe
 backyard baseball 97/baseball.exe
 bacon may die/bacon.exe
 bad end theater/badendtheater.exe
+bad parenting 1 mr. red face/bad parenting 1.exe
 badland/badland.exe
 badnorth.exe
 baf/datacachepreprocessor.exe
@@ -7935,6 +7936,7 @@ win64/beatboxers.exe
 win64/beatshooter-win64-shipping.exe
 win64/bebee-win64-shipping.exe
 win64/beer_factory-win64-shipping.exe
+win64/belfryclient-win64-shipping.exe
 win64/bellwrightgame-win64-shipping.exe
 win64/bemyhorde-win64-shipping.exe
 win64/betweentwocastles-win64-shipping.exe
@@ -8707,6 +8709,7 @@ win64/stationtostation-win64-shipping.exe
 win64/stayclose-win64-shipping.exe
 win64/steelrats-win64-shipping.exe
 win64/stillwakesthedeep.exe
+win64/storagehunter-win64-shipping.exe
 win64/stormgame-win64-shipping.exe
 win64/stormgate-win64-shipping.exe
 win64/stormstrikerclient-win64-shipping.exe
