@@ -3820,6 +3820,7 @@ kubifaktorium/kubifaktorium-windows64.exe
 kuboom/build.exe
 kuf crusader/kuf2main.exe
 kukoro stream chat games/kukoro stream chat games.exe
+kunitsu-gami path of the goddess/kunitsugami.exe
 kuukiyomi_online/kyonline.exe
 kyle is famous/kyle is famous.exe
 kynseed/kynseed.exe
@@ -8245,6 +8246,7 @@ win64/herosjourney-win64-shipping.exe
 win64/hi-fi-rush.exe
 win64/hideandseek-win64-shipping.exe
 win64/hideandseek.exe
+win64/hidenprop-win64-shipping.exe
 win64/highmoon-win64-shipping.exe
 win64/hll-win64-shipping.exe
 win64/hlvr.exe
