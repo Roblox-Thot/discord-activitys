@@ -312,6 +312,7 @@ angry video game nerd adventures/avgn.exe
 angvik/nw.exe
 animal jam - play wild!/play wild.exe
 animal revolt battle simulator/animal revolt battle simulator.exe
+animal shelter 2 prologue/animal shelter 2 prologue.exe
 animal shelter prologue/animal shelter.exe
 animal shelter/animal shelter.exe
 animal trainer simulator/animal trainer.exe
@@ -2915,6 +2916,7 @@ godot engine/godot.windows.opt.tools.64.exe
 gods will be watching/gwbw.exe
 godsbane idle/godsbane.exe
 godstrigger/godstrigger.exe
+godsworn/godsworn.exe
 gogonippon/bgi.exe
 going medieval/going medieval.exe
 going under demo/going under.exe
@@ -3713,6 +3715,7 @@ karos/amo.exe
 karryn's prison/nw.exe
 kart racing pro/kart.exe
 karting/karting.exe
+kartroyale/kartroyale.exe
 katamari damacy reroll/katamari.exe
 katana zero/katana zero.exe
 kathyrain.exe

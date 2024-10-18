@@ -340,6 +340,7 @@ Angvik
 Animal Jam
 Animal Revolt Battle Simulator
 Animal Shelter
+Animal Shelter 2: Prologue
 Animal Shelter: Prologue
 Animal Super Squad
 Animal Trainer Simulator: Prologue
@@ -2914,6 +2915,7 @@ Godhood
 Godot Engine
 Gods Will Be Watching
 Godsbane Idle
+Godsworn
 Godus
 Going Medieval
 Going Under
@@ -6615,6 +6617,7 @@ Squirrel Stapler
 Squirrel with a Gun
 Squishy the Suicidal Pig
 Stacklands
+Stampede: Racing Royale
 Standable: Full Body Estimation
 Star Chef 2: Cooking Game
 Star Chef: Cooking & Restaurant Game
