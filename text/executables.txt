@@ -478,6 +478,7 @@ aurora hills chapter 1/aurora hills chapter 1.exe
 auto chess/acphoenix.exe
 autobahn police simulator 2/highwaypatrol2.exe
 autobahn police simulator/highwaypatrol2015.exe
+autoforge/autoforge.exe
 automachef/automachef.exe
 automation empire/automationempire.exe
 automobilista 2 demo/ams2demoavx.exe
@@ -1119,6 +1120,7 @@ carx street/carx street.exe
 case animatronics/case.exe
 casino simulator/casino simulator.exe
 cassette beasts/cassettebeasts.exe
+castle break/castlebreak_.exe
 castle clicker/castleclicker.exe
 castle flipper/castle flipper.exe
 castle in the clouds/game_s.exe
@@ -2844,6 +2846,7 @@ generals.exe
 generationzero/generationzero_f.exe
 genesis online/genesisonline.exe
 genitaljousting.exe
+genome guardian/genome guardian.exe
 genshinimpact.exe
 gentlemen's club/gentlemens-club.exe
 geometry arena/geometry arena.exe
@@ -3698,6 +3701,7 @@ justice_league_vr_the_complete_experience-1.0.0-htcvive-release.exe
 justice_league_vr_the_complete_experience-1.0.1-htcvive-release.exe
 jwe.exe
 kadomon/kadomon hyper auto battlers.exe
+kaerimichi/kaerimichi.exe
 kag.exe
 kaijuprincess/kaijuprincess.exe
 kaion tale mmorpg/kaiontale.exe
@@ -8244,6 +8248,7 @@ win64/hellbladegamevr-win64-shipping.exe
 win64/helloguest-win64-shipping.exe
 win64/helloneighbor-win64-shipping.exe
 win64/helloneighborreborn.exe
+win64/hellpie-win64-shipping.exe
 win64/hellsplit_arena-win64-shipping.exe
 win64/herosjourney-win64-shipping.exe
 win64/hi-fi-rush.exe
@@ -9063,6 +9068,7 @@ wolongfallendynasty/wolong.exe
 wolvesville/wolvesville.exe
 woman_communication/womancommunication.exe
 wonder wickets.exe
+wonderful everyday down the rabbit-hole/bgi.exe
 wonderwickets-release.exe
 wooden battles/wooden battles.exe
 wooloop/wooloop.exe
