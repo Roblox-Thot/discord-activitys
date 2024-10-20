@@ -94,6 +94,7 @@ A Park Full of Cats
 A Place, Forbidden
 A Plague Tale: Innocence
 A Plague Tale: Requiem
+A Quiet Place: The Road Ahead
 A Raven Monologue
 A Short Hike
 A Sky Full of Stars
@@ -1460,6 +1461,7 @@ Creeper World 4
 Creeper World 4 Demo
 Creeper World Anniversary Edition
 Creepy Tale
+Creo God Simulator
 Cricket 19
 Cricket 24
 Crime Boss: Rockay City
@@ -4522,6 +4524,7 @@ Mitos y Leyendas
 Mitos.is: The Game
 Mitoza
 Mixcraft 8 Home Studio
+Mizi NO!
 Mob Factory
 Mob Factory Demo
 Mod and Play
@@ -5774,6 +5777,7 @@ Revelation Online
 Reventure
 Reverse: 1999
 Revita
+Revolution Idle
 Rexaura
 Rez Infinite
 Rhome
@@ -6133,6 +6137,7 @@ Scene Investigators
 Scene Investigators Demo
 School Labyrinth
 School of Dragons: How to Train Your Dragon
+Sclash
 ScooterFlow
 Scorch
 Scorn
@@ -6577,6 +6582,7 @@ SpiderHeck
 SpiderHeck Demo
 Spiders Everywhere
 Spike Volleyball
+Spilled!
 Spin Rhythm XD
 Spintires
 Spintires: MudRunner
@@ -7284,6 +7290,7 @@ The Last Haven
 The Last Hero of Nostalgaia
 The Last Hero of Nostalgaia Demo
 The Last Job
+The Last Man Survivor: Prologue
 The Last Remnant
 The Last Spell
 The Last Stand Legacy Collection
@@ -7863,6 +7870,7 @@ Uncrashed : FPV Drone Simulator
 Undawn
 Undead Horde
 Undecember
+Under The Waves
 UnderMine
 Underground Blossom
 Underhero
@@ -8595,6 +8603,7 @@ yahtzee girl
 オクトパストラベラー II
 ガンダムブレイカー4
 クジラゲームオンライン
+ゲーム発展国++
 コイカツ / Koikatsu Party
 シロナガス島への帰還 -Return to Shironagasu Island-
 スーパーロボット大戦V
