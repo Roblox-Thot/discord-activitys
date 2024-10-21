@@ -1428,6 +1428,7 @@ Counter-Strike: Source
 CounterSide
 Countersnipe
 Cover Fire
+Cozy Caravan
 Cozy Grove
 Crab Champions
 Craft The World
@@ -4023,6 +4024,7 @@ Life is Strange
 Life is Strange 2
 Life is Strange Remastered
 Life is Strange: Before the Storm
+Life is Strange: Double Exposure
 Life is Strange: True Colors
 Lifeform Zero
 Liftoff
@@ -4813,6 +4815,7 @@ Neos VR
 Nether
 Netsoccer2
 NeuroVoider
+Neva
 Never Alone (Kisima Ingitchuna)
 Never BreakUp Beta
 Never Split the Party
@@ -6219,6 +6222,7 @@ Sex & Blood: Vampires
 Sex Chess
 Sex Coach: Hot Yoga - Prologue
 Sex Simulator
+Sex and the Furry Titty
 Sex of Thrones
 Sex with Stalin
 Sex with the Devil
@@ -6348,6 +6352,7 @@ Silent Hunter 5: Battle of the Atlantic
 Silent Hunter: Wolves of the Pacific
 Silent dream
 Silica
+Silver Chains
 Sim City 3000™ Unlimited
 Sim Companies
 Sim Racing Telemetry
@@ -6754,6 +6759,7 @@ Strife: Veteran Edition
 Strike Force Heroes
 Strike Force Heroes Demo
 Strike.is: The Game
+StrikeForce Kitty
 Stronghold 2
 Stronghold 3
 Stronghold Crusader 2
@@ -8612,6 +8618,7 @@ yahtzee girl
 ドラゴンクエストＸ　いにしえの竜の伝承　オンライン
 ドラゴンボールZ KAKAROT
 ナツノカナタ
+ノロイカゴ ゲゲゲの夜 体験版
 バニーガーデン
 パラノマサイト FILE23 本所七不思議
 ビビッドナイト

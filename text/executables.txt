@@ -1448,6 +1448,7 @@ counter-strike source/hl2.exe
 counterside/counterside.exe
 countersnipe/countersnipe.exe
 cover fire/cover fire.exe
+cozy caravan/cozycaravan.exe
 cozy grove/cozygrove.exe
 cpucores/cpucores.exe
 crabchampions-win64-shipping.exe
@@ -4053,6 +4054,7 @@ love & sex second base/losesb.exe
 love esquire/love esquire.exe
 love letter/loveletter_release.exe
 love puzzle 2/waifu secret.exe
+love stories ft/sex and the furry titty.exe
 love sucks night one/lovesucks.exe
 love vibe aria/love vibe aria.exe
 love wish 2/love wish 2.exe
@@ -4713,6 +4715,7 @@ nerts online/nerts! online.exe
 nether heroes/nether heroes.exe
 netsoccer2/netsoccer2.exe
 neurovoider/neurovoider.exe
+neva/neva.exe
 never split the party.exe
 neveralone/never_alone.exe
 neverbreakup/neverbreakupbeta.exe
@@ -4801,6 +4804,7 @@ nordic ashes/nordic ashes.exe
 norestforthewicked/norestforthewicked.exe
 norland - story generating strategy - demo/norland.exe
 norland story generating strategy/norland.exe
+noroikagodemo/noroikago.exe
 northgard.exe
 nosferatu the wrath of malachi/nosferatu.exe
 nosgoth.exe
@@ -5700,6 +5704,7 @@ rockman x dive/game.exe
 rocksmith+/rocksmith+.exe
 rocksmith.exe
 rocksmith2014.exe
+rocksmith2014/rocksmith2014.exe
 rodina/rodina_steam.exe
 rog citadel xv/rog citadel xv.exe
 rogame.exe
@@ -6512,6 +6517,7 @@ strife.exe
 strike force heroes demo/strike force heroes demo.exe
 strike force heroes/strike force heroes.exe
 strike.is the game/strikeis.exe
+strikeforce kitty/strikeforce kitty.exe
 stronghold 2/stronghold2.exe
 stronghold crusader extreme/stronghold crusader.exe
 stronghold crusader extreme/stronghold_crusader_extreme.exe
@@ -8020,6 +8026,7 @@ win64/chernobylgame-win64-shipping.exe
 win64/chess2-win64-shipping.exe
 win64/chexhd-win64-shipping.exe
 win64/chivalry2-win64-shipping.exe
+win64/chronos-win64-shipping.exe
 win64/chushpansimulator-win64-shipping.exe
 win64/citadel-win64-shipping.exe
 win64/citydriver-win64-shipping.exe
@@ -8680,6 +8687,7 @@ win64/shproto-win64-shipping.exe
 win64/shta.exe
 win64/sifu-win64-shipping.exe
 win64/silentbreath-win64-shipping.exe
+win64/silverchains-win64-shipping.exe
 win64/simulatorita-win64-shipping.exe
 win64/siren-win64-shipping.exe
 win64/sixdays-win64-shipping.exe
