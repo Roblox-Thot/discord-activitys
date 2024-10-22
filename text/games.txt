@@ -2256,6 +2256,7 @@ Escape Dungeon 2 Demo
 Escape First
 Escape First 2
 Escape First 3
+Escape First Alchemist
 Escape From Mystwood Mansion
 Escape From School
 Escape Memoirs: Mansion Heist

@@ -2190,6 +2190,7 @@ edge/edge.exe
 editor/kseditor.exe
 edna and harvey harvey's new eyes/harvey.exe
 edna.exe
+efalchemist/escapefirstalchemist.exe
 efootball pes 2020 demo/pes2020.exe
 efootball pes 2020/pes2020.exe
 efootball pes 2021/pes2021.exe
