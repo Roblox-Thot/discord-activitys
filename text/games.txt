@@ -4874,6 +4874,7 @@ No Man's Sky
 No More Heroes
 No More Money
 No More Room in Hell
+No More Room in Hell 2
 No One Survived
 No Place Like Home
 No Plan B
@@ -5998,6 +5999,7 @@ SNOW
 SNOWBREAK
 SONG OF HORROR
 SONIC THE HEDGEHOG 4 Episode I
+SONIC X SHADOW GENERATIONS
 SOS
 SOS OPS!
 SOULCALIBUR VI
@@ -6124,6 +6126,7 @@ Sapiens
 Sapiens Demo
 Satellite Reign
 Satisfactory
+Satisfactory Modeler
 Saurian
 Savage Lands
 Savant - Ascent
@@ -7727,6 +7730,7 @@ Trainz Railroad Simulator 2019
 Trainz Simulator 12
 Trainz: A New Era
 Traitors in Salem
+Tram Simulator Urban Transit
 TransforBest
 Transformers: War for Cybertron
 Transformice Adventures Demo

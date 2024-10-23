@@ -4775,6 +4775,7 @@ nite team 4/nt4.exe
 nitronicrush.exe
 nitroplus blasterz heroines infinite duel/nitroplus blasterz.exe
 nko dice/nkodice.exe
+nmrih2/nmrih2.exe
 nms.exe
 nnt.exe
 no more heroes/configurationtool.exe
@@ -5861,6 +5862,7 @@ sapiens/sapiens.exe
 sas4-win.exe
 satellitereignwindows.exe
 satinav.exe
+satisfactory modeler/satisfactory_modeler.exe
 saurian/saurian.exe
 savage lands/savagelands.exe
 savantascent/savant_ascent.exe
@@ -6234,6 +6236,7 @@ sonic generations demo/configurationtool.exe
 sonic superstars/sonicsuperstars.exe
 sonic the hedgehog 4 ep 1/sonic_vis.exe
 sonic2app.exe
+sonic_x_shadow_generations/sonic_x_shadow_generations.exe
 sonicfrontiers/sonicfrontiers.exe
 sonicgenerations.exe
 sonicmania.exe
@@ -8862,6 +8865,7 @@ win64/trailout-win64-shipping.exe
 win64/train-win64-shipping.exe
 win64/trainset-win64-test.exe
 win64/trainsimworld.exe
+win64/tramsimulator-win64-shipping.exe
 win64/trashpatrol-win64-shipping.exe
 win64/tree-win64-shipping.exe
 win64/trials of mana-win64-shipping.exe
