@@ -2074,6 +2074,7 @@ drop alive/drop alive.exe
 dropsy/dropsy.exe
 dropzone/bin/juggernautclient_x32_rel.exe
 dropzonesteamclient_x32_rel.exe
+drova - forsaken kin/drova.exe
 drt.exe
 druidstone/druidstone.exe
 drunken wrestlers 2/dw2.exe
@@ -6173,6 +6174,7 @@ slimerancher.exe
 slipslop/slipslop.exe
 slipways/slipways.exe
 slow and steady/slow and steady.exe
+sludge life the big mud sessions/sludgelife2demo.exe
 sludge life/sludgelife.exe
 slw.exe
 smallworld2/smallworld.exe
@@ -7981,6 +7983,7 @@ win64/blazingsails-win64.exe
 win64/bless.exe
 win64/blood_spear-win64-shipping.exe
 win64/bloodstainedrotn-win64-shipping.exe
+win64/bloodstrike.exe
 win64/bloodtrailvr-win64-shipping.exe
 win64/blueclient-win64-shipping.exe
 win64/bluecode-win64-shipping.exe
@@ -8483,6 +8486,7 @@ win64/omno-win64-shipping.exe
 win64/omt-win64-shipping.exe
 win64/online_game-win64-shipping.exe
 win64/onlinehorror-win64-shipping.exe
+win64/only_up-win64-shipping.exe
 win64/onlyclimbtogether-win64-shipping.exe
 win64/onlyup-win64-shipping.exe
 win64/onset-win64-shipping.exe
@@ -8625,6 +8629,7 @@ win64/ride4-win64-shipping.exe
 win64/ride5-win64-shipping.exe
 win64/rime.exe
 win64/riseofgun-win64-shipping.exe
+win64/rivals2-win64-shipping.exe
 win64/riven-win64-shipping.exe
 win64/roa3-win64-shipping.exe
 win64/robinhoodfull-win64-shipping.exe
@@ -9057,6 +9062,7 @@ witcher.exe
 witcher2.exe
 witcher3.exe
 witchspring r/witchspringr.exe
+with eyes closed - season 1/witheyesclosed.exe
 with you/with you.exe
 witn.exe
 witness64_d3d11.exe
