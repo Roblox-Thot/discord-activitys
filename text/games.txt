@@ -2583,6 +2583,7 @@ Fishing: North Atlantic
 Fistful of Frags
 Fitforce
 Five Dates
+Five Hearts Under One Roof
 Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
@@ -3504,6 +3505,7 @@ IXION
 Ib
 Icarus
 Ice Lakes
+Ice World
 Icewind Dale: Enhanced Edition
 Iconoclasts
 Icons: Combat Arena
@@ -4480,6 +4482,7 @@ Minds Eyes
 Minds of Nations
 Mindshow
 Mindustry
+MineSweeper Tetris
 Minecraft
 Minecraft Dungeons
 Minecraft Legends
@@ -6636,6 +6639,7 @@ SpyParty
 Spyro™ Reignited Trilogy
 Squad
 Squad - Public Testing
+Squad 44
 SquadBlast
 SquareCells
 Squirrel Stapler
@@ -8271,6 +8275,7 @@ Will Glow the Wisp
 Will To Live Online
 Will You Snail?
 Wilson Chronicles - Beta
+Windblown
 Windbound
 Windlands
 Windlands 2
@@ -8685,6 +8690,7 @@ yahtzee girl
 東方虹龍洞 ～ Unconnected Marketeers. Demo
 死寂（DeathlyStillness）
 永遠消失的幻想鄉 ～ The Disappearing of Gensokyo
+沙威玛传奇 - Shawarma Legend
 活俠傳
 溶鉄のマルフーシャ
 焼肉シミュレーター

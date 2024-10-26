@@ -2592,6 +2592,7 @@ fishingplanet.exe
 fistful of frags/sdk/hl2.exe
 fitforce/fitforce.exe
 five dates/fivedates.exe
+five hearts under one roof/milkgame.exe
 five nights at floppa/fivenightsatfloppa.exe
 five nights at freddy's 3/fivenightsatfreddys3.exe
 five nights at freddy's into the pit/five nights at freddy's into the pit.exe
@@ -4377,6 +4378,7 @@ minecraftlegends/minecraftlegends.windows.exe
 minerultraadventures/mua.exe
 minerva/hl2.exe
 minesweeper/minesweeper.exe
+minesweepertetris/minesweepertetris.exe
 mini airways prologue/miniairways.exe
 mini battlegrounds/crazyshooter.exe
 mini golf arena/mini golf arena.exe
@@ -6015,6 +6017,7 @@ shark simulator/shark_simulator.exe
 sharpshooter3d/sharpshooter3d.exe
 shatteredskies.exe
 shatteredskies/lms.exe
+shawarma legend/shawarma legend.exe
 she sees red/she sees red.exe
 she will punish them/she will punish them.exe
 sheepy a short adventure/sheepyashortadventure.exe
@@ -8058,6 +8061,7 @@ win64/crabchampions-win64-shipping.exe
 win64/crad-win64-shipping.exe
 win64/crashandrun-win64-shipping.exe
 win64/crashbandicoot4.exe
+win64/crashreportclient.exe
 win64/creed-win64-shipping.exe
 win64/crimeboss-win64-shipping.exe
 win64/crimsonsnow-win64-shipping.exe
@@ -8302,6 +8306,7 @@ win64/hyperjamsteam.exe
 win64/hypesquad-win64-shipping.exe
 win64/iblis.exe
 win64/icarus-win64-shipping.exe
+win64/iceworld-win64-shipping.exe
 win64/icon-win64-shipping.exe
 win64/ikeavr2.exe
 win64/illfloor.exe
@@ -8974,6 +8979,7 @@ win_x64/warofrights.exe
 win_x86/busdriver.exe
 win_x86/scania_truck_driving_simulator.exe
 win_x86/trucks_n_trailers.exe
+windblown/windblown.exe
 windbound/windboundwindows.exe
 windlands 2/windlands2.exe
 windlands/windlands_win_x64.exe
