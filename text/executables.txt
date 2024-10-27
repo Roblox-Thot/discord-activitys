@@ -1200,6 +1200,7 @@ chicken invaders universe/ciu.exe
 chicken shoot/kurka.exe
 childoflight.exe
 childrenofmorta/childrenofmorta.exe
+childrenofsilentown/childrenofsilentown.exe
 childrenofsilentownprologue/childrenofsilentown.exe
 childrenofthesun/childrenofthesun.exe
 chill corner/chill corner.exe
@@ -6467,6 +6468,7 @@ steep.exe
 stein.world/stein.world.exe
 steins;gate/game.exe
 steinsgate.exe
+stellar initiative/stellar initiative.exe
 stellarimpact.exe
 stellaris.exe
 stephen's sausage roll/sausage.exe
@@ -6501,6 +6503,7 @@ story of seasons pioneers of olive town/story of seasons pioneers of olive town.
 storyteller/storyteller.exe
 stowaway/stowaway.exe
 strafe.exe
+straftat/straftat.exe
 stranded alien dawn/strandedsteam.exe
 stranded sails - prologue/strandedsailsprologue.exe
 stranded_deep_x64.exe
@@ -8646,6 +8649,7 @@ win64/rogue_operatives.exe
 win64/roguecompany.exe
 win64/rogueheist-win64-shipping.exe
 win64/romancing saga 2 rots demo-win64.exe
+win64/romancing saga 2 rots-win64.exe
 win64/ronin-win64-shipping.exe
 win64/rooftopsandalleys-win64-shipping.exe
 win64/rpgame-win64-shipping.exe

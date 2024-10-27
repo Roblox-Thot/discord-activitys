@@ -1202,6 +1202,7 @@ Chicken Shoot Gold
 Chicory: A Colorful Tale
 Child of Light
 Children of Morta
+Children of Silentown
 Children of Silentown: Prologue
 Children of the Sun
 Chill Corner
@@ -6059,6 +6060,7 @@ STORY OF SEASONS: A Wonderful Life
 STORY OF SEASONS: Friends of Mineral Town
 STORY OF SEASONS: Pioneers of Olive Town
 STRAFE
+STRAFTAT
 STRANGER OF PARADISE FINAL FANTASY ORIGIN
 SUMMERHOUSE
 SUPER CHICKEN JUMPER
@@ -6710,6 +6712,7 @@ Steel Rats
 Steelrising
 Steep
 Stellar Impact
+Stellar Initiative
 Stellaris
 Stephen's Sausage Roll
 Steps of Debauchery
@@ -8650,6 +8653,7 @@ yahtzee girl
 レスレリアーナのアトリエ ～忘れられた錬金術と極夜の解放者～
 ロックマンエグゼ アドバンスドコレクション Vol.1
 ロックマンエグゼ アドバンスドコレクション Vol.2
+ロマンシング サガ2 リベンジオブザセブン
 ロマンシング サガ2 リベンジオブザセブン 体験版
 不思議のダンジョン 風来のシレン5plus  フォーチュンタワーと運命のダイス
 东方大战争 ~ Touhou Big Big Battle
