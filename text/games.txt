@@ -3147,6 +3147,7 @@ Hammerwatch
 Hammerwatch II
 Hammerwatch II Demo
 Hamster
+Hamster Combat
 Hamster Playground
 Hand Simulator
 Hand Simulator: Horror
@@ -5038,6 +5039,7 @@ Onigiri
 Onimusha: Warlords
 Only Climb: Better Together
 Only If
+Only Up !
 Only Up!
 Only Up: SKIBIDI TOGETHER
 Only Up: With Friends
@@ -6453,6 +6455,7 @@ Smalland: Survive the Wilds
 Smart Factory Tycoon: Beginnings
 Smart Game Booster
 Smartphone Tycoon
+Smashing Simulator Idle
 Smile For Me
 Smithworks
 Smushi Come Home

@@ -3120,6 +3120,7 @@ hammerting/boot.exe
 hammerwatch 2 demo/hw2.exe
 hammerwatch 2/hw2.exe
 hammerwatch.exe
+hamster combat/hamster combat.exe
 hamster playground/hamster playground.exe
 hamster/hamster.exe
 hand of fate 2/hand of fate 2.exe
@@ -6185,6 +6186,7 @@ smallworld2/smallworld.exe
 smart game booster for steam/sgbmain.exe
 smartphone tycoon/smartphone tycoon.exe
 smash legends/smash_legends.exe
+smashingsimulatoridle/smashingsimulatoridle.exe
 smbbm/smbbm.exe
 smile for me/smile for me.exe
 smite.exe
@@ -8495,6 +8497,7 @@ win64/omt-win64-shipping.exe
 win64/online_game-win64-shipping.exe
 win64/onlinehorror-win64-shipping.exe
 win64/only_up-win64-shipping.exe
+win64/only_up_origins-win64-shipping.exe
 win64/onlyclimbtogether-win64-shipping.exe
 win64/onlyup-win64-shipping.exe
 win64/onset-win64-shipping.exe
