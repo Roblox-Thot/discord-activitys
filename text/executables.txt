@@ -15,6 +15,7 @@
 100 ninja cats/100 ninja cats.exe
 100 robo cats/100 robo cats.exe
 100 space cats/100 space cats.exe
+100 waiting cats/100 waiting cats.exe
 10000000/10000000.exe
 100orange.exe
 105.1.1-1821-gaca6f20/spring.exe
@@ -4061,6 +4062,7 @@ love esquire/love esquire.exe
 love letter/loveletter_release.exe
 love puzzle 2/waifu secret.exe
 love stories ft/sex and the furry titty.exe
+love stories/love stories.exe
 love sucks night one/lovesucks.exe
 love vibe aria/love vibe aria.exe
 love wish 2/love wish 2.exe

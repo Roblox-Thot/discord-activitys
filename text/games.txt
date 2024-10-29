@@ -21,6 +21,7 @@
 100 Ninja Cats
 100 Robo Cats
 100 Space Cats
+100 Waiting Cats
 100% Orange Juice
 11-11 Memories Retold
 112 Operator
@@ -2750,6 +2751,7 @@ Furi
 Furnish Master
 Furry Arena [18+]
 Furry Feet
+Furry Shades of Gay
 FurryFury
 Fury Unleashed
 Fuse
