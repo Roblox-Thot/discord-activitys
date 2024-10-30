@@ -840,6 +840,7 @@ Bloody Trapland
 Bloody Trapland 2: Curiosity
 Bloody Walls
 Bloons Adventure Time TD
+Bloons Card Storm
 Bloons Monkey City
 Bloons TD 6
 Bloons TD Battles
@@ -3600,6 +3601,7 @@ Infinite Lagrange
 Infinite Tournament Paintball
 Infinitode 2
 Infinity Kingdom
+Infliction
 Influent
 InfraSpace
 Initial Drift Online
@@ -5427,7 +5429,6 @@ Portal Knights
 Portal Stories: VR
 Portal: Prelude RTX
 Portal: Revolution
-Post Scriptum
 Post Void
 Postal 3
 Postmouse
@@ -5714,6 +5715,7 @@ Recycling Center Simulator: Prologue
 Red Alert 3 Demo
 Red Crucible: Firestorm
 Red Dead Online
+Red Dead Redemption
 Red Dead Redemption 2
 Red Eclipse 2
 Red Faction
@@ -5987,6 +5989,7 @@ SENRAN KAGURA Burst Re:Newal
 SENRAN KAGURA ESTIVAL VERSUS
 SENRAN KAGURA Peach Beach Splash
 SENRAN KAGURA SHINOVI VERSUS
+SENTRY
 SEPTEMBER 1999
 SEUM: Speedrunners from Hell
 SEX with HITLER
@@ -7469,6 +7472,7 @@ The Ultimatest Battle
 The Uncertain: Last Quiet Day
 The Unfinished Swan
 The Universim
+The Unliving
 The Upturned
 The Vagrant
 The Vanishing of Ethan Carter

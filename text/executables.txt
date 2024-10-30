@@ -888,6 +888,7 @@ bloody trapland.exe
 bloody walls/game.exe
 bloodyspell/bloodyspell.exe
 bloons adventure time td/btdadventuretime.exe
+bloons card storm/bloonscardstorm.exe
 bloons monkey city/monkeycity-win.exe
 bloons td battles 2/btdb2_game.exe
 bloons td battles/battles-win.exe
@@ -5539,6 +5540,7 @@ recyclingcentersimulator_prologue/rcsim.exe
 red crucible firestorm/red crucible.exe
 red dead redemption 2/playrdr2.exe
 red dead redemption 2/rdr2.exe
+red dead redemption/rdr.exe
 red hot vengeance/redhotvengeance.exe
 red planet farming/redplanetfarming.exe
 red wings/red wings aces of the sky.exe
@@ -5963,6 +5965,7 @@ senran kagura estival versus/skestivalversus.exe
 senran kagura peach beach splash/skpeachbeachsplash.exe
 senran kagura shinovi versus/skshinoviversus.exe
 sentinels of the multiverse/sentinels.exe
+sentry/sentry.exe
 september1999/september1999.exe
 seraph's last stand/seraph's last stand.exe
 serena/dagon64.exe
@@ -7114,6 +7117,7 @@ the two of us/the two of us.exe
 the uncertain/splash.exe
 the unfinished swan/tus.exe
 the universim.exe
+the unliving/the unliving.exe
 the upturned/the upturned.exe
 the walking dead - a new frontier (season 3)/walkingdead3.exe
 the walking dead michonne/walkingdeadmichonne.exe
@@ -8068,7 +8072,6 @@ win64/crabchampions-win64-shipping.exe
 win64/crad-win64-shipping.exe
 win64/crashandrun-win64-shipping.exe
 win64/crashbandicoot4.exe
-win64/crashreportclient.exe
 win64/creed-win64-shipping.exe
 win64/crimeboss-win64-shipping.exe
 win64/crimsonsnow-win64-shipping.exe
@@ -8323,6 +8326,7 @@ win64/indiana-win64-shipping.exe
 win64/indianaepicgamestore-win64-shipping.exe
 win64/indika-win64-shipping.exe
 win64/inertia-win64-shipping.exe
+win64/infliction-win64-shipping.exe
 win64/infused-win64-shipping.exe
 win64/inheat-win64-shipping.exe
 win64/intotheradius-win64-shipping.exe
@@ -8571,6 +8575,7 @@ win64/portalwars-win64-shipping.exe
 win64/postal4-win64-shipping.exe
 win64/postalredux-win64-shipping.exe
 win64/postmouse-win64-shipping.exe
+win64/postscriptum.exe
 win64/potionomics-win64-shipping.exe
 win64/predecessorclient-win64-shipping.exe
 win64/priest_simulator-win64-shipping.exe
