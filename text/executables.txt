@@ -2136,6 +2136,7 @@ dungeons & dragons hd/managame.exe
 dungeons 3/dungeons3bin.exe
 dungeons 4/dungeons 4.exe
 dungeons of dredmor/dungeons of dredmor.exe
+dungeons of hinterberg/dungeons of hinterberg.exe
 dungeons2.exe
 dungeonvixens/dungeonvixens.exe
 dungreed.exe
@@ -2188,6 +2189,7 @@ ed6_win2.exe
 ed6_win2_dx9.exe
 ed6_win_dx9.exe
 eden crafters prologue/edencrafters.exe
+eden crafters/edencrafters.exe
 edf41.exe
 edge of eternity/edgeofeternity.exe
 edge/edge.exe
@@ -6136,6 +6138,7 @@ skald against the black priory/skald against the black priory.exe
 skatebird/skatebird.exe
 skater xl/skaterxl.exe
 skelethrone the prey/skelethrone - the prey.exe
+skeletonhell/skeletonhell.exe
 sker ritual/skerritual.exe
 sketch crawler/sketchcrawler.exe
 ski region simulator/skiregionsimulator2012game.exe
@@ -6572,6 +6575,7 @@ sudden strike 4/suddenstrike4.exe
 sudocats/sudocats.exe
 suguri.exe
 suicide guy/suicideguy.exe
+sulfur/sulfur.exe
 summer in mara prologue/summer in mara.exe
 summer in mara/summer in mara.exe
 summer memories/game.exe
@@ -7023,6 +7027,7 @@ the last spell/the last spell.exe
 the last stand aftermath demo/tlsa.exe
 the last stand aftermath/tlsa.exe
 the legend of bum-bo/the legend of bum-bo.exe
+the legend of heroes trails through daybreak/kuro.exe
 the legend of korra/lok.exe
 the lego movie 2 videogame/lego the lego movie 2_dx11.exe
 the letter/the letter.exe
@@ -8289,6 +8294,7 @@ win64/hellpie-win64-shipping.exe
 win64/hellsplit_arena-win64-shipping.exe
 win64/herosjourney-win64-shipping.exe
 win64/hi-fi-rush.exe
+win64/hia-win64-shipping.exe
 win64/hideandseek-win64-shipping.exe
 win64/hideandseek.exe
 win64/hidenprop-win64-shipping.exe
@@ -8481,6 +8487,7 @@ win64/nomads-win64-shipping.exe
 win64/nori-win64-shipping.exe
 win64/nostraightroads-win64-shipping.exe
 win64/notesofsoul-win64-shipping_be.exe
+win64/nuclearnightmare-win64-shipping.exe
 win64/nwxclient-win64-shipping.exe
 win64/oac-win64-shipping.exe
 win64/oar-win64-shipping.exe

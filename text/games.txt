@@ -2108,6 +2108,7 @@ Dungeons 3
 Dungeons 4
 Dungeons of Dredmor
 Dungeons of Edera
+Dungeons of Hinterberg
 Dungeons of Sundaria
 Dungreed
 Durka Simulator
@@ -2174,6 +2175,7 @@ Echoed World
 Echoes of the Plum Grove
 Eco
 Ecosystem Demo
+Eden Crafters
 Eden Rising
 Edge Of Eternity
 Edna & Harvey: Harvey's New Eyes
@@ -3076,6 +3078,7 @@ Guts and Glory
 Gym Manager: Prologue
 Gym Simulator 24
 H-SNIPER: World War II
+H.I.A: Horror Investigation Agency
 H1Z1
 H1Z1: King of the Kill
 H1Z1: Test Server
@@ -4937,6 +4940,7 @@ Nowhere: Mysterious Artifacts
 NoxPlayer
 Nubarron: The adventure of an unlucky gnome
 Nuclear Dawn
+Nuclear Nightmare
 Nuclear Option
 Nuclear Throne
 Nucleares
@@ -6069,6 +6073,7 @@ STORY OF SEASONS: Pioneers of Olive Town
 STRAFE
 STRAFTAT
 STRANGER OF PARADISE FINAL FANTASY ORIGIN
+SULFUR
 SUMMERHOUSE
 SUPER CHICKEN JUMPER
 SUPER DRAGON BALL HEROES WORLD MISSION
@@ -6406,6 +6411,7 @@ Sixty Four
 SkateBIRD
 Skater XL
 Skelethrone: The Prey
+Skeleton Hell
 Sker Ritual
 Sketch Crawler
 Sketchy's Contract
@@ -7334,6 +7340,7 @@ The Legend of Heroes: Trails in the Sky
 The Legend of Heroes: Trails in the Sky SC
 The Legend of Heroes: Trails in the Sky the 3rd
 The Legend of Heroes: Trails of Cold Steel
+The Legend of Heroes: Trails through Daybreak
 The Legend of Karl
 The Legend of Korra™
 The Letter
