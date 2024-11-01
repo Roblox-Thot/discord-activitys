@@ -293,6 +293,7 @@ AltspaceVR
 Always Sometimes Monsters
 Amalgam
 Amanda the Adventurer
+Amanda the Adventurer 2
 Amanda the Adventurer Demo
 Amarillo's Butt Slapper
 Amazing Cultivation Simulator
@@ -671,6 +672,7 @@ Battlestations: Pacific
 Battletoads
 Battlezone: Combat Commander
 Bayonetta
+Bazaar Simulator Prologue
 Be Funny Now!
 Be My Horde
 Beacon Pines
@@ -1982,6 +1984,7 @@ Dragon Age II
 Dragon Age: Origins
 Dragon Age: Origins - Ultimate Edition
 Dragon Age™: Inquisition
+Dragon Age™: The Veilguard
 Dragon And Home
 Dragon Cliff 龙崖
 Dragon Fin Soup
@@ -5544,6 +5547,7 @@ Pseudoregalia
 Psychonauts
 Psychonauts 2
 Psychopomp
+Psychopomp GOLD
 Public Bounce
 Pumping Simulator 2
 Pumpkin Jack
@@ -6505,6 +6509,7 @@ Soccer Manager 2019
 Soccer Manager 2020
 Soccer Manager 2021
 Soccer Manager 2022
+Soccer Manager 2025
 Soda Dungeon
 Soda Dungeon 2
 Software Inc.
@@ -8323,6 +8328,7 @@ Wizard of Legend 2
 Wizard with a Gun
 Wizard with a Gun Demo
 Wizard101
+Wizardry: Proving Grounds of the Mad Overlord
 Wo Long: Fallen Dynasty
 Wobbledogs
 Wobbly Life
