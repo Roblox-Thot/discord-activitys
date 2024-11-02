@@ -1033,6 +1033,7 @@ bus world/bus world.exe
 business tour/businesstour.exe
 businesstour.exe
 bustybiz/bustybiz.exe
+butcher/butcher.exe
 button pusher/button pusher.exe
 bz2r/battlezone2.exe
 c09fs-1.0/c09fs.exe
@@ -1162,6 +1163,7 @@ cattails wildwood story/cattails - wildwood story.exe
 cattails/cattails.exe
 cattle and crops/cattleandcrops.exe
 catto pew pew!/catto pew pew!.exe
+catwifhat/catwifhat.exe
 cave crawler/cavecrawler.exe
 cave crawlers/cave crawlers.exe
 cave digger/cavedigger.exe
@@ -1971,6 +1973,7 @@ dominion/dominion.exe
 dominions4.exe
 dominions6/dominions6.exe
 don't be afraid - first toy/don't be afraid the first toy.exe
+don't escape trilogy/dontescape.exe
 don't face up/don't face up.exe
 don't starve together/bin/dontstarve.exe
 don't starve together/bin/dontstarve_steam.exe
@@ -2467,6 +2470,7 @@ farcry4.exe
 farcry4.exe
 farcry5.exe
 farcrynewdawn.exe
+farm frenzy collection/farmfrenzymegapack.exe
 farm manager 2018/farm manager 2018.exe
 farm manager 2021 prologue/farmmanager21.exe
 farm manager 2021/farmmanager21.exe
@@ -8258,6 +8262,7 @@ win64/ggst-win64-shipping.exe
 win64/ghostrunner-win64-shipping.exe
 win64/ghostrunner2-win64-shipping.exe
 win64/ghostsoftabor-win64-shipping.exe
+win64/glasscarriers-win64-shipping.exe
 win64/gmod.exe
 win64/goat2-win64-shipping.exe
 win64/goatofduty-win64-shipping.exe
