@@ -2225,6 +2225,7 @@ element td 2/element td 2.exe
 elephantcollection_win.app/elephantcollection.exe
 eleven table tennis vr/pong_waves_vr.exe
 elex.exe
+elin/elin.exe
 elitedangerous.exe
 elitedangerous32.exe
 elitedangerous64.exe
@@ -2582,6 +2583,7 @@ final fantasy xiv.app
 final fantasy xv playable demo/ffxv_s.exe
 final fantasy xvi demo/ffxvi_demo.exe
 final fantasy xvi/ffxvi.exe
+final spin/final spin.exe
 final/game.exe
 finalfantasyxvi/ffxvi.exe
 finalfantasyxvi_demo/ffxvi_demo.exe
@@ -3384,6 +3386,7 @@ horizon chase turbo demo/horizonchase.exe
 horizon chase/horizonchase.exe
 horizon forbidden west complete edition/horizonforbiddenwest.exe
 horizon source/gameclient.exe
+horizon zero dawn remastered/horizonzerodawnremastered.exe
 horizon zero dawn/horizonzerodawn.exe
 horizon/gameclient.exe
 horror night/horror night.exe
@@ -5027,6 +5030,7 @@ overwatch.exe
 ovrdrop/ovrdrop.exe
 owinka shooter/owinka shooter.exe
 owlboy.exe
+oxenfree ii lost signals/oxenfree2.exe
 oxenfree/oxenfree.exe
 oxygen first breath/o2/binaries/win64/o2-win64-shipping.exe
 oxygennotincluded.exe
@@ -6354,6 +6358,7 @@ spider-man 3/game.exe
 spiderheck demo/spiderheck_demo.exe
 spiderheck/spiderheckapp.exe
 spiders everywhere/lil_baby_poop.exe
+spin hero/spin hero.exe
 spin rhythm/spinrhythm.exe
 spintires.exe
 spiral clicker/spiral clicker.exe
@@ -7507,6 +7512,7 @@ ultimate epic battle simulator/uebs.exe
 ultimate fishing simulator 2020/ultimate fishing simulator 2.exe
 ultimate fishing simulator vr/ultimatefishing_steamvr.exe
 ultimate fishing/ultimatefishing.exe
+ultimate general american revolution/ugar.exe
 ultimate general civil war/ultimate general civil war.exe
 ultimate general gettysburg/ultimate general gettysburg.exe
 ultimate marvel vs. capcom 3/umvc3.exe
@@ -8088,6 +8094,7 @@ win64/crashandrun-win64-shipping.exe
 win64/crashbandicoot4.exe
 win64/creed-win64-shipping.exe
 win64/crimeboss-win64-shipping.exe
+win64/crimerp-win64-shipping.exe
 win64/crimsonsnow-win64-shipping.exe
 win64/crowfpsclient-win64-shipping.exe
 win64/cs2.exe
@@ -8209,6 +8216,7 @@ win64/fctclient-win64-shipping.exe
 win64/feartherapybf-win64-shipping.exe
 win64/fernbus-win64-shipping.exe
 win64/ff7remake_.exe
+win64/ff_train_test-win64-shipping.exe
 win64/fg-win64-shipping.exe
 win64/fh-win64-shipping.exe
 win64/fictorum-win64-shipping.exe
