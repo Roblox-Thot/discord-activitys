@@ -2144,6 +2144,7 @@ EARTH DEFENSE FORCE: IRON RAIN
 ECHO
 EDGE
 EGG
+EGG RAIDERS
 ELDEN RING
 ELDERBORN
 ELEX
@@ -4783,6 +4784,7 @@ NGU IDLE
 NGU INDUSTRIES
 NIGHT-RUNNERS PROLOGUE
 NIMBY Rails
+NIMRODS
 NITE Team 4
 NKO DICE
 NOKBAK
@@ -8691,6 +8693,7 @@ yahtzee girl
 ロマンシング サガ2 リベンジオブザセブン
 ロマンシング サガ2 リベンジオブザセブン 体験版
 不思議のダンジョン 風来のシレン5plus  フォーチュンタワーと運命のダイス
+世界樹の迷宮 HD REMASTER
 东方大战争 ~ Touhou Big Big Battle
 中国式网游
 乡村狂想曲
