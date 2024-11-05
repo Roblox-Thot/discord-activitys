@@ -4808,6 +4808,7 @@ no one lives under the lighthouse/no one lives under the lighthouse.exe
 no place like home/nplh.exe
 no plan b - prologue/noplanb.exe
 no plan b/noplanb.exe
+no strangers/nostrangers.exe
 no time to explain remastered/notimetoexplain.exe
 no time to relax/no time to relax.exe
 no umbrellas allowed/no umbrellas allowed.exe
@@ -5250,6 +5251,7 @@ pmc/datacachepreprocessor.exe
 pngtuber maker/pngtuber maker.exe
 pngtuber plus/pngtuber 1.4 steam.exe
 pocket bravery demo/bravery.exe
+pocket mirror - goldenertraum/game.exe
 pocket waifu pet/pocketwaifu.exe
 pocket waifu/pw_steam.exe
 pogostuck/pogostuck.exe
