@@ -6892,6 +6892,7 @@ Super Meat Boy
 Super Meat Boy Forever
 Super Mega Baseball 2
 Super Mega Baseball 4
+Super Mining Mechs
 Super Monday Night Combat
 Super Monkey Ball Banana Mania
 Super Naughty Maid 2
@@ -8715,6 +8716,7 @@ yahtzee girl
 天命奇御 Fate Seeker
 天穂のサクナヒメ
 太吾绘卷 The Scroll Of Taiwu
+太鼓の達人 ドンダフルフェスティバル 体験版
 奇天烈相談ダイヤル
 妖語り/Yokai's Secret
 妹相隨～黑白世界的繽紛冒險～
