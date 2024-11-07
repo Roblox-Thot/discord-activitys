@@ -430,6 +430,7 @@ Artifact Seeker:Prologue
 Artisan TD
 Artist Idle
 Arx Fatalis
+As Dusk Falls
 As Far As The Eye
 Ascension: Deckbuilding Game
 Ascent - The Space Game
@@ -931,6 +932,7 @@ Brigador: Up-Armored Edition
 Bright Memory
 Bright Memory Infinite Ray Tracing Benchmark
 Bright Memory: Infinite
+Brighter Shores
 Brilliant Bob
 Bro Falls: Ultimate Showdown
 Broforce
@@ -3591,6 +3593,7 @@ Incremental Adventures
 Incremental Cubes
 Incremental Epic Hero
 Incremental Epic Hero 2
+Incremental Factory
 Incursion Red River
 Indiana Jones® and the Emperor's Tomb™
 Indiana Jones® and the Fate of Atlantis™
@@ -4615,6 +4618,7 @@ Moons of Madness
 Moonstone Island
 Morbid: The Seven Acolytes
 Mordheim: City of the Damned
+Morimens
 Morphblade
 Mortal Kombat 1
 Mortal Kombat 11
@@ -5384,6 +5388,7 @@ Planes, Bullets and Vodka
 Planescape: Torment
 Planet Centauri
 Planet Coaster
+Planet Coaster 2
 Planet Nomads
 Planet S
 Planet Zoo

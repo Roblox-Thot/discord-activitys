@@ -415,6 +415,7 @@ artist idle/game.exe
 artofrally/artofrally.exe
 artofwar/game/u1game.exe
 arx fatalis/arx.exe
+as dusk falls/dusk.exe
 as far as the eye/as far as the eye.exe
 asamu-win32-shipping.exe
 ascension.exe
@@ -3548,6 +3549,7 @@ incremental adventures/incrementaladventures.exe
 incremental cubes/incrementalcubes.exe
 incremental epic hero 2/incremental epic hero 2.exe
 incremental epic hero/ieh.exe
+incremental-factory/incremental factory.exe
 indeath-win64-shipping.exe
 indiana jones and the fate of atlantis.exe
 indianaepicgamestore-win64-shipping.exe
@@ -4527,6 +4529,7 @@ mor/mor.exe
 morbid/morbid - the seven acolytes.exe
 mordhau-win64-shipping.exe
 mordheim/mordheim.exe
+morimens/morimens.exe
 morphblade/morphblade.exe
 morrowind.exe
 morrowind/mgexegui.exe
@@ -5221,6 +5224,7 @@ plane mechanic simulator/pms_build.exe
 planes attack/planes attack.exe
 planes, bullets and vodka/planes, bullets and vodka.exe
 planet centauri/planetcentauri.exe
+planet coaster 2/planetcoaster2.exe
 planet of lana demo/planet of lana.exe
 planet of lana/planet of lana.exe
 planet s/plans.exe
@@ -9233,6 +9237,7 @@ x64/3dmark.exe
 x64/ancient.exe
 x64/as2_cw.exe
 x64/bosclient.exe
+x64/brighter shores.exe
 x64/call_to_arms_ed.exe
 x64/cyberpunk2077.exe
 x64/dyinglightgame_x64_rwdi.exe
