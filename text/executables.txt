@@ -4321,6 +4321,7 @@ metal hellsinger demo/metal.exe
 metal hellsinger/metal.exe
 metal slug 2/mslug2.exe
 metal slug 3/mslug3.exe
+metal slug awakening/msgame.exe
 metal slug defense/msdf-steam.exe
 metal slug x/mslugx.exe
 metal slug/mslug1.exe
@@ -4381,6 +4382,7 @@ millennia/millennia.exe
 milmo/milmo.exe
 milo and the christmas gift/milo and the christmas gift.exe
 milo and the magpies/miloandthemagpies.exe
+milthm/milthm.exe
 mimic search/mimic search.exe
 mimpi dreams/mimpidreams.exe
 minami lane/minamilane.exe
@@ -7277,6 +7279,7 @@ tiny town vr/tiny town vr.exe
 tinybunny/tinybunny.exe
 tinycombatarena/arena.exe
 tinyfolks/tinyfolks.exe
+tinykin/tinykin.exe
 tinysurvivors/tinysurvivors.exe
 tis100.exe
 titan quest/titan quest.exe
@@ -8911,6 +8914,7 @@ win64/tmdp-win64-shipping.exe
 win64/tme-win64-shipping.exe
 win64/tmpp-win64-shipping.exe
 win64/toaa-win64-shipping.exe
+win64/tobaccoshopsim-win64-shipping.exe
 win64/toiletchronicles-win64-shipping.exe
 win64/tom-win64-shipping.exe
 win64/torchlight_infinite.exe
