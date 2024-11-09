@@ -1733,6 +1733,7 @@ death and taxes/death and taxes.exe
 death in the water 2/death in the water 2.exe
 death must die demo/death must die.exe
 death must die/death must die.exe
+death note killer within/death note killer within.exe
 death rally/dr.exe
 death squared/deathsquared.exe
 death stranding/ds.exe
@@ -1863,6 +1864,7 @@ diaries of a spaceport janitor/diaries_7.6_win.exe
 dice & fold/dice & fold.exe
 dice-kingdoms/dice-kingdoms.exe
 dicefolk/dicefolk.exe
+diceomancer/diceomancer.exe
 dicey dungeons/diceydungeons.exe
 dictatorsnopeacecountryballs/dictatorsnopeacecountryballs.exe
 die in the dungeon origins/die in the dungeon origins.exe
@@ -3559,6 +3561,7 @@ industryidle/industryidle.exe
 inertial drift sunset prologue/inertialdrift.exe
 inertial drift/inertialdrift.exe
 infantry.exe
+infected shelter/infectedshelter.exe
 infection free zone demo/infection free zone demo.exe
 infection free zone prologue/infection free zone prologue.exe
 infection free zone/infection free zone.exe
@@ -4998,6 +5001,7 @@ othercide/othercide.exe
 otherlandsclient-win64-shipping.exe
 otwd-win64-shipping.exe
 otxo/otxo_release.exe
+our adventurer guild/our adventuring guild.exe
 our life beginnings and always/ourlife.exe
 out of hand/out of hand.exe
 out of reach/outofreach.exe
