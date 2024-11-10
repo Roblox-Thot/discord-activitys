@@ -575,6 +575,7 @@ Backrooms: Escape Together
 Backyard Baseball '97
 Bacon May Die
 Bad Dream: Coma
+Bad Dream: Fever
 Bad Guys at School
 Bad North
 Bad Parenting 1: Mr. Red Face
@@ -2183,6 +2184,7 @@ Eastward
 Easy Pose
 Easy Red 2
 Echo Point Nova
+Echocalypse: The Scarlet Covenant
 Echoed World
 Echoes of the Plum Grove
 Eco
@@ -5923,6 +5925,7 @@ Rogue Operatives
 Rogue Reaper
 Rogue System
 Rogue Tower
+Rogue Waters
 Roguebook
 Roguelands
 Roll
@@ -7235,6 +7238,7 @@ The Crooked Man
 The Crust
 The Culling
 The Dark Eye: Chains of Satinav
+The Dark Pictures Anthology: House of Ashes - Friend's Pass
 The Dark Pictures Anthology: Man of Medan
 The Dark Pictures Anthology: The Devil in Me
 The Darkness II

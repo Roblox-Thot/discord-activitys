@@ -517,6 +517,7 @@ backtobed/backtobed.exe
 backup/tanki online.exe
 backyard baseball 97/baseball.exe
 bacon may die/bacon.exe
+bad dream fever/bad dream fever.exe
 bad end theater/badendtheater.exe
 bad parenting 1 mr. red face/bad parenting 1.exe
 badland/badland.exe
@@ -2813,6 +2814,7 @@ game/armoredcore6.exe
 game/client/eso.exe
 game/client/eso64.exe
 game/darksoulsiii.exe
+game/echocalypse.exe
 game/eldenring.exe
 game/farlonesails.exe
 game/game_win.exe
@@ -5763,6 +5765,7 @@ roguelands.exe
 roguelegacy.exe
 roguelords/rogue lords.exe
 roguesystemsim.exe
+roguewaters/roguewaters.exe
 roll/roll.exe
 roller champions/roller.exe
 rollerchampions/roller.exe
@@ -8350,6 +8353,7 @@ win64/horrorwaiwai-win64-shipping.exe
 win64/horsegame-win64-shipping.exe
 win64/hospital666-win64-shipping.exe
 win64/hotwheels-win64-shipping.exe
+win64/houseofashestrial-win64-shipping.exe
 win64/hsho-win64-shipping.exe
 win64/hshsurvivor-win64-shipping.exe
 win64/hunter-win64-shipping.exe
