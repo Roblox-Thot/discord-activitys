@@ -31,7 +31,7 @@ with open("json/detectable.json",'r+') as file:
     print("[Main] New executables:",len(added_execs))
 
     # Makes a temp file used for the commit messages
-    commmit_msg = '(Apps update) Updated Data\n'
+    commmit_msg = f'(Apps update) Updated Data +{len(added_games)}\n'
     for game in added_games:
         commmit_msg += f'- {game}\n'
     open('temp_commit.txt','w').write(commmit_msg)
