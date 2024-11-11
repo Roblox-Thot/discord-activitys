@@ -962,6 +962,7 @@ brawlout/brawlout.exe
 breach.exe
 breachandclear/bnc.exe
 breachers/breachers.exe
+breachway/breachway.exe
 bread & fred/bread&fred.exe
 bread &amp;amp; fred demo/bread&fred.exe
 breadsticks/breadsticks.exe
@@ -2458,6 +2459,7 @@ falloutnv.exe
 falloutshelter.exe
 falloutw.exe
 false front/falsefront.exe
+family breeding/familybreeding.exe
 family man/familyman.exe
 fantastic haven prologue/fantastic haven.exe
 fantasy girl/fantasy girl.exe
@@ -4617,6 +4619,7 @@ musynx/musynx.exe
 mutilate-a-doll 2/mad2.exe
 muv-luv/muvluv16.exe
 mwlllauncher.exe
+mwneus/mwneus.exe
 mwoclient.exe
 mx bikes/mxbikes.exe
 mx vs atv reflex/mxsettings.exe
@@ -6173,6 +6176,7 @@ sker ritual/skerritual.exe
 sketch crawler/sketchcrawler.exe
 ski region simulator/skiregionsimulator2012game.exe
 skibidi toilet hero/toilet hero.exe
+skill legends royale/skilllegendsroyale.exe
 skill/dfubg.exe
 skill/dfufg.exe
 skilltree.exe
@@ -7057,6 +7061,7 @@ the last hero of nostalgaia demo/tlhon.exe
 the last man survivor prologue/the last man survivor.exe
 the last of us part i/tlou-i.exe
 the last of waifus/the last of waifus.exe
+the last sovereign/game.exe
 the last spell/the last spell.exe
 the last stand aftermath demo/tlsa.exe
 the last stand aftermath/tlsa.exe
@@ -8367,6 +8372,7 @@ win64/icon-win64-shipping.exe
 win64/ikeavr2.exe
 win64/illfloor.exe
 win64/immortalsofaveum-win64-shipping.exe
+win64/impact-win64-shipping.exe
 win64/incursion-win64-shipping.exe
 win64/indiana-win64-shipping.exe
 win64/indianaepicgamestore-win64-shipping.exe
