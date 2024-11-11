@@ -1899,6 +1899,7 @@ dirt2_game.exe
 dirt3_game.exe
 dirt3_game.exe
 dirt4.exe
+dirtyleague/dirtyleague.exe
 dis the game/dis the game.exe
 disaster band/disaster band.exe
 disc room/disc room.exe
@@ -2073,6 +2074,7 @@ drift21/drift21.exe
 drift86 v3/drift86 v3.exe
 driftwav/drift_wav.exe
 driftwood/driftwood.exe
+drill core/drill core.exe
 drill deal first borehole/dealdrill.exe
 drinkbox_game4/game.exe
 drive21/drive 21.exe
@@ -3398,6 +3400,7 @@ horizon source/gameclient.exe
 horizon zero dawn remastered/horizonzerodawnremastered.exe
 horizon zero dawn/horizonzerodawn.exe
 horizon/gameclient.exe
+horny villa/hornyvilla.exe
 horror night/horror night.exe
 horse riding tales/horseridingtales.exe
 horsefarm/horsefarm.exe
@@ -3743,6 +3746,7 @@ kaion tale mmorpg/kaiontale.exe
 kakele online - mmorpg/kakele.exe
 kallax/kallax.exe
 kami/spiritfarer.exe
+kamitsubaki_city_ensemble/kamitsubaki city ensemble.exe
 kandidatos kart/kandidatos kart.exe
 kandidatos/kandidatos.exe
 kane & lynch 2 - dog days/kl2.exe
@@ -4431,6 +4435,7 @@ mirror/game.exe
 mirrorsedge.exe
 mirrorsedgecatalyst.exe
 mirth melody/mirth melody.exe
+mirthwood/mirthwood.exe
 misao/game.exe
 miscreated.exe
 mise.exe
@@ -4702,6 +4707,7 @@ necesse/necesse.exe
 necrobarista/necrobarista.exe
 necrobouncer_pc/necrobouncer.exe
 necrodancer.exe
+necroking/necroking.exe
 necropolis.exe
 necrosmith 2/necrosmith2.exe
 necrosmith/necrosmith.exe
@@ -5426,6 +5432,7 @@ public bounce/public bounce.exe
 pulsarlostcolony/pulsar_lostcolony.exe
 pumping simulator 2/pumping simulator 2.exe
 pumpingsimulator/pumping simulator.exe
+pumpkin panic/pumpkin panic.exe
 punch club 2 fast forward/punch club 2 fast forward.exe
 punch club.exe
 punkbuster/pbsvc_bc2.exe
@@ -8065,6 +8072,7 @@ win64/breakaleg-win64-shipping.exe
 win64/breathe-win64-shipping.exe
 win64/breathedge-win64-shipping.exe
 win64/brewmastermain-win64-shipping.exe
+win64/brggame-steam.exe
 win64/brightmemory_ep1-win64-shipping.exe
 win64/brightmemoryinfinite-win64-shipping.exe
 win64/brookhavengame-win64-shipping.exe
@@ -8643,6 +8651,7 @@ win64/project_k-win64-shipping.exe
 win64/projectagartha-win64-shipping.exe
 win64/projectalpha-win64-shipping.exe
 win64/projectbakery-win64-shipping.exe
+win64/projectborealis-win64-shipping.exe
 win64/projectboundarysteam-win64-shipping.exe
 win64/projectcoop-win64-shipping.exe
 win64/projectcoral-win64-shipping.exe
