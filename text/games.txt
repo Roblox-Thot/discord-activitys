@@ -2530,6 +2530,7 @@ Farming Simulator 19
 Farming Simulator 2011
 Farming Simulator 2013
 Farming Simulator 22
+Farming Simulator 25
 Farthest Frontier
 Fashion Police Squad
 Fast Food Simulator: Prologue
@@ -3011,6 +3012,7 @@ Grand Theft Auto III - The Definitive Edition
 Grand Theft Auto IV
 Grand Theft Auto San Andreas
 Grand Theft Auto V
+Grand Theft Auto: Episodes from Liberty City
 Grand Theft Auto: San Andreas - The Definitive Edition
 Grand Theft Auto: Vice City
 Grand Theft Auto: Vice City - The Definitive Edition
@@ -6232,6 +6234,7 @@ Scrivener
 Scrutinized
 Scythe: Digital Edition
 Sea Dogs: To Each His Own
+Sea Power
 Sea of Solitude
 Sea of Stars
 Sea of Stars Demo
@@ -8719,6 +8722,7 @@ yahtzee girl
 メタファー：リファンタジオ ～プロローグ体験版～
 モンスターハンターストーリーズ2　～破滅の翼～
 ライザのアトリエ２ ～失われた伝承と秘密の妖精～
+ライザのアトリエ３ ～終わりの錬金術士と秘密の鍵～
 レスレリアーナのアトリエ ～忘れられた錬金術と極夜の解放者～
 ロックマンエグゼ アドバンスドコレクション Vol.1
 ロックマンエグゼ アドバンスドコレクション Vol.2
