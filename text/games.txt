@@ -764,6 +764,7 @@ Black Forest
 Black Mesa
 Black Mirror
 Black Myth: Wukong
+Black Ops 6
 Black Rose
 Black Skylands
 Black Skylands: Origins
@@ -2229,6 +2230,7 @@ Emily is Away
 Emily is Away <3
 Emily is Away Too
 Empire of Sin
+Empire of the Ants
 Empire: Total War
 Empires
 Empires Apart
@@ -4459,6 +4461,7 @@ Metaball
 Metal Gear Solid
 Metal Gear Solid 2 Substance
 Metal Heads - Alpha Demo
+Metal Slug Tactics
 Metal Unit
 Metal Waltz
 Metal Wolf Chaos XD
