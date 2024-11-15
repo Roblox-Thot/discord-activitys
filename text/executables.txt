@@ -79,6 +79,7 @@
 >hl2_osx
 >java
 >javaw.exe
+[ninja gaiden master collection] ninja gaiden 3 razor's edge/ninja gaiden 3 razor's edge.exe
 _beta_/wow-64.exe
 _beta_/wow.exe
 _ptr_/wow-64.exe
@@ -262,6 +263,7 @@ alien swarm/swarm.exe
 alienbreed2assault.exe
 alina of the arena/alina of the arena.exe
 all is dust/allisdust.exe
+all quiet in the trenches/all quiet in the trenches.exe
 allegiance.exe
 almost home now/almosthomenow.exe
 aloft demo/aloft.exe
@@ -6873,6 +6875,7 @@ teamfight manager/teamfight manager.exe
 teardown/teardown.exe
 tech support error unknown/techsupport.exe
 techtonica/techtonica.exe
+teenage mutant ninja turtles splintered fate/tmntsf.exe
 teeworlds.app
 teeworlds.exe
 tekkengame-win64-shipping.exe
@@ -8185,6 +8188,7 @@ win64/dollimpostor-win64-shipping.exe
 win64/dont_scream-win64-shipping.exe
 win64/dontlookaway-win64-shipping.exe
 win64/doubleclutch-win64-shipping.exe
+win64/dqiiihd2dremake.exe
 win64/dr-win64-shipping.exe
 win64/draconia-win64-shipping.exe
 win64/dragon quest xi s demo.exe

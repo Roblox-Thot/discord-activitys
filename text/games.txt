@@ -281,6 +281,7 @@ Aliens: Dark Descent
 Aliens: Fireteam Elite
 Alina of the Arena
 All Is Dust
+All Quiet in the Trenches
 Alliance of Valiant Arms
 Allods Online
 Almost Home Now
@@ -7159,6 +7160,7 @@ Teardown
 Tech Support: Error Unknown
 Techtonica
 Teenage Mutant Ninja Turtles: Shredder's Revenge
+Teenage Mutant Ninja Turtles: Splintered Fate
 Teenage Mutant Ninja Turtles: The Cowabunga Collection
 Teeworlds
 Teleglitch: Die More Edition
@@ -8608,6 +8610,7 @@ Zup! Z
 Zup! Zero
 Zup! Zero 2
 Zwift
+[NINJA GAIDEN: Master Collection] NINJA GAIDEN 3: Razor's Edge
 a new life.
 art of rally
 click to ten
@@ -8710,6 +8713,7 @@ yahtzee girl
 スーパーロボット大戦V
 ソードアート・オンライン フラクチュアード デイドリーム
 ドキドキAI尋問ゲーム 完全版
+ドラゴンクエストIII　そして伝説へ…
 ドラゴンクエストＸ　いにしえの竜の伝承　オンライン
 ドラゴンボールZ KAKAROT
 ナツノカナタ
