@@ -84,7 +84,6 @@ _beta_/wow-64.exe
 _beta_/wow.exe
 _ptr_/wow-64.exe
 _ptr_/wow.exe
-_retail_/cod.exe
 _retail_/cod22/cod22-cod.exe
 _retail_/sp22/sp22-cod.exe
 _retail_/wow-64.exe
@@ -653,6 +652,7 @@ bendy and the ink machine demo/bendy and the ink machine - demo.exe
 bendy secrets of the machine/bendy secrets of the machine.exe
 beneath oresa/beneath-oresa.exe
 beneath the surface/beneath the surface.exe
+benefitship/benefitship.exe
 bepinex.splashscreen/bepinex.splashscreen.gui.exe
 berserk and the band of the hawk/berserk.exe
 besetup/setup_battleyearma2.exe
@@ -6040,6 +6040,7 @@ sexyspaceairlines/sexyspaceairlines.exe
 sf/star fetchers pilot.exe
 sf3clientfinal.exe
 sfm.exe
+sgsc10th/sgsc10th.exe
 sgw3.exe
 sh3.exe
 sh5.exe
@@ -6336,6 +6337,7 @@ soviet jump game/sovietjumpgame.exe
 sovl/sovl.exe
 sow1 project/symphonyofwar.exe
 sp23/sp23-cod.exe
+sp24/sp24-cod.exe
 space bear/spacebear.exe
 space beast terror fright/sbtf_pub.exe
 space commander war and trade/spacecommander.exe
