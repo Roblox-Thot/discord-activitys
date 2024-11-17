@@ -2537,6 +2537,7 @@ fearxp.exe
 fearxp2/fearxp2.exe
 feather party/feather party.exe
 feed and grow fish/feed and grow.exe
+feed the cups/feed the cups.exe
 feeding frenzy 2 deluxe/feedingfrenzytwo.exe
 feeding frenzy 2 deluxe/popcapgame1.exe
 feel the snow/feelthesnow.exe
@@ -2830,6 +2831,7 @@ game/game_win.exe
 game/how 2 escape.exe
 game/performance_test.exe
 game/rebuild3.exe
+game/settings.exe
 game/sogame.exe
 game/x360ce_x64.exe
 game/zula.exe
@@ -6887,6 +6889,7 @@ telling lies/tellinglies.exe
 tempest/tempest.exe
 tempo/tempo.exe
 temtem.exe
+temtemswarm/temtemswarm.exe
 tera.exe
 terminus/terminus.exe
 terra firma/game.exe
@@ -7129,6 +7132,7 @@ the red lantern/theredlantern_sw.exe
 the red solstice/bin/game.exe
 the red strings club/trsc2017.exe
 the riflemen/the riflemen.exe
+the rise of the golden idol/game.exe
 the rogue prince of persia/the rogue prince of persia.exe
 the room old sins/oldsins.exe
 the room syndrome/the room syndrome.exe
@@ -7192,6 +7196,7 @@ the white door/thewhitedoor.exe
 the witch's house mv/game.exe
 the witcher adventure game/thewitcheradventuregame.exe
 the witcher enhanced edition/benioku.exe
+the-scourge/thescourge.exe
 thea 2 the shattering/thea2.exe
 thea the awakening/thea.exe
 theblu/theblu.exe
@@ -7610,6 +7615,7 @@ unnyworld/unnyworld.exe
 uno demo/uno.exe
 uno.exe
 unpacking/unpacking.exe
+unrailed! 2 back on track/unrailed2.exe
 unrailed! demo/unrailedgamedemo.exe
 unrailed/unrailedgame.exe
 unravel.exe
