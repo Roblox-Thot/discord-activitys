@@ -3393,6 +3393,7 @@ homesick/binaries/win32/udk.exe
 homesick/binaries/win64/udk.exe
 hometopia/hometopia.exe
 homewind/home wind.exe
+homicipher prologue/homicipher.exe
 homm3 2.0.exe
 hon.exe
 honey, i joined a cult/honey, i joined a cult.exe
@@ -3761,6 +3762,7 @@ kane and lynch dead men/kaneandlynch.exe
 kanjozoku game/kanjozoku game.exe
 kao the kangaroo round 2/kao2.exe
 kara no shojo 2.exe
+karate survivor/karatesurvivor.exe
 karos/amo.exe
 karryn's prison/nw.exe
 kart racing pro/kart.exe
@@ -7110,6 +7112,7 @@ the one who pulls out the sword will be crowned king/the one who pulls out the s
 the oracle land/t10game.exe
 the ouroboros king demo/the ouroboros king.exe
 the painscreek killings/painscreek.exe
+the pale beyond/the pale beyond.exe
 the past within demo/thepastwithindemo.exe
 the past within/the past within.exe
 the pedestrian demo/thepedestrian-win-demo-64.exe
@@ -8326,6 +8329,7 @@ win64/glasscarriers-win64-shipping.exe
 win64/gmod.exe
 win64/goat2-win64-shipping.exe
 win64/goatofduty-win64-shipping.exe
+win64/golfpartyproject.exe
 win64/goofy-win64-shipping.exe
 win64/gopota.exe
 win64/gord-win64-shipping.exe
