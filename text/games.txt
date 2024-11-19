@@ -3005,6 +3005,7 @@ Gourdlets Demo
 Governor of Poker 3
 Graalonline Era
 Grabity
+Gran Saga
 GranAge
 Granado Espada
 Granblue Fantasy Versus: Rising
@@ -3204,6 +3205,7 @@ Happy's Humble Burger Barn
 Hard Bullet
 Hard Reset
 Hard Reset Redux
+Hard Time III
 Hard Truck Apocalypse / Ex Machina
 Hard West
 Hard West 2
@@ -3412,6 +3414,7 @@ Hometopia
 Homeworld 3
 Homeworld Remastered Collection
 Homeworld: Deserts of Kharak
+Homicipher
 Homicipher: Trial
 Honey, I Joined a Cult
 HoneySelect2Libido DX
@@ -5752,6 +5755,7 @@ Realm Grinder
 Realm Revolutions
 Realm Royale
 Realm of the Mad God
+Realms Of Bondage
 Realms of Magic
 Realpolitiks
 Reassembly
@@ -6347,6 +6351,7 @@ Shantae and the Pirate's Curse
 Shantae and the Seven Sirens
 Shantae: Half-Genie Hero
 Shantae: Risky's Revenge - Director's Cut
+Shape of Dreams: Prologue
 Shardbound
 Shark Attack Deathmatch 2
 Shark Simulator
@@ -8347,6 +8352,7 @@ Who Needs a Hero?
 Who Wants To Be A Millionaire
 Who's Lila?
 Who's Your Daddy
+Widget Inc.
 Wild Animal Racing
 Wild Dive
 Wild Life Demo

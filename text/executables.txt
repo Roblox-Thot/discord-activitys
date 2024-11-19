@@ -3171,6 +3171,7 @@ happy's humble burger barn/happy's humble burger barn.exe
 happygame/happygame.exe
 hard bullet/hard bullet.exe
 hard reset redux/hr.x64.exe
+hard time iii/hard time iii.exe
 hard truck apocalypse/hta.exe
 hardcore mecha/chc.exe
 hardreset/hardreset.exe
@@ -3394,6 +3395,7 @@ homesick/binaries/win64/udk.exe
 hometopia/hometopia.exe
 homewind/home wind.exe
 homicipher prologue/homicipher.exe
+homicipher/homicipher.exe
 homm3 2.0.exe
 hon.exe
 honey, i joined a cult/honey, i joined a cult.exe
@@ -5567,6 +5569,7 @@ realm royale/binaries/win64/realm.exe
 realm royale/binaries/win64/realmeac.exe
 realm royale/realmbootstrapper.exe
 realmgrinderdesktop.exe
+realms of bondage/realms of bondage.exe
 realpolitiks/realpolitiks.exe
 realrtcw/realrtcw.x64.exe
 reassemblyrelease.exe
@@ -6070,6 +6073,7 @@ shakes & fidget/shakesandfidget.exe
 shakes and fidget.exe
 shantae and the pirate's curse.exe
 shantaecurse.exe
+shape of dreams prologue/shape of dreams.exe
 shapez 2/shapez 2.exe
 shapez.io demo/shapezio.exe
 shapez.io/shapezio.exe
@@ -7904,6 +7908,7 @@ who needs a hero/who needs a hero.exe
 who wants to be a millionaire/wwtbam.exe
 who's lila/whoslila.exe
 whosyourdaddy.exe
+widgetinc/widgetinc.exe
 wild animal racing/wild animal racing.exe
 wild terra 2/wild-terra-2.exe
 wild terra online/wild-terra.exe
@@ -8313,6 +8318,7 @@ win64/fushimiinari-win64-shipping.exe
 win64/galgun2-win64-shipping.exe
 win64/game_x64r.exe
 win64/gamebackroomssociety-win64-shipping.exe
+win64/gameguard.des
 win64/gamemasterengine-win64-shipping.exe
 win64/gameproject-win64-shipping.exe
 win64/gardenlife-win64-shipping.exe
