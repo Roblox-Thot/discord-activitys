@@ -3604,6 +3604,7 @@ In Between
 In Death
 In Other Waters
 In Silence
+In Sink
 In Sink: A Co-Op Escape Prologue
 In Sound Mind
 In Stars And Time
@@ -5273,6 +5274,7 @@ Pandemic: The Board Game
 PangYa (NtreevSoft)
 Panzer Corps
 Papa's Freezeria Deluxe
+Papa's Pizzeria Deluxe
 Paper Lily - Chapter 1
 Papers, Please
 Paradigm
@@ -6016,6 +6018,7 @@ RutonyChat
 Ryse: Son of Rome
 Rytmik Ultimate
 S.K.I.L.L. - Special Force 2
+S.T.A.L.K.E.R. 2: Heart of Chornobyl
 S.T.A.L.K.E.R.: Call of Pripyat
 S.T.A.L.K.E.R.: Clear Sky
 S.T.A.L.K.E.R.: Shadow of Chernobyl
@@ -6583,6 +6586,7 @@ Somewhere in the Shadow
 Sonder
 Song of Nunu: A League of Legends Story
 Songbringer
+Songs Of Silence
 Songs of Conquest
 Sonic & All Stars Racing Transformed
 Sonic & All-Stars Racing Transformed Collection
