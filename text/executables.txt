@@ -1337,6 +1337,7 @@ coffee talk demo/coffeetalk.exe
 coffee talk episode 2 hibiscus & butterfly/cthb.exe
 coffee talk/coffeetalk.exe
 cogmind/cogmind.exe
+coin factory/coinfactory.exe
 coj gunslinger/cojgunslinger.exe
 coj.exe
 coj_dx10.exe
@@ -2734,6 +2735,7 @@ fpsaimtrainer/fpsaimtrainer.exe
 fpv drone simulator/fpv drone simulator.exe
 fpv.skydive/fpv.skydive.exe
 fractured space.exe
+fracturedonline/unityclient@windows.exe
 fragsurf/fragsurf.exe
 fraim/fraim.exe
 frame of mind/frame of mind.exe
@@ -4128,6 +4130,7 @@ luck be a landlord demo/luck be a landlord.exe
 luck be a landlord/luck be a landlord.exe
 lucy -the eternity she wished for-/lucy.exe
 ludo online/ludo-online.exe
+luma island/luma island.exe
 lumberjacks dynasty/lumberjacksdynasty.exe
 lumencraft/lumencraft.exe
 lumini_win64.exe
@@ -6817,6 +6820,7 @@ tactics ogre reborn/tactics ogre reborn.exe
 tacview/tacview64.exe
 tadpole tales/tadpoletales.exe
 tag the power of paint/tag.exe
+taiko no tatsujin rhythm festival/taiko no tatsujin rhythm festival.exe
 taiko no tatsujin rhythm festival_demo/taiko no tatsujin rhythm festival_demo.exe
 tailor tales/nw.exe
 tails of iron/toi.exe
@@ -8054,6 +8058,7 @@ win64/bb3-win64-shipping.exe
 win64/bbc_vrspacewalk-win64-shipping.exe
 win64/bbqclient-win64-shipping.exe
 win64/beached-win64-test.exe
+win64/beachinvasion1944-win64-shipping.exe
 win64/bearproto-win64-shipping.exe
 win64/beastsofbermuda.exe
 win64/beatboxers.exe
