@@ -3925,6 +3925,7 @@ launcher/eg2.exe
 launcher/ntw3 v9.5.exe
 launcher/sir.exe
 launcher/sniperelite5.exe
+launcher/strinova.exe
 launcher/za4.exe
 launchutils/busybox64.exe
 lawbreakers.exe
@@ -6420,6 +6421,7 @@ spirit hunters infinite horde/spirit hunters infinite horde.exe
 spirit island/spiritisland.exe
 spirit of the island demo/soti demo.exe
 spirit of the island/soti.exe
+spirit valley/spiritvalley.exe
 spiritfall/spiritfall.exe
 spiritfarer demo/spiritfarer.exe
 spirittea/spirittea.exe
@@ -6657,6 +6659,7 @@ sundered.exe
 sunkenland/sunkenland.exe
 sunless skies.exe
 sunlesssea/sunless sea.exe
+sunrise/sunrise.exe
 sunsetoverdrive/sunset.exe
 super amazing wagon adventure/wagonadventure.exe
 super animal royale/super animal royale.exe
@@ -8281,6 +8284,7 @@ win64/fantasyblacksmith-win64-shipping.exe
 win64/farmech-win64-shipping.exe
 win64/fathers_day-win64-shipping.exe
 win64/fbs-win64-shipping.exe
+win64/fcs-win64-shipping.exe
 win64/fctclient-win64-shipping.exe
 win64/feartherapybf-win64-shipping.exe
 win64/fernbus-win64-shipping.exe
@@ -8985,6 +8989,7 @@ win64/touristbussimulator.exe
 win64/towergame-win64-shipping.exe
 win64/towerprincess-win64-shipping.exe
 win64/towers-win64-shipping.exe
+win64/toyfactory-win64-shipping.exe
 win64/toysworkshop-win64-shipping.exe
 win64/toytinkersimulator-win64-shipping.exe
 win64/traderlifesimulator-win64-shipping.exe

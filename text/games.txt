@@ -1961,6 +1961,7 @@ Doki Doki Literature Club
 Doki Doki Literature Club Plus!
 Doll Impostor
 Dollar
+Dollmare
 Dolphin
 Dome Keeper
 Domina
@@ -2596,6 +2597,7 @@ Finding Paradise
 Fingerbones
 Fingered
 Finnish Army Simulator Demo
+Finnish Cottage Simulator
 Fire & Maneuver
 Fire Pro Wrestling World
 Fireboy & Watergirl: Elements
@@ -6700,6 +6702,7 @@ Spirit Hunters: Infinite Horde
 Spirit Island
 Spirit Of The Island
 Spirit Of The Island Demo
+Spirit Valley
 Spirit of the North
 Spiritfall
 Spiritfarer
@@ -6863,6 +6866,7 @@ Strike Force Heroes
 Strike Force Heroes Demo
 Strike.is: The Game
 StrikeForce Kitty
+Strinova
 Stronghold 2
 Stronghold 3
 Stronghold Crusader 2
@@ -6917,6 +6921,7 @@ Sunless Skies
 SunnySide
 Sunrider Academy
 Sunrider: Mask of Arcadius
+Sunrise survival
 Sunset Motel: Prologue
 Sunset Overdrive
 Super Amazing Wagon Adventure
