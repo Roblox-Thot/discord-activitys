@@ -466,6 +466,7 @@ atlantic fleet/atlanticfleet.exe
 atlantica global/atlanticarun.exe
 atlas reactor/glyphclientapp.exe
 atlasgame_be.exe
+atlyss/atlyss.exe
 atma/atma_v1.1.3.exe
 atom rpg trudograd/trudograd_win64.exe
 atom rpg/atomrpg_x64.exe
@@ -1056,6 +1057,7 @@ cafe owner simulator/cafe owner simulator.exe
 caggame-win64-shipping.exe
 caggameserver.exe
 cake bash demo/cakebash_win64_steam.exe
+cakebash/cakebash_win64_steam.exe
 cakey's twisted bakery/cakey's twisted bakery.exe
 calamari clash/calamariclash.exe
 caliber/caliberstart.exe
@@ -4100,6 +4102,7 @@ lostsaga.exe
 lostwinds/lw1.exe
 lotdgame.exe
 lotroclient.exe
+lots of cats in every moment/lots of cats in every moment.exe
 loud run/loud run.exe
 love & sex second base/losesb.exe
 love esquire/love esquire.exe
@@ -4499,6 +4502,7 @@ modern combat 5/mc5.exe
 moderncombatversus.exe
 modlands.exe
 moe ninja girls/moeninjagirls.exe
+moen/moen.exe
 mojo 2 mia/game.exe
 mojo hanako/game.exe
 mojo xxx/game.exe
@@ -5107,6 +5111,7 @@ papa's freezeria deluxe/papa's freezeria deluxe.exe
 papa's pizzeria deluxe/papa's pizzeria deluxe.exe
 paper lily - chapter 1/paperlilych1.exe
 paper lily - project kat/projectkat.exe
+paperhead ep0/play paperhead.exe
 papersplease.exe
 paradigm/paradigm.exe
 paradise cleaning!/cleaner.exe

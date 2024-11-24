@@ -157,6 +157,7 @@ ASTRA: Knights of Veda
 ASTRONEER
 AT SUNDOWN: SitD
 ATLAS
+ATLYSS
 ATOM RPG
 ATOM RPG Trudograd
 ATOMEGA
@@ -1039,6 +1040,7 @@ Cadria Item Shop
 Caesar 3
 Cafe Owner Simulator
 Cafe Owner Simulator: Prologue
+Cake Bash
 Cake Bash Demo
 Cakey's Twisted Bakery
 Calamari Clash
@@ -4175,6 +4177,7 @@ Lost Saga North America
 Lost in Play
 Lost in Vivo
 LostWinds
+Lots of Cats in Every Moment
 Loud Run
 Love & Sex: Second Base
 Love Esquire
@@ -4605,6 +4608,7 @@ Modern Combat Versus
 Modlands 0.512a version 0.512a
 Moe Era
 Moe! Ninja Girls
+Moen
 Mojo 2: Mia
 Mojo XXX
 Mojo: Hanako
@@ -5212,6 +5216,7 @@ PAC-MAN WORLD Re-PAC
 PAC-MAN™ CHAMPIONSHIP EDITION 2
 PANICORE
 PANZER BALL
+PAPERHEAD EP0
 PARANOIA PLACE
 PAYDAY 2
 PAYDAY 3
