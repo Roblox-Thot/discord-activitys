@@ -419,6 +419,7 @@ artofwar/game/u1game.exe
 arx fatalis/arx.exe
 as dusk falls/dusk.exe
 as far as the eye/as far as the eye.exe
+as1hd/arizonasunshine1hd.exe
 asamu-win32-shipping.exe
 ascension.exe
 ascensiongame.exe
@@ -2174,6 +2175,7 @@ dwarfs - f2p/dwarfs.exe
 dwarfs/dwarfs.exe
 dwarves.exe
 dwerve prologue/dwerve.exe
+dworigins demo/dworigins_demo.exe
 dx11/sw.x64.exe
 dxhr.exe
 dxhrdc.exe
@@ -2541,6 +2543,7 @@ fearxp2/fearxp2.exe
 feather party/feather party.exe
 feed and grow fish/feed and grow.exe
 feed the cups/feed the cups.exe
+feed the deep/feed the deep.exe
 feeding frenzy 2 deluxe/feedingfrenzytwo.exe
 feeding frenzy 2 deluxe/popcapgame1.exe
 feel the snow/feelthesnow.exe
