@@ -2807,6 +2807,7 @@ futa fix dick dine and dash/game.exe
 future soldier dx11.exe
 future soldier.exe
 futurewars.exe
+g01/binaries/win64/g01client-win64-shipping.exe
 gachi heroes/nw.exe
 gahkthun.exe
 galactic civilizations iii/galciv3.exe
@@ -3368,6 +3369,7 @@ hoa/hoa.exe
 hob.exe
 hobo tough life/hoborpg.exe
 hobs/hobs.exe
+hockey super squad/hockey super squad.exe
 hodgepodge_hunch/herowolf.exe
 hoi2.exe
 hoi3.exe
@@ -3409,6 +3411,7 @@ honey, i joined a cult/honey, i joined a cult.exe
 honeyselect2libido dx/initial settings.exe
 honkaiimpact3rd/bh3.exe
 hook/hook.exe
+hookah haze/hookahhaze.exe
 hooked on you/hooked on you.exe
 horizon chase turbo demo/horizonchase.exe
 horizon chase/horizonchase.exe
@@ -7787,6 +7790,7 @@ vtuber maker/vtuber maker.exe
 vup/vup.exe
 vvvvvv.exe
 wa.exe
+waifufighterfist/boxingwaifu.exe
 wait! life is beautiful! prologue/wait! life is beautiful!.exe
 wakaru/wakaru.exe
 wakfu.app
@@ -8738,6 +8742,7 @@ win64/ragnarock-win64-shipping.exe
 win64/railgrade-win64-shipping.exe
 win64/raji-win64-shipping.exe
 win64/ranch_simulator-win64-shipping.exe
+win64/ratshaker.exe
 win64/rawdata-win64-shipping.exe
 win64/readyornot-win64-shipping.exe
 win64/realmsofmagic-win64-shipping.exe
