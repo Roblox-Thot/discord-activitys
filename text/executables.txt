@@ -8311,6 +8311,7 @@ win64/find_yourself-win64-shipping.exe
 win64/firstclassescape-win64-shipping.exe
 win64/fishgame-win64-shipping.exe
 win64/flickerofhope-win64-shipping.exe
+win64/flintlock-win64-shipping.exe
 win64/fmf-win64-shipping.exe
 win64/fmf2-win64-shipping.exe
 win64/fna-win64-shipping.exe
@@ -9162,6 +9163,7 @@ windows-i686/trick and treat.exe
 windows-i686/wolftails.exe
 windows-i686/xoxo_droplets.exe
 windows-i686/xoxoblooddroplets.exe
+windows/dungeonclawler.exe
 windows/godus.exe
 windows/idleherotd.exe
 windows/jazzpunk.exe

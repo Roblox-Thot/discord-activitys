@@ -881,6 +881,7 @@ Boogeyman
 Book of Hours
 Boomerang Fu
 Boomerang X
+Bootstrap Island
 Booty Calls
 Booty Farm
 Bopl Battle
@@ -2099,6 +2100,7 @@ Dummynation
 Dune: Imperium
 Dune: Spice Wars
 Dungeon Alchemist
+Dungeon Clawler
 Dungeon Defenders
 Dungeon Defenders II
 Dungeon Defenders: Awakened
