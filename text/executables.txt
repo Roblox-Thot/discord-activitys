@@ -4783,6 +4783,7 @@ neptuniarebirth1.exe
 neptuniarebirth2.exe
 neptuniarebirth3.exe
 nerts online/nerts! online.exe
+nether dungeons/windows64.exe
 nether heroes/nether heroes.exe
 netsoccer2/netsoccer2.exe
 neurovoider/neurovoider.exe
@@ -7482,6 +7483,7 @@ transforbest.exe
 transformice adventures demo/tfmadventures.exe
 transistor.exe
 transmissions element 120/hl2.exe
+transocean - the shipping company/transocean.exe
 transport defender/td.exe
 transport fever 2/transportfever2.exe
 transport inc/transportinc.exe
