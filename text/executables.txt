@@ -4089,6 +4089,7 @@ lorn's lure/lornslure.exe
 los-win64-shipping.exe
 lossless scaling demo/losslessscaling.exe
 lossless scaling/losslessscaling.exe
+lost but found/lost but found.exe
 lost castle 2/lostcastle2.exe
 lost egg 2 be together/lost egg 2.exe
 lost eidolons/losteidolons.exe
@@ -6499,6 +6500,7 @@ star wars - rebellion/rebexe.exe
 star wars bounty hunter/tangopc.exe
 star wars dark forces remaster/khonsu_shipping_steam_x64.exe
 star wars episode i racer/swep1rcr.exe
+star wars outlaws/outlaws.exe
 star wars squadrons/starwarssquadrons.exe
 star wars starfighter/starfighter.exe
 star wars the clone wars/republic heroes.exe
@@ -7093,6 +7095,7 @@ the jackbox party pack 7/the jackbox party pack 7.exe
 the jackbox party pack 8/the jackbox party pack 8.exe
 the jackbox party pack 9/the jackbox party pack 9.exe
 the jackbox party starter/the jackbox party starter.exe
+the jackbox survey scramble/the jackbox survey scramble.exe
 the karaoke/karaoke.exe
 the king of fighters '97 global match/kof97.exe
 the king of fighters xiv/kofxiv.exe

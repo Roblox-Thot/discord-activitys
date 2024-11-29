@@ -4165,6 +4165,7 @@ Lossless Scaling
 Lossless Scaling Demo
 Lost
 Lost Ark
+Lost But Found
 Lost Castle
 Lost Castle 2
 Lost Eidolons
@@ -6767,6 +6768,7 @@ Star Trek: Bridge Crew
 Star Trek: Infinite
 Star Trucker
 Star Valor
+Star Wars Outlaws
 Star Wars: Battlefront 2 (Classic, 2005)
 Star Wars: Dark Forces
 Star Wars: Droid Repair Bay
@@ -7405,6 +7407,7 @@ The Jackbox Party Pack 7
 The Jackbox Party Pack 8
 The Jackbox Party Pack 9
 The Jackbox Party Starter
+The Jackbox Survey Scramble
 The Karaoke | ヒトカラ
 The Kite
 The LEGO® Movie - Videogame
