@@ -1,7 +1,7 @@
 <div align="center">
 
-# github-activitys
-[![Grab game list](https://github.com/Roblox-Thot/github-activitys/actions/workflows/run.yml/badge.svg)](https://github.com/Roblox-Thot/github-activitys/actions/workflows/run.yml)
+# discord-activitys
+[![Grab game list](https://github.com/Roblox-Thot/discord-activitys/actions/workflows/run.yml/badge.svg)](https://github.com/Roblox-Thot/discord-activitys/actions/workflows/run.yml)
 
 </div>
 
