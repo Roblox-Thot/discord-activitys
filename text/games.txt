@@ -1129,6 +1129,7 @@ Carry The Glass
 Cars
 Cars 2
 Cart Racer
+Cart To The End
 Cartel Tycoon Demo
 Carto
 Carto Demo
@@ -1497,8 +1498,10 @@ Crimzon Clover  WORLD IGNITION
 Crisis in the Kremlin
 Critter Clicker
 Critter Cove
+Croakoloco
 Crookz - The Big Heist
 Croppy Boy
+Cross Blitz
 CrossCells
 CrossCode
 CrossFire
@@ -1525,6 +1528,7 @@ Crying Suns
 Crying Suns Demo
 Crypt
 Crypt of the NecroDancer
+Cryptis
 Cryptmaster
 Crypto Miner Tycoon Simulator Starter Edition
 Crypto Mining Simulator
@@ -2800,6 +2804,7 @@ FurryFury
 Fury Unleashed
 Fuse
 Futa Fix Dick Dine and Dash
+Futanari di Funghi
 Future Wars
 GAROU: MARK OF THE WOLVES
 GET OUT!
@@ -3766,6 +3771,7 @@ Jotun
 Journey
 Journey To The Savage Planet
 Journey of a Roach
+Journey to Incrementalia
 Joyspring
 Judge Dredd: Dredd vs Death
 JudgeSim
@@ -3937,6 +3943,7 @@ KoboldKare
 Koi Farm
 Kona
 Kopanito All-Stars Soccer
+Kota`s New Journey
 KovaaK's
 Kraven Manor
 Kreedz Climbing
@@ -6373,6 +6380,7 @@ Shadows of Doubt
 Shadows: Awakening
 Shadows: Heretic Kingdoms
 Shadowverse
+Shady Knight
 Shady Knight Demo
 Shady Part of Me
 Shakes and Fidget
@@ -8498,6 +8506,7 @@ Worms Ultimate Mayhem
 Worms W.M.D
 Worms World Party Remastered
 Worn Thin
+Worshippers of Cthulhu
 Wrecked
 Wreckfest
 Wrench

@@ -1127,6 +1127,7 @@ carrion/carrion.exe
 cars 2/game-cars.exe
 cars/cars.exe
 cart racer/cart_racer.exe
+cart to the end/cart to the end.exe
 carto demo/carto.exe
 carto/carto.exe
 cartoon strike/cartoon strike.exe
@@ -1512,8 +1513,10 @@ crisis in the kremlin/crisisinthekremlin.exe
 critter clicker/critter clicker.exe
 critter cove/critter cove.exe
 critterchronicles.exe
+croakoloco/croakoloco.exe
 crookz.exe
 croppy boy/croppy.exe
+cross blitz/cross blitz.exe
 crosscells/crosscells.exe
 crosscode-beta.exe
 crosscode/crosscode.exe
@@ -2806,6 +2809,7 @@ furryfury/furryfury.exe
 fury unleashed/furyunleashed.exe
 fuse.exe
 futa fix dick dine and dash/game.exe
+futanari di funghi/futanaridifunghi.exe
 future soldier dx11.exe
 future soldier.exe
 futurewars.exe
@@ -3733,6 +3737,7 @@ jojo's bizarre adventure all-star battle r demo version/asbr.exe
 joker show - horror escape/joker show.exe
 joshua.exe
 jotun.exe
+journey to incrementalia/journey to incrementalia.exe
 journey/journey.exe
 journeys in middle-earth/jime.exe
 joyspring/joyspring.exe
@@ -3880,6 +3885,7 @@ koi farm/koifarm.exe
 kona/kona.exe
 kopanito all-stars soccer/kopanito.exe
 kopp2.exe
+kota's new journey/game.exe
 kreedzclimbing/hl2.exe
 kritika_client.exe
 krosmaster arena.exe
@@ -6095,6 +6101,7 @@ shadows over loathing/shadows over loathing.exe
 shadowverse.exe
 shadowwarrior2.exe
 shady knight demo/shady knight demo.exe
+shady knight/shady knight.exe
 shady part of me/spom.exe
 shakes & fidget/shakesandfidget.exe
 shakes and fidget.exe
@@ -8191,6 +8198,7 @@ win64/crimeboss-win64-shipping.exe
 win64/crimerp-win64-shipping.exe
 win64/crimsonsnow-win64-shipping.exe
 win64/crowfpsclient-win64-shipping.exe
+win64/cryptis-win64-shipping.exe
 win64/cs2.exe
 win64/cs_ac130-win64-shipping.exe
 win64/ctg-win64-shipping.exe
@@ -9284,6 +9292,7 @@ wormsrevolution.exe
 wormsworldparty/w2.exe
 wormsxhd/wormsmayhem.exe
 worn thin/worn thin.exe
+worshippersofcthulhu/worshippersofcthulhu.exe
 wotblitz.exe
 wowclassic.exe
 wowowow korone box/wowowow korone box.exe
