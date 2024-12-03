@@ -2773,6 +2773,7 @@ From the darkness
 Front Lines
 Frontier
 Frontline 1942: Сражения Второй мировой войны
+Frontline Inferno
 FrostRunner
 Frostpunk
 Frostpunk 2
@@ -6397,6 +6398,7 @@ Shark Simulator
 SharpShooter3D
 Shashingo: Learn Japanese with Photography
 Shattered Lights
+Shattered Pixel Dungeon
 Shattered Skies
 She Sees Red
 She Will Punish Them

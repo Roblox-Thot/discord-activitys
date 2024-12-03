@@ -2778,6 +2778,7 @@ front lines/front lines.exe
 frontier.exe
 frontier/client.jar
 frontline 1942/frontline 1942.exe
+frontline inferno/frontlineinferno.exe
 frostpunk.exe
 frostrain/frostrain.exe
 frozen flame/frozenflame.exe
@@ -6114,6 +6115,7 @@ shapez.io/shapezio.exe
 shark attack deathmatch 2/shark attack deathmatch 2.exe
 shark simulator/shark_simulator.exe
 sharpshooter3d/sharpshooter3d.exe
+shattered pixel dungeon/shattered pixel dungeon.exe
 shatteredskies.exe
 shatteredskies/lms.exe
 shawarma legend/shawarma legend.exe
