@@ -23,6 +23,7 @@
 100 Space Cats
 100 Waiting Cats
 100% Orange Juice
+1000xRESIST
 11-11 Memories Retold
 112 Operator
 12 is Better Than 6
@@ -4545,6 +4546,7 @@ Midnight Ride
 Might & Magic Heroes VI
 Might & Magic Heroes VII
 Might & Magic: Clash of Heroes
+Might & Magic: Heroes VI
 Might and Magic - Heroes V
 Mighty No. 9
 Mighty Party
@@ -5485,6 +5487,7 @@ Pocket Bravery Demo
 Pocket Mirror ~ GoldenerTraum
 Pocket Waifu
 Pocket Waifu: Desktop Pet
+Pogo Rogue
 Pogostuck: Rage With Your Friends
 Poi
 PokeMMO
@@ -5849,6 +5852,7 @@ Renowned Explorers: International Society
 Rent A Car Simulator 24: Prologue
 Rental
 Rento Fortune - Multiplayer Board Game
+Repair this!
 Replica
 Rescue HQ - The Tycoon
 Resident Evil / biohazard HD REMASTER
@@ -7664,6 +7668,7 @@ This is the Police
 Thomas Was Alone
 Three Finger Battle Arena
 Thrillville: Off the Rails
+Thrive
 Throne of Lies
 Thronebreaker
 Thronefall

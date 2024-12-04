@@ -17,6 +17,7 @@
 100 space cats/100 space cats.exe
 100 waiting cats/100 waiting cats.exe
 10000000/10000000.exe
+1000xresist/1000xresist.exe
 100orange.exe
 105.1.1-1821-gaca6f20/spring.exe
 112 operator/operator 112.exe
@@ -4423,6 +4424,7 @@ midnight heist/midnight heist.exe
 midnight ride/midnight ride.exe
 might & magic heroes vi.exe
 might and magic clash of heroes/clashofheroes.exe
+might and magic heroes vi/might & magic heroes vi.exe
 mighty party/mighty_party.exe
 milfs of sunville/milfsofsunville.exe
 milfs/milfsplaza.exe
@@ -5671,6 +5673,7 @@ remnants of naezith/naezith.exe
 renegade ops/renegadeops.exe
 rental/rental.exe
 rento fortune/rento.exe
+repair this!/repair, this!.exe
 replica/replica.exe
 rerev.exe
 rerev2.exe
@@ -7319,6 +7322,7 @@ thmhj.exe
 thomaswasalone.exe
 those games/those games.exe
 thrillville07.exe
+thrive/thrive.exe
 thronebreaker.exe
 thronefall demo/thronefall.exe
 thronefall/thronefall.exe
@@ -9193,6 +9197,7 @@ windows/minishoot.exe
 windows/monstertd.exe
 windows/my name is mayo.exe
 windows/pbsvc_hos.exe
+windows/pogo rogue.exe
 windows/railbound.exe
 windows/retimed.exe
 windows/tilestd.exe
