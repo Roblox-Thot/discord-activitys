@@ -4768,6 +4768,7 @@ needy girl overdose/windose.exe
 nehrim/nehriminstallswitch.exe
 neighbours back from hell/neighbours back from hell.exe
 neighbours from hell/bin/game.exe
+nejisimtma02demo/nejisimtma02trial.exe
 neko arena/neko arena.exe
 nekojishi.exe
 nekopara - catboys paradise/nekopara - catboys paradise.exe
@@ -5534,6 +5535,7 @@ raceabit.exe
 racecraft/racecraft.exe
 racethesun.exe
 racing classics/racing classics.exe
+rack and slay/rack and slay.exe
 rad-win64-shipping.exe
 radiator 2/radiator2_steam_windows.exe
 radicalheights.exe
@@ -7435,6 +7437,7 @@ total miner/studioforge.totalminer.exe
 total tank simulator demo/totaltanksim.exe
 total tank simulator/totaltanksim.exe
 total war battles kingdom/twb_kingdom.exe
+total war rome remastered/total war rome remastered.exe
 total war saga thrones of britannia/thrones.exe
 total war shogun 2/modmanager.exe
 total war three kingdoms/three_kingdoms.exe
@@ -8129,6 +8132,7 @@ win64/blueclient-win64-shipping.exe
 win64/bluecode-win64-shipping.exe
 win64/bmibenchmark-win64-shipping.exe
 win64/bob-win64-shipping.exe
+win64/bobb-win64-shipping.exe
 win64/boc-win64-shipping.exe
 win64/bodycam-win64-shipping.exe
 win64/bodycamshoot-win64-shipping.exe
