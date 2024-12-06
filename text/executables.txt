@@ -976,6 +976,7 @@ breadsticks/breadsticks.exe
 break arcade games out/break arcade games out.exe
 breakarts 2/ba2.exe
 breakwatersbeta/breakwaters.exe
+breeze of passion/breezeofpassion.exe
 brggame-steam.exe
 brick-force row/infernumlogin.exe
 brickrigs-win64-shipping.exe
@@ -1435,6 +1436,7 @@ convoy/convoy.exe
 convrgence/convrgence.exe
 cookard/cookard.exe
 cookie clicker/cookie clicker.exe
+cookie cutter/cookiecutter.exe
 cookiesvsclaus/cookiesvsclaus.exe
 cooking craze/cc.exe
 cooking live restaurant game/cl.exe

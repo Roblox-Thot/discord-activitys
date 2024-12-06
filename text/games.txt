@@ -930,6 +930,7 @@ Break a Leg
 Breakwaters
 Breathedge
 Breeders of the Nephelym: Alpha
+Breeze of Passion
 Brewmaster: Beer Brewing Simulator
 Brick Rigs
 Brick-Force
@@ -1416,6 +1417,7 @@ Cook, Serve, Delicious! 2!!
 Cook, Serve, Delicious! 3?!
 Cookard
 Cookie Clicker
+Cookie Cutter
 Cookies vs. Claus
 Cooking Companions: Appetizer Edition
 Cooking Craze
