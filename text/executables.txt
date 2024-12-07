@@ -2036,6 +2036,7 @@ downtown drift/downtown drift.exe
 downwell.exe
 dp wallpaper master/configdlg.exe
 dpet/dpet.exe
+dps idle 2/dps2.exe
 dps idle/dps.exe
 dqxgame.exe
 dr langeskov the tiger and the terribly cursed emerald a whirlwind heist/drlangeskov.exe
@@ -3922,6 +3923,7 @@ lakeburg legacies/lakeburg legacies.exe
 lakeview cabin collection/lakeview cabin collection.exe
 lakeview valley - murder rpg/lakeview valley.exe
 lambda wars/lambdawars.exe
+lamplightersleague/lamplightersleague.exe
 landfall archives/landfallarchives.exe
 landlord's super/landlordssuper.exe
 landmark/launchpad.exe
@@ -4849,6 +4851,7 @@ night of the dead/lf.exe
 night of the full moon/night of the full moon.exe
 night-runners prologue/night-runners prologue.exe
 nightmare files - clap clap/nightmare files clap clap.exe
+nightmare house source/hl2.exe
 nightmare of decay/nightmareofdecay.exe
 nights into dreams/nights.exe
 nimby rails/nimbyrails.exe
@@ -8236,6 +8239,7 @@ win64/deathlystillnessgame-win64-shipping.exe
 win64/deceit2game-win64-shipping.exe
 win64/deeply_dark.exe
 win64/defiantimmortalssteam-win64-shipping.exe
+win64/deltaforceclient-win64-shipping.exe
 win64/deskjob.exe
 win64/desynced.exe
 win64/detective-win64-shipping.exe
@@ -8561,6 +8565,7 @@ win64/marblesonstream-win64-shipping.exe
 win64/mariana-win64-shipping.exe
 win64/mariesroom-win64-shipping.exe
 win64/mariner-win64-shipping.exe
+win64/marvel-win64-shipping.exe
 win64/mass_builder-win64-shipping.exe
 win64/mav2-win64-shipping.exe
 win64/maximumfootball-win64-shipping.exe
@@ -9407,6 +9412,7 @@ ygopro_vs.exe
 yixianpai/yixianpai.exe
 ylands.exe
 ynab 4/ynab 4.exe
+yog-sothoth's yard/yog-sothoth's yard.exe
 yogurt!!/yogurt!.exe
 yokai's secret/yokai's secret.exe
 yokus island express/yoku.exe

@@ -1633,6 +1633,7 @@ DOOM VFR
 DORAEMON  STORY OF SEASONS
 DPET : Desktop Pet Engine
 DPS IDLE
+DPS IDLE 2
 DR LIVESEY ROM AND DEATH EDITION
 DRAGON BALL FighterZ
 DRAGON BALL XENOVERSE
@@ -1799,6 +1800,7 @@ Deisim
 Delicious! Pretty Girls Mahjong Solitaire
 Deliver Us The Moon
 Delores: A Thimbleweed Park Mini-Adventure
+Delta Force
 Delta Force: Black Hawk Down
 Delta Force: Land Warrior
 Delta Force: Task Force Dagger
@@ -4415,6 +4417,7 @@ Martial Law
 Marvel Heroes 2015
 Marvel Heroes 2016
 Marvel Puzzle Quest
+Marvel Rivals
 Marvel vs. Capcom: Infinite
 Marvel's Avengers
 Marvel's Guardians of the Galaxy
@@ -4955,6 +4958,7 @@ Night in the Woods
 Night of the Dead
 Night of the Full Moon
 Nightingale
+Nightmare House: The Original Mod
 Nightmare Kart
 Nightmare of Decay
 Nimbatus - Drone Creator
@@ -7437,6 +7441,7 @@ The Kite
 The LEGO® Movie - Videogame
 The LEGO® Movie 2 - Videogame
 The Lab
+The Lamplighters League
 The Lancaster Leak - Crisis At Call Center
 The Lancaster Leak - Entity Exam
 The Last Campfire
@@ -8578,6 +8583,7 @@ Yet Another Zombie Survivors
 Yet Another Zombie Survivors Demo
 Yi Xian: The Cultivation Card Game
 Ylands
+Yog-Sothoth's Yard
 Yogurt!
 Yoku's Island Express
 YoloMouse
