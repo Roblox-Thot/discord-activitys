@@ -1816,6 +1816,7 @@ Demolish & Build 3: Excavator Playground
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles
 DemonCrawl
 Demonologist
+DemonsAreCrazy
 Demul version 0.5.6.3
 Denizen
 DeoVR Video Player
@@ -3646,6 +3647,7 @@ Incremental Epic Hero
 Incremental Epic Hero 2
 Incremental Factory
 Incursion Red River
+Indiana Jones and the Great Circle
 Indiana Jones® and the Emperor's Tomb™
 Indiana Jones® and the Fate of Atlantis™
 Indigo Park
@@ -3712,6 +3714,7 @@ Intravenous 2: Mercenarism
 Introvert: A Teenager Simulator
 Intruder
 Intrusion 2
+Inverted Angel
 Invisible, Inc.
 Ion Fury
 Iratus: Lord of the Dead
@@ -5314,6 +5317,7 @@ Pandemic Express - Zombie Escape
 Pandemic Love
 Pandemic: The Board Game
 PangYa (NtreevSoft)
+Pankapu
 Panzer Corps
 Papa's Freezeria Deluxe
 Papa's Pizzeria Deluxe
@@ -5338,6 +5342,7 @@ Party Hard
 Party Hard 2
 Party Jousting
 Party Panic
+Party Quiz
 Passed Out: Prologue
 Passing Pineview Forest
 Passpartout 2: The Lost Artist
@@ -8575,6 +8580,7 @@ Yakuza Kiwami
 Yakuza Kiwami 2
 Yakuza Rogue: Yokohama massage parlor chapter
 Yakuza: Like a Dragon
+Yarimono
 Yes, Master!
 Yes, Your Grace
 Yet Another Zombie Defense
