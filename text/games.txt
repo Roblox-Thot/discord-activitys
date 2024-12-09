@@ -2364,6 +2364,7 @@ Evil Bank Manager
 Evil Genius
 Evil Genius 2
 Evil Inside - Prologue
+Evil Possession
 Evil Tag
 Evil West
 Evo\Wave
@@ -2609,6 +2610,7 @@ Fights in Tight Spaces (Prologue)
 Figment
 Final DOOM
 Final Exam
+Final Factory
 Final Fantasy III
 Find Yourself
 Finding Frankie
@@ -2712,6 +2714,7 @@ For Honor
 For The King
 For The King II
 For the Queen
+Forbidden Fantasy
 Force of Nature
 Force of Nature 2
 Foregone
@@ -3601,6 +3604,7 @@ Idle Research
 Idle Skilling
 Idle Slayer
 Idle Space Raider
+Idle Sphere
 Idle Spiral
 Idle Wasteland
 Idle Wizard
@@ -4687,6 +4691,7 @@ Moonlighter
 Moonring
 Moons of Madness
 Moonstone Island
+Moose Miners
 Morbid: The Seven Acolytes
 Mordheim: City of the Damned
 Morimens
@@ -7986,6 +7991,7 @@ Turnip Boy Commits Tax Evasion
 Turnip Boy Robs a Bank
 Turok
 Turok 2: Seeds of Evil
+Turtle Champs
 Tvö
 Twelve Minutes
 Twilight Struggle

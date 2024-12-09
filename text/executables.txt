@@ -2382,6 +2382,7 @@ everquest f2p/launchpad.exe
 everquest2.exe
 evil bank manager/evilbankmanager.exe
 evil inside - prologue/evil_inside.exe
+evil possession/evil possession.exe
 evil_tag/evil_tag.exe
 evilwithin.exe
 evoland legendary edition/evoland.exe
@@ -2618,6 +2619,7 @@ final fantasy xvi demo/ffxvi_demo.exe
 final fantasy xvi/ffxvi.exe
 final spin/final spin.exe
 final/game.exe
+finalfactory/finalfactory.exe
 finalfantasyxvi/ffxvi.exe
 finalfantasyxvi_demo/ffxvi_demo.exe
 finding paradise/finding paradise.exe
@@ -2708,6 +2710,7 @@ football tactics/game64.exe
 footsies/footsies.exe
 for honor/forhonor.exe
 for the king ii/for the king ii.exe
+forbidden fantasy/forbidden-fantasy.exe
 force of nature 2/forceofnature.exe
 force of nature/forceofnature.exe
 forced/forced.exe
@@ -3540,6 +3543,7 @@ idle research/idle research.exe
 idle skilling/idleskilling.exe
 idle slayer/idle slayer.exe
 idle space raider/isr.exe
+idle sphere/idle sphere.exe
 idle spiral/idlespiral.exe
 idle wasteland/idle wasteland.exe
 idle wizard/idlewizard.exe
@@ -4588,6 +4592,7 @@ moonhunters.exe
 moonlighter.exe
 moonring/moonring.exe
 moonstone island/moonstone island.exe
+moose miners/mooseminers.exe
 mor/mor.exe
 morbid/morbid - the seven acolytes.exe
 mordhau-win64-shipping.exe
@@ -9068,6 +9073,7 @@ win64/trypfpv-win64-shipping.exe
 win64/tscgame-win64-shipping.exe
 win64/tssgame-win64-shipping.exe
 win64/tt2eos-win64-shipping.exe
+win64/turtlechamps-win64-shipping.exe
 win64/twd-win64-shipping.exe
 win64/twds-win64-shipping.exe
 win64/twinstick-win64-shipping.exe
