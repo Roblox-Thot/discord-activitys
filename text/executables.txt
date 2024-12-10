@@ -461,6 +461,7 @@ atari/locomotion/loco.exe
 atdeadofnight/atdeadofnight.exe
 atelier ryza 2/atelier_ryza_2.exe
 atelier ryza 3/atelier_ryza_3.exe
+atelier ryza/atelier_ryza.exe
 atelier sophie the alchemist of the mysterious book/a17config.exe
 atelierresleriana/atelierresleriana.exe
 atelierreslerianagl/atelierresleriana.exe
@@ -2050,6 +2051,7 @@ dragon cliff/game.exe
 dragon marked for death/game.exe
 dragon quest builders 2 jumbo demo/dqb2_eu_trial.exe
 dragon quest builders 2/dqb2_eu.exe
+dragon quest monsters 3/dqmonsters3.exe
 dragon quest xi.exe
 dragonage2.exe
 dragonageinquisition.exe
@@ -6685,6 +6687,7 @@ substance 3d painter 2022/adobe substance 3d painter.exe
 substance painter 2020/substance painter.exe
 subsurface circular/subsurface circular.exe
 subterrain/subterrain.exe
+subterranauts/subterranauts.exe
 suchart creative space/suchart.exe
 suchart/suchart.exe
 sucker for love date to die for/datetodieforpb.exe
