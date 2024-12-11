@@ -1769,6 +1769,7 @@ Death in the Water 2
 Death's Door
 Death's Gambit
 DeathComing
+DeathSprint 66
 Deathsmiles
 Deathtrap
 Debugger 3.16: Hack'n'Run
@@ -3062,6 +3063,7 @@ Granny 3
 Granny Remake
 Granny Simulator
 Granny: Chapter Two
+Granny: Escape Together
 Grapple
 Grapple Gear
 Grapples Galore
@@ -4927,6 +4929,7 @@ Neon Chrome
 Neon Drive
 Neon White
 Neos VR
+Nero Score
 Nether
 Netsoccer2
 NeuroVoider
@@ -8019,6 +8022,7 @@ UNDER NIGHT IN-BIRTH Exe:Late[cl-r]
 UNDER NIGHT IN-BIRTH II Sys:Celes
 UNDERDOGS
 UNI
+UNLIGHT:Revive
 UNLOVED
 UNO
 UNO Demo
@@ -8104,6 +8108,7 @@ Unspoken
 Unspottable
 Unspottable Demo
 Unsung Warriors - Prologue
+Until Dawn™
 Until Then
 Until We Die
 Until We Die Demo
@@ -8684,6 +8689,7 @@ Zoochosis
 Zooicide
 Zoombinis
 Zoonomaly
+Zort
 Zueirama
 Zula
 Zula Online
@@ -8842,6 +8848,7 @@ yahtzee girl
 东方大战争 ~ Touhou Big Big Battle
 中国式网游
 乡村狂想曲
+你的老婆
 信長の野望･新生
 做个好梦
 傳送地下城

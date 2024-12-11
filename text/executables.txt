@@ -4812,6 +4812,7 @@ neptunia u/neptunia.exe
 neptuniarebirth1.exe
 neptuniarebirth2.exe
 neptuniarebirth3.exe
+nero score/neroscore.exe
 nerts online/nerts! online.exe
 nether dungeons/windows64.exe
 nether heroes/nether heroes.exe
@@ -7685,6 +7686,7 @@ unityartifact/storybookbrawl.exe
 universe sandbox x64.exe
 universe sandbox/universe sandbox.exe
 unleash.exe
+unlightrevive/unlight_revive.exe
 unmetal/unmetal.exe
 unnamed space idle/spaceidle.exe
 unnyworld/unnyworld.exe
@@ -8108,6 +8110,7 @@ win64/badguysatschool-win64-shipping.exe
 win64/bakerysimulatorfull-win64-shipping.exe
 win64/ball-win64-shipping.exe
 win64/banishers-win64-shipping.exe
+win64/bates-win64-shipping.exe
 win64/battalion_betaclient.exe
 win64/battalionclient-win64-shipping.exe
 win64/battleborn.exe
@@ -8250,6 +8253,7 @@ win64/deadpoly-win64-shipping.exe
 win64/deadside-win64-shipping.exe
 win64/deadsignal-win64-shipping.exe
 win64/deathlystillnessgame-win64-shipping.exe
+win64/deathsprint66.exe
 win64/deceit2game-win64-shipping.exe
 win64/deeply_dark.exe
 win64/defiantimmortalssteam-win64-shipping.exe
@@ -8419,6 +8423,7 @@ win64/gord-win64-shipping.exe
 win64/gothamknights.exe
 win64/gothicremake.exe
 win64/granny-win64-shipping.exe
+win64/grannyescapetogether-win64-shipping.exe
 win64/gravewoodmultiplayer-win64-shipping.exe
 win64/greylock-win64-shipping.exe
 win64/gridironclient-win64-shipping.exe
@@ -9448,6 +9453,7 @@ you suck at parking/ysap.exe
 you will (not) remain/you will (not) remain.exe
 yourchronicle/yourchronicle.exe
 youronlymoveishustle/youronlymoveishustle.exe
+yourwife/yourwife.exe
 youtubers life 2/youtubers life 2.exe
 youtuberslife.exe
 youtubevr/youtubevr.exe
@@ -9507,6 +9513,7 @@ zoo simulator prologue/zoo simulator prologue.exe
 zoo tycoon/zootycoon.exe
 zooicide/zooicide.exe
 zoombinis/zoombinis.exe
+zort/zort.exe
 zqdq/zqdq.exe
 zs/zs.exe
 zsnesw.exe
