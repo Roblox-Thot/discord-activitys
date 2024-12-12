@@ -374,6 +374,7 @@ application/curio.exe
 apps/sc3u.exe
 aq3d.exe
 aqtion/q2pro.exe
+aquarium designer/aquarium designer.exe
 aquarium/game.exe
 aquatico demo/aquatico.exe
 aragami 2/aragami2.exe
@@ -1866,6 +1867,7 @@ devimaycry4.exe
 devotion/devotion.exe
 devour/devour.exe
 dex/dex.exe
+df_garena/deltaforceclient.exe
 dfo.exe
 dftfd.exe
 diablo ii.exe
@@ -2924,6 +2926,7 @@ geometrydash.exe
 gestalt/gestalt.exe
 get to the orange door demo/get to the orange door.exe
 get to the orange door/get to the orange door.exe
+get to work/get to work.exe
 getout/historicallyaccuratejam.exe
 gettingoverit.exe
 getwrecked.exe
@@ -6386,6 +6389,7 @@ sos-win64-shipping.exe
 sotgame.exe
 sottr.exe
 soul hackers2/soul hackers2.exe
+soul reaver i-ii/srx.exe
 soulash 2/soulash 2.exe
 soulaxiom.exe
 soulcaliburvi.exe
@@ -8809,6 +8813,7 @@ win64/recolored-win64-shipping.exe
 win64/red-win64-shipping.exe
 win64/redfall.exe
 win64/redream.exe
+win64/redreef.exe
 win64/remnant-win64-shipping.exe
 win64/remnant2-win64-shipping.exe
 win64/remothered-win64-shipping.exe

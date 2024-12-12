@@ -383,6 +383,7 @@ Apotheon
 Apotheon Arena
 AppGameKit Classic
 April 24th
+Aquarium Designer
 Aquatico Demo
 Ara: History Untold
 Aragami 2
@@ -2933,6 +2934,7 @@ Gestalt: Steam & Cinder
 Get Stuffed!
 Get To The Orange Door
 Get To The Orange Door Demo
+Get To Work
 Getting Over It with Bennett Foddy
 Ghost Exile
 Ghost Exorcism INC.
@@ -3677,6 +3679,7 @@ Infernax
 Infestation: The New Z
 Infested Planet
 Infinifactory
+Infinite Blue
 Infinite Lagrange
 Infinite Tournament Paintball
 Infinitode 2
@@ -4081,6 +4084,7 @@ Left 4 Dead 2
 Left on Read
 Legacy of Kain: Soul Reaver
 Legacy of Kain: Soul Reaver 2
+Legacy of Kain™ Soul Reaver 1&2 Remastered
 Legend of Dungeon
 Legend of Edda: Pegasus
 Legend of Grimrock
