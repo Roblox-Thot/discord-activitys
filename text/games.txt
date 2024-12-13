@@ -601,6 +601,7 @@ Baldur's Gate: Enhanced Edition
 Ball 2D: Soccer Online
 Ball 3D: Soccer Online
 Ball at Work
+Ballionaire
 Ballistic Overkill
 BallisticNG
 Banana
@@ -3022,6 +3023,7 @@ Good Company
 Good Pizza, Great Pizza
 Goodbye Deponia
 Goofy Gorillas
+Google Play Games
 Goonect
 Goose Goose Duck
 Gord
@@ -6192,6 +6194,7 @@ STAR WARS™: X-Wing Alliance™
 STARWHAL
 STEINS;GATE
 STG Football
+STONKS-9800: Stock Market Simulator
 STORM AREA 51: AYY LMAO EDITION
 STORY OF SEASONS: A Wonderful Life
 STORY OF SEASONS: Friends of Mineral Town

@@ -544,6 +544,7 @@ baldur's gate ii enhanced edition/baldur.exe
 ball 2d/ball 2d.exe
 ball 3d.exe
 ball at work/ball at work.exe
+ballionaire/ballionaire-windows.exe
 ballisticng/ballisticng.exe
 ballisticoverkill.exe
 banana hell/banana_hell.exe
@@ -1585,6 +1586,7 @@ cultures northland/game.exe
 cuphead.exe
 curious expedition 2/ce2.exe
 curiouscases/curiouscases.exe
+current/emulator/crosvm.exe
 curse of the dead gods/curse of the dead gods.exe
 cursorblade/cursorblade_1.0.exe
 cute honey 2/cutehoney2.exe
@@ -6624,6 +6626,7 @@ stolen realm/stolen realm.exe
 stonehearth.exe
 stoneshard.exe
 stonies/stonies.exe
+stonks-9800/stonks-9800.exe
 storage hustle/storage hustle.exe
 stories untold/stories untold.exe
 stories.exe
