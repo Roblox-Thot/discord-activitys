@@ -4544,6 +4544,7 @@ Metro Simulator 2
 Metro: Last Light Redux
 MewnBase
 Mi Scusi
+MiSide
 Miasma Chronicles
 Micro Machines World Series
 Micro Platformer
@@ -8147,6 +8148,7 @@ VEGAS Pro 14 Edit Steam Edition
 VEILED EXPERTS
 VEIN Demo
 VERGE:Lost chapter
+VHS
 VLADiK BRUTAL
 VPet
 VR Benchmark Kanojo

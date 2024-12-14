@@ -1586,7 +1586,7 @@ cultures northland/game.exe
 cuphead.exe
 curious expedition 2/ce2.exe
 curiouscases/curiouscases.exe
-current/emulator/crosvm.exe
+current/client/client.exe
 curse of the dead gods/curse of the dead gods.exe
 cursorblade/cursorblade_1.0.exe
 cute honey 2/cutehoney2.exe
@@ -4500,6 +4500,7 @@ miscreated.exe
 mise.exe
 misec.exe
 misha's incident/nw.exe
+miside/misidefull.exe
 miska's cave/miska's cave.exe
 miss furry/miss furry.exe
 miss neko 2/miss neko 2.exe
@@ -7778,6 +7779,7 @@ verlet swing/verlet swing.exe
 vermintide.exe
 versus game/versus.exe
 vertigo 2/vertigo2.exe
+vhs/vhs.exe
 victor vran/victorvransteam.exe
 victoria 2/v2game.exe
 victoria 2/vcredist_x86.exe
