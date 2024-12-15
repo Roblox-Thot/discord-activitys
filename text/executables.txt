@@ -1,3 +1,4 @@
+-arcane raise-/game.exe
 .autorun/autorun.exe
 /haloinfinite.exe
 10 minutes till dawn/minutestilldawn.exe
@@ -1109,6 +1110,7 @@ car for sale simulator 2023/car for sale simulator 2023.exe
 car manufacture prologue/carmanufactureprologue.exe
 car manufacture/carmanufacture.exe
 car mechanic simulator 2015 demo/cms2015demo.exe
+car mechanic simulator 2018 - vr/cms.exe
 car mechanic simulator 2021 demo/car mechanic simulator 2021 demo.exe
 car mechanic simulator 2021/car mechanic simulator 2021.exe
 car mechanic simulator/cms.exe
@@ -3460,6 +3462,7 @@ house builder first job/housebuilder.exe
 house builder/housebuilder.exe
 house flipper 2 demo/houseflipper2.exe
 house flipper 2/houseflipper2.exe
+house flipper vr/houseflipper vr.exe
 house of detention/house of detention.exe
 house/house.exe
 houseflipper.exe
@@ -4439,6 +4442,7 @@ midas gold plus/midas gold plus.exe
 midnight castle succubus/game_s.exe
 midnight fight express/midnightfightexpress.exe
 midnight heist/midnight heist.exe
+midnight murder club demo/midnightmurderclub.exe
 midnight ride/midnight ride.exe
 might & magic heroes vi.exe
 might and magic clash of heroes/clashofheroes.exe
@@ -8450,6 +8454,7 @@ win64/hacker_simulator_t-win64-shipping.exe
 win64/hackerlifesimulator-win64-shipping.exe
 win64/handdrawngame-win64-shipping.exe
 win64/hans-win64-shipping.exe
+win64/harbingergame-win64-shipping.exe
 win64/harshdoorstop-win64-shipping.exe
 win64/harvestella-win64-shipping.exe
 win64/hatred-win64-shipping.exe

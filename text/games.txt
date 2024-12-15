@@ -1,6 +1,7 @@
 (the) Gnorp Apologue
 *NEW* EPIC SCUFFED BHOP SIMULATOR 2023 (POG CHAMP)
 *NEW* SCUFFED BHOP SIMULATION 2026 GOTY EDITION
+- Arcane Raise -
 .hack//G.U. Last Recode
 //TODO: today
 1/8192
@@ -1112,6 +1113,7 @@ Car Mechanic Simulator 2015 Demo
 Car Mechanic Simulator 2018
 Car Mechanic Simulator 2021
 Car Mechanic Simulator 2021 Demo
+Car Mechanic Simulator VR
 Car Trader Simulator - Welcome to the Business
 CarX Drift Racing Online
 CarX Street
@@ -3240,6 +3242,7 @@ Hanz Puppetguns
 Happy Game
 Happy Room
 Happy's Humble Burger Barn
+Harbinger
 Hard Bullet
 Hard Reset
 Hard Reset Redux
@@ -3491,6 +3494,7 @@ House Builder: First Job
 House Flipper
 House Flipper 2
 House Flipper 2 Demo
+House Flipper VR
 House Party
 House of Detention
 House of the Dying Sun
@@ -4565,6 +4569,7 @@ Midnight Castle Succubus
 Midnight Fight Express
 Midnight Ghost Hunt
 Midnight Heist
+Midnight Murder Club Crossplay Beta
 Midnight Ride
 Might & Magic Heroes VI
 Might & Magic Heroes VII
