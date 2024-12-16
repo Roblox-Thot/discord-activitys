@@ -6788,6 +6788,7 @@ surgeon simulator 2/surgeon simulator 2.exe
 surgeon simulator 2013/ss2013.exe
 surgeon simulator experience reality/sser.exe
 surgeon simulator/ss2013.exe
+surgera vr/surgeravr.exe
 survarium.exe
 surviv.io - 2d battle royale/survivio.exe
 survival fountain of youth/survival fountain of youth.exe
@@ -6822,6 +6823,7 @@ swelter/hl2.exe
 swgbg.exe
 swgbwide_x1.exe
 swiftkit-rs.exe
+swine hd remaster/swinehd.exe
 swing dunk/swing dunk.exe
 swkotor.exe
 swkotor.exe
@@ -8193,6 +8195,7 @@ win64/bumsim-win64-shipping.exe
 win64/burningdaylight.exe
 win64/bussimulator18-win64-shipping.exe
 win64/bussimulator21-win64-shipping.exe
+win64/cabinfactory-win64-shipping.exe
 win64/callofkarenunreal-win64-shipping.exe
 win64/cantescapethebackrooms-win64-shipping.exe
 win64/capybaraspa-win64-shipping.exe

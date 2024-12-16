@@ -6223,6 +6223,7 @@ SUPERVIVE
 SURV1V3
 SWAT 3: Tactical Game of the Year Edition
 SWAT 4
+SWINE HD Remaster
 SWORD ART ONLINE Alicization Lycoris
 SYNCED（シンクド）
 SYNTHETIK
@@ -7063,6 +7064,7 @@ Surgeon Simulator
 Surgeon Simulator 2
 Surgeon Simulator VR: Meet The Medic
 Surgeon Simulator: Experience Reality
+Surgera VR
 SurrounDead
 Surrounded
 Survarium
@@ -7327,6 +7329,7 @@ The Brookhaven Experiment
 The Bunny Graveyard
 The Bureau: XCOM Declassified
 The Bus
+The Cabin Factory
 The Call of Karen
 The Callisto Protocol
 The Case of the Golden Idol
