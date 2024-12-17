@@ -4541,6 +4541,7 @@ mob factory windows demo/mobfarm.exe
 mob factory windows/mobfarm.exe
 mobilesuitgundambattleoperation2/msgbo2.exe
 mobiusff.exe
+mod manager/mod manager.exe
 model builder/model builder.exe
 modern combat 5/mc5.exe
 moderncombatversus.exe
@@ -7537,6 +7538,7 @@ train valley 2/trainvalley2.exe
 train valley/train-valley.exe
 trainz a new era/tane.exe
 trainz railroad simulator 2019/trs19.exe
+trainz railroad simulator 2022/trs22.exe
 traitors in salem/traitorsinsalem.exe
 traktor.amalgam.app.exe
 transforbest.exe

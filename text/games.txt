@@ -7922,6 +7922,7 @@ Train Station Renovation Demo
 Train Valley
 Train Valley 2
 Trainz Railroad Simulator 2019
+Trainz Railroad Simulator 2022
 Trainz Simulator 12
 Trainz: A New Era
 Traitors in Salem
@@ -8169,6 +8170,7 @@ VRMark
 VRoid Clothing Maker
 VRoid Studio
 VTOL VR
+VTOL VR Mod Loader
 VTuber Editor
 VTuber Maker
 VUP
