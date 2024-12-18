@@ -343,6 +343,7 @@ antichamber/binaries/win32/udk.exe
 antihero.exe
 antimatter dimensions/antimatter dimensions.exe
 antonblast demo/antonblastdynamitedemo.exe
+antonblast/antonblast.exe
 anvil saga/anvil saga.exe
 ao international tennis 2/tennis2.exe
 aoe2de/aoe2de_s.exe
@@ -505,6 +506,7 @@ aviary attorney/nw.exe
 avicii - invector/avicii invector.exe
 avp3.exe
 avp_dx11.exe
+awaria/awaria.exe
 awesomenauts.exe
 awkward dimensions redux/awkward dimensions redux.exe
 awol/awol.exe
@@ -665,6 +667,7 @@ berserk and the band of the hawk/berserk.exe
 besetup/setup_battleyearma2.exe
 besetup/setup_battleyearmagold.exe
 besiege.exe
+bethesda.net_launcher.exe
 beton brutal/betonbrutal.exe
 betrayal beach/betrayal beach.exe
 between the stars/betweenthestars.exe
@@ -935,6 +938,7 @@ boodunnit/boodunnit!.exe
 book of hours/bh.exe
 boomerang fu/boomerang fu.exe
 boomerang x/boomerang x.exe
+boot/ffxivboot.exe
 bootleg/bootleg.exe
 booty calls/bootycalls.exe
 booty farm/booty farm.exe
@@ -1428,6 +1432,7 @@ construction simulator/consim.exe
 contagion.exe
 containers/containers.exe
 content warning/content warning.exe
+content/minecraft.exe
 contra anniversary collection/game.exe
 contraband police demo/contrabandpolice.exe
 contraband police prologue/contrabandpolice.exe
@@ -3963,6 +3968,7 @@ lastyear-win64-shippinggame.exe
 late shift/lateshift.exe
 lateralligator/lateralligator.exe
 latex dungeon mv/game.exe
+launcher/bethesda.net_launcher.exe
 launcher/eg2.exe
 launcher/ntw3 v9.5.exe
 launcher/sir.exe
@@ -5077,6 +5083,7 @@ ostranauts/ostranauts.exe
 ostriv/ostriv.exe
 osu!.app
 osu!.exe
+osx64/dota2.app
 otaku project/lovedelivery.exe
 otaku's adventure/play.exe
 otaku's fantasy/otaku's fantasy.exe
@@ -6289,6 +6296,7 @@ skyhill/skyhill.exe
 skyisland/skyisland.exe
 skyrim special edition/skse64_loader.exe
 skyrim special edition/skyrimse.exe
+skyrim special edition/skyrimselauncher.exe
 skyrimlauncher.exe
 skyrimvr/skyrimvr.exe
 slap city.exe
@@ -8270,6 +8278,7 @@ win64/deadlink-win64-shipping.exe
 win64/deadpoly-win64-shipping.exe
 win64/deadside-win64-shipping.exe
 win64/deadsignal-win64-shipping.exe
+win64/deathinunison-win64-shipping.exe
 win64/deathlystillnessgame-win64-shipping.exe
 win64/deathsprint66.exe
 win64/deceit2game-win64-shipping.exe
@@ -9099,6 +9108,8 @@ win64/tropico6-win64-shipping.exe
 win64/trover-win64-shipping.exe
 win64/trypfpv-win64-shipping.exe
 win64/tscgame-win64-shipping.exe
+win64/tslgame.exe
+win64/tslgame_be.exe
 win64/tssgame-win64-shipping.exe
 win64/tt2eos-win64-shipping.exe
 win64/turtlechamps-win64-shipping.exe
