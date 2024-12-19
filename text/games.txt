@@ -578,6 +578,7 @@ Backbone: Prologue
 Backpack Battles
 Backpack Hero
 Backpack Hero Demo
+Backrooms Break
 Backrooms Rec.
 Backrooms Society
 Backrooms: Escape Together
@@ -3205,6 +3206,7 @@ Half Minute Hero: Super Mega Neo Climax Ultimate Boy
 Half dead
 Half-Life
 Half-Life 2
+Half-Life 2: Deathmatch
 Half-Life 2: DownFall
 Half-Life 2: Update
 Half-Life 2: VR Mod
@@ -4251,6 +4253,7 @@ Lucius
 Lucius II
 Luck be a Landlord
 Luck be a Landlord (DEMO)
+Lucky Tower Ultimate
 Lucy -The Eternity She Wished For-
 Lucy Got Problems
 Ludo Online
@@ -6963,6 +6966,7 @@ Subnautica
 Subnautica: Below Zero
 Subsiege
 Substance 3D Painter 2022
+Substance 3D Painter 2024
 Substance Painter 2020
 Subsurface Circular
 Subterrain
@@ -7517,6 +7521,7 @@ The Longest Journey
 The Looker
 The Lord of the Rings Online™
 The Lord of the Rings: Journeys in Middle-earth
+The Lord of the Rings: Return to Moria™
 The Lord of the Rings: War in the North
 The Mageseeker: A League of Legends Story™
 The Magician's Research
