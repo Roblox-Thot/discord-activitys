@@ -3644,6 +3644,7 @@ initial drift online/initial drift.exe
 injustice.exe
 injustice2.exe
 inkbound/inkbound.exe
+inkulinati/inkulinati.exe
 inmost/inmost.exe
 innocence or money - prelude/innocenceormoney.exe
 innocence or money - v 0.0.3/innocenceormoney.exe
@@ -4279,6 +4280,7 @@ maniac/maniac.exe
 maniaplanet.exe
 maniaplanet_tmstadium/maniaplanet.exe
 manifold garden/manifoldgarden.exe
+mannequin/mannequin.exe
 mansions of madness/mansions of madness.exe
 manual samuel/manual samuel.exe
 mapleroyals.exe
@@ -9257,6 +9259,7 @@ windows-i686/trick and treat.exe
 windows-i686/wolftails.exe
 windows-i686/xoxo_droplets.exe
 windows-i686/xoxoblooddroplets.exe
+windows-x86_64/zephon.exe
 windows/dungeonclawler.exe
 windows/godus.exe
 windows/idleherotd.exe

@@ -2455,7 +2455,7 @@ FINAL FANTASY XI
 FINAL FANTASY XII
 FINAL FANTASY XIII
 FINAL FANTASY XIII-2
-FINAL FANTASY XIV
+FINAL FANTASY XIV Online
 FINAL FANTASY XV WINDOWS EDITION
 FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO
 FINAL FANTASY XVI
@@ -3702,6 +3702,7 @@ Initial Drift Online
 Injustice: Gods Among Us Ultimate Edition
 Injustice™ 2
 Inkbound
+Inkulinati
 Innocence Or Money - Prelude
 Innocence Or Money - V 0.0.3
 Insaniquarium! Deluxe
@@ -4420,6 +4421,7 @@ Manhunt
 ManiaPlanet
 Maniac
 Manifold Garden
+Mannequin
 Manor Lords
 Mansions of Madness
 Manual Samuel
@@ -8661,6 +8663,7 @@ Yu-Gi-Oh! Legacy of the Duelist : Link Evolution
 Yume Nikki
 Yuppie Psycho
 ZED ZONE
+ZEPHON
 ZERO Sievert
 ZOMBI
 ZONE OF THE ENDERS THE 2nd RUNNER : MARS / ANUBIS ZONE OF THE ENDERS : MARS
