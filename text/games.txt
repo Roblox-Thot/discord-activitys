@@ -1120,6 +1120,7 @@ Car Mechanic Simulator VR
 Car Trader Simulator - Welcome to the Business
 CarX Drift Racing Online
 CarX Street
+Caravan Sandwitch
 Carcassonne: The Official Board Game
 Card Hunter
 Card Shark
@@ -5771,6 +5772,7 @@ RUNNING WITH RIFLES Demo
 RUSSIA BATTLEGROUNDS
 RUSSIAPHOBIA
 RWBY: Grimm Eclipse
+RYB
 Rabbit Hole
 Rabbit and Steel
 Rabi-Ribi
@@ -5832,6 +5834,7 @@ ReCore
 Ready Player One: OASIS beta
 Ready or Not
 Real Pool 3D - Poolians
+RealFlight Evolution
 RealRTCW
 Realm Grinder
 Realm Revolutions
