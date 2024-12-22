@@ -958,6 +958,7 @@ bouboum/bouboum.exe
 bound by flame/boundbyflame.exe
 boundless.exe
 bounty below/bountybelow.exe
+bounty drag racing/bounty drag racing drag racing evolved.exe
 bounty of one/bountyofone.exe
 bounty train/bountytrainsteam.exe
 bout2.exe
@@ -1023,6 +1024,7 @@ budget cuts/budget cuts.exe
 bug fables/bug fables.exe
 buggos/buggos.exe
 bugsnax/bugsnax.exe
+build master/aps.exe
 build/aspproject.exe
 build/ir.exe
 build/raid.exe
@@ -1909,6 +1911,7 @@ digimon masters online - steam/gdmo.exe
 digimon masters online - steam/updatemanager.exe
 digimon survive/digimonsurvive.exe
 digimon world next order/digimon world next order.exe
+digseum/digseum.exe
 diner bros/diner bros.exe
 dinkum/dinkum.exe
 dinner with an owl/dwao.exe
@@ -5664,6 +5667,7 @@ recipe for disaster/recipe for disaster.exe
 reckoning.exe
 record of lodoss war-deedlit in wonder labyrinth-/deedlit in wonder labyrinth.exe
 recore.exe
+recroom.exe
 recroom/recroom.exe
 recroom_release.exe
 recycling center simulator/rcsim.exe
@@ -7201,6 +7205,7 @@ the long drive/thelongdrive.exe
 the longest journey/game.exe
 the longing/the longing.exe
 the looker/the looker.exe
+the lust city/thelustcity.exe
 the mageseeker/the mageseeker.exe
 the magician's research/the magicians research.exe
 the messenger/themessenger.exe
