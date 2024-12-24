@@ -18,6 +18,7 @@
 100 Doors Game - Escape from School
 100 Funny Cats
 100 Istanbul Cats
+100 Korea Cats
 100 March Cats
 100 Ninja Cats
 100 Robo Cats
@@ -373,6 +374,7 @@ Antimatter Dimensions
 Antonblast
 Antonblast Demo
 Anvil Saga
+Aooni
 Aperture Desk Job
 Aperture Hand Lab
 Apewar
@@ -3471,6 +3473,7 @@ Honey, I Joined a Cult
 HoneySelect2Libido DX
 Honkai: Star Rail
 HonkaiImpact 3rd
+Hood Warfare
 Hood: Outlaws & Legends
 Hoofobia
 Hook
