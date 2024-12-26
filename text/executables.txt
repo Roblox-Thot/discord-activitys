@@ -489,6 +489,7 @@ audiosurf.exe
 audiosurf2.exe
 aura kingdom/_launcher.exe
 aura kingdom/launcher.exe
+aurelia/aurelia.exe
 aurora hills chapter 1/aurora hills chapter 1.exe
 auto chess/acphoenix.exe
 autobahn police simulator 2/highwaypatrol2.exe
@@ -1165,6 +1166,7 @@ castlevania dominus collection/game.exe
 castlevania lords of shadow - mirror of fate hd/cmof.exe
 casual desktop game/dnycasualdeskgame.exe
 cat cafe manager/catcafe.exe
+cat god ranch/catgodranch.exe
 cat goes fishing/cat goes fishing.exe
 cat in the box/game.exe
 cat quest demo/cat quest.exe
@@ -4475,6 +4477,7 @@ milmo/milmo.exe
 milo and the christmas gift/milo and the christmas gift.exe
 milo and the magpies/miloandthemagpies.exe
 milthm/milthm.exe
+mimic logic/mimiclogic.exe
 mimic search/mimic search.exe
 mimpi dreams/mimpidreams.exe
 minami lane/minamilane.exe
@@ -6397,6 +6400,7 @@ solium infernum/soliuminfernum.exe
 soma.exe
 somesome/somesome.exe
 somewhere in the shadow/somewhere in the shadow.exe
+song of the prairie/sop.exe
 songbringer.exe
 songs of silence/songsofsilence.exe
 songsofconquest/songsofconquest.exe
@@ -7764,6 +7768,7 @@ unturned_be.exe
 unworthy/unworthy.exe
 updater/sansar.exe
 uplink.exe
+uptasia/uptasiaapp.exe
 urban rivals/urban rivals.exe
 urbek prologue/urbek.exe
 urbek/urbek.exe
@@ -8377,6 +8382,7 @@ win64/endling-win64-shipping.exe
 win64/endorphinvice-win64-shipping.exe
 win64/engarde-win64-shipping.exe
 win64/enlisted.exe
+win64/enotria-win64-shipping.exe
 win64/eotu-win64-shipping.exe
 win64/escapefromboykisser-win64-shipping.exe
 win64/escapefromschool-win64-shipping.exe
@@ -8971,6 +8977,7 @@ win64/songofhorror-win64-shipping.exe
 win64/songofnunu-win64-shipping.exe
 win64/soulstice.exe
 win64/spacefish.exe
+win64/spacegaragesteam-win64-shipping.exe
 win64/spacemyths-win64-shipping.exe
 win64/sparkingzero-win64-shipping.exe
 win64/spidermanffh-win64-shipping.exe

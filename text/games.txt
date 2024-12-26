@@ -501,6 +501,7 @@ Audioshield
 Audiosurf
 Audiosurf 2
 Aura Kingdom
+Aurelia
 Aurora Hills: Chapter 1
 Auto Chess
 Auto Sale Life: Fresh Start
@@ -1169,6 +1170,7 @@ Castlevania: Lords of Shadow 2
 Castlevania: Lords of Shadow – Mirror of Fate HD
 Casual Desktop Game
 Cat Cafe Manager
+Cat God Ranch
 Cat Goes Fishing
 Cat Quest
 Cat Quest Demo
@@ -2296,6 +2298,7 @@ Engine Evolution 2022
 Engine Evolution 2023
 Enigma do Medo
 Enlisted
+Enotria: The Last Song
 Enshrouded
 Enter the Gungeon
 Entropia Universe
@@ -4603,6 +4606,7 @@ Millennia
 Milo and the Christmas Gift
 Milo and the Magpies
 Milthm
+Mimic Logic
 Mimic Search
 Mimpi Dreams
 Minami Lane
@@ -6683,6 +6687,7 @@ Solium Infernum
 Soma
 Somewhere in the Shadow
 Sonder
+Song Of The Prairie
 Song of Nunu: A League of Legends Story
 Songbringer
 Songs Of Silence
@@ -8103,6 +8108,7 @@ UnReal World
 Unbound: Worlds Apart Prologue
 Unboxing the Cryptic Killer
 Unbridled: Horse Designer
+Uncle Chop's Rocket Shop
 Uncrashed : FPV Drone Simulator
 Undawn
 Undead Horde
@@ -8164,6 +8170,7 @@ Unworthy
 UpGun
 Uplink
 UpnDown
+Uptasia
 Urban Rivals
 Urbek City Builder
 Urbek City Builder: Prologue
