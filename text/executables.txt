@@ -969,6 +969,7 @@ boxes/boxes lost fragments.exe
 boxvr/boxvr.exe
 boyfriend dungeon/boyfrienddungeon.exe
 braid.exe
+brain show/brain show.exe
 brainbread2/bb2.exe
 braveland heroes/braveland_heroes.exe
 braveland/braveland.exe
@@ -1365,6 +1366,7 @@ coj.exe
 coj_dx10.exe
 cojbibgame_x86.exe
 cojgunslinger.exe
+cold fear/coldfear_retail.exe
 cold waters/coldwaters.exe
 college bound/collegebound.exe
 college kings 2/collegekings2.exe
@@ -2064,6 +2066,7 @@ dqxgame.exe
 dr langeskov the tiger and the terribly cursed emerald a whirlwind heist/drlangeskov.exe
 dr livesey giga based edition/dr livesey rom and death edition.exe
 dr2_us.exe
+dragon age the veilguard character creator/dragon age the veilguard ea.exe
 dragon age the veilguard/dragon age the veilguard.exe
 dragon ball the breakers/start_game.exe
 dragon cliff/game.exe
@@ -2479,6 +2482,7 @@ fae tactics/fae_tactics.exe
 faefever/faefever.exe
 faeria.exe
 fairy fencer f advent dark force/fairyfencerad.exe
+fairy tail dungeons/fairy tail dungeons.exe
 fairy tail/fairy_tail.exe
 fairyfencer.exe
 faith/faith.exe
@@ -6301,6 +6305,7 @@ skill legends royale/skilllegendsroyale.exe
 skill/dfubg.exe
 skill/dfufg.exe
 skilltree.exe
+skuf fishing/skuffishing.exe
 skul/skul.exe
 skull and bones (open beta)/skullandbones.exe
 skull and bones/skullandbones.exe
@@ -6377,6 +6382,7 @@ sniperelite4.exe
 sniperelite4_dx11.exe
 sniperelite4_dx12.exe
 sniperghostwarrior2.exe
+snk vs capcom svc chaos/svc chaos.exe
 snkrx/snkrx.exe
 snowbreak/game/binaries/win64/game.exe
 snowdrop escape/hl2.exe
@@ -6741,6 +6747,7 @@ sucker for love/sucker for love.exe
 sudden strike 4/suddenstrike4.exe
 sudocats/sudocats.exe
 suguri.exe
+suicide guy sleepin deeply/suicideguysleepindeeply.exe
 suicide guy/suicideguy.exe
 sulfur/sulfur.exe
 summer in mara prologue/summer in mara.exe
@@ -7200,6 +7207,7 @@ the last hero of nostalgaia demo/tlhon.exe
 the last man survivor prologue/the last man survivor.exe
 the last of us part i/tlou-i.exe
 the last of waifus/the last of waifus.exe
+the last plague/thelastplague.exe
 the last sovereign/game.exe
 the last spell/the last spell.exe
 the last stand aftermath demo/tlsa.exe
@@ -7889,6 +7897,7 @@ vtuber editor/vtuber editor.exe
 vtuber maker/vtuber maker.exe
 vup/vup.exe
 vvvvvv.exe
+vvvvvv/vvvvvv.exe
 wa.exe
 waifufighterfist/boxingwaifu.exe
 wait! life is beautiful! prologue/wait! life is beautiful!.exe
@@ -9284,6 +9293,7 @@ windows-i686/wolftails.exe
 windows-i686/xoxo_droplets.exe
 windows-i686/xoxoblooddroplets.exe
 windows-x86_64/zephon.exe
+windows/bloody painter dating sim.exe
 windows/dungeonclawler.exe
 windows/godus.exe
 windows/idleherotd.exe

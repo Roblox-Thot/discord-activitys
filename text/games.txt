@@ -859,6 +859,7 @@ Bloodstained: Ritual of the Night
 Bloodwash
 Bloody Good Time
 Bloody Hell
+Bloody Painter Dating Sim
 Bloody Trapland
 Bloody Trapland 2: Curiosity
 Bloody Walls
@@ -923,6 +924,7 @@ Bounty: Drag Racing
 Boxes
 Boyfriend Dungeon
 Braid
+Brain Show
 BrainBread 2
 Braveland
 Braveland Heroes
@@ -1345,6 +1347,7 @@ Coffee Talk Demo
 Coffee Talk Episode 2: Hibiscus & Butterfly
 Cogmind
 Coin Factory
+Cold Fear
 Cold Waters
 College Bound
 College Kings
@@ -2035,6 +2038,7 @@ Dragon Age: Origins
 Dragon Age: Origins - Ultimate Edition
 Dragon Age™: Inquisition
 Dragon Age™: The Veilguard
+Dragon Age™: The Veilguard Character Creator
 Dragon And Home
 Dragon Cliff 龙崖
 Dragon Fin Soup
@@ -2426,6 +2430,7 @@ F1® Manager 2022
 F1® Manager 2023
 F1® Manager 2024
 FAIRY TAIL
+FAIRY TAIL: DUNGEONS
 FAITH
 FAR: Changing Tides
 FAR: Lone Sails
@@ -6175,6 +6180,7 @@ SLUDGE LIFE
 SLUDGE LIFE: The BIG MUD Sessions
 SMASH LEGENDS
 SMITE
+SNK VS. CAPCOM SVC CHAOS
 SNKRX
 SNOW
 SNOWBREAK
@@ -7003,6 +7009,7 @@ Sudden Strike 4
 Sudocats
 Suguri
 Suicide Guy
+Suicide Guy: Sleepin' Deeply
 Suicide Squad: Kill the Justice League
 Summer Clover
 Summer Memories
@@ -7514,6 +7521,7 @@ The Last Hero of Nostalgaia
 The Last Hero of Nostalgaia Demo
 The Last Job
 The Last Man Survivor: Prologue
+The Last Plague: Blight
 The Last Remnant
 The Last Sovereign
 The Last Spell
@@ -8851,6 +8859,7 @@ yahtzee girl
 Симулятор Прыгания по Гаражам
 Симулятор Скуфа
 Симулятор Чушпана
+Скуф на рыбалке
 いっき団結
 いもむし
 たこパ サバイバル
