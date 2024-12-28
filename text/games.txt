@@ -2645,6 +2645,7 @@ Finnish Army Simulator Demo
 Finnish Cottage Simulator
 Fire & Maneuver
 Fire Pro Wrestling World
+FireAlpaca SE
 Fireboy & Watergirl: Elements
 Firefall
 Firefighting Simulator - The Squad
@@ -6025,6 +6026,7 @@ Robocraft Royale
 Robolife-Days with Aino
 Roboquest
 Robot Roller-Derby Disco Dodgeball
+Robot Rumble 2
 Rock 'N' Roll Defense
 Rock Life: The Rock Simulator
 Rock of Ages
@@ -8960,6 +8962,7 @@ yahtzee girl
 花妖物语/Flower girl
 蒼の彼方のフォーリズム
 超将棋
+近畿霊務局
 違う冬のぼくら
 違う冬のぼくら Friend's Pass
 鈴蘭の剣：この平和な世界のために

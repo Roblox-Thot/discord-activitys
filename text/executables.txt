@@ -2653,6 +2653,7 @@ fingered/nw.exe
 finnish army simulator demo/finnish army simulator.exe
 fire & maneuver/fire & maneuver.exe
 fire prowrestling world/fireprowrestlingw.exe
+firealpaca se/firealpacasteam.exe
 fireboy & watergirl elements/fbwg.exe
 firefallclient.exe
 firestone/firestone.exe
@@ -3934,6 +3935,7 @@ krosmaster arena.exe
 krosmaster.exe
 krunker/official krunker.io client.exe
 krypta fm/kryptafm.exe
+ksab/kinki spiritual affairs bureau.exe
 ksp.exe
 ksp_x64.exe
 ktane.exe
@@ -5854,6 +5856,7 @@ robocraft.exe
 robocraftclient.exe
 robolife-days with aino/robolife-days with aino.exe
 robosquare/robosquare.exe
+robot rumble 2/rr2 windows build.exe
 rock 'n' roll defense/rock 'n' roll defense.exe
 rock life/rocklife.exe
 rocket bot royale/rocketbotroyale.exe
