@@ -725,6 +725,7 @@ Bejeweled 3
 Bejeweled Blitz
 Belko VR: An Escape Room Experiment
 Bellwright
+Below the Stone
 Beltmatic
 Ben and Ed
 Ben and Ed - Blood Party
@@ -1584,6 +1585,7 @@ Curious Cases
 Curious Expedition
 Curious Expedition 2
 Curse of the Dead Gods
+Cursed to Golf
 Cursorblade
 Cute Honey
 Cute Honey 2
@@ -3589,6 +3591,7 @@ I'm on Observation Duty 3
 I'm on Observation Duty 4
 I'm on Observation Duty 5
 I'm on Observation Duty 6
+I'm on Observation Duty 7
 I, Zombie
 ICEY
 IKEA VR Experience
@@ -5120,6 +5123,7 @@ Oasis VR
 Obama
 Obama Maze
 Obduction
+Obenseuer
 Object N
 Oblivity
 Obscure
@@ -5162,6 +5166,7 @@ Old Market Simulator
 Old Market Simulator: Prologue
 Old School
 Old School Musical
+Old School Rally
 Old School RuneScape
 Old World
 Oldage
@@ -6329,6 +6334,7 @@ Say No! More
 Sayonara Wild Hearts
 Scania Truck Driving Simulator
 Scanner Sombre
+Scarlet Hollow
 Scarlet Maiden
 Scarlet Tower
 Scars Above
@@ -8531,6 +8537,7 @@ Winter Survival: Prologue
 Wish
 Witch Hunt
 Witch It
+WitchHand
 WitchSpring R
 Witches x Warlocks
 Witchfire
@@ -8656,6 +8663,7 @@ Yakuza Kiwami 2
 Yakuza Rogue: Yokohama massage parlor chapter
 Yakuza: Like a Dragon
 Yarimono
+Yellow Taxi Goes Vroom
 Yes, Master!
 Yes, Your Grace
 Yet Another Zombie Defense
