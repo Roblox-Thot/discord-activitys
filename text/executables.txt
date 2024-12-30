@@ -857,6 +857,7 @@ blacktop hoops demo steam/blacktop hoops.exe
 blackwake.exe
 blade & sorcery/bladeandsorcery.exe
 blade assault/bladeassault.exe
+blade strangers/game.exe
 blade/fsn2-win64vc14-release.exe
 bladed/chopghost.exe
 blake stone - planet strike/dosbox/dosbox.exe
@@ -2652,6 +2653,7 @@ finalfantasyxvi_demo/ffxvi_demo.exe
 finding paradise/finding paradise.exe
 fingerbones/fingerbones.exe
 fingered/nw.exe
+finn dorsets institute for livestock replication/finndorsets.exe
 finnish army simulator demo/finnish army simulator.exe
 fire & maneuver/fire & maneuver.exe
 fire prowrestling world/fireprowrestlingw.exe
@@ -8445,6 +8447,7 @@ win64/fmf-win64-shipping.exe
 win64/fmf2-win64-shipping.exe
 win64/fna-win64-shipping.exe
 win64/fnaf9-win64-shipping.exe
+win64/fobia-win64-shipping.exe
 win64/folklorehunter-win64-shipping.exe
 win64/foreverskies-win64-shipping.exe
 win64/foreverwinter-win64-shipping.exe
@@ -9152,6 +9155,7 @@ win64/tree-win64-shipping.exe
 win64/trials of mana-win64-shipping.exe
 win64/triangle_strategy-win64-shipping.exe
 win64/tribe-win64-shipping.exe
+win64/tribexr-win64-shipping.exe
 win64/trikaya-win64-shipping.exe
 win64/tropico6-win64-shipping.exe
 win64/trover-win64-shipping.exe

@@ -802,6 +802,7 @@ Blackwake
 Blade & Sorcery
 Blade & Soul
 Blade Assault
+Blade Strangers
 Bladed Fury
 Blair Witch
 Blake Stone: Planet Strike
@@ -2643,6 +2644,7 @@ Finding Frankie
 Finding Paradise
 Fingerbones
 Fingered
+Finn Dorset's Institute For Livestock Replication
 Finnish Army Simulator Demo
 Finnish Cottage Simulator
 Fire & Maneuver
@@ -2711,6 +2713,7 @@ Fly Punch Boom: First Impact!
 Fly Simulator
 Flyff
 Flyout
+Fobia - St. Dinfna Hotel
 Fog Of War - Free Edition
 Folklore Hunter
 Food Fighter Clicker Games
@@ -8009,6 +8012,7 @@ Trials of the Blood Dragon
 Trials on Tatooine
 Tribal Hunter
 Tribal Wars
+Tribe XR | DJ Academy
 Tribe: Primitive Builder
 Tribes of Midgard
 Tribes: Ascend
