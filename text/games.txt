@@ -20,6 +20,7 @@
 100 Istanbul Cats
 100 Korea Cats
 100 March Cats
+100 New Year Cats
 100 Ninja Cats
 100 Robo Cats
 100 Space Cats
@@ -1204,6 +1205,7 @@ Cave Digger
 Cave Story's Secret Santa
 Caveblazers
 Caveblazers Together
+Cavern of Dreams
 Caves of Qud
 Celeste
 Cell to Singularity - Evolution Never Ends
