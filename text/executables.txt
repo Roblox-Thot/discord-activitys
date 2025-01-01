@@ -340,6 +340,7 @@ anomaly agent/anomaly agent.exe
 another brick in the mall/launch.exe
 another crab's treasure/anothercrabstreasure.exe
 another eden/anothereden.exe
+another farm roguelike/farma.exe
 anthem.exe
 antichamber/binaries/win32/udk.exe
 antihero.exe
@@ -1050,6 +1051,7 @@ buoyancy/buoyancy.exe
 burg/burg.exe
 burger/burger.exe
 buried stars/buriedstars.exe
+buried/buried.exe
 buriedbornes/buriedbornes.exe
 buriedbornes2/buriedbornes2.exe
 burn me twice/burn me twice.exe
@@ -1253,6 +1255,7 @@ chkn/chkn.exe
 chocolate factory simulator prologue/chocolate factory simulator prologue.exe
 choice chamber/choicechamber.exe
 choice of life middle ages 2/choice of life - middle ages 2.exe
+choo-choose/choo-choose.exe
 chop goblins/chop goblins.exe
 choushougi/choushougi.exe
 chromasquad/chromasquad.exe

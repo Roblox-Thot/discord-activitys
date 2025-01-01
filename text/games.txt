@@ -368,6 +368,7 @@ Anomaly Zone
 Anonymous Hacker Simulator: Prologue
 Another Brick in The Mall
 Another Crab's Treasure
+Another Farm Roguelike
 Anthem™
 Antichamber
 Antihero
@@ -1006,6 +1007,7 @@ Buoyancy
 Bureau of Contacts
 Burg
 Burger
+Buried
 Buriedbornes - Dungeon RPG
 Buriedbornes2 - Dungeon RPG
 Burn Me Twice
@@ -1265,6 +1267,7 @@ Choice Chamber
 Choice of Life: Middle Ages
 Choice of Life: Middle Ages 2
 Choo-Choo Charles
+Choo-Choose
 Chop Goblins
 Chris Sawyer's Locomotion
 Chroma Squad
