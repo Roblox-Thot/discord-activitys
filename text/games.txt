@@ -2069,6 +2069,7 @@ Draw a Stickman: EPIC
 Draw a Stickman: EPIC 2
 Drawful 2
 Drawing From Memory
+Dread Dawn
 Dread Delusion
 Dread Hunger
 Dread Templar
@@ -2505,6 +2506,7 @@ FTL: Faster Than Light
 FUCK HITLER
 FUCK PUTIN
 FURIDASHI: Drift Cyber Sport
+FURRY HITLER
 FUSER
 Faaast Penguin / ファーストペンギン
 Fable - The Lost Chapters
@@ -3634,6 +3636,7 @@ Idle Bouncer
 Idle Cave Miner
 Idle Champions of the Forgotten Realms
 Idle Clans
+Idle Colony
 Idle Dice 2
 Idle Fishing
 Idle Heist
@@ -4342,6 +4345,7 @@ MINDNIGHT
 MINERVA: Metastasis
 MIR4
 MISTOVER Demo
+MLB Rivals
 MMORPG Tycoon 2
 MO:Astray
 MOBILE SUIT GUNDAM BATTLE OPERATION 2
