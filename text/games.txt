@@ -1354,6 +1354,7 @@ Coffee Talk Demo
 Coffee Talk Episode 2: Hibiscus & Butterfly
 Cogmind
 Coin Factory
+Coin Pusher Casino
 Cold Fear
 Cold Waters
 College Bound
@@ -2302,6 +2303,7 @@ Endless Zone
 Endling - Extinction is Forever
 Endoparasitic
 Endzone - A World Apart
+Endzone 2
 Enemy Front
 Enemy On Board
 Enforcer: Police Crime Action
@@ -3664,6 +3666,7 @@ Idol Showdown
 If Found
 If My Heart Had Wings
 If On A Winter's Night, Four Travelers
+IfSunSets
 Ikaruga
 Ikenfell
 Illarion
@@ -5856,6 +5859,7 @@ Ratopia
 Ratropolis
 Ratty Catty
 Ratz Instagib 2.0
+Ravager
 Ravenfield
 Ravenfield: Multiplayer Mod
 Ravenswatch
@@ -8714,6 +8718,7 @@ Yu-Gi-Oh!  Master Duel
 Yu-Gi-Oh! Duel Links
 Yu-Gi-Oh! Legacy of the Duelist
 Yu-Gi-Oh! Legacy of the Duelist : Link Evolution
+Yugo: the non-game
 Yume Nikki
 Yuppie Psycho
 ZED ZONE
