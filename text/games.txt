@@ -2520,6 +2520,7 @@ Face The Abyss
 FaceRig
 Faces of War
 Factorio
+Factory Outlet Simulator
 Factory Outlet Simulator: Prologue
 Factory Town
 Factory Town Idle
@@ -3771,6 +3772,7 @@ Intruder
 Intrusion 2
 Inverted Angel
 Invisible, Inc.
+Invisigun Reloaded
 Ion Fury
 Iratus: Lord of the Dead
 Iron Brigade
@@ -3874,6 +3876,7 @@ Justice League VR: The Complete Experience
 KARDS - The WWII Card Game
 KEO
 KHOLAT
+KIBORG: Arena
 KIDS
 KILL KNIGHT
 KILL la KILL -IF
@@ -5442,6 +5445,7 @@ Peasant Royale
 Peekaboo
 Peeping Dorm Manager
 Peepo Island
+PegIdle
 Peggle Deluxe
 Peggle Extreme
 Peglin

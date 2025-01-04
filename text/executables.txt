@@ -2483,6 +2483,7 @@ faces of war/facesofwar.exe
 facetheabyss/facetheabyss.exe
 factorio.exe
 factory outlet simulator prologue/factory outlet simulator prologue.exe
+factory outlet simulator/factory outlet simulator.exe
 factory town idle/factory town idle.exe
 factory town/factory town.exe
 factorygame-win64-shipping.exe
@@ -3710,6 +3711,7 @@ intrusion 2/intrusion2.exe
 inversus/inversus.exe
 invertedangel/inverted angel.exe
 invisibleinc.exe
+invisigun reloaded/invisigun.exe
 ion fury/fury.exe
 ionbranch.exe
 ionbranch_be.exe
@@ -5277,6 +5279,7 @@ peggle deluxe/peggle.exe
 peggle/popcapgame1.exe
 peggleextreme.exe
 peggleextreme/popcapgame1.exe
+pegidle/pegidle.exe
 peglin demo/peglin.exe
 peglin/peglin.exe
 pemsa/pemsa.exe
@@ -8624,6 +8627,7 @@ win64/keepers-win64-shipping.exe
 win64/kena-win64-shipping.exe
 win64/kholat-win64-shipping.exe
 win64/kibbikeeper-win64-shipping.exe
+win64/kiborgarena-win64-shipping.exe
 win64/kingdom hearts iii.exe
 win64/kingofretail-win64-shipping.exe
 win64/kingsbounty2.exe
@@ -9384,6 +9388,7 @@ woh/worldofhorror.exe
 wolcen.exe
 wolfenstein 3d/dosbox/dosbox.exe
 wolfenstein enemy territory/et.exe
+wolfenstein the old blood/wolfoldblood_x64.exe
 wolfmp.exe
 wolfneworder_x64.exe
 wolfoldblood_x32.exe
