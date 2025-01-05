@@ -2816,6 +2816,7 @@ frog fighters/frog fighters.exe
 frog fractions game of the decade edition/frog fractions game of the decade edition.exe
 frog_detective_2/frog_detective_2.exe
 from ashes, bloom/from ashes, bloom.exe
+from glory to goo/from glory to goo.exe
 from space/fromspace.exe
 from the darkness/from the darkness.exe
 from the shadows/from the shadows.exe
@@ -8445,6 +8446,7 @@ win64/fbs-win64-shipping.exe
 win64/fcs-win64-shipping.exe
 win64/fctclient-win64-shipping.exe
 win64/feartherapybf-win64-shipping.exe
+win64/fera-win64-shipping.exe
 win64/fernbus-win64-shipping.exe
 win64/ff7remake_.exe
 win64/ff_train_test-win64-shipping.exe
