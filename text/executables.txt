@@ -2658,6 +2658,8 @@ final/game.exe
 finalfactory/finalfactory.exe
 finalfantasyxvi/ffxvi.exe
 finalfantasyxvi_demo/ffxvi_demo.exe
+find all 4 magic/find all 4 magic.exe
+find all/find all.exe
 finding paradise/finding paradise.exe
 fingerbones/fingerbones.exe
 fingered/nw.exe
@@ -3444,6 +3446,7 @@ hole dweller/holedweller.exe
 hollow cocoon/hollow cocoon.exe
 hollow survivors prologue/hollow survivors.exe
 hollow_knight.exe
+hollowbody/hollowbody.exe
 holo x break/holo x break.exe
 holocure/holocure.exe
 holodrive.exe
@@ -6074,6 +6077,7 @@ scarlethollow/scarlethollow.exe
 scene investigators demo/scene investigators (demo).exe
 scene investigators/scene investigators.exe
 school of dragons how to train your dragon/domain.exe
+schoolboy runaway/schoolboy runaway.exe
 sclash/sclash.exe
 scooterflow/scooterflow.exe
 scorch/scorch_final.exe
@@ -7203,6 +7207,7 @@ the house of da vinci 2/thodv2.exe
 the house of da vinci/the house of da vinci.exe
 the house of the dead remake/the house of the dead remake.exe
 the i of the dragon/theiofthedragon.exe
+the imperial gatekeeper/game.exe
 the incredible adventures of van helsing final cut/vanhelsing_x64_win10.exe
 the incredible adventures of van helsing ii/vanhelsing_x64.exe
 the incredible adventures of van helsing iii/vanhelsing_x64.exe
@@ -8076,6 +8081,7 @@ wild terra 2/wild-terra-2.exe
 wild terra online/wild-terra.exe
 wild west saga/wildwest.exe
 wild wet west/wild wet west.exe
+wild woods/wild woods.exe
 wildeight.exe
 wildermyth/wildermyth.exe
 wildfire/wildfire.exe
@@ -8594,6 +8600,7 @@ win64/incursion-win64-shipping.exe
 win64/indiana-win64-shipping.exe
 win64/indianaepicgamestore-win64-shipping.exe
 win64/indika-win64-shipping.exe
+win64/industria-win64-shipping.exe
 win64/inertia-win64-shipping.exe
 win64/infliction-win64-shipping.exe
 win64/infused-win64-shipping.exe
@@ -9102,6 +9109,7 @@ win64/testing-win64-shipping.exe
 win64/tetriseffect-win64-shipping.exe
 win64/tfba-win64-shipping.exe
 win64/th-win64-shipping.exe
+win64/the_citadel-win64-shipping.exe
 win64/the_enjenir-win64-shipping.exe
 win64/the_purge_dilemma-win64-shipping.exe
 win64/theascent-win64-shipping.exe
