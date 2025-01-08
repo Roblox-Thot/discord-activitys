@@ -3835,6 +3835,7 @@ jwe.exe
 kadomon/kadomon hyper auto battlers.exe
 kaerimichi/kaerimichi.exe
 kag.exe
+kaiju princess 2/kaiju princess 2.exe
 kaijuprincess/kaijuprincess.exe
 kaion tale mmorpg/kaiontale.exe
 kakele online - mmorpg/kakele.exe
@@ -4885,6 +4886,7 @@ never split the party.exe
 neveralone/never_alone.exe
 neverbreakup/neverbreakupbeta.exe
 neverending nightmares/nightmare.exe
+nevergrind online/nevergrind-online.exe
 neverwinter.exe
 neverwinter/live/gameclient.exe
 new cycle/new cycle.exe
@@ -5562,6 +5564,7 @@ pubglite/launcher.exe
 pubglite/launcher_updater.exe
 pubglite/pubg lite.exe
 public bounce/public bounce.exe
+puck/puck.exe
 pulsarlostcolony/pulsar_lostcolony.exe
 pumping simulator 2/pumping simulator 2.exe
 pumpingsimulator/pumping simulator.exe
@@ -9338,6 +9341,7 @@ windows-i686/xoxo_droplets.exe
 windows-i686/xoxoblooddroplets.exe
 windows-x86_64/zephon.exe
 windows/bloody painter dating sim.exe
+windows/digdigdrill.exe
 windows/dungeonclawler.exe
 windows/godus.exe
 windows/idleherotd.exe
@@ -9521,6 +9525,7 @@ x64/sor4.exe
 x64/talos_vr.exe
 x64/vrmark.exe
 x64r/emergency5.exe
+x86_64/kaetram.exe
 xangels/xangel.exe
 xcom2.exe
 xcomew.exe

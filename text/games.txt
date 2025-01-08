@@ -3890,9 +3890,11 @@ KILL KNIGHT
 KILL la KILL -IF
 KINGDOM HEARTS III + Re Mind (DLC)
 Kabounce
+Kaetram
 Kaf village
 Kagura Survivors: Endless Night
 Kaiju Princess
+Kaiju Princess 2
 Kaion Tale MMORPG
 Kakele Online - MMORPG
 Kallax
@@ -5005,6 +5007,7 @@ Never Alone (Kisima Ingitchuna)
 Never BreakUp Beta
 Never Split the Party
 Neverending Nightmares
+Nevergrind Online
 Neverwinter
 Neverwinter Nights: Enhanced Edition
 New Cycle
@@ -5733,6 +5736,7 @@ Psychonauts 2
 Psychopomp
 Psychopomp GOLD
 Public Bounce
+Puck
 Pumping Simulator 2
 Pumpkin Jack
 Punch Club
@@ -8910,6 +8914,7 @@ yahtzee girl
 いもむし
 たこパ サバイバル
 ぷよぷよ™テトリス® ２
+ほりほりドリル
 アイドルマスター スターリットシーズン
 アクアリウムは踊らない
 アストラル☆パーティー
