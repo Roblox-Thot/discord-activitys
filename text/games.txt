@@ -1865,6 +1865,7 @@ Desktop Dungeons
 Desktop Dаnce
 Desktop Farm
 Desktop Kanojo
+Desktop Mate
 Desktop+
 Desolate
 Desperados - Wanted Dead or Alive
@@ -7370,6 +7371,7 @@ Tharsis
 The Adventure Pals
 The Age of Decadence
 The Anacrusis
+The Anomaly Project
 The Archotek Project
 The Ascent
 The Average Everyday Adventures of Samantha Browne

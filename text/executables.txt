@@ -1865,6 +1865,7 @@ desertsofkharak64.exe
 desktop dungeons/desktopdungeons.exe
 desktop farm/desktopfarm.exe
 desktop kanojo/desktopkanojo.exe
+desktop mate/desktopmate.exe
 desktop ricardo/desktopricardo.exe
 desktopplus/desktopplus.exe
 desolate/binaries/win64/sh-win64-shipping.exe
@@ -9115,6 +9116,7 @@ win64/th-win64-shipping.exe
 win64/the_citadel-win64-shipping.exe
 win64/the_enjenir-win64-shipping.exe
 win64/the_purge_dilemma-win64-shipping.exe
+win64/theanomalyproject.exe
 win64/theascent-win64-shipping.exe
 win64/thebackroom-win64-shipping.exe
 win64/thebackroomsdeluxe-win64-shipping.exe
