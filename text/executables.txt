@@ -267,6 +267,7 @@ alienbreed2assault.exe
 alina of the arena/alina of the arena.exe
 all is dust/allisdust.exe
 all quiet in the trenches/all quiet in the trenches.exe
+all-in-one sports vr/allinonesports.exe
 allegiance.exe
 almost home now/almosthomenow.exe
 aloft demo/aloft.exe
@@ -1560,6 +1561,7 @@ crow country/crow country.exe
 crowfallclient.exe
 crown trick/crowntrick.exe
 cruelty squad/crueltysquad.exe
+crumb/crumb.exe
 crumble demo/crumble.exe
 crumble/crumble.exe
 crusader2.exe
@@ -3261,6 +3263,7 @@ hate plus.exe
 hatintimegame.exe
 hatoful.exe
 hats and hand grenades/corridor.exe
+hatsune miku logic paint s/hatsunemikulogicpaints.exe
 hatsune miku project diva mega mix plus/divamegamix.exe
 haunt the house terrortown/hauntthehouseterrortown.exe
 haunted gas station/haunted gas station.exe
@@ -8236,6 +8239,7 @@ win64/belfryclient-win64-shipping.exe
 win64/bellwrightgame-win64-shipping.exe
 win64/bemyhorde-win64-shipping.exe
 win64/betweentwocastles-win64-shipping.exe
+win64/beyond_citadel-win64-shipping.exe
 win64/bgg-win64-shipping.exe
 win64/bhl-win64-shipping.exe
 win64/bhoppro-win64-shipping.exe
@@ -8482,6 +8486,7 @@ win64/fobia-win64-shipping.exe
 win64/folklorehunter-win64-shipping.exe
 win64/foreverskies-win64-shipping.exe
 win64/foreverwinter-win64-shipping.exe
+win64/fork_road-win64-shipping.exe
 win64/forkliftracer-win64-shipping.exe
 win64/formata-win64-shipping.exe
 win64/fp-win64-shipping.exe
@@ -8536,6 +8541,7 @@ win64/gravewoodmultiplayer-win64-shipping.exe
 win64/greylock-win64-shipping.exe
 win64/gridironclient-win64-shipping.exe
 win64/grimhook-win64-shipping.exe
+win64/grimlord-win64-shipping.exe
 win64/grip-win64-shipping.exe
 win64/groundbranch-win64-shipping.exe
 win64/gss2-win64-shipping.exe
@@ -9527,6 +9533,7 @@ x64/samtlh.exe
 x64/sor4.exe
 x64/talos_vr.exe
 x64/vrmark.exe
+x64_redkit/editor.exe
 x64r/emergency5.exe
 x86_64/kaetram.exe
 xangels/xangel.exe
