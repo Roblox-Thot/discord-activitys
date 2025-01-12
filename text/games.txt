@@ -3412,6 +3412,7 @@ Hentai Vs Furries
 Her Lie I Tried To Believe
 Her New Memory
 Her Story
+Here Comes Niko!
 Heretic's Fork
 Heretic: Shadow of the Serpent Riders
 Hero Siege
@@ -5046,6 +5047,7 @@ Night in Riverager
 Night in the Woods
 Night of the Dead
 Night of the Full Moon
+NightClub Simulator
 Nightingale
 Nightmare House: The Original Mod
 Nightmare Kart
@@ -6396,6 +6398,7 @@ Scrapnaut
 Scrapnaut: Prologue
 Scrapvival
 Scream Collector
+Screen Cat
 Screencheat
 Screeps
 Screw Drivers
@@ -6977,6 +6980,7 @@ Stoneshard: Prologue
 Stonies
 Storage Hunter
 Storage Hustle
+Store Wars: Prologue - Multiplayer Shop Simulator
 Stories Untold
 Stories: The Path of Destinies
 Storm Chasers
@@ -7722,6 +7726,7 @@ The Testament of Sherlock Holmes
 The Texas Chain Saw Massacre
 The Textorcist: The Story of Ray Bibbia
 The Thaumaturge
+The Thing: Remastered
 The Thrill of the Fight
 The Timeless Child
 The Tiny Bang Story
@@ -8873,6 +8878,7 @@ openCanvas 7
 osu!
 pemsa
 pla_toon
+projectM Music Visualizer
 pureya
 rFactor
 rFactor 2

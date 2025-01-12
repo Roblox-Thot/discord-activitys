@@ -3365,6 +3365,7 @@ hentaigirllinda/hentaigirllinda.exe
 hentaiminesweeper/hentai minesweeper.exe
 her new memory/hernewmemory.exe
 her story/herstory.exe
+here comes niko/here comes niko!.exe
 heretic shadow of the serpent riders/base/dosbox.exe
 heretic's fork/heretics fork.exe
 hero zero/hero zero.exe
@@ -4929,6 +4930,7 @@ night loops/night loops.exe
 night of the dead/lf.exe
 night of the full moon/night of the full moon.exe
 night-runners prologue/night-runners prologue.exe
+nightclubsimulator/nightclubsimulater.exe
 nightmare files - clap clap/nightmare files clap clap.exe
 nightmare house source/hl2.exe
 nightmare of decay/nightmareofdecay.exe
@@ -5543,6 +5545,7 @@ project64.exe
 project64.exe
 project_rhombus.exe
 projectg.exe
+projectm/projectmsdl.exe
 projectzomboid32.exe
 projectzomboid64.exe
 projekt passion/projektpassion.exe
@@ -6106,6 +6109,7 @@ scrapnaut/scrapnaut.exe
 scrapvival/scrapvival.exe
 scream collector/screamcollector.exe
 screamdown/screamdown.exe
+screen cat/screencat.exe
 screencheat.exe
 screeps/nw.exe
 screw drivers/screw drivers.exe
@@ -7346,6 +7350,7 @@ the test final revelation/game.exe
 the test hypothesis rising/game.exe
 the test/game.exe
 the testament of sherlock holmes/game.exe
+the thing remastered/amun_shipping_steam_x64.exe
 the thrill of the fight/game.exe
 the timeless child/the timeless child prologue.exe
 the tiny bang story/ttbs.exe
@@ -9062,6 +9067,7 @@ win64/stayclose-win64-shipping.exe
 win64/steelrats-win64-shipping.exe
 win64/stillwakesthedeep.exe
 win64/storagehunter-win64-shipping.exe
+win64/storewars-win64-shipping.exe
 win64/stormgame-win64-shipping.exe
 win64/stormgate-win64-shipping.exe
 win64/stormstrikerclient-win64-shipping.exe
