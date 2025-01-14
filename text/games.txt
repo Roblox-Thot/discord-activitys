@@ -4540,6 +4540,7 @@ Mecha BREAK
 Mecha Simultactics Alpha
 Mechabellum
 Medal of Honor™: Above and Beyond
+Medieval Blacksmith
 Medieval Dynasty
 Medieval Engineers
 Medieval II: Total War
@@ -5573,6 +5574,7 @@ PlanetSide 2
 Planetary Annihilation: TITANS
 Planetbase
 Planets Under Attack
+Plant Therapy
 Plantera
 Plants vs Zombies GW2
 Plants vs. Zombies: Game of the Year

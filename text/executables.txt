@@ -4399,6 +4399,7 @@ media/likeadragongaiden.exe
 media/lostjudgment.exe
 media/yakuzakiwami.exe
 media/yakuzalikeadragon.exe
+medieval blacksmith/medieval blacksmith.exe
 medieval kingdom wars/mkw.exe
 medieval shopkeeper simulator/medieval shopkeeper simulator.exe
 medieval2.exe
@@ -5395,6 +5396,7 @@ planetnomads.exe
 planets under attack/game.exe
 planetside2_x64.exe
 planetside2_x86.exe
+plant therapy/plant therapy.exe
 plantera/plantera.exe
 plants vs. zombies/popcapgame1.exe
 plantsvszombies.exe
