@@ -1306,6 +1306,7 @@ clatter/clatter.exe
 cleaner/cleaner-btd6.exe
 cleaning simulator/freshstart.exe
 click click dig prologue/click click dig prologue.exe
+click mage/clickmage.exe
 click to ten/click to ten.exe
 clicker guardians/clicker guardians.exe
 clicker guild/guild.exe
@@ -3418,6 +3419,7 @@ hindie.exe
 hindie.steam.exe
 hiraganabattle/learn japanese to survive - hiragana battle.exe
 hired ops/hops.exe
+hitler waifu/hitler waifu.exe
 hitman 2 silent assassin/hitman2.exe
 hitman codename 47/hitman.exe
 hitman contracts/hitmancontracts.exe
@@ -5255,13 +5257,15 @@ patch/tos.exe
 patch/updater_downloader.exe
 patchwork/pxw.exe
 path of achra/pathofachra.exe
+path of exile taiwan/pathofexile.exe
+path of exile/pathofexile.exe
+path of exile/pathofexile_x64.exe
+path of exile/pathofexile_x64steam.exe
+path of exile/pathofexilesteam.exe
 pathfinder adventures/pathfinderadventures.exe
 pathfinder second adventure/wrath.exe
 pathless woods prologue/pathless woods.exe
-pathofexile.exe
-pathofexile_x64.exe
-pathofexile_x64steam.exe
-pathofexilesteam.exe
+pathofexile/pathofexileegs.exe
 pathologic/pathologic.exe
 pathway/pathway.exe
 patrick's parabox demo/patrick's parabox.exe
@@ -5420,6 +5424,7 @@ pocket bravery demo/bravery.exe
 pocket mirror - goldenertraum/game.exe
 pocket waifu pet/pocketwaifu.exe
 pocket waifu/pw_steam.exe
+poe/pathofexile.exe
 pogostuck/pogostuck.exe
 poi.exe
 pokemmo.exe
@@ -8282,6 +8287,7 @@ win64/bpmgame-win64-shipping.exe
 win64/bravely_default_ii-win64-shipping.exe
 win64/bravohotelclient-win64-shipping.protected.exe
 win64/breakaleg-win64-shipping.exe
+win64/breaker-win64-shipping.exe
 win64/breathe-win64-shipping.exe
 win64/breathedge-win64-shipping.exe
 win64/brewmastermain-win64-shipping.exe
@@ -8927,6 +8933,7 @@ win64/ragnarock-win64-shipping.exe
 win64/railgrade-win64-shipping.exe
 win64/raji-win64-shipping.exe
 win64/ranch_simulator-win64-shipping.exe
+win64/rangersinthesouth-win64-shipping.exe
 win64/ratshaker.exe
 win64/rawdata-win64-shipping.exe
 win64/readyornot-win64-shipping.exe
@@ -9684,4 +9691,5 @@ zup! zero 2/zup! zero 2.exe
 zup! zero/zup! zero.exe
 zup!/zup!.exe
 zwiftapp.exe
+流亡黯道/pathofexilesteam.exe
 蒼の彼方のフォーリズム.exe

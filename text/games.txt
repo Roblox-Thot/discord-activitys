@@ -1317,6 +1317,7 @@ Classic Sudoku
 Classroom Aquatic Demo
 Clatter
 Click Click Dig: Prologue
+Click Mage
 Click to Eleven
 Clicker Guardians
 Clicker Guild
@@ -3461,6 +3462,7 @@ Higurashi When They Cry Hou - Ch.3 Tatarigoroshi
 Higurashi When They Cry Hou - Ch.4 Himatsubushi
 Himno
 Hired Ops
+Hitler Waifu
 Hitman 2: Silent Assassin
 Hitman GO: Definitive Edition
 Hitman: Absolution
@@ -3582,6 +3584,7 @@ Hylics 2
 HypeSquad Demo
 Hyper Dash
 Hyper Jam
+Hyper Light Breaker
 Hyper Light Drifter
 Hyper Online: VTuber Avatar Studio
 Hyper Universe
@@ -7661,6 +7664,7 @@ The RPG Engine
 The Ramp
 The Ranch of Rivershine
 The Ranger: Lost Tribe
+The Rangers In The South
 The Red Lantern
 The Red Solstice
 The Red Stare
