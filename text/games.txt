@@ -477,6 +477,7 @@ Assemble with Care
 Assetto Corsa
 Assetto Corsa Competizione
 Astebreed
+Asterix & Obelix XXL 2
 Astral Ascent
 Astrea: Six-Sided Oracles
 Astro Colony
@@ -2859,6 +2860,7 @@ Fungiman
 Furcadia
 Furi
 Furnish Master
+Furry Aim Trainer
 Furry Arena [18+]
 Furry Feet
 Furry Shades of Gay
@@ -3424,6 +3426,7 @@ Hero's Journey
 Hero's Land
 Heroes & Generals WWII
 Heroes of Hammerwatch
+Heroes of Hammerwatch II
 Heroes of Might & Magic V: Tribes of the East
 Heroes of Might and Magic III HD
 Heroes of Newerth
@@ -4091,6 +4094,7 @@ LOEK
 LOLLIPOP CHAINSAW RePOP
 LOLLIPOP!
 LOST EGG 2: Be together
+LOST EGG 3: The Final
 LOST EPIC
 LUFTRAUSERS
 LYNE
@@ -5448,6 +5452,7 @@ Patch Quest
 Patchwork
 Path of Achra
 Path of Exile
+Path of Exile 2
 Path of the Abyss
 Pathfinder Adventures
 Pathfinder: Kingmaker
@@ -6699,6 +6704,7 @@ Smart Game Booster
 Smartphone Tycoon
 Smashing Simulator Idle
 Smile For Me
+Smilemo
 Smithworks
 Smushi Come Home
 Snail Simulator
@@ -7118,6 +7124,7 @@ Super Mining Mechs
 Super Monday Night Combat
 Super Monkey Ball Banana Mania
 Super Naughty Maid 2
+Super Raft Boat Classic
 Super Raft Boat Together Demo
 Super Raft Boat VR
 Super Robot Wars 30
@@ -7691,6 +7698,7 @@ The Settlers : Heritage of Kings - History Edition
 The Settlers : Rise of an Empire - History Edition
 The Settlers Online
 The Settlers: Rise of an Empire
+The Seven Realms: Terran
 The Ship
 The Ship Single Player
 The Ship: Remasted
@@ -7991,6 +7999,7 @@ Tower Unite
 Tower Wars
 Tower and Sword of Succubus
 Tower of Time
+Tower! Simulator 3
 Tower!3D Pro
 TowerFall Ascension
 Towerborne
