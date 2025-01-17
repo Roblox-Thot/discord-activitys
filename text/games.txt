@@ -291,6 +291,7 @@ All-In-One Sports VR
 Alliance of Valiant Arms
 Allods Online
 Almost Home Now
+Aloft
 Aloft Demo
 Alone in the Dark
 Alone in the Dark Prologue
@@ -476,6 +477,7 @@ Assault Android Cactus
 Assemble with Care
 Assetto Corsa
 Assetto Corsa Competizione
+Assetto Corsa EVO
 Astebreed
 Asterix & Obelix XXL 2
 Astral Ascent
@@ -1195,6 +1197,7 @@ Catan Universe
 Catherine Classic
 Catlateral Damage
 Cats
+Cats Hidden in Christmas
 Cats Hidden in Italy
 Cats Hidden in Jingle Jam
 Cats Hidden in Paris
@@ -5420,6 +5423,7 @@ PangYa (NtreevSoft)
 Pankapu
 Pantheon: Rise of the Fallen
 Panzer Corps
+Panzer Knights
 Papa's Freezeria Deluxe
 Papa's Pizzeria Deluxe
 Paper Lily - Chapter 1
@@ -5683,6 +5687,7 @@ Princess Maker 2 Refine
 Princess Remedy in a World of Hurt
 Prismata
 Prison Architect
+Prison Boss VR
 Prison Life
 Prison Life 2
 Prison Simulator
@@ -6918,6 +6923,7 @@ Star Trek Online
 Star Trek Timelines
 Star Trek: Bridge Crew
 Star Trek: Infinite
+Star Trek: Resurgence
 Star Trucker
 Star Valor
 Star Wars Outlaws

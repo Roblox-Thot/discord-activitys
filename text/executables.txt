@@ -271,6 +271,7 @@ all-in-one sports vr/allinonesports.exe
 allegiance.exe
 almost home now/almosthomenow.exe
 aloft demo/aloft.exe
+aloft/aloft.exe
 altitude.exe
 altspacevr/altspacevr.exe
 altushka dlya skufa/altushka_dlya_skufa.exe
@@ -449,6 +450,7 @@ assassinscreediigame.exe
 assassinscreedmirage/acmirage.exe
 assault android cactus/cactus.exe
 assemble with care/awc.exe
+assetto corsa evo/assettocorsaevo.exe
 assettocorsa.exe
 assettocorsa/acs.exe
 assettocorsa/acshowroom.exe
@@ -1190,6 +1192,7 @@ catlateraldamage/catlateraldamage.exe
 catquest_purribean/cat quest iii.exe
 cats and seek  kyoto/cats and seek  kyoto.exe
 cats and seek/cats and seek.exe
+cats hidden in christmas/cats hidden in christmas.exe
 cats hidden in italy/cats hidden in italy.exe
 cats hidden in jingle jam/cats hidden in jingle jam.exe
 cats hidden in paris/cats hidden in paris.exe
@@ -5230,6 +5233,7 @@ pandemic/pandemic.exe
 pankapu/pankapu.exe
 pantheon rise of the fallen/pantheon.exe
 panzer corps/autorun.exe
+panzer knights/panzer knights.exe
 papa's freezeria deluxe/papa's freezeria deluxe.exe
 papa's pizzeria deluxe/papa's pizzeria deluxe.exe
 paper lily - chapter 1/paperlilych1.exe
@@ -5517,6 +5521,7 @@ princess maker 2 refine/pm2.exe
 princess remedy/remedy_gm7.exe
 prismata/prismata.exe
 prison architect.exe
+prison boss vr/prisonbossvr64.exe
 prison life 2/prison life 2.exe
 prison life/prison life.exe
 prison simulator demo/prison simulator.exe
@@ -9083,6 +9088,7 @@ win64/squirrelgun-win64-shipping.exe
 win64/stalker2-win64-shipping.exe
 win64/standbox-win64-shipping.exe
 win64/starlitseason-win64-shipping.exe
+win64/startrekgame-win64-shipping.exe
 win64/starwarsjedifallenorder.exe
 win64/stateofmind-win64-shipping.exe
 win64/stationtostation-win64-shipping.exe
