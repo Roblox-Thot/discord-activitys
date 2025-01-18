@@ -2227,6 +2227,7 @@ dwarfs/dwarfs.exe
 dwarves.exe
 dwerve prologue/dwerve.exe
 dworigins demo/dworigins_demo.exe
+dworigins/dworigins.exe
 dx11/sw.x64.exe
 dxhr.exe
 dxhrdc.exe
@@ -3247,6 +3248,7 @@ handyman legend/handyman legend.exe
 hanyo/hanyo.exe
 hanz puppetguns/hanz.exe
 happy room/happy room.exe
+happy sheepies/happy sheepies.exe
 happy's humble burger barn/happy's humble burger barn.exe
 happygame/happygame.exe
 hard bullet/hard bullet.exe
@@ -5545,6 +5547,7 @@ prodeus/prodeus.exe
 production line/productionline.exe
 progressbar95/progressbar95.exe
 project arrhythmia/project arrhythmia.exe
+project capybaras/extremely_powerful_capybaras.exe
 project cars 2 demo/pcars2demoavx.exe
 project cars 3/pcars3.exe
 project castaway/project castaway.exe
@@ -8554,6 +8557,7 @@ win64/gbvsr-win64-shipping.exe
 win64/genesisnoir-win64-shipping.exe
 win64/gg2game.exe
 win64/ggst-win64-shipping.exe
+win64/ghostcamera-win64-shipping.exe
 win64/ghostrunner-win64-shipping.exe
 win64/ghostrunner2-win64-shipping.exe
 win64/ghostsoftabor-win64-shipping.exe
@@ -9250,6 +9254,7 @@ win64/twds-win64-shipping.exe
 win64/twinstick-win64-shipping.exe
 win64/typhonhunter.exe
 win64/u01-win64-shipping.exe
+win64/u9-win64-shipping.exe
 win64/uagame.exe
 win64/ui_test-win64-shipping.exe
 win64/unbound-win64-shipping.exe
