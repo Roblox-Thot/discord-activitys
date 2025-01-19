@@ -3524,6 +3524,7 @@ hover/hover.exe
 hoversteppers zone 1/hoversteppers.exe
 how 2 escape demo/how 2 escape - companion app.exe
 how fish is made/how fish is made.exe
+how to lose ones virginity/game.exe
 how_do_you_do_it/how do you do it.exe
 howtosurvive.exe
 howtosurvive2.exe
@@ -4551,6 +4552,7 @@ mini healer/minihealer.exe
 mini motorways/mini motorways.exe
 mini ninjas/ninja.exe
 mini settlers prologue/mini settlers prologue.exe
+mini thief/minithief.exe
 mini world block art/minigameapp.exe
 minigolf mania/minigolfmania.exe
 miniland prologue/miniland.exe
@@ -5025,6 +5027,7 @@ nuclear dawn/nucleardawn.exe
 nuclear last darkness/nucleares.exe
 nuclear option/nuclearoption.exe
 nuclearthrone.exe
+nunholy/nunholy.exe
 o2jam/o2jam.exe
 oasis/oasis.exe
 obamamaze/obama maze.exe
@@ -5425,6 +5428,7 @@ playbns.exe
 playclaw 7/playclawapp64.exe
 playsnow.exe
 playstationvr2app/playstationvr2app.exe
+playtogether/playtogether.exe
 please, touch the artwork too/please, touch the artwork 2.exe
 pleasure puzzle portrait/pp1.exe
 pleh!/pleh!.exe
@@ -6073,6 +6077,7 @@ samurai shampoo/samurai shampoo.exe
 samurai shodown v special/ssvs.exe
 samurai warriors 4-ii/sw4ii.exe
 samurai warriors 5/sw5.exe
+san8r/san8r.exe
 sanabi/snb.exe
 sanctuaryrpg - black edition/sanctuaryrpg.exe
 sanctumgame-win32-shipping.exe
@@ -6417,6 +6422,7 @@ slimerancher.exe
 slipslop/slipslop.exe
 slipways/slipways.exe
 slow and steady/slow and steady.exe
+sludge life 2/sludgelife2.exe
 sludge life the big mud sessions/sludgelife2demo.exe
 sludge life/sludgelife.exe
 slw.exe
@@ -8584,6 +8590,7 @@ win64/gss2-win64-shipping.exe
 win64/guards-win64-shipping.exe
 win64/gunsmithproject-win64-shipping.exe
 win64/gwt.exe
+win64/gylt-win64-shipping.exe
 win64/gzwclientsteam-win64-shipping.exe
 win64/h-win64-shipping.exe
 win64/hacker_simulator-win64-shipping.exe
@@ -8694,6 +8701,7 @@ win64/kinoko-win64-shipping.exe
 win64/kletka-win64-shipping.exe
 win64/kofxv-win64-shipping.exe
 win64/kona-win64-shipping.exe
+win64/kp_thetournament-win64-shipping.exe
 win64/l8192-win64-shipping.exe
 win64/laserlab-win64-shipping.exe
 win64/lastyear-win64-shipping.exe

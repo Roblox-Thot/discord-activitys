@@ -2911,6 +2911,7 @@ GUN GODZ
 GUNDAM EVOLUTION
 GUNS UP!
 GWENT: The Witcher Card Game 
+GYLT
 Gachi Heroes
 Gahkthun of the Golden Lightning Steam Edition
 Gal*Gun 2
@@ -3568,6 +3569,7 @@ How 2 Escape - Companion App
 How Fish Is Made
 How to Survive
 How to Survive 2
+How to lose one's virginity
 HudSight - custom crosshair overlay
 Hue
 Human Resource Machine
@@ -4028,6 +4030,7 @@ Kiwi Clicker
 Klonoa Phantasy Reverie Series
 Knight Club +
 Knight Online
+Knight's Path: The Tournament
 Knightfall: A Daring Journey
 Knightly Passions
 Knights of Honor
@@ -4694,6 +4697,7 @@ Mini Metro
 Mini Motorways
 Mini Ninjas
 Mini Settlers: Prologue
+Mini Thief
 Mini World: Block Art
 MiniGolf Mania
 Miniland Adventure: Prologue
@@ -5141,6 +5145,7 @@ Nuclear Nightmare
 Nuclear Option
 Nuclear Throne
 Nucleares
+Nunholy
 Nyan Cat: Lost In Space
 O2Jam
 OBEY
@@ -5597,6 +5602,7 @@ Plants vs. Zombies: Game of the Year
 Plasma
 PlateUp!
 PlateUp! Demo
+Play Together
 PlayClaw 7
 PlayStation®VR2 App
 Playcraft
@@ -6245,6 +6251,7 @@ SKYBOX VR Video Player
 SKYE
 SKYHILL
 SLUDGE LIFE
+SLUDGE LIFE 2
 SLUDGE LIFE: The BIG MUD Sessions
 SMASH LEGENDS
 SMITE
@@ -9072,6 +9079,7 @@ yahtzee girl
 베리드 스타즈
 산나비
 삼국지14
+삼국지8  REMAKE
 썸썸 편의점
 오구와 비밀의 숲
 오목 가자
