@@ -741,6 +741,7 @@ bin/indy.exe
 bin/krita.exe
 bin/l4d2_workshop_manager.exe
 bin/luftrausers.exe
+bin/mcpixel3.exe
 bin/microvolts.exe
 bin/nascar15.exe
 bin/necrovision.exe
@@ -3705,6 +3706,7 @@ inscryption/inscryption.exe
 inside the backrooms/inside the backrooms.exe
 inside/inside.exe
 insoundmind/in sound mind.exe
+install/aux_installer.exe
 install/physx_9.10.0513_systemsoftware.exe
 install/vcredist_x86.exe
 installer/vcredist_x86.exe
@@ -7240,6 +7242,7 @@ the good time garden/the good time garden.exe
 the great circle/thegreatcircle.exe
 the greatest penguin heist of all time/penguin heist.exe
 the guild ii - pirates of the european seas/guildii.exe
+the happyhills homicide/thehappyhillshomicide.exe
 the hardest game ever/the hardest game ever.exe
 the haunted island a frog detective game/the_haunted_island.exe
 the heiress/game.exe
@@ -8205,6 +8208,7 @@ win64/aitdprologue-win64-shipping.exe
 win64/aliensdarkdescentgamesteam-win64-shipping.exe
 win64/aloneinthedark-win64-shipping.exe
 win64/altf4_f-win64-shipping.exe
+win64/amenti-win64-shipping.exe
 win64/amidevil-win64-shipping.exe
 win64/anacrusis-win64-shipping.exe
 win64/anc-win64-shipping.exe
@@ -9019,6 +9023,7 @@ win64/sauna-win64-shipping.exe
 win64/sb2-win64-shipping.exe
 win64/scarletnexus-win64-shipping.exe
 win64/scavenger-win64-shipping.exe
+win64/scholarsmate-win64-shipping.exe
 win64/scorn-win64-shipping.exe
 win64/scp_blackout-win64-shipping.exe
 win64/scpexperiences-win64-shipping.exe

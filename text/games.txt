@@ -308,6 +308,7 @@ Amazing Cultivation Simulator
 Amazing Frog ? V3
 Amazing Frog?
 Amber Isle
+Amenti
 America's Army: Proving Grounds
 American Arcadia
 American Conquest
@@ -4548,6 +4549,7 @@ Maximum Action
 Maximum Football Open Beta
 McOsu
 McPixel
+McPixel 3
 Meadow
 Mech Engineer
 MechWarrior 5: Mercenaries
@@ -6409,6 +6411,7 @@ Scars Above
 Scavengers
 Scene Investigators
 Scene Investigators Demo
+Scholar's Mate - First Move
 School Labyrinth
 School of Dragons: How to Train Your Dragon
 SchoolBoy Runaway
@@ -7552,6 +7555,7 @@ The Guild Gold Edition
 The Guild II
 The Guild II - Pirates of the European Seas
 The Gunk
+The Happyhills Homicide
 The Hardest Game Ever
 The Haunted Island, a Frog Detective Game
 The Heiress
@@ -8477,6 +8481,7 @@ Warhammer 40,000: Darktide
 Warhammer 40,000: Dawn of War - Dark Crusade
 Warhammer 40,000: Dawn of War - Game of the Year Edition
 Warhammer 40,000: Dawn of War - Soulstorm
+Warhammer 40,000: Dawn of War II - Anniversary Edition
 Warhammer 40,000: Dawn of War II - Retribution
 Warhammer 40,000: Dawn of War III
 Warhammer 40,000: Eternal Crusade
