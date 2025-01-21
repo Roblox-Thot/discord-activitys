@@ -1487,6 +1487,7 @@ coromon/coromon.exe
 corpse party rf/corpseparty.exe
 corpse party/corpseparty.exe
 corruption of champions ii/coc ii.exe
+corruption town/corruptiontown.exe
 cortex command.exe
 cosmic dust & rust/cosmic.exe
 cosmic.exe
@@ -2177,6 +2178,7 @@ duelyst.exe
 dueprocess/dueprocess.exe
 duke nukem 3d twentieth anniversary world tour/duke3d.exe
 dukeforever.exe
+dumb castle/dumb castle.exe
 dummynation/dummynation.exe
 dundefgame.exe
 dune imperium/duneimperium.exe
@@ -8142,6 +8144,7 @@ wildstar.exe
 wildstar64.exe
 will glow the wisp/will glow the wisp.exe
 will you snail/will you snail.exe
+wilmotpc/wilmot.exe
 wilson chronicles/hl2.exe
 win-unpacked/frayfight.exe
 win-unpacked/mr.mine.exe
@@ -8256,6 +8259,7 @@ win64/backroomsbreak-win64-shipping.exe
 win64/backroomsnr-win64-shipping.exe
 win64/badguysatschool-win64-shipping.exe
 win64/bakerysimulatorfull-win64-shipping.exe
+win64/balancehorror-win64-shipping.exe
 win64/ball-win64-shipping.exe
 win64/banishers-win64-shipping.exe
 win64/bates-win64-shipping.exe
