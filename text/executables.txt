@@ -4321,6 +4321,7 @@ mago the villain's burger/mago villain burger.exe
 mahjong soul/jantama_mahjongsoul.exe
 mahjongsoul/jantama_mahjongsoul.exe
 maid of sker/maid of sker.exe
+maiden & spell/maidenspell.exe
 main/yakuza5.exe
 main_v3_beta/dsx.exe
 majesty 2 collection/majesty2.exe
@@ -8743,6 +8744,7 @@ win64/lostark.exe
 win64/lostember-win64-shipping.exe
 win64/lowlightcombat-win64-shipping.exe
 win64/luto-win64-shipping.exe
+win64/madeinabyss-win64-shipping.exe
 win64/maelstromv2-win64-shipping.exe
 win64/mailtime-win64-shipping.exe
 win64/maine-win64-shipping.exe
