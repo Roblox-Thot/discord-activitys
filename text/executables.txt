@@ -1996,6 +1996,7 @@ disneyspeedstorm/disney_speedstorm_x64_rtl.exe
 dissidia final fantasy nt free edition/dffnt.exe
 distance.exe
 distancingexe/distancing.exe
+distant worlds 2/distantworlds2.exe
 distant worlds universe/autorun.exe
 distraint 2/distraint2.exe
 distraint/distraint.exe
@@ -3931,7 +3932,7 @@ kingdom rush vengeance/kingdom rush vengeance.exe
 kingdom rush/kingdom rush.exe
 kingdom two crowns/kingdomtwocrowns.exe
 kingdom.exe
-kingdomcome.exe
+kingdomcomedeliverance/bin/win64/kingdomcome.exe
 kingdoms of amalur re-reckoning/koa.exe
 kingdoms/kingdoms.exe
 kingdomsandcastles.exe
@@ -7869,6 +7870,7 @@ urban rivals/urban rivals.exe
 urbek prologue/urbek.exe
 urbek/urbek.exe
 urbo dream one/urbo dream one.exe
+urp/beholder3.exe
 urtuk the desolation/urtuk.exe
 use your words/uyw.exe
 ut3.exe
@@ -8538,6 +8540,7 @@ win64/foreverwinter-win64-shipping.exe
 win64/fork_road-win64-shipping.exe
 win64/forkliftracer-win64-shipping.exe
 win64/formata-win64-shipping.exe
+win64/fortsolis.exe
 win64/fp-win64-shipping.exe
 win64/fpsaimtrainer-win64-shipping.exe
 win64/fpschess-win64-shipping.exe
@@ -9280,6 +9283,7 @@ win64/unbound-win64-shipping.exe
 win64/uncrashed-win64-shipping.exe
 win64/undecember-win64-shipping.exe
 win64/undefeated-win64-shipping.exe
+win64/undergroundgarage-win64-shipping.exe
 win64/underlords.exe
 win64/underthewaves-win64-shipping.exe
 win64/unforgiving-win64-shipping.exe

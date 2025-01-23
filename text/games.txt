@@ -727,6 +727,7 @@ Before Your Eyes
 Behind the Frame: The Finest Scenery
 Beholder
 Beholder 2
+Beholder 3
 Being a DIK
 Bejeweled 3
 Bejeweled Blitz
@@ -1993,6 +1994,7 @@ Disney's Princess Enchanted Journey
 Disneyland Adventures
 Distance
 Distancing
+Distant Worlds 2
 Distant Worlds: Universe
 Distrust
 Divekick
@@ -2792,6 +2794,7 @@ Formula Evolution 2024
 Forsaken Remastered
 Forspoken
 Forspoken Demo
+Fort Solis
 Fort Triumph
 Fortified
 Fortnite
@@ -8226,6 +8229,7 @@ Undecember
 Under The Waves
 UnderMine
 Underground Blossom
+Underground Garage
 Underhero
 Underminer
 Underrail
