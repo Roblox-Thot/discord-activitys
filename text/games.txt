@@ -407,6 +407,7 @@ Archeage
 Archeblade
 ArchiTac
 Archvale
+Arco
 Arctic Eggs
 Arctico
 Are You Ready for Valve Index?
@@ -589,6 +590,7 @@ Backpack Battles
 Backpack Hero
 Backpack Hero Demo
 Backrooms Break
+Backrooms Media
 Backrooms Rec.
 Backrooms Society
 Backrooms: Escape Together
@@ -2491,6 +2493,7 @@ FINAL FANTASY V
 FINAL FANTASY VI
 FINAL FANTASY VII
 FINAL FANTASY VII EVER CRISIS
+FINAL FANTASY VII REBIRTH
 FINAL FANTASY VII REMAKE INTERGRADE
 FINAL FANTASY VIII
 FINAL FANTASY X/X-2 HD Remaster
@@ -3873,6 +3876,7 @@ John Wick Hex
 Joint War
 Joker Show - Horror Escape
 Jotun
+Jotunnslayer: Hordes of Hel
 Journey
 Journey To The Savage Planet
 Journey of a Roach
@@ -9084,6 +9088,7 @@ yahtzee girl
 除邪(CHUXIE)
 雀姬
 雀魂麻将(MahjongSoul)
+首都高バトル
 麻雀一番街 - オンライン対戦麻雀ゲーム
 기적의 분식집
 던전앤파이터
