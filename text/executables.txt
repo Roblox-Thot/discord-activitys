@@ -4036,7 +4036,6 @@ launcher/eg2.exe
 launcher/ntw3 v9.5.exe
 launcher/sir.exe
 launcher/sniperelite5.exe
-launcher/strinova.exe
 launcher/za4.exe
 launchutils/busybox64.exe
 lawbreakers.exe
@@ -6796,6 +6795,7 @@ strike force heroes demo/strike force heroes demo.exe
 strike force heroes/strike force heroes.exe
 strike.is the game/strikeis.exe
 strikeforce kitty/strikeforce kitty.exe
+strinova.exe
 stronghold 2/stronghold2.exe
 stronghold crusader extreme/stronghold crusader.exe
 stronghold crusader extreme/stronghold_crusader_extreme.exe
@@ -7846,6 +7846,7 @@ unrailed! demo/unrailedgamedemo.exe
 unrailed/unrailedgame.exe
 unravel.exe
 unraveltwo/unraveltwo.exe
+unreal life/unreal_life.exe
 unreal.exe
 unrealtournament.exe
 unrealworld/urw.exe
@@ -8994,6 +8995,7 @@ win64/redreef.exe
 win64/remnant-win64-shipping.exe
 win64/remnant2-win64-shipping.exe
 win64/remothered-win64-shipping.exe
+win64/rennsport-win64-shipping.exe
 win64/retailcompanysim-win64-shipping.exe
 win64/returnal-win64-shipping.exe
 win64/revolution.exe
@@ -9266,6 +9268,7 @@ win64/triangle_strategy-win64-shipping.exe
 win64/tribe-win64-shipping.exe
 win64/tribexr-win64-shipping.exe
 win64/trikaya-win64-shipping.exe
+win64/triviatricks-win64-shipping.exe
 win64/tropico6-win64-shipping.exe
 win64/trover-win64-shipping.exe
 win64/trypfpv-win64-shipping.exe
