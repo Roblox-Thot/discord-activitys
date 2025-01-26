@@ -523,6 +523,7 @@ awol/awol.exe
 axiom content/axiom.exe
 axiomverge.exe
 axis & allies online/axisandallies1942online.exe
+axon td uprising/axon td uprising.exe
 azure striker gunvolt/exe/gv_win.exe
 b100x/b100x.exe
 b24f49f9-d7fe-40b6-8f4d-65b0c6bf6a6b/borderlands.exe
@@ -868,6 +869,7 @@ blade assault/bladeassault.exe
 blade strangers/game.exe
 blade/fsn2-win64vc14-release.exe
 bladed/chopghost.exe
+blades of time/bladesoftime.exe
 blake stone - planet strike/dosbox/dosbox.exe
 blameless/blameless.exe
 blanc/blanc.exe
@@ -1467,6 +1469,7 @@ contraptionmaker/contraptionmaker.exe
 control/control_dx11.exe
 control_dx11.exe
 control_dx12.exe
+convergence/convergence.exe
 convoy/convoy.exe
 convrgence/convrgence.exe
 cookard/cookard.exe
@@ -1629,6 +1632,7 @@ cute honey/cutehoney.exe
 cw3.exe
 cyber hook demo/cyberhook.exe
 cyber hook/cyberhook.exe
+cybermanhunt/cybermanhunt.exe
 cyberpunk2077.exe
 cypher/cypher.exe
 cyphers.exe
@@ -2457,6 +2461,7 @@ executable/riskysrevenge.exe
 executable/shantaehero.exe
 executable/shantaesiren.exe
 executive assault 2/executiveassault2.exe
+executive assault/executiveassault64.exe
 exefile.exe
 exit the gungeon/xtg.exe
 exo one prologue/exo one.exe
@@ -3870,6 +3875,7 @@ kandidatos/kandidatos.exe
 kane & lynch 2 - dog days/kl2.exe
 kane and lynch dead men/kaneandlynch.exe
 kanjozoku game/kanjozoku game.exe
+kanzi_de_go/集英社マンガ祭.exe
 kao the kangaroo round 2/kao2.exe
 kara no shojo 2.exe
 karate survivor/karatesurvivor.exe
@@ -4038,6 +4044,7 @@ launcher/sir.exe
 launcher/sniperelite5.exe
 launcher/za4.exe
 launchutils/busybox64.exe
+laundry store simulator/laundry store simulator.exe
 lawbreakers.exe
 lawn mowing simulator/lawn mowing simulator.exe
 layers of fear.exe
@@ -7343,6 +7350,7 @@ the planet crafter prologue/planet crafter.exe
 the planet crafter/planet crafter.exe
 the political machine 2020/the political machine 2020.exe
 the political process/thepoliticalprocess.exe
+the quinfall/thequinfall.exe
 the ramp/the ramp.exe
 the ranger lost tribe/the ranger lost tribe demo.exe
 the red lantern/theredlantern_sw.exe
@@ -8828,6 +8836,7 @@ win64/newgundambreaker.exe
 win64/newkaragon.exe
 win64/newtales.exe
 win64/ninetofiveclient-win64-shipping.exe
+win64/ninjagaiden2black-win64-shipping.exe
 win64/nmkart-win64-shipping.exe
 win64/nofairplay-win64-shipping.exe
 win64/nomads-win64-shipping.exe
@@ -9125,6 +9134,7 @@ win64/starwarsjedifallenorder.exe
 win64/stateofmind-win64-shipping.exe
 win64/stationtostation-win64-shipping.exe
 win64/stayclose-win64-shipping.exe
+win64/steam_unpossess-win64-shipping.exe
 win64/steelrats-win64-shipping.exe
 win64/stillwakesthedeep.exe
 win64/storagehunter-win64-shipping.exe
@@ -9449,6 +9459,7 @@ windows_content/internet cafe simulator.exe
 windows_content/ludus.exe
 windows_content/project_qt.exe
 windows_content/sentience.exe
+windows_content/streamer life simulator 2.exe
 windows_content/streamer life simulator.exe
 windscape.exe
 windward/windward.exe

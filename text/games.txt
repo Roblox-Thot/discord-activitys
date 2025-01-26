@@ -536,6 +536,7 @@ Axiom
 Axiom Soccer
 Axiom Verge
 Axis & Allies 1942 Online
+Axon TD: Uprising
 Azur Lane: Crosswave
 Azure Striker Gunvolt
 B100X - Auto Dungeon RPG
@@ -815,6 +816,7 @@ Blade & Soul
 Blade Assault
 Blade Strangers
 Bladed Fury
+Blades of Time
 Blair Witch
 Blake Stone: Planet Strike
 Blameless
@@ -1056,6 +1058,7 @@ COMPOUND
 COMPOUND Demo
 CONCLUSE
 CONSCRIPT
+CONVERGENCE: A League of Legends Story™
 CONVRGENCE
 CPUCores :: Maximize Your FPS
 CRIMESIGHT
@@ -1612,6 +1615,7 @@ Cute Honey
 Cute Honey 2
 Cyber Hook
 Cyber Hook Demo
+Cyber Manhunt
 Cyberdimension Neptunia: 4 Goddesses Online
 Cyberpunk 2077
 Cypher
@@ -2427,6 +2431,7 @@ Evoland Legendary Edition
 Evolve
 Evolve Stage 2
 Exanima
+Executive Assault
 Executive Assault 2
 Exit the Gungeon
 Exo One
@@ -4155,6 +4160,7 @@ Last Year: The Nightmare
 Late Shift
 Later Alligator
 Latex Dungeon
+Laundry Store Simulator
 LawBreakers
 Lawn Mowing Simulator
 Lawyer Guy: Defender of Justice
@@ -4979,6 +4985,7 @@ NGU INDUSTRIES
 NIGHT-RUNNERS PROLOGUE
 NIMBY Rails
 NIMRODS
+NINJA GAIDEN 2 Black
 NITE Team 4
 NKO DICE
 NO STRANGERS
@@ -7049,6 +7056,7 @@ Stray Gods: The Roleplaying Musical
 Stream Racer
 Streamer Daily
 Streamer Life Simulator
+Streamer Life Simulator 2
 Street Fighter 30th Anniversary Collection
 Street Fighter 6 - Closed Beta
 Street Fighter V
@@ -7701,6 +7709,7 @@ The Political Process
 The Powder Toy
 The Purge Dilemma
 The Quarry
+The Quinfall
 The RPG Engine
 The Ramp
 The Ranch of Rivershine
@@ -8261,6 +8270,7 @@ Unnamed Space Idle
 UnnyWorld
 Unpacking
 Unplagued
+Unpossess
 Unrailed 2: Back on Track
 Unrailed!
 Unrailed! Demo
@@ -9074,6 +9084,7 @@ yahtzee girl
 沙威玛传奇 - Shawarma Legend
 活俠傳
 溶鉄のマルフーシャ
+漢字でGO! 集英社マンガ祭
 焼肉シミュレーター
 真・三國無雙 起源 體驗版
 神採りアルケミーマイスター
