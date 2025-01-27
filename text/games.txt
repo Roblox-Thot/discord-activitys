@@ -590,6 +590,7 @@ Backbone: Prologue
 Backpack Battles
 Backpack Hero
 Backpack Hero Demo
+Backroom Company
 Backrooms Break
 Backrooms Media
 Backrooms Rec.
@@ -1035,6 +1036,7 @@ Business Tour - Online Multiplayer Board Game
 BustyBiz
 C9
 CABAL Online
+CAPTURED
 CARRION
 CARRUMBLE
 CASE 2: Animatronics Survival
@@ -1065,6 +1067,7 @@ CRIMESIGHT
 CRISIS CORE –FINAL FANTASY VII– REUNION
 CROWZ
 CRSED: F.O.A.D.
+CRUEL
 CRUMB
 CRYPTARK
 CS2D
@@ -5596,6 +5599,7 @@ Pixel Worlds
 PixelJunk Shooter Ultimate
 PixelJunk™ Monsters Ultimate
 PixelJunk™ Shooter Ultimate
+PixiEditor
 Pizza Connection 3
 Pizza Possum
 Pizza Tower
@@ -6787,6 +6791,7 @@ Soda Dungeon 2
 Software Inc.
 Sokobond
 Solar 2
+Solar Ash
 Solasta: Crown of the Magister
 Soldat
 Soldier Front 2
@@ -8938,6 +8943,7 @@ my eyes deceive
 myPOPGOES
 nQuake
 not my car – Battle Royale
+one night, hot springs
 openCanvas 7
 osu!
 pemsa

@@ -1571,6 +1571,7 @@ crossroads inn/crossroads inn.exe
 crow country/crow country.exe
 crowfallclient.exe
 crown trick/crowntrick.exe
+cruel/cruel.exe
 cruelty squad/crueltysquad.exe
 crumb/crumb.exe
 crumble demo/crumble.exe
@@ -5110,6 +5111,7 @@ one deck dungeon/onedeckdungeon.exe
 one finger death punch 2/one finger death punch 2.exe
 one finger death punch.exe
 one hand clapping/one hand clapping.exe
+one night, hot springs/onsengame.exe
 one piece bounty rush/bountyrush.exe
 one piece burning blood/opbb.exe
 one piece world seeker/opws.exe
@@ -5410,6 +5412,7 @@ pixel strike 3d/pixelstrike3d.exe
 pixel studio/pixel studio.exe
 pixel_dungeons.exe
 pixelworlds.exe
+pixieditor/pixieditor.exe
 pizza connection 3/pizza connection 3.exe
 pizza possum/pizzapossum.exe
 pizza tower/pizzatower.exe
@@ -8267,6 +8270,7 @@ win64/azure-win64-shipping.exe
 win64/azurlane-win64-shipping.exe
 win64/b1-win64-shipping.exe
 win64/back4blood.exe
+win64/backroomcompany-win64-shipping.exe
 win64/backrooms-win64-shipping.exe
 win64/backrooms_escape-win64-shipping.exe
 win64/backroomsbreak-win64-shipping.exe
@@ -8352,6 +8356,7 @@ win64/bussimulator21-win64-shipping.exe
 win64/cabinfactory-win64-shipping.exe
 win64/callofkarenunreal-win64-shipping.exe
 win64/cantescapethebackrooms-win64-shipping.exe
+win64/captured-win64-shipping.exe
 win64/capybaraspa-win64-shipping.exe
 win64/caravansandwitch-win64-shipping.exe
 win64/carnal_instinct-win64-shipping.exe
@@ -9106,6 +9111,7 @@ win64/snmas-win64-shipping.exe
 win64/snow-win64-shipping.exe
 win64/snowday-win64-shipping.exe
 win64/sod2-win64-shipping.exe
+win64/solar-win64-shipping.exe
 win64/solarlandclient-win64-shipping.exe
 win64/sonder-win64-shipping.exe
 win64/songofhorror-win64-shipping.exe
