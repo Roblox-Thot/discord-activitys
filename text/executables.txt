@@ -2923,6 +2923,7 @@ game/settings.exe
 game/sogame.exe
 game/x360ce_x64.exe
 game/zula.exe
+game2/spaceengineers2.exe
 gamecenter/bin32release/game.exe
 gamecraft/gamecraft.exe
 gamedata/captain tsubasa rise of new champions.exe
@@ -4020,6 +4021,7 @@ landlord's super/landlordssuper.exe
 landmark/launchpad.exe
 landmark64.exe
 lanoire.exe
+lapidary/lapidary.exe
 lara croft and the temple of osiris/lc2.exe
 lara croft go/lara croft go.exe
 lasers/lasers.exe
@@ -5368,6 +5370,7 @@ phogs! demo/phogs.exe
 phogs!/phogs.exe
 physx/physx_8.10.29_systemsoftware.exe
 physx/physx_systemsoftware.exe
+pic-me!/pic-me.exe
 picayune dreams/picayunedreams.exe
 pickcrafter.exe
 pickle clicker/pickle clicker.exe
@@ -8223,6 +8226,7 @@ win64/advancedlocomotionsystemv-win64-shipping.exe
 win64/afterimage-win64-shipping.exe
 win64/agrou-win64-shipping.exe
 win64/aimbeast-win64-shipping.exe
+win64/aiproject-win64-shipping.exe
 win64/aircar-win64-shipping.exe
 win64/aitdprologue-win64-shipping.exe
 win64/aliensdarkdescentgamesteam-win64-shipping.exe
@@ -8359,6 +8363,7 @@ win64/cantescapethebackrooms-win64-shipping.exe
 win64/captured-win64-shipping.exe
 win64/capybaraspa-win64-shipping.exe
 win64/caravansandwitch-win64-shipping.exe
+win64/cardealersim-win64-shipping.exe
 win64/carnal_instinct-win64-shipping.exe
 win64/carrumble-win64-shipping.exe
 win64/carteltycoon-win64-shipping.exe

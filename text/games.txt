@@ -1132,6 +1132,7 @@ Captain Tsubasa - Rise of New Champions
 Captain of Industry
 Capybara Spa
 Capybara: The story of Sisyphus
+Car Dealer Simulator: Prologue - Early Days
 Car Dealership Simulator
 Car Detailing Simulator
 Car Detailing Simulator: Prologue
@@ -4083,6 +4084,7 @@ Kynseed
 Kādomon: Hyper Auto Battlers Prologue
 L.A. Noire
 L.A. Noire: The VR Case Files
+LAPIDARY: Jewel Craft Simulator
 LASER LAB
 LASERS
 LAST CLOUDIA
@@ -5556,6 +5558,7 @@ Phasmophobia
 Phobies
 Phoenix Point: Year One Edition
 Phoenix Wright: Ace Attorney Trilogy
+Pic-Me!
 Picayune Dreams
 PickCrafter
 Pickle Clicker
@@ -6851,6 +6854,7 @@ Space Commander: War and Trade
 Space Crew
 Space Empires IV Deluxe
 Space Engineers
+Space Engineers 2
 Space Farmers
 Space Haven
 Space Hulk: Deathwing - Enhanced Edition
@@ -8188,6 +8192,7 @@ Two Worlds II
 Two Worlds: Epic Edition
 Tyranny
 TyranoBuilder Visual Novel Studio
+Tyrant's Realm
 Tyrone vs Cops
 UBERMOSH
 UBOAT
