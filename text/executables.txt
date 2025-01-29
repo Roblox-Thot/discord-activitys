@@ -4425,6 +4425,7 @@ media/judgment.exe
 media/likeadragon8.exe
 media/likeadragongaiden.exe
 media/lostjudgment.exe
+media/vfrevo.exe
 media/yakuzakiwami.exe
 media/yakuzalikeadragon.exe
 medieval blacksmith/medieval blacksmith.exe
@@ -6914,6 +6915,8 @@ supermarket together/supermarket together.exe
 supermeatboy.exe
 supermncgameclient.exe
 superstarracing/superstar racing.exe
+supervive-win64-shipping.exe
+supervive.exe
 supply chain idle/supplychainidle.exe
 supraball/binaries/win32/udk.exe
 supraball/binaries/win64/udk.exe
