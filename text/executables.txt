@@ -410,6 +410,9 @@ arma 3 tools/arma3tools.exe
 arma 3/arma3_x64.exe
 arma cold war assault/coldwarassault.exe
 arma reforger experimental/armareforger_be.exe
+arma reforger experimental/armareforgersteam_experimental.exe
+arma reforger/armareforger_be.exe
+arma reforger/armareforgersteam.exe
 arma2oa_be.exe
 arma3.exe
 armajet/armajet.exe
@@ -1379,6 +1382,7 @@ coffee talk/coffeetalk.exe
 cogmind/cogmind.exe
 coin factory/coinfactory.exe
 coin pusher casino/coin pusher casino.exe
+coin/coin.exe
 coj gunslinger/cojgunslinger.exe
 coj.exe
 coj_dx10.exe
@@ -2079,6 +2083,7 @@ dota_osx.app
 dotage/dotage.exe
 dotnet/dotnetfx40_full_x86_x64.exe
 double action/hl2.exe
+double cheeseburger, medium fries/double cheeseburger, medium fries.exe
 doubledragon.exe
 dow2.exe
 dow2.exe
@@ -2253,6 +2258,8 @@ dyo/dyo.exe
 dysmantle/dysmantle.exe
 dyson sphere program/dspgame.exe
 dystopika/dystopika.exe
+ea sports fc 24/fc24.exe
+ea sports fc 24/fc24_trial.exe
 eagle/eagle.exe
 earn to die 2/earntodie_2.exe
 earth 2160/earth2160_sse.exe
@@ -3345,6 +3352,7 @@ hellion.exe
 hellish quart/hellish quart.exe
 hello charlotte ep1/game.exe
 hello charlotte/game.exe
+hello kitty island adventure/hello kitty.exe
 hellpoint the thespian feast/hellpoint.exe
 hellpoint/hellpoint.exe
 hellseed_demo/hellseed_demo.exe
@@ -3934,6 +3942,13 @@ king's bounty - the legend/kb.exe
 king's bounty - warriors of the north/kbwotn.exe
 king4steam/wheelie king 4 pc.exe
 kingdom 80s/kingdom80s.exe
+kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts birth by sleep final mix.exe
+kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts final mix.exe
+kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts hd 1.5+2.5 launcher.exe
+kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts hd 1.5+2.5 remix.exe
+kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts ii final mix.exe
+kingdom hearts -hd 1.5+2.5 remix-/kingdom hearts re_chain of memories.exe
+kingdom hearts -hd 1.5+2.5 remix-/waittitleproject.exe
 kingdom new lands/kingdom.exe
 kingdom rush alliance/kingdom rush alliance.exe
 kingdom rush frontiers/kingdom rush frontiers.exe
@@ -4041,6 +4056,8 @@ lateralligator/lateralligator.exe
 latestbuild/fargone.exe
 latex dungeon mv/game.exe
 launcher/bethesda.net_launcher.exe
+launcher/df_launcher.exe
+launcher/df_launcher_global.exe
 launcher/eg2.exe
 launcher/ntw3 v9.5.exe
 launcher/sir.exe
@@ -4372,6 +4389,7 @@ marufusha/marfusha.exe
 marvel snap/snap.exe
 marvel vs. capcom fighting collection/marvelvscapcomfightingcollection.exe
 marvel's guardians of the galaxy the telltale series/guardians.exe
+marvel's spider-man 2/spider-man2.exe
 marvel's spider-man miles morales/milesmorales.exe
 marvel's spider-man remastered/spider-man.exe
 marvelheroes2015.exe
@@ -6810,6 +6828,7 @@ strike force heroes/strike force heroes.exe
 strike.is the game/strikeis.exe
 strikeforce kitty/strikeforce kitty.exe
 strinova.exe
+strongblade/roe.exe
 stronghold 2/stronghold2.exe
 stronghold crusader extreme/stronghold crusader.exe
 stronghold crusader extreme/stronghold_crusader_extreme.exe
@@ -8651,6 +8670,7 @@ win64/helloneighbor-win64-shipping.exe
 win64/helloneighborreborn.exe
 win64/hellpie-win64-shipping.exe
 win64/hellsplit_arena-win64-shipping.exe
+win64/hemingway-win64-shipping.exe
 win64/herosjourney-win64-shipping.exe
 win64/hi-fi-rush.exe
 win64/hia-win64-shipping.exe
@@ -9131,6 +9151,8 @@ win64/spacefish.exe
 win64/spacegaragesteam-win64-shipping.exe
 win64/spacemyths-win64-shipping.exe
 win64/sparkingzero-win64-shipping.exe
+win64/spectreclient-win64-shipping.exe
+win64/spectreclient_be.exe
 win64/spidermanffh-win64-shipping.exe
 win64/spiritcity-win64-shipping.exe
 win64/spitfiregame.exe
@@ -9451,6 +9473,7 @@ windows/bloody painter dating sim.exe
 windows/digdigdrill.exe
 windows/dungeonclawler.exe
 windows/godus.exe
+windows/hemingway.exe
 windows/idleherotd.exe
 windows/jazzpunk.exe
 windows/minishoot.exe
