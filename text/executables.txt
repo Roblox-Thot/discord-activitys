@@ -208,6 +208,7 @@ age of mythology retold/aomrt_s.exe
 age of mythology/aomx.exe
 age of water first voyage/aow.exe
 age of water/aow.exe
+age of wonders 4/aow4.exe
 age of wonders planetfall/aowpf.exe
 age of wushu/bin/fxgame.exe
 age.exe
@@ -1464,6 +1465,7 @@ contagion.exe
 containers/containers.exe
 content warning/content warning.exe
 content/minecraft.exe
+content/vampiresurvivors.exe
 contra anniversary collection/game.exe
 contraband police demo/contrabandpolice.exe
 contraband police prologue/contrabandpolice.exe
@@ -1517,6 +1519,7 @@ cover fire/cover fire.exe
 cozy caravan/cozycaravan.exe
 cozy grove/cozygrove.exe
 cpucores/cpucores.exe
+crab game/crab game.exe
 crabchampions-win64-shipping.exe
 crafting idle clicker/crafting idle clicker.exe
 craftopia/craftopia.exe
@@ -2260,6 +2263,8 @@ dyson sphere program/dspgame.exe
 dystopika/dystopika.exe
 ea sports fc 24/fc24.exe
 ea sports fc 24/fc24_trial.exe
+ea sports fc 25/fc25.exe
+ea sports fc 25/fc25_trial.exe
 eagle/eagle.exe
 earn to die 2/earntodie_2.exe
 earth 2160/earth2160_sse.exe
@@ -4062,6 +4067,7 @@ launcher/eg2.exe
 launcher/ntw3 v9.5.exe
 launcher/sir.exe
 launcher/sniperelite5.exe
+launcher/sniperresistance.exe
 launcher/za4.exe
 launchutils/busybox64.exe
 laundry store simulator/laundry store simulator.exe
@@ -4396,6 +4402,7 @@ marvelheroes2015.exe
 marvelheroes2016.exe
 marvelheroesomega.exe
 marvelheroesomega.exe
+marvelrivals/marvelrivals_launcher.exe
 marvels avengers/avengers.exe
 maschine 2.exe
 mash box/mash box.exe
@@ -6359,6 +6366,7 @@ shovelknight.exe
 showdown bandit/showdown bandit.exe
 showerdad.exe
 shredders/shredders.exe
+shrimp/shrimp.exe
 shrine/shrine.exe
 shrine2/shrine2.exe
 shroud of the avatar.exe
@@ -7300,6 +7308,7 @@ the incredible adventures of van helsing final cut/vanhelsing_x64_win10.exe
 the incredible adventures of van helsing ii/vanhelsing_x64.exe
 the incredible adventures of van helsing iii/vanhelsing_x64.exe
 the incredible adventures of van helsing/vanhelsing_x64.exe
+the invisible hand/the invisible hand.exe
 the jackbox megapicker/the jackbox megapicker.exe
 the jackbox naughty pack/the jackbox naughty pack.exe
 the jackbox party pack 10/the jackbox party pack 10.exe
@@ -7442,6 +7451,7 @@ the upturned/the upturned.exe
 the void rains upon her heart/the void rains upon her heart.exe
 the walking dead - a new frontier (season 3)/walkingdead3.exe
 the walking dead michonne/walkingdeadmichonne.exe
+the walking dead no man's land/the walking dead no man's land.exe
 the walking dead the final season demo/walkingdead4demo.exe
 the walking dead the telltale definitive series/wdc.exe
 the walking zombie 2/the walking zombie 2.exe
@@ -7933,9 +7943,11 @@ valkyrieconnectww/valkyrieconnect.exe
 valley/valley.exe
 valnir rok/valnir rok.exe
 vampire hunters/vampire hunters.exe
+vampire survivors/vampiresurvivors.exe
 vampire the masquerade - coteries of new york/vtm coteries of new york.exe
 vampire the masquerade - shadows of new york/vtm shadows of new york.exe
 vampire.exe
+vampiresurvivors/vampiresurvivors.exe
 vanguard-princess/vanpri.exe
 vanquish/vanquish.exe
 varenje/varenje.exe
@@ -8447,6 +8459,7 @@ win64/darkfracture-win64-shipping.exe
 win64/darkhours-win64-shipping.exe
 win64/darksidersgenesis-win64-shipping.exe
 win64/daysgone.exe
+win64/dcg.exe
 win64/dcgame-win64-shipping.exe
 win64/dd_mnm-win64-shipping.exe
 win64/ddeception-win64-shipping.exe
@@ -8661,6 +8674,7 @@ win64/harshdoorstop-win64-shipping.exe
 win64/harvestella-win64-shipping.exe
 win64/hatred-win64-shipping.exe
 win64/hauntchaser-win64-shipping.exe
+win64/headliners-win64-shipping.exe
 win64/headsnatchers-win64-shipping.exe
 win64/helios-win64-shipping.exe
 win64/hellblade2-win64-shipping.exe
@@ -9117,6 +9131,7 @@ win64/shootergame_be.exe
 win64/shootergameclient-win64-shipping.exe
 win64/shootergameserver.exe
 win64/shproto-win64-shipping.exe
+win64/shrimp-win64-shipping.exe
 win64/shta.exe
 win64/sifu-win64-shipping.exe
 win64/silentbreath-win64-shipping.exe
