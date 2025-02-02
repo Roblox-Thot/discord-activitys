@@ -1348,6 +1348,7 @@ Climber: Sky is the Limit - Free Trial
 Climbey
 Clive Barker's Undying
 Clone Drone in the Danger Zone
+Clone Drone in the Hyperdome
 Clonk Rage
 Closers
 Clothing Store Simulator
@@ -2763,6 +2764,7 @@ Fly Corp Demo
 Fly Dangerous
 Fly Punch Boom: First Impact!
 Fly Simulator
+FlyKnight
 Flyff
 Flyout
 Fobia - St. Dinfna Hotel
@@ -6060,6 +6062,7 @@ Retail Company Simulator: Prologue
 Retimed
 Retro City Rampage™ DX
 Retro Commander
+Retro Gadgets
 RetroArch
 RetroMaze
 Retrocycles
@@ -6142,6 +6145,7 @@ Robot Roller-Derby Disco Dodgeball
 Robot Rumble 2
 Rock 'N' Roll Defense
 Rock Life: The Rock Simulator
+Rock Star Life Simulator
 Rock of Ages
 Rock of Ages 2
 Rock of Ages 3: Make & Break
@@ -6452,6 +6456,7 @@ Scars Above
 Scavengers
 Scene Investigators
 Scene Investigators Demo
+Schedule I: Free Sample
 Scholar's Mate - First Move
 School Labyrinth
 School of Dragons: How to Train Your Dragon
@@ -7781,6 +7786,7 @@ The Simpsons Hit & Run(TM)
 The Sims 2: Ultimate Collection
 The Sims 3
 The Sims 4
+The Sims™ Legacy Collection
 The Sinking City
 The Slormancer
 The Song of Saya
@@ -7950,6 +7956,7 @@ Titanfall™
 To The Core
 To The Rescue!
 To the Moon
+ToS Gamepad Tester
 Tobacco Shop Simulator: Prologue
 ToeJam & Earl: Back in the Groove
 Tofas Sahin: Online Car Driving
@@ -8065,6 +8072,7 @@ Touhou Puppet Dance Performance
 Touhou Sky Arena
 Tourist Bus Simulator
 Tower 57
+Tower Factory
 Tower Keepers
 Tower Princess: Knight's Trial
 Tower Tactics: Liberation
@@ -8211,6 +8219,7 @@ Two Point Campus
 Two Point Hospital
 Two Worlds II
 Two Worlds: Epic Edition
+Typing Incremental
 Tyranny
 TyranoBuilder Visual Novel Studio
 Tyrant's Realm
