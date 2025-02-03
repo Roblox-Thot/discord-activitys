@@ -1094,6 +1094,7 @@ cake bash demo/cakebash_win64_steam.exe
 cakebash/cakebash_win64_steam.exe
 cakey's twisted bakery/cakey's twisted bakery.exe
 calamari clash/calamariclash.exe
+calculate it/calculateit.exe
 caliber/caliberstart.exe
 calico/calico.exe
 call of duty - infinite warfare/iw7_ship.exe
@@ -5420,6 +5421,7 @@ pincremental/pincremental.exe
 pine/pine.exe
 pineapple on pizza/pineapple on pizza.exe
 pineapple/metal slug xx.exe
+pingpongleague/pingpongleague.exe
 pioneers of pagonia/pioneers of pagonia.exe
 pipe/pipe.exe
 pirate.exe
@@ -5541,6 +5543,7 @@ potion permit/potion permit.exe
 povestka/povestka.exe
 powder/powder.exe
 power & revolution 2019 edition/_start.exe
+power & revolution 2023 edition/_start.exe
 power & revolution/_start.exe
 power rangers battle for the grid/battleforthegrid.exe
 powerwash simulator/powerwashsimulator.exe
@@ -6169,6 +6172,7 @@ schedule i demo/schedule i free sample.exe
 school of dragons how to train your dragon/domain.exe
 schoolboy runaway/schoolboy runaway.exe
 sclash/sclash.exe
+scoot/scoot.exe
 scooterflow/scooterflow.exe
 scorch/scorch_final.exe
 scott pilgrim vs the world/scott.exe
@@ -8554,6 +8558,7 @@ win64/endorphinvice-win64-shipping.exe
 win64/engarde-win64-shipping.exe
 win64/enlisted.exe
 win64/enotria-win64-shipping.exe
+win64/entropysurvivors-win64-shipping.exe
 win64/eotu-win64-shipping.exe
 win64/escapefromboykisser-win64-shipping.exe
 win64/escapefromschool-win64-shipping.exe
@@ -8757,6 +8762,7 @@ win64/jh-win64-shipping.exe
 win64/jigsaw-win64-shipping.exe
 win64/jivana-win64-shipping.exe
 win64/jointwar-win64-shipping.exe
+win64/joyofprogramming-win64-shipping.exe
 win64/judgesim-win64-shipping.exe
 win64/jujutsu kaisen cc.exe
 win64/jump_force-win64-shipping.exe

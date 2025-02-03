@@ -1087,6 +1087,7 @@ Cake Bash
 Cake Bash Demo
 Cakey's Twisted Bakery
 Calamari Clash
+Calculate It
 Calico
 Call of Cthulhu
 Call of Duty 2
@@ -2355,6 +2356,7 @@ Enter the Gungeon
 Entropia Universe
 Entropy : Zero
 Entropy : Zero 2
+Entropy Survivors
 Epic Battle Fantasy 3
 Epic Battle Fantasy 4
 Epic Battle Fantasy 5
@@ -3869,6 +3871,7 @@ J-Jump Arena
 J.A.W.S
 JBMod
 JDM: Rise of the Scorpion
+JOY OF PROGRAMMING - Software Engineering Simulator
 JUMP FORCE
 Jackpot Poker by PokerStars
 Jade Empire: Special Edition
@@ -5591,6 +5594,7 @@ Pinball M
 Pincremental
 Pine
 Pineapple on pizza
+Ping Pong League
 Pioneers of Pagonia
 Pirate Fighting Simulator
 Pirate101
@@ -5708,6 +5712,7 @@ Potion Permit Demo
 Potionomics
 Power & Revolution
 Power & Revolution 2019 Edition
+Power & Revolution 2023 Edition
 Power Rangers: Battle for the Grid
 PowerWash Simulator
 Praey for the Gods
@@ -6462,6 +6467,7 @@ School Labyrinth
 School of Dragons: How to Train Your Dragon
 SchoolBoy Runaway
 Sclash
+Scoot
 ScooterFlow
 Scorch
 Scorn
