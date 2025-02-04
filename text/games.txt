@@ -672,6 +672,7 @@ Battle RC
 Battle Realms: Zen Edition
 Battle Royale Trainer
 Battle Royale: Survivors
+Battle Shapers
 Battle Squares
 Battle Talent
 Battle Talent Demo
@@ -1160,6 +1161,7 @@ Card Shark
 Card Shark Demo
 CardLife
 Cardboard Town
+Cardfight!! Vanguard Dear Days
 Cardfight!! Vanguard Dear Days Demo
 Cards & Tankards
 Cards and Castles 2
@@ -1584,6 +1586,7 @@ Cry of Fear
 Crying Suns
 Crying Suns Demo
 Crypt
+Crypt Custodian
 Crypt of the NecroDancer
 Cryptis
 Cryptmaster
@@ -4404,6 +4407,7 @@ MELTY BLOOD: TYPE LUMINA
 MEMORIA POLIS
 METAL GEAR RISING: REVENGEANCE
 METAL GEAR SOLID - Master Collection Version
+METAL GEAR SOLID 3 SNAKE EATER (MASTER COLLECTION版)
 METAL GEAR SOLID V: GROUND ZEROES
 METAL GEAR SOLID V: THE PHANTOM PAIN
 METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT
@@ -7150,6 +7154,7 @@ Sucker for Love: Date to Die For
 Sucker for Love: Prelude
 Sudden Strike 4
 Sudocats
+Sudoku Universe
 Suguri
 Suicide Guy
 Suicide Guy: Sleepin' Deeply
@@ -8658,6 +8663,7 @@ When The Past Was Around
 When the Darkness comes
 Where Dragon Spirits 龙魂在哪里
 Where the Water Tastes Like Wine
+While We Wait Here
 Whirligig
 White Day: A Labyrinth Named School
 White Noise 2
