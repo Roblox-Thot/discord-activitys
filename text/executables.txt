@@ -6038,6 +6038,7 @@ rover mechanic simulator/rms.exe
 royal crown/gameguard.des
 royal revolt ii/rr-tournament.exe
 rpg maker 2003/rpg2003.exe
+rpg maker mz/rpgmz.exe
 rpg maker vx ace lite/rpgvxacelite.exe
 rpg mo/nw.exe
 rpg paper maker/rpg paper maker.exe
@@ -9261,6 +9262,7 @@ win64/tales of arise.exe
 win64/talesandtactics-win64-shipping.exe
 win64/talos2-win64-shipping.exe
 win64/taxilife-win64-shipping.exe
+win64/tbr-win64-shipping.exe
 win64/tenmilestosafety-win64-shipping.exe
 win64/terminator-win64-shipping.exe
 win64/terroro-win64-shipping.exe
@@ -9447,6 +9449,7 @@ win64/zoonomaly-win64-shipping.exe
 win64_bin/wargroove64.exe
 win64_shipping_client/bannerlord.exe
 win64_steam/gravitycircuit.exe
+win64mastermastersteampgo/kingdomcome.exe
 win_x64/huntgame.exe
 win_x64/pandemicexpress.exe
 win_x64/sgwcontracts.exe

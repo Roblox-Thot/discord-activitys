@@ -4038,6 +4038,7 @@ King's Bounty: The Legend
 King's Bounty: Warriors of the North
 King's Quest
 Kingdom Come: Deliverance
+Kingdom Come: Deliverance II
 Kingdom Eighties
 Kingdom Rush
 Kingdom Rush 5: Alliance TD
@@ -5905,6 +5906,7 @@ RPG Maker VX Ace Lite
 RPG Maker XP
 RPG Paper Maker
 RPG World - Action RPG Maker
+RPGツクールMZ
 RUINER
 RUKIMIN's Disappointing Adventure!
 RUMBLE
@@ -7487,6 +7489,7 @@ The Backroom - Lost and Found
 The Backrooms 1998 - Found Footage Backroom Survival Horror Game
 The Backrooms Deluxe
 The Backrooms Game FREE Edition
+The Backrooms Regret
 The Backrooms: Lost Tape
 The Backrooms: Survival
 The Backrooms: Unbounded
