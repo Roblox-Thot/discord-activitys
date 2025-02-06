@@ -581,6 +581,7 @@ BRAVELY DEFAULT II
 BREAK ARTS II
 BREATHE
 BROKE PROTOCOL: Online City RPG
+BUSTAFELLOWS
 BUTCHER
 Baba Is You
 Babble Royale
@@ -4813,6 +4814,7 @@ Monster Energy Supercross - The Official Videogame 6
 Monster Girl Island: Prologue
 Monster Hunter Stories
 Monster Hunter Stories 2: Wings of Ruin Trial Version
+Monster Hunter Wilds Benchmark
 Monster Prom
 Monster Prom 2: Monster Camp
 Monster Prom 2: Monster Camp Demo
@@ -5830,6 +5832,7 @@ Punch Club
 Punch Club 2: Fast Forward
 Puppet Master: The Game
 Pure Farming 2018
+Pure Pool
 Pure Rock Crawling
 Purple Place - Classic Games
 Purrfect Date
@@ -9043,6 +9046,7 @@ yahtzee girl
 Пушистая Мисс
 РУСЫ ПРОТИВ ЯЩЕРОВ
 Русы не против Ящерок
+Симулятор Квадробера
 Симулятор Побега от Военкомата
 Симулятор Прыгания по Гаражам
 Симулятор Скуфа

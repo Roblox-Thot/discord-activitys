@@ -1076,6 +1076,7 @@ bus simulator 16/bussimulator16.exe
 bus world/bus world.exe
 business tour/businesstour.exe
 businesstour.exe
+bustafellows/bustafellows.exe
 bustybiz/bustybiz.exe
 butcher/butcher.exe
 button pusher/button pusher.exe
@@ -4709,6 +4710,7 @@ monster slayers/monster slayers db.exe
 monster train/monstertrain.exe
 monsterhunterrise/monsterhunterrise.exe
 monsterhunterrisedemo/monsterhunterrisedemo.exe
+monsterhunterwildsbenchmark/monsterhunterwilds.exe
 monsterhunterworld.exe
 monsterprom.exe
 monsters/monsters.exe
@@ -5663,6 +5665,7 @@ punch club 2 fast forward/punch club 2 fast forward.exe
 punch club.exe
 punkbuster/pbsvc_bc2.exe
 puppet master the game/puppet master the game.exe
+pure pool/mantisconfig.exe
 purefarming/purefarming.exe
 pureya/pureya.exe
 purple place/purple place.exe
@@ -9051,6 +9054,7 @@ win64/punishingjumpergame-win64-shipping.exe
 win64/purerockcrawling-win64-shipping.exe
 win64/puzzlegame-win64-shipping.exe
 win64/pwndclient-win64-shipping.exe
+win64/quadrobersimulator.exe
 win64/qube-win64-shipping.exe
 win64/quidditchchampions-win64-shipping.exe
 win64/raccoon.exe
