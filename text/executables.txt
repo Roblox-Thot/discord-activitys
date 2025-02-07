@@ -1182,6 +1182,7 @@ castle of illusion/coi.exe
 castlecrashers/castle.exe
 castlecrashersdemo/castle.exe
 castleminerz.exe
+castlestorm/castlestorm.exe
 castlevania advance collection/game.exe
 castlevania anniversary collection/game.exe
 castlevania dominus collection/game.exe
@@ -4560,6 +4561,7 @@ midnight castle succubus/game_s.exe
 midnight fight express/midnightfightexpress.exe
 midnight heist/midnight heist.exe
 midnight murder club demo/midnightmurderclub.exe
+midnight paradise/midnightparadise.exe
 midnight ride/midnight ride.exe
 might & magic heroes vi.exe
 might and magic clash of heroes/clashofheroes.exe
@@ -6014,6 +6016,7 @@ roguelegacy.exe
 roguelords/rogue lords.exe
 roguesystemsim.exe
 roguewaters/roguewaters.exe
+roj/republic of jungle.exe
 roll/roll.exe
 roller champions/roller.exe
 rollerchampions/roller.exe
@@ -7416,6 +7419,7 @@ the rogue prince of persia/the rogue prince of persia.exe
 the room old sins/oldsins.exe
 the room syndrome/the room syndrome.exe
 the room vr/theroomvr.exe
+the roottrees are dead/roottrees.exe
 the rpg engine/the_rpg_engine.exe
 the saboteur/saboteur.exe
 the sacred tears true.exe
@@ -8443,6 +8447,7 @@ win64/chronos-win64-shipping.exe
 win64/chushpansimulator-win64-shipping.exe
 win64/citadel-win64-shipping.exe
 win64/citydriver-win64-shipping.exe
+win64/civ7_win64_dx12_finalrelease.exe
 win64/clay_2-win64-shipping.exe
 win64/clay_3-win64-shipping.exe
 win64/clay_4-win64-shipping.exe

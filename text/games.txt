@@ -1193,6 +1193,7 @@ Castle Rock Beach, West Australia
 Castle in the Clouds
 Castle of Illusion
 CastleMiner Z
+CastleStorm
 Castlevania Advance Collection
 Castlevania Anniversary Collection
 Castlevania Dominus Collection
@@ -4699,6 +4700,7 @@ Midnight Fight Express
 Midnight Ghost Hunt
 Midnight Heist
 Midnight Murder Club Crossplay Beta
+Midnight Paradise
 Midnight Ride
 Might & Magic Heroes VI
 Might & Magic Heroes VII
@@ -6047,6 +6049,7 @@ Rental
 Rento Fortune - Multiplayer Board Game
 Repair this!
 Replica
+Republic of Jungle
 Rescue HQ - The Tycoon
 Resident Evil / biohazard HD REMASTER
 Resident Evil 0
@@ -6677,6 +6680,7 @@ Sid Meier's Civilization IV: Warlords
 Sid Meier's Civilization V
 Sid Meier's Civilization V SDK
 Sid Meier's Civilization VI
+Sid Meier's Civilization VII
 Sid Meier's Civilization: Beyond Earth
 Sid Meier's Civilization® IV Complete
 Sid Meier's Colonization (Classic)
@@ -7779,6 +7783,7 @@ The Room Syndrome
 The Room Three
 The Room Two
 The Room VR: A Dark Matter
+The Roottrees are Dead
 The Saboteur™
 The Sacred Tears TRUE
 The Sandbox Evolution
