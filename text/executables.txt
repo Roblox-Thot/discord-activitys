@@ -1519,6 +1519,7 @@ costumeparty/costumeparty.exe
 cotl_demo_win/cult of the lamb.exe
 couchcoopmono2/plateup.exe
 counter-strike source/hl2.exe
+counterattack/counterattack.exe
 counterside/counterside.exe
 countersnipe/countersnipe.exe
 cover fire/cover fire.exe
@@ -2039,6 +2040,7 @@ dnftm/dnftm.exe
 dnl.exe
 do not feed the monkeys 2099/do not feed the monkeys 2099.exe
 doax-venusvacation/doax_vv.exe
+dodgydeliveries/dodgy deliveries.exe
 dodonpachi resurrection/default.exe
 dofus.exe
 dog brew/dog brew.exe
@@ -2339,6 +2341,7 @@ emergenyc/emergenyc.exe
 emily is away 3/emily3.exe
 emily is away too/emilyisawaytoo.exe
 emily is away.exe
+empire total war/empire.exe
 empire.exe
 empireofsin/empireofsin.exe
 empires apart/autorun.exe
@@ -3845,6 +3848,7 @@ jk2sp.exe
 joar.exe
 jobsimulator.exe
 joe 'n jo/joenjo.exe
+joggernauts/joggernauts.exe
 john wick hex/john wick hex.exe
 jojo's bizarre adventure all-star battle r demo version/asbr.exe
 joker show - horror escape/joker show.exe
@@ -5391,6 +5395,7 @@ pets hotel prologue/pets hotel.exe
 pewdiepie legend of the brofist/pewdiepielegendofthebrofist.exe
 pga tour 2k21/golf.exe
 pga tour 2k23/pgatour2k23.exe
+pga tour 2k25 first look/pgatour2k25.exe
 phantasmal/phantasmal.exe
 phantom brave pc/phantom brave pc.exe
 phantom brigade/phantombrigade.exe
@@ -6083,6 +6088,7 @@ russian roulette one life/russian 3d.exe
 russianfishing4/rf4_x64.exe
 russiaphobia/russiaphobia.exe
 rust.exe
+rust/rustclient.exe
 rustangelo/rustangelo.exe
 rustclient.exe
 rusted warfare/rusted warfare - 64.exe
@@ -7028,6 +7034,7 @@ swords and sandals 2 redux/swords and sandals 2 redux.exe
 swords and sandals classic collection/swords and sandals classic collection.exe
 swords and sandals immortals/swords_and_sandals_immortals.exe
 swordwithsauce-win64-shipping.exe
+sworn/sworn.exe
 swrepubliccommando.exe
 swrepubliccommando.exe
 swtor.exe
@@ -8513,6 +8520,7 @@ win64/diabloimmortal.exe
 win64/dicekingdom-win64-shipping.exe
 win64/dieselbrothers-win64-shipping.exe
 win64/dieyoung-win64-shipping.exe
+win64/digginggame.exe
 win64/dimensionsreborn-win64-shipping.exe
 win64/diony.exe
 win64/dirgecplus-win64-shipping.exe
@@ -9388,6 +9396,7 @@ win64/undefeated-win64-shipping.exe
 win64/undergroundgarage-win64-shipping.exe
 win64/underlords.exe
 win64/underthewaves-win64-shipping.exe
+win64/underward-win64-shipping.exe
 win64/unforgiving-win64-shipping.exe
 win64/unfortunatespacemen-win64-shipping.exe
 win64/unrealgame.exe
@@ -9550,6 +9559,7 @@ windows_content/streamer life simulator 2.exe
 windows_content/streamer life simulator.exe
 windscape.exe
 windward/windward.exe
+wingdk/palworld-wingdk-shipping.exe
 wings of vi.exe
 wingspan/wingspan.exe
 winkeltje/shopkeeper.exe

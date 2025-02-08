@@ -84,6 +84,7 @@ A Date with Death
 A Day Out
 A Difficult Game About Climbing
 A Game About
+A Game About Digging A Hole
 A Game of Thrones: The Board Game
 A Good Snowman Is Hard To Build
 A Hat in Time
@@ -1508,6 +1509,7 @@ Counter-Strike 2
 Counter-Strike Nexon: Studio
 Counter-Strike: Global Offensive
 Counter-Strike: Source
+CounterAttack: Uprising
 CounterSide
 Countersnipe
 Cover Fire
@@ -2032,6 +2034,7 @@ Do Not Feed the Monkeys 2099
 DoDonPachi Resurrection
 Dodge It!
 Dodge It! 2
+Dodgy Deliveries
 Dofus
 Dog Brew
 Dog Sled Saga
@@ -2326,7 +2329,6 @@ Emily is Away <3
 Emily is Away Too
 Empire of Sin
 Empire of the Ants
-Empire: Total War
 Empires
 Empires Apart
 Empires of the Undergrowth
@@ -3900,6 +3902,7 @@ Jivana
 JoJo's Bizarre Adventure: All-Star Battle R Demo version
 Job Simulator
 Joe 'n Jo
+Joggernauts
 John Wick Hex
 Joint War
 Joker Show - Horror Escape
@@ -5423,6 +5426,7 @@ PC Building Simulator
 PCSX2
 PGA TOUR 2K21
 PGA TOUR 2K23
+PGA TOUR 2K25 First Look
 PHANTASY STAR ONLINE 2
 PHOGS!
 PHOGS! Demo
@@ -6396,6 +6400,7 @@ SWAT 3: Tactical Game of the Year Edition
 SWAT 4
 SWINE HD Remaster
 SWORD ART ONLINE Alicization Lycoris
+SWORN
 SYNCED（シンクド）
 SYNTHETIK
 SYNTHETIK 2
@@ -8050,6 +8055,7 @@ Total War Arena
 Total War Battles: KINGDOM
 Total War Saga: Thrones of Britannia
 Total War: ATTILA
+Total War: EMPIRE – Definitive Edition
 Total War: NAPOLEON - Definitive Edition
 Total War: ROME II - Emperor Edition
 Total War: ROME REMASTERED
@@ -8259,6 +8265,7 @@ UNDER NIGHT IN-BIRTH Exe:Late
 UNDER NIGHT IN-BIRTH Exe:Late[cl-r]
 UNDER NIGHT IN-BIRTH II Sys:Celes
 UNDERDOGS
+UNDERWARD
 UNI
 UNLIGHT:Revive
 UNLOVED
