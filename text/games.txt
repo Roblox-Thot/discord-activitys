@@ -1384,6 +1384,7 @@ Coffee Talk Episode 2: Hibiscus & Butterfly
 Cogmind
 Coin
 Coin Factory
+Coin Flipper
 Coin Pusher Casino
 Cold Fear
 Cold Waters
@@ -2891,6 +2892,7 @@ Fruit Mountain
 Fruit Ninja VR
 Fruit Postal Service
 Fruit Salad
+Fruitbus
 Fruity Smoothie
 Fujiwara Bittersweet
 Full Metal Furies
@@ -3640,6 +3642,7 @@ Hyper Light Drifter
 Hyper Online: VTuber Avatar Studio
 Hyper Universe
 Hyperbolica
+Hyperchannel
 Hyperdevotion Noire: Goddess Black Heart
 Hyperdimension Neptunia Re;Birth1
 Hyperdimension Neptunia Re;Birth2 Sisters Generation
@@ -6114,6 +6117,7 @@ Riding Club Championships
 Riding to Bounce City
 Riff Racer
 Rift Wizard
+Rift of the NecroDancer
 RimWorld
 Ring of Elysium
 Ring of Pain
@@ -6754,6 +6758,7 @@ Sky Rogue
 Sky: Children of the Light
 SkyDrift
 SkyIsland
+Skydance's BEHEMOTH
 Skydome
 Skyforge
 Skyrim Special Edition: Creation Kit

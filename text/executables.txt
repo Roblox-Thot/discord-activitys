@@ -1388,6 +1388,7 @@ coffee talk episode 2 hibiscus & butterfly/cthb.exe
 coffee talk/coffeetalk.exe
 cogmind/cogmind.exe
 coin factory/coinfactory.exe
+coin flipper/coin flipper.exe
 coin pusher casino/coin pusher casino.exe
 coin/coin.exe
 coj gunslinger/cojgunslinger.exe
@@ -2879,6 +2880,7 @@ frozen synapse/frozensynapse.exe
 fruit mountain/fruitmountain.exe
 fruit postal service/fruitpostalservice.exe
 fruit salad/fruitsalad.exe
+fruitbus/fruitbus.exe
 fruitninjavr/fruitninja.exe
 fruity smoothie/fruitysmoothie.exe
 fsd-win64-shipping.exe
@@ -5934,6 +5936,7 @@ riff racer/game.exe
 rift.exe
 rift/glyphclientapp.exe
 rift_x64.exe
+riftofthenecrodancerostvolume1/riftofthenecrodancer.exe
 riftwizard/riftwizard.exe
 riichicity/mahjong-jp.exe
 rik.exe
@@ -8379,6 +8382,7 @@ win64/betweentwocastles-win64-shipping.exe
 win64/beyond_citadel-win64-shipping.exe
 win64/bgg-win64-shipping.exe
 win64/bhl-win64-shipping.exe
+win64/bhm-win64-shipping.exe
 win64/bhoppro-win64-shipping.exe
 win64/bigfoot-win64-shipping.exe
 win64/billiebustup-win64-shipping.exe
@@ -9289,6 +9293,7 @@ win64/testing-win64-shipping.exe
 win64/tetriseffect-win64-shipping.exe
 win64/tfba-win64-shipping.exe
 win64/th-win64-shipping.exe
+win64/the90sshow.exe
 win64/the_citadel-win64-shipping.exe
 win64/the_enjenir-win64-shipping.exe
 win64/the_purge_dilemma-win64-shipping.exe
