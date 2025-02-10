@@ -3168,6 +3168,7 @@ grow up/growup.exe
 growhome.exe
 growing up/growing up.exe
 growtopia/growtopia.exe
+grunn/grunn.exe
 grw.exe
 gta--vc.exe
 gta-sa.exe
@@ -3987,6 +3988,7 @@ kingspray graffiti/kingspray.exe
 kingsway/kingsway.exe
 kinitopet/kinitopet.exe
 kink.inc/kink inc steam.exe
+kiosk/kiosk.exe
 kitaria fables demo/kitaria fables demo.exe
 kitaria fables/kitaria fables.exe
 kiteretsu/kiteretsu.exe
@@ -6880,6 +6882,7 @@ styx2-win64-shipping.exe
 styxgame.exe
 sub command/steamrun.exe
 sub rosa/subrosa.exe
+submachine/submachine.exe
 submerge-win64-shipping.exe
 subnautica.exe
 subnauticazero.exe
@@ -7077,6 +7080,7 @@ t6zm.exe
 table manners/tablemanners.exe
 tabletop simulator.exe
 tabletopia/tabletopia.exe
+taboo university book one/taboouniversity.exe
 tabooscracks/tabooscracks.exe
 tachyon the fringe/tachyon.exe
 tacoma/tacoma.exe
@@ -9545,6 +9549,7 @@ windows/pbsvc_hos.exe
 windows/pogo rogue.exe
 windows/railbound.exe
 windows/retimed.exe
+windows/reversecollapse.exe
 windows/tilestd.exe
 windows/travellersrest.exe
 windows64/nimbatus.exe

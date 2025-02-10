@@ -3206,6 +3206,7 @@ Grow Up
 Grow: Song of the Evertree
 Growing Up
 Growtopia
+Grunn
 Guacamelee! 2
 Guacamelee! Gold Edition
 Guacamelee! Super Turbo Championship Edition
@@ -4068,6 +4069,7 @@ Kingsway
 KinitoPET
 Kink.Inc
 Kinoko
+Kiosk
 KitHack Model Club
 Kitaria Fables
 Kitaria Fables Demo
@@ -6100,6 +6102,7 @@ Reus
 Reus 2
 Revelation Online
 Reventure
+Reverse Collapse: Code Name Bakery
 Reverse: 1999
 Revita
 Revolution Idle
@@ -7154,6 +7157,7 @@ Styx: Master of Shadows
 Styx: Shards of Darkness
 Sub Command
 Sub Rosa
+Submachine: Legacy
 Submerged
 Subnautica
 Subnautica: Below Zero
@@ -7381,6 +7385,7 @@ Table Manners
 Tabletop Playground
 Tabletop Simulator
 Tabletopia
+Taboo University Book One
 Taboos: Cracks
 Tachyon: The Fringe
 Tacoma
