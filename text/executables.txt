@@ -3042,6 +3042,7 @@ gladiabots/gladiabots.exe
 gladiator guild manager prologue/gladiator manager.exe
 gladiator guild manager/gladiator manager.exe
 gladio and glory/gladio and glory.exe
+gladio mori/gladio mori.exe
 glass masquerade 2/illusions.exe
 glass masquerade/glass.exe
 glass/glass.exe
@@ -9586,6 +9587,7 @@ witchhand/witchhand.exe
 witchspring r/witchspringr.exe
 with eyes closed - season 1/witheyesclosed.exe
 with you/with you.exe
+withering rooms/withering rooms.exe
 witn.exe
 witness64_d3d11.exe
 wizard and minion idle/wizard and minion idle.exe

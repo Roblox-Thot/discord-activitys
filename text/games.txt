@@ -3065,6 +3065,7 @@ GizmoVR Video Player
 Gladiabots
 Gladiator Guild Manager
 Gladiator Guild Manager: Prologue
+Gladio Mori
 Gladio and Glory
 Glass Masquerade
 Glass Masquerade 2: Illusions
@@ -3616,7 +3617,7 @@ HudSight - custom crosshair overlay
 Hue
 Human Resource Machine
 Human: Fall Flat
-HumanitZ Demo
+HumanitZ
 Hundred Days
 Hunger Dungeon
 HunieCam Studio
@@ -8744,6 +8745,7 @@ Witchfire
 Witchy Life Story
 With Eyes Closed - Season 1
 With You
+Withering Rooms
 Wizard And Minion Idle
 Wizard of Legend
 Wizard of Legend 2
