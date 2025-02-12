@@ -1,7 +1,6 @@
 -arcane raise-/game.exe
 .autorun/autorun.exe
 /haloinfinite.exe
-/polaris/binaries/win64/polaris-win64-shipping.exe
 10 minutes till dawn/minutestilldawn.exe
 10 second ninja x/10snx.exe
 100 aliens cats/100 aliens cats.exe
@@ -7169,6 +7168,7 @@ techtonica/techtonica.exe
 teenage mutant ninja turtles splintered fate/tmntsf.exe
 teeworlds.app
 teeworlds.exe
+tekken 8/polaris/binaries/win64/polaris-win64-shipping.exe
 tekkengame-win64-shipping.exe
 teleforum/teleforum.exe
 teleglitchdme/teleglitch.exe
@@ -9264,6 +9264,7 @@ win64/supernatural-win64-shipping.exe
 win64/supernormal-win64-shipping.exe
 win64/superraftboatvr-win64-shipping.exe
 win64/supersmash-win64-shipping.exe
+win64/supervive-win64-shipping.exe
 win64/supraland-win64-shipping.exe
 win64/supralandsiu-win64-shipping.exe
 win64/surf-win64-shipping.exe
