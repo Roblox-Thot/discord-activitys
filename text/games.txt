@@ -2920,6 +2920,7 @@ Future Wars
 GAROU: MARK OF THE WOLVES
 GET OUT!
 GIBZ
+GIRLS' FRONTLINE 2: EXILIUM
 GNOG
 GNOSIA
 GOAT OF DUTY
@@ -3994,6 +3995,7 @@ Kawaii Neko Girls 2
 Kayak VR: Mirage
 Kebab Chefs! - Restaurant Simulator
 Kebab Simulator: Prologue
+Keep Driving
 Keep Talking and Nobody Explodes
 KeeperRL
 Keepers of the Trees
@@ -4949,6 +4951,7 @@ My Garage
 My Horse: Bonded Spirits - Prologue
 My Little Blacksmith Shop
 My Little Farmies
+My Little Life
 My Little Universe
 My Little Universe Demo
 My Lovely Daughter
@@ -8163,6 +8166,7 @@ Traitors in Salem
 Tram Simulator Urban Transit
 TransOcean: The Shipping Company
 TransforBest
+Transformative Summer: Life with a TS Companion
 Transformers: War for Cybertron
 Transformice Adventures Demo
 Transistor
@@ -8519,6 +8523,7 @@ WAVESHAPER
 WE ARE FOOTBALL
 WEBFISHING
 WGT Golf
+WHAT THE CAR?
 WHAT THE GOLF?
 WILD HEARTS™
 WITCH ON THE HOLY NIGHT
@@ -9184,6 +9189,7 @@ yahtzee girl
 近畿霊務局
 違う冬のぼくら
 違う冬のぼくら Friend's Pass
+違う星のぼくら　特別体験版
 鈴蘭の剣：この平和な世界のために
 闇鍋人狼
 除邪(CHUXIE)
