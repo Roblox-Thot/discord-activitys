@@ -532,6 +532,7 @@ Aven Colony
 Aviary Attorney
 Aviators
 Avorion
+Avowed
 Awaria
 Awesomenauts
 Awkward Dimensions Redux
@@ -5036,6 +5037,7 @@ NORCO
 NOT A HERO
 NSFW Solitaire
 NSFW Studio
+NTR'd By Clumsiness
 Naheulbeuk's Dungeon Master
 Naiad Demo
 Nancy Drew: Curse of Blackmoor Manor
@@ -6230,6 +6232,7 @@ Roof Rage
 Rooftops & Alleys: The Parkour Game
 Root
 Roots of Pacha
+Ropuka's Idle Island
 Rosenkreuzstilette
 Rotwood
 Rounds of Zombies
@@ -9195,6 +9198,7 @@ yahtzee girl
 鈴蘭の剣：この平和な世界のために
 闇鍋人狼
 除邪(CHUXIE)
+陰の実力者になりたくて！マスターオブガーデン
 雀姬
 雀魂麻将(MahjongSoul)
 首都高バトル

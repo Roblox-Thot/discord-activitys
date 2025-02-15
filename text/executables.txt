@@ -4437,6 +4437,7 @@ master of orion 2/dosbox/dosbox.exe
 master of orion/masteroforion.exe
 master/chronoark.exe
 master_build_windows/banana_drama_git.exe
+masterofgarden/masterofgarden_steam.exe
 masterplan tycoon foundations/masterplan tycoon.exe
 masterreboot.exe
 masters of anima.exe
@@ -5088,6 +5089,7 @@ nsfwsolitaire_win64/nsfwsolitaire.exe
 nsuns3.exe
 nsuns4.exe
 nsunsr.exe
+ntr'd by clumsiness/ntrdbyclumsiness.exe
 nubarron/nubarron.exe
 nuclear dawn/nucleardawn.exe
 nuclear last darkness/nucleares.exe
@@ -6052,6 +6054,7 @@ roof rage/roofrage.exe
 roomeditor/roomeditor.exe
 root/root.exe
 roots of pacha/roots of pacha.exe
+ropuka's idle island/ropuka's idle island.exe
 rottr.exe
 rounds of zombies/zombie.exe
 rounds/rounds.exe
@@ -8350,6 +8353,7 @@ win64/automationgame-win64-shipping.exe
 win64/autosalelife-win64-shipping.exe
 win64/avencolony-win64-shipping.exe
 win64/avf2-win64-shipping.exe
+win64/avowed-win64-shipping.exe
 win64/awayout.exe
 win64/awl.exe
 win64/azure-win64-shipping.exe
