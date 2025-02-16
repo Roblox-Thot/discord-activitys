@@ -4460,6 +4460,7 @@ mds/mds.exe
 mds_demo_win/mds_demo.exe
 meadow/meadow.exe
 mech engineer/mech_engineer.exe
+mecha knights nightmare alpha/mecha knights.exe
 mechabellum/mechabellum.exe
 mechabreak/mechabreak.exe
 mechanicus/mechanicus.exe
@@ -5159,6 +5160,7 @@ omon girl bottle royal/omon girl bottle royal.exe
 omon simulator/omon simulator.exe
 omori/omori.exe
 omsi 2/omsi.exe
+once a porn a time/once a porn a time.exe
 once human/once_human.exe
 one deck dungeon/onedeckdungeon.exe
 one finger death punch 2/one finger death punch 2.exe
@@ -5939,6 +5941,7 @@ richman11/richman11.exe
 rickandmortyvr/rickandmortyvr.exe
 ride - game/ridex64.exe
 ride 2/ride2x64.exe
+ridge racer unbounded/rru.exe
 riding to bounce city/riding to bounce city.exe
 ridingclubchampionships/rcc.exe
 riff racer/game.exe
@@ -6451,6 +6454,7 @@ siralim ultimate/siralimultimate.exe
 siren head the horror experience/sirenhead - the horror experience.exe
 siren head the siren's forest/sirean head.exe
 siren head's awakening/siren head awakening.exe
+sizeable_steam_windows/sizeable.exe
 skald against the black priory/skald against the black priory.exe
 skatebird/skatebird.exe
 skater xl/skaterxl.exe
@@ -9147,6 +9151,7 @@ win64/saloonsimulator-win64-shipping.exe
 win64/samuraishodown-win64-shipping.exe
 win64/sanandreas.exe
 win64/sandland-win64-shipping.exe
+win64/sanka-win64-shipping.exe
 win64/sao utils.exe
 win64/saofd.exe
 win64/sas-win64-shipping.exe

@@ -310,6 +310,7 @@ Amazing Cultivation Simulator
 Amazing Frog ? V3
 Amazing Frog?
 Amber Isle
+Ambulance Life: A Paramedic Simulator
 Amenti
 America's Army: Proving Grounds
 American Arcadia
@@ -4614,6 +4615,7 @@ MechWarrior 5: Mercenaries
 MechWarrior Online
 MechWarrior: Living Legends
 Mecha BREAK
+Mecha Knights: Nightmare
 Mecha Simultactics Alpha
 Mechabellum
 Medal of Honor™: Above and Beyond
@@ -5304,6 +5306,7 @@ Omensight
 Omerta - City of Gangsters
 Omno
 Once Human
+Once a Porn a Time
 One Deck Dungeon
 One Finger Death Punch
 One Finger Death Punch 2
@@ -6123,6 +6126,7 @@ RiMS Racing
 Richie's Plank Experience
 Rick and Morty: Virtual Rick-ality
 Ride 2
+Ridge Racer™ Unbounded
 Riding Club Championships
 Riding to Bounce City
 Riff Racer
@@ -6748,6 +6752,7 @@ Siren Head: The Horror Experience
 Siren Head: The Siren's Forest
 Six Days in Fallujah
 Sixty Four
+Sizeable
 SkateBIRD
 Skater XL
 Skelethrone: The Prey
