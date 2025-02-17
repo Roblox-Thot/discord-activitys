@@ -5174,6 +5174,7 @@ one punch man a hero nobody knows/opm.exe
 one step from eden/osfe.exe
 one way heroics/game.exe
 onebit adventure/onebit adventure.exe
+oneshot world machine edition/oneshotmg.exe
 oneshot.exe
 onetrollarmy/ota.exe
 oni.exe
@@ -9427,6 +9428,7 @@ win64/underthewaves-win64-shipping.exe
 win64/underward-win64-shipping.exe
 win64/unforgiving-win64-shipping.exe
 win64/unfortunatespacemen-win64-shipping.exe
+win64/unreal-win64-shipping.exe
 win64/unrealgame.exe
 win64/unreallusttheory-win64-shipping.exe
 win64/unrealphysics-win64-shipping.exe

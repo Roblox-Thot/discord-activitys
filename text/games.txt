@@ -5319,6 +5319,7 @@ One-armed cook
 One-armed robber
 OneBit Adventure
 OneShot
+OneShot: World Machine Edition
 Onigiri
 Onimusha: Warlords
 Only Climb: Better Together
@@ -6842,6 +6843,7 @@ Sniper Ghost Warrior Contracts
 Sniper Ghost Warrior Contracts 2
 Sniper Strike : Special Ops
 Sniper: Ghost Warrior
+Snooker 19
 Snow Daze
 Snow Plowing Simulator - First Snow
 SnowRunner
