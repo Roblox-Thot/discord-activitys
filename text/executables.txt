@@ -1254,6 +1254,7 @@ chess for idiots/chess for idiots.exe
 chess'extra/chess'extra.exe
 chess/chess.exe
 chicken farm 2k17/cfs_2k17_v2.exe
+chicken invaders 2/ci2rm.exe
 chicken invaders 5/ci5.exe
 chicken invaders universe/ciu.exe
 chicken shoot/kurka.exe
@@ -7435,6 +7436,7 @@ the planet crafter prologue/planet crafter.exe
 the planet crafter/planet crafter.exe
 the political machine 2020/the political machine 2020.exe
 the political process/thepoliticalprocess.exe
+the pony factory/the pony factory.exe
 the quinfall/thequinfall.exe
 the ramp/the ramp.exe
 the ranger lost tribe/the ranger lost tribe demo.exe
@@ -8392,6 +8394,7 @@ win64/beached-win64-test.exe
 win64/beachinvasion1944-win64-shipping.exe
 win64/bearproto-win64-shipping.exe
 win64/beastsofbermuda.exe
+win64/beataroundthebush-win64-shipping.exe
 win64/beatboxers.exe
 win64/beatshooter-win64-shipping.exe
 win64/bebee-win64-shipping.exe
@@ -8444,6 +8447,7 @@ win64/brggame-steam.exe
 win64/brightmemory_ep1-win64-shipping.exe
 win64/brightmemoryinfinite-win64-shipping.exe
 win64/brookhavengame-win64-shipping.exe
+win64/brothers-win64-shipping.exe
 win64/buckshot-win64-shipping.exe
 win64/budgetbackrooms.exe
 win64/bumsim-win64-shipping.exe
