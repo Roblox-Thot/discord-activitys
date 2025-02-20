@@ -1316,6 +1316,7 @@ clanfolk/clanfolk.exe
 clannad side stories/realliveen.exe
 clannad/realliveen.exe
 class_of_09-1.2/class_of_09.exe
+classic marathon 2/classic marathon 2 steam.exe
 classic marathon/classic marathon steam.exe
 classic racers/classic_racers.exe
 classic sudoku/classic sudoku.exe
@@ -2791,6 +2792,7 @@ football manager 2023 demo/fm.exe
 football manager 2023/fm.exe
 football manager 2024/fm.exe
 football manager touch 2018/fm.exe
+football referee simulator/football referee simulator.exe
 football simulator/football simulator.exe
 football tactics/game64.exe
 footsies/footsies.exe
@@ -3656,6 +3658,7 @@ idle spiral/idlespiral.exe
 idle wasteland/idle wasteland.exe
 idle wizard/idlewizard.exe
 idledragons.exe
+idletale content/idletale.exe
 idling gears demo/idling gears.exe
 idling gears/idling gears.exe
 idling to rule the gods/idling to rule the gods.exe
@@ -4919,6 +4922,7 @@ necroking/necroking.exe
 necropolis.exe
 necrosmith 2/necrosmith2.exe
 necrosmith/necrosmith.exe
+necrovale/necrovale.exe
 need for drink/needfordrink.exe
 need for speed - most wanted/speed.exe
 need for speed heat/needforspeedheat.exe
@@ -5706,6 +5710,7 @@ pyre.exe
 pyrite heart.exe
 pyroworks/pyroworks v1.0.0.exe
 q remastered/q.exe
+quackdzilla pool cleaning simulator/quackdzilla pool cleaning simulator.exe
 quake 3 arena/quake3.exe
 quake 4/quake4.exe
 quake2.exe
