@@ -23,6 +23,7 @@
 100 New Year Cats
 100 Ninja Cats
 100 Robo Cats
+100 Romantic Cats
 100 Space Cats
 100 Waiting Cats
 100% Orange Juice
@@ -4033,6 +4034,7 @@ Killer Klowns From Outer Space: The Game
 Killer Queen Black
 Killing Floor
 Killing Floor 2
+Killing Floor 3
 Killing Floor: Incursion
 Killing Room
 Killing Time
@@ -4286,6 +4288,7 @@ Like a Dragon Gaiden: The Man Who Erased His Name
 Like a Dragon: Infinite Wealth
 Like a Dragon: Ishin!
 Like a Dragon: Ishin! Combat Demo
+Like a Dragon: Pirate Yakuza in Hawaii
 Lil Gator Game
 Lil' Guardsman
 Lily's Well
@@ -4358,6 +4361,7 @@ Lost Lands: Mahjong
 Lost Light
 Lost Planet 3
 Lost Planet: Extreme Condition
+Lost Records: Bloom & Rage
 Lost Ruins
 Lost Saga North America
 Lost in Play
@@ -7396,6 +7400,7 @@ TRAHA Global
 TRAIL OUT
 TREE
 TRIANGLE STRATEGY
+TRIBE NINE
 TRISTOY
 TROUBLESHOOTER: Abandoned Children
 TRYP FPV
@@ -9193,6 +9198,7 @@ yahtzee girl
 東方獣王園 〜 Unfinished Dream of All Living Ghost.
 東方虹龍洞 ～ Unconnected Marketeers.
 東方虹龍洞 ～ Unconnected Marketeers. Demo
+極品采花郎
 死寂（DeathlyStillness）
 永遠消失的幻想鄉 ～ The Disappearing of Gensokyo
 沙威玛传奇 - Shawarma Legend
