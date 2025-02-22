@@ -2191,6 +2191,7 @@ Duke Nukem 3D: Megaton Edition
 Duke Nukem Forever
 Dumb Castle
 Dummynation
+Dune: Awakening - Character Creator & Benchmark Mode
 Dune: Imperium
 Dune: Spice Wars
 Dungeon Alchemist
@@ -3005,6 +3006,7 @@ Garden Story
 Garfield Kart
 Garfield Kart - Furious Racing
 Garry's Mod
+Garten of Banban 0
 Garten of Banban 2
 Garten of Banban 3
 Garten of Banban 4
@@ -6846,6 +6848,7 @@ Sniper Elite 3
 Sniper Elite 4
 Sniper Elite 5
 Sniper Elite V2
+Sniper Elite V2 Remastered
 Sniper Elite: Nazi Zombie Army
 Sniper Elite: Resistance
 Sniper Fury

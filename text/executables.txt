@@ -763,6 +763,7 @@ bin/samhd.exe
 bin/samhd_tse.exe
 bin/settlers6r.exe
 bin/settlershok.exe
+bin/sev2_remastered.exe
 bin/shank.exe
 bin/shank2.exe
 bin/shooter_win64_release.exe
@@ -8496,6 +8497,7 @@ win64/chushpansimulator-win64-shipping.exe
 win64/citadel-win64-shipping.exe
 win64/citydriver-win64-shipping.exe
 win64/civ7_win64_dx12_finalrelease.exe
+win64/clay_0-win64-shipping.exe
 win64/clay_2-win64-shipping.exe
 win64/clay_3-win64-shipping.exe
 win64/clay_4-win64-shipping.exe
@@ -8597,6 +8599,7 @@ win64/drugdealersimulator2-win64-shipping.exe
 win64/druglordtycoon-win64-shipping.exe
 win64/drunkdriver-win64-shipping.exe
 win64/dsbt-win64-shipping.exe
+win64/dunesandbox-win64-shipping.exe
 win64/dungeonborne.exe
 win64/dungeoncrawler.exe
 win64/dungeonhaven-win64-shipping.exe
