@@ -1230,6 +1230,7 @@ cbm/cbm.exe
 celeste.exe
 cell to singularity/celltosingularity.exe
 chained echoes/chained echoes.exe
+chained in the backrooms/chained in the backrooms.exe
 chair fucking simulator/chairfucker.exe
 chair simulator/chair simulator.exe
 chambers build/chambers.exe
@@ -1955,6 +1956,7 @@ dicey dungeons/diceydungeons.exe
 dictatorsnopeacecountryballs/dictatorsnopeacecountryballs.exe
 die in the dungeon origins/die in the dungeon origins.exe
 die in the dungeon prologue/die in the dungeon.exe
+die in the dungeon/die in the dungeon.exe
 dies irae ~amantes amentes~/malie.exe
 different strokes/differentstrokes.exe
 dig dug/dig dug.exe
@@ -4844,6 +4846,7 @@ mx vs atv supercross encore edition/mxstorm_pc.exe
 mxgp/mxgp.exe
 mxgp2 - the official motocross videogame/mxgp_2x64.exe
 mxvsatv.exe
+my bath tub companion/bathtubcompanion.exe
 my child lebensborn remastered/mychildlebensborn.exe
 my child lebensborn/my child lebensborn.exe
 my coworker is an idiot/mycoworkerisanidiot.exe
@@ -6361,6 +6364,7 @@ shawarma legend/shawarma legend.exe
 she sees red/she sees red.exe
 she will punish them/she will punish them.exe
 sheepy a short adventure/sheepyashortadventure.exe
+shell's kitchen/shellskitchen.exe
 shellshocklive.exe
 shelter 69/shelter69.exe
 shelter/shelter.exe
@@ -7228,6 +7232,7 @@ tevi/tevi.exe
 tew2.exe
 textorcist/textorcist.exe
 tfil.exe
+tgaac/tgaac.exe
 tgvvoyages/standalone.exe
 th07.exe
 th075.exe
@@ -8588,6 +8593,7 @@ win64/dragons-win64-shipping.exe
 win64/drakehollow-win64-shipping.exe
 win64/dreadhunger-win64-shipping.exe
 win64/dream_golf_vr-win64-shipping.exe
+win64/dreamcore-win64-shipping.exe
 win64/dreamhunters-win64-shipping.exe
 win64/dreamscaper-win64-shipping.exe
 win64/driftexperiencejapan.exe
