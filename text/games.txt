@@ -908,6 +908,7 @@ BombTag
 Bomber Crew
 Bombergrounds: Battle Royale
 Bombix
+BomjMan
 Bone Voyage
 BoneTown
 Boneless VR
@@ -1358,6 +1359,7 @@ Clicker Heroes 2
 Clickteam Fusion 2.5
 Clickteam Fusion 2.5 Free Edition
 Climb
+Climber Animals: Together
 Climber: Sky is the Limit - Free Trial
 Climbey
 Clive Barker's Undying
@@ -3149,6 +3151,7 @@ Gorogoa
 Gotham City Impostors Free to Play
 Gotham Knights
 Gothic 1 Classic
+Gothic 1 Remake - Demo (Nyras Prologue)
 Gothic 3
 Gothic 3 Forsaken Gods Enhanced Edition
 Gothic Playable Teaser
@@ -7064,6 +7067,7 @@ Star Wars: Battlefront 2 (Classic, 2005)
 Star Wars: Dark Forces
 Star Wars: Droid Repair Bay
 Star Wars: Imperial Assault - Legends of the Alliance
+Star of Providence
 StarBreak
 StarCraft
 StarCraft II
@@ -7437,6 +7441,7 @@ Tadpole Tales
 Tag: The Power of Paint
 Tailor Tales
 Tails of Iron
+Tails of Iron 2: Whiskers of Winter
 Taimanin Collection: Battle Arena
 Tainted Grail
 Tainted Grail: The Fall of Avalon
@@ -7646,6 +7651,7 @@ The Escapists 2
 The Escapists: The Walking Dead
 The Evil Within
 The Evil Within 2
+The Executive - Movie Industry Tycoon
 The Expanse: A Telltale Series
 The Expendabros
 The Experiment: Escape Room
@@ -8014,6 +8020,7 @@ Tiny Bunny: Prologue
 Tiny Combat Arena
 Tiny Glade
 Tiny Heroes 2
+Tiny Pasture
 Tiny Rogues
 Tiny Survivors
 Tiny Tactics
@@ -8442,6 +8449,7 @@ VEILED EXPERTS
 VEIN Demo
 VERGE:Lost chapter
 VHS
+VIVE Console for SteamVR
 VLADiK BRUTAL
 VPet
 VR Benchmark Kanojo

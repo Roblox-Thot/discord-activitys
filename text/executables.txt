@@ -950,6 +950,7 @@ bombergrounds/bombergrounds.exe
 bombix/bombix.exe
 bombrushcyberfunk/bomb rush cyberfunk.exe
 bombtag.exe
+bomjman/bomjproject.exe
 bonelab/bonelab_steam_windows64.exe
 boneless vr/boneless.exe
 boneraiser minions/boneraiser minions.exe
@@ -1345,6 +1346,7 @@ client/proven_ground_client.exe
 client_2962300/rqmain.exe
 client_tos.exe
 climb/climb.exe
+climber animals together/climber animals together.exe
 climber sky is the limit - free trial/climber sky is the limit.exe
 climbey/climbey.exe
 clone drone in the danger zone.exe
@@ -6753,6 +6755,7 @@ star chef cooking & restaurant game/star chef.exe
 star conflict/game.exe
 star ocean - the last hope - 4k & full hd remaster/staroceanthelasthope.exe
 star ocean the second story r/so2r.exe
+star of providence/star of providence.exe
 star realms/starrealms.exe
 star renegades/star renegades.exe
 star traders frontiers/startradersfrontiers.exe
@@ -7123,6 +7126,7 @@ tag the power of paint/tag.exe
 taiko no tatsujin rhythm festival/taiko no tatsujin rhythm festival.exe
 taiko no tatsujin rhythm festival_demo/taiko no tatsujin rhythm festival_demo.exe
 tailor tales/nw.exe
+tails of iron 2 whiskers of winter/toi2.exe
 tails of iron/toi.exe
 taimanin collection/taimanincollection.exe
 tainted grail foa/fall of avalon.exe
@@ -7335,6 +7339,7 @@ the elder scrolls legends.exe
 the escape together/the escape together.exe
 the escapists the walking dead/the escapists - the walking dead.exe
 the escapists/theescapists_eur.exe
+the executive/the executive.exe
 the farmer was replaced/thefarmerwasreplaced.exe
 the feign/feign.exe
 the fermi paradox/the fermi paradox.exe
@@ -7641,6 +7646,7 @@ tinkertown/tinkertown.exe
 tint 'n ink/tint n ink.exe
 tiny glade/tiny-glade.exe
 tiny heroes 2/tiny heroes 2.exe
+tiny pasture/tinypasture.exe
 tiny rogues/tiny rogues.exe
 tiny tactics/tiny tactics.exe
 tiny town vr/tiny town vr.exe
@@ -8075,6 +8081,7 @@ virtualcast/virtualcast.exe
 visage-win64-shipping.exe
 visual novel maker/nw.exe
 visualboyadvance.exe
+viveeyesettings/vivesettings.exe
 vivid knight/vividknight.exe
 vividstasis/vividstasis.exe
 vngame.exe
@@ -8708,6 +8715,7 @@ win64/furnishmaster-win64-shipping.exe
 win64/furryaimtrainer-win64-shipping.exe
 win64/fuser-win64-shipping.exe
 win64/fushimiinari-win64-shipping.exe
+win64/g1r-win64-shipping.exe
 win64/galgun2-win64-shipping.exe
 win64/game_x64r.exe
 win64/gamebackroomssociety-win64-shipping.exe
