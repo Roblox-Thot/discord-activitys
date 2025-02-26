@@ -1898,6 +1898,7 @@ derail valley/derailvalley.exe
 descenders.exe
 descent road to legend/road to legend.exe
 descent.exe
+desert stalker/desertstalker.exe
 desertlegend/desertlegend.exe
 desertsofkharak32.exe
 desertsofkharak64.exe
@@ -4519,6 +4520,7 @@ memories_windows/memories.exe
 men of war - vietnam/vietnam.exe
 men of war ii/mow2.exe
 men of war/mow.exe
+menace from the deep/menace from the deep.exe
 menofvalor.exe
 mercenary_kings/mercenarykings.exe
 merchant of the skies/merchant.exe
@@ -7778,6 +7780,7 @@ trackdayr/track day r.exe
 trackmania/trackmania.exe
 trackmaniaturbo.exe
 tracknburn_windows/track & burn.exe
+tradesmandtd/tradesman.exe
 traha global/trahaglobal_eac.exe
 trailer park boys greasy money/game.exe
 trailmakers/trailmakers.exe

@@ -1909,6 +1909,7 @@ Descenders
 Descent: Road to Legend
 Descent: Underground
 Desert Bus VR
+Desert Stalker
 Desktop Dungeons
 Desktop Dаnce
 Desktop Farm
@@ -4676,6 +4677,7 @@ Men of War: Assault Squad
 Men of War: Assault Squad 2
 Men of War: Assault Squad 2 - Cold War
 Men of War: Vietnam
+Menace from the Deep
 Mercenary Kings
 Merchant
 Merchant of the Skies
@@ -7409,6 +7411,7 @@ TOKYO GHOUL：re [CALL to EXIST]
 TOUCHSTARVED: Demo
 TOXIKK
 TRADER LIFE SIMULATOR
+TRADESMAN: Deal to Dealer
 TRAHA Global
 TRAIL OUT
 TREE
