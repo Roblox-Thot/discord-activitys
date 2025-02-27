@@ -775,6 +775,7 @@ Big Ambitions
 Big Bang Empire
 Big Pharma
 Bigscreen Beta
+Biker Garage: Mechanic Simulator
 Billie Bust Up Demo
 Binary Domain
 Bingle Bingle
@@ -870,6 +871,7 @@ Blood Rage: Digital Edition
 Blood Spear
 Blood Strike
 Blood Trail
+Blood Typers
 Blood West
 Blood and Bacon
 Blood of Steel
@@ -1337,6 +1339,7 @@ Citystate II
 Citywars Tower Defense
 CivCity: Rome
 CivIdle
+Claire's Quest
 Clanfolk
 Clanfolk Demo
 Clap Clap
@@ -1771,6 +1774,7 @@ Darwin Project
 Darwin Project
 Darwinia
 Darza's Dominion
+Dating Simulator
 Dauntless
 Dave's Fun Algebra Class: Remastered
 Davigo Demo
@@ -4390,6 +4394,7 @@ Love, Money, Rock'n'Roll Demo
 LoveBeat
 LoveChoice 拣爱
 LoveCraft
+LoveXLust
 Lovecraft's Untold Stories
 Lovely Planet
 Lovers in a Dangerous Spacetime
@@ -4459,6 +4464,7 @@ METAL SLUG XX
 MICROVOLTS: Recharged
 MILF's Plaza
 MILFs of Sunville
+MILFs of Sunville - Season 2
 MINDNIGHT
 MINERVA: Metastasis
 MIR4
@@ -5913,6 +5919,7 @@ Quickie: Fantasy Adventure
 Quilts and Cats of Calico
 Quiplash
 Quiplash 2 InterLASHional
+R.E.P.O.
 R.U.S.E
 RAD
 RAGE
@@ -7703,6 +7710,7 @@ The Horus Heresy: Legions
 The House in Fata Morgana
 The House of Da Vinci
 The House of Da Vinci 2
+The Hundred Line -Last Defense Academy- Demo Ver.
 The I of the Dragon
 The Imperial Gatekeeper
 The Impossible Game
