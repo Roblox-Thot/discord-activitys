@@ -5396,6 +5396,7 @@ pc/mafia ii definitive edition.exe
 pc/wandersong.exe
 pc/warhammer 40000 space marine 2 - retail.exe
 pc/wwzretail.exe
+pc/wwzretailegs.exe
 pcars.exe
 pcars2avx.exe
 pcars64.exe
