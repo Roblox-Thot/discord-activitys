@@ -4565,6 +4565,7 @@ Majesty 2
 Majesty 2 Collection
 Majesty Gold HD
 Majotori
+Make Good Choices
 Make It Rain: Love of Money
 Make Way
 Make Your Kingdom: Prologue
@@ -4857,6 +4858,7 @@ Monster Energy Supercross - The Official Videogame 6
 Monster Girl Island: Prologue
 Monster Hunter Stories
 Monster Hunter Stories 2: Wings of Ruin Trial Version
+Monster Hunter Wilds
 Monster Hunter Wilds Benchmark
 Monster Prom
 Monster Prom 2: Monster Camp
@@ -5470,6 +5472,7 @@ PC Building Simulator
 PCSX2
 PGA TOUR 2K21
 PGA TOUR 2K23
+PGA TOUR 2K25
 PGA TOUR 2K25 First Look
 PHANTASY STAR ONLINE 2
 PHOGS!
@@ -5700,6 +5703,7 @@ Planetbase
 Planets Under Attack
 Plant Therapy
 Plantera
+Plantera 2: Golden Acorn
 Plants vs Zombies GW2
 Plants vs. Zombies: Game of the Year
 Plasma
@@ -7505,6 +7509,7 @@ Tatari: The Arrival
 Tattletail
 Taur
 Tavern Manager Simulator
+Tavern Manager Simulator: Prologue
 Tavern Master
 Tavern Master - Prologue
 Tavern Talk

@@ -4397,6 +4397,7 @@ majesty 2 collection/majesty2.exe
 majesty 2/majesty2.exe
 majestyhd.exe
 majotori/majotori.exe
+make good choices/makegoodchoices.exe
 make it rain love of money/loveofmoney.exe
 make way/make way.exe
 make your kingdom prologue/make your kingdom.exe
@@ -4744,6 +4745,7 @@ monster slayers/monster slayers db.exe
 monster train/monstertrain.exe
 monsterhunterrise/monsterhunterrise.exe
 monsterhunterrisedemo/monsterhunterrisedemo.exe
+monsterhunterwilds/monsterhunterwilds.exe
 monsterhunterwildsbenchmark/monsterhunterwilds.exe
 monsterhunterworld.exe
 monsterprom.exe
@@ -5432,6 +5434,7 @@ pewdiepie legend of the brofist/pewdiepielegendofthebrofist.exe
 pga tour 2k21/golf.exe
 pga tour 2k23/pgatour2k23.exe
 pga tour 2k25 first look/pgatour2k25.exe
+pga tour 2k25/pgatour2k25.exe
 phantasmal/phantasmal.exe
 phantom brave pc/phantom brave pc.exe
 phantom brigade/phantombrigade.exe
@@ -5516,6 +5519,7 @@ planets under attack/game.exe
 planetside2_x64.exe
 planetside2_x86.exe
 plant therapy/plant therapy.exe
+plantera 2 golden acorn/plantera2.exe
 plantera/plantera.exe
 plants vs. zombies/popcapgame1.exe
 plantsvszombies.exe
@@ -7189,6 +7193,7 @@ tasty planet/tastyplanet.exe
 tatari the arrival/tatari.exe
 tattletail/tattletailwindows.exe
 taur/taur.exe
+tavern manager simulator prologue/tavern manager simulator prologue.exe
 tavern manager simulator/tavern manager simulator.exe
 tavern master - prologue/tavern master.exe
 tavern master/tavern master.exe
