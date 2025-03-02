@@ -2135,6 +2135,7 @@ dragon quest xi.exe
 dragonage2.exe
 dragonageinquisition.exe
 dragonfall.exe
+dragonfield/dragonfield.exe
 dragonfinsoup.exe
 dragonheir silent gods/dragonheir.exe
 dragonia/game.exe
@@ -3480,6 +3481,7 @@ hindie.exe
 hindie.steam.exe
 hiraganabattle/learn japanese to survive - hiragana battle.exe
 hired ops/hops.exe
+hitler is my crush/hitler is my crush.exe
 hitler waifu/hitler waifu.exe
 hitman 2 silent assassin/hitman2.exe
 hitman codename 47/hitman.exe
@@ -4261,6 +4263,7 @@ lost but found/lost but found.exe
 lost castle 2/lostcastle2.exe
 lost egg 2 be together/lost egg 2.exe
 lost egg 3 the final/lost egg 3.exe
+lost egg/lost egg.exe
 lost eidolons/losteidolons.exe
 lost epic/lostepic.exe
 lost horizon/autostarter.exe
@@ -4585,6 +4588,7 @@ micro platformer/micro platformer.exe
 microclient64/liuseloader.exe
 micromachines.exe
 microsoft.forzahorizon4demo_1.192.906.2_x64__8wekyb3d8bbwe/forzahorizon4demo.exe
+microtopia/microtopia.exe
 microtransaction_simulator/microsimulator.exe
 microworks/microworks.exe
 midair-win64-test.exe
@@ -7550,6 +7554,7 @@ the witch's house mv/game.exe
 the witcher adventure game/thewitcheradventuregame.exe
 the witcher enhanced edition/benioku.exe
 the-scourge/thescourge.exe
+the_settlers/the_settlers.exe
 thea 2 the shattering/thea2.exe
 thea the awakening/thea.exe
 theblu/theblu.exe
@@ -8876,6 +8881,7 @@ win64/kartdrift-win64-shipping.exe
 win64/kayak_vr-win64-shipping.exe
 win64/keepers-win64-shipping.exe
 win64/kena-win64-shipping.exe
+win64/kgame-win64-shipping.exe
 win64/kholat-win64-shipping.exe
 win64/kibbikeeper-win64-shipping.exe
 win64/kiborgarena-win64-shipping.exe
