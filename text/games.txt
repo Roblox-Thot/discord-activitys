@@ -506,6 +506,7 @@ Atma
 Atom Fishing II
 Atom Zombie Smasher
 Atomic Heart
+Atomic Picnic
 Atomicrops
 Attack on Titan / A.O.T. Wings of Freedom
 Attack on Titan 2 - A.O.T.2 - 進撃の巨人２
@@ -603,6 +604,7 @@ Backrooms Media
 Backrooms Rec.
 Backrooms Society
 Backrooms: Escape Together
+Backrooms: Found Footage
 Backyard Baseball '97
 Bacon May Die
 Bad Dream: Coma
@@ -2743,6 +2745,7 @@ First Class Trouble
 First Cut: Samurai Duel
 First Date : Late To Date
 Fish Game
+Fish Idle 2: Underwater Mystery
 Fish Tycoon 2: Virtual Aquarium
 Fisher Online
 Fishing Adventure
@@ -3194,6 +3197,7 @@ Grapple Gear
 Grapples Galore
 Gravewood High
 Graveyard Keeper
+Graveyard Shift
 Gravitas
 Gravity Circuit
 Gray Zone Warfare
@@ -7597,6 +7601,7 @@ The Book of Unwritten Tales 2
 The Book of Unwritten Tales: The Critter Chronicles
 The Braves
 The Break-In
+The Brew Barons
 The Bridge
 The Brookhaven Experiment
 The Bunny Graveyard
@@ -8325,6 +8330,7 @@ Twilight Struggle
 Twin Sector
 Two Point Campus
 Two Point Hospital
+Two Point Museum
 Two Worlds II
 Two Worlds: Epic Edition
 Typing Incremental
@@ -8583,6 +8589,7 @@ WAR DUST
 WARMODE
 WARNO
 WARRIORS OROCHI 4 - 無双OROCHI３
+WARRIORS: Abyss
 WARSAW
 WASTED
 WAVESHAPER
