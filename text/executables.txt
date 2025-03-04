@@ -930,6 +930,7 @@ bloody trapland 2/bloodytrapland2.exe
 bloody trapland.exe
 bloody walls/game.exe
 bloodyspell/bloodyspell.exe
+bloomtown/bloomtown a different story.exe
 bloons adventure time td/btdadventuretime.exe
 bloons card storm/bloonscardstorm.exe
 bloons monkey city/monkeycity-win.exe
@@ -990,6 +991,7 @@ bounty of one/bountyofone.exe
 bounty train/bountytrainsteam.exe
 bout2.exe
 boxes/boxes lost fragments.exe
+boxing school/boxingschool.exe
 boxvr/boxvr.exe
 boyfriend dungeon/boyfrienddungeon.exe
 braid.exe
@@ -1873,6 +1875,7 @@ delicious! pretty girls mahjong solitaire/deliciouspgms.exe
 delores/delores.exe
 delta force black hawk down/dfbhd.exe
 delta force land warrior/dflw.exe
+delta particles/delta_particles.exe
 deltaforceclient.exe
 deltarunedemo/deltarune.exe
 deluxe/defendersquest.exe
@@ -3311,6 +3314,7 @@ hard bullet/hard bullet.exe
 hard reset redux/hr.x64.exe
 hard time iii/hard time iii.exe
 hard truck apocalypse/hta.exe
+hardcoded/hardcoded.exe
 hardcore mecha/chc.exe
 hardreset/hardreset.exe
 hardspace shipbreaker/shipbreaker.exe
@@ -6137,6 +6141,7 @@ rushdown revolt - open alpha/rushdown revolt.exe
 russia battlegrounds/russia battlegrounds.exe
 russian life simulator/russian life simulator.exe
 russian roulette one life/russian 3d.exe
+russian roulette/russianroulette.exe
 russianfishing4/rf4_x64.exe
 russiaphobia/russiaphobia.exe
 rust.exe
@@ -7774,6 +7779,7 @@ tower and sword succubus/succubus_sword.exe
 tower factory/towerfactory.exe
 tower keepers.exe
 tower keepers/tower keepers.exe
+tower of babel (demo)/tower of babel (demo).exe
 tower of time/toweroftime.exe
 tower tactics liberation/game.exe
 tower wars/tw.exe
@@ -8228,6 +8234,7 @@ wauies/wauies.exe
 waveland.exe
 waven/waven.exe
 waveshaper/waveshaper.exe
+wavetale/wavetale.exe
 way of the samurai 3/wayofthesamurai3.exe
 way of the samurai 4/wayofthesamurai4.exe
 wayfinder/wayfinder.exe
@@ -9864,6 +9871,7 @@ you have to win the game/thegame.exe
 you suck at parking/ysap.exe
 you will (not) remain/you will (not) remain.exe
 yourchronicle/yourchronicle.exe
+yourmother/yourmother.exe
 youronlymoveishustle/youronlymoveishustle.exe
 yourwife/yourwife.exe
 youtubers life 2/youtubers life 2.exe

@@ -892,6 +892,7 @@ Bloody Painter Dating Sim
 Bloody Trapland
 Bloody Trapland 2: Curiosity
 Bloody Walls
+Bloomtown: A Different Story
 Bloons Adventure Time TD
 Bloons Card Storm
 Bloons Monkey City
@@ -952,6 +953,7 @@ Bounty Train
 Bounty of One
 Bounty: Drag Racing
 Boxes
+Boxing School
 Boyfriend Dungeon
 Braid
 Brain Show
@@ -1887,6 +1889,7 @@ Delta Force
 Delta Force: Black Hawk Down
 Delta Force: Land Warrior
 Delta Force: Task Force Dagger
+Delta Particles
 Demeo
 Demeo - PC Edition
 Demeo - PC Edition Demo
@@ -3281,6 +3284,7 @@ H1Z1: Test Server
 HALF DEAD 2
 HALF DEAD 3
 HANS
+HARDCODED
 HARDCORE MECHA
 HARVESTELLA
 HAWKED
@@ -6311,6 +6315,7 @@ Rushdown Revolt
 Russian Fishing 4
 Russian Life Simulator
 Russian Roulette: One Life
+Russian roulette
 Rust
 Rustangelo
 Rusted Warfare - RTS
@@ -8190,6 +8195,7 @@ Tower Tactics: Liberation
 Tower Unite
 Tower Wars
 Tower and Sword of Succubus
+Tower of Babel: Survivors of Chaos (Demo)
 Tower of Time
 Tower! Simulator 3
 Tower!3D Pro
@@ -8716,6 +8722,7 @@ Wauies
 WaveLand
 Waven
 Waves
+Wavetale
 Way of the Hunter
 Way of the Samurai 3
 Way of the Samurai 4
@@ -9132,6 +9139,7 @@ yahtzee girl
 ΔV: Rings of Saturn
 Альтушка для скуфа
 ВЗЛОМ ЖОПЫ
+Ваша мать
 Г.О.П.О.Т.А
 Древние Ящеры Против Русов: Битва за Гиперборею
 КЛЕТЬ Демо
