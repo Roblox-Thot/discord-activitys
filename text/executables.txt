@@ -2859,6 +2859,7 @@ fpv drone simulator/fpv drone simulator.exe
 fpv.skydive/fpv.skydive.exe
 fractured space.exe
 fracturedonline/unityclient@windows.exe
+fragpunk.exe
 fragsurf/fragsurf.exe
 fraim/fraim.exe
 frame of mind/frame of mind.exe
@@ -3828,6 +3829,7 @@ island saver/moneybox.exe
 islanders/islanders.exe
 isle of arrows/isle of arrows.exe
 isle of ewe/isle of ewe.exe
+isle of jura/isleofjura.exe
 isles of limbo/islesoflimbo.exe
 iso racer/streetracer.exe
 isonzo/isonzo.exe
@@ -7324,6 +7326,7 @@ the black masses demo/the black masses demo.exe
 the black masses/the black masses.exe
 the black watchmen/tbw.exe
 the bonerooms/bonerooms.exe
+the bookwalker/the bookwalker.exe
 the braves/the braves.exe
 the brew barons/the brew barons.exe
 the bunny graveyard/game.exe
@@ -9306,6 +9309,7 @@ win64/spidermanffh-win64-shipping.exe
 win64/spiritcity-win64-shipping.exe
 win64/spitfiregame.exe
 win64/spitfiregames72-win64-shipping.exe
+win64/splitfiction.exe
 win64/spookystation-win64-shipping.exe
 win64/sprawl-win64-shipping.exe
 win64/sps-win64-shipping.exe
