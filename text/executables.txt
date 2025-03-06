@@ -3146,7 +3146,11 @@ granblue fantasy relink/granblue_fantasy_relink.exe
 grand ages medieval/grandagesmedieval.exe
 grand ages rome/rome.exe
 grand tactician the civil war (1861-1865)/the civil war (1861-1865).exe
+grand theft auto v enhanced/gta5_enhanced.exe
+grand theft auto v enhanced/gta5_enhanced_be.exe
 grand theft auto v/fivem.exe
+grand theft auto v/gta5.exe
+grand theft auto v/gta5_be.exe
 grand theft auto v/ragepluginhook.exe
 grand theft auto vice city/testapp.exe
 grandchase/grandchase.exe
@@ -7843,6 +7847,7 @@ trapped with jester/trappedwithjester-32.exe
 trappeddeadlockdown.exe
 trapper's delight/trappersdelight.exe
 trash can army/trash can army.exe
+trashgoblin/trashgoblin.exe
 trayracers/trayracers.exe
 treason/hl2.exe
 treasure hunter claire/game.exe
