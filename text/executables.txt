@@ -4263,6 +4263,7 @@ looking up i see only a ceiling/luisoac.exe
 loop hero demo/loophero_demo.exe
 loop hero/loop hero.exe
 loop loop dx/loop-loop dx.exe
+loop odyssey/loopodyssey.exe
 looterkings.exe
 lords & villeins/lords and villeins.exe
 lords mobile/lords mobile.exe
@@ -7642,6 +7643,7 @@ this means warp/this means warp.exe
 this war of mine.exe
 thmhj.exe
 thomaswasalone.exe
+those games 2/those games 2.exe
 those games/those games.exe
 thrillville07.exe
 thrive/thrive.exe
@@ -8744,6 +8746,7 @@ win64/fpsmultiplayer-win64-shipping.exe
 win64/fpssteamgame-win64-shipping.exe
 win64/fpvkamikazedrone-win64-shipping.exe
 win64/fractalfury.exe
+win64/fragpunk.exe
 win64/freddys-win64-shipping.exe
 win64/freegirls-win64-shipping.exe
 win64/frontiers-win64-shipping.exe
@@ -9789,6 +9792,7 @@ wwe 2k19/wwe2k19_x64.exe
 wwe 2k22/wwe2k22_x64.exe
 wwe 2k23/wwe2k23_x64.exe
 wwe 2k24/wwe2k24_x64.exe
+wwe 2k25/wwe2k25_x64.exe
 wwe2k16/wwe2k16.exe
 wwe2k17/wwe2k17_x64.exe
 wwe2k18_x64.exe
