@@ -128,6 +128,7 @@ AI Dungeon
 AI Image Generator
 AI War 2
 AI War: Fleet Command
+AI2U: With You 'Til The End
 AI: The Somnium Files
 AION Free-to-Play
 AIアートインポスター
@@ -918,6 +919,7 @@ Bone Voyage
 BoneTown
 Boneless VR
 Boneraiser Minions
+Bongo Cat
 Boo Men
 Boobs 'em up
 Boodunnit
@@ -5736,6 +5738,7 @@ Plokoth
 Plug & Play
 Plunder Panic
 PngTuber Maker
+PockeDate! - Pocket Dating Simulator
 Pocket Bravery Demo
 Pocket Mirror ~ GoldenerTraum
 Pocket Waifu
