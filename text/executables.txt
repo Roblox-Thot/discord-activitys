@@ -6972,6 +6972,7 @@ sudoku universe/sudoku universe.exe
 suguri.exe
 suicide guy sleepin deeply/suicideguysleepindeeply.exe
 suicide guy/suicideguy.exe
+suikoden i and ii hd remaster/suikoden i and ii hd remaster.exe
 sulfur/sulfur.exe
 summer in mara prologue/summer in mara.exe
 summer in mara/summer in mara.exe
@@ -7067,6 +7068,7 @@ survive-win64-shipping.exe
 survived by/survivedby.exe
 surviving the abyss/surviving the abyss.exe
 survivor.exe
+survivors of the dawn/survivors of the dawn.exe
 suspects/suspects.exe
 suzerain/suzerain.exe
 suzy/proteus.exe
@@ -7174,6 +7176,7 @@ talented/talented.exe
 tales from candlekeep/talescandlekeep.exe
 tales from the borderlands/borderlands.exe
 tales of berseria.exe
+tales of graces f remastered/tales of graces f remastered.exe
 tales of symphonia/tos.exe
 tales of the black forest/game.exe
 tales of vesperia definitive edition/tov_de.exe
@@ -7461,6 +7464,7 @@ the life and suffering of sir brante prologue/brante_demo.exe
 the life and suffering of sir brante/the life and suffering of sir brante.exe
 the light brigade/lightbrigade.exe
 the little red lie/the little red lie.exe
+the local/the local.exe
 the long drive/thelongdrive.exe
 the longest journey/game.exe
 the longing/the longing.exe
@@ -9018,6 +9022,7 @@ win64/mxgp6-win64-shipping.exe
 win64/mxgp7-win64-shipping.exe
 win64/mxnext-win64-shipping.exe
 win64/mymotel-win64-shipping.exe
+win64/myrmidonproto-win64-shipping.exe
 win64/myst-win64-shipping.exe
 win64/mythforce-win64-shipping.exe
 win64/naruto-win64-shipping.exe
