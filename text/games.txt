@@ -1574,6 +1574,7 @@ Cricket 24
 Crime Boss: Rockay City
 Crime Scene Cleaner
 Crime Scene Cleaner: Prologue
+Crime Simulator (DEMO)
 Crime Simulator: Prologue
 Crimson Snow
 Crimsonland
@@ -8253,6 +8254,7 @@ Trainz Simulator 12
 Trainz: A New Era
 Traitors in Salem
 Tram Simulator Urban Transit
+TramSim Vienna
 TransOcean: The Shipping Company
 TransforBest
 Transformative Summer: Life with a TS Companion
