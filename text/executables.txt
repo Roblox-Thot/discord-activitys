@@ -1253,6 +1253,7 @@ chaosrebornwin64.exe
 charlie murder/charliemurder.exe
 chasing tails -a promise in the snow-/chasingtails.exe
 chasm/chasm.exe
+cheaters cheetah/cheaterscheetah.exe
 check it out!/check it out!.exe
 cheeky chooks/cheekychooks.exe
 cheesegamebuild/cheese game.exe
@@ -7943,6 +7944,7 @@ typing of the dead overkill/hotd_ng.exe
 tyranny.exe
 tyranobuilder/tyranobuilder.exe
 tyrone vs cops/tyronevscops.exe
+tzar/tzar_.exe
 ub/ub.exe
 ubermosh/ubermosh.exe
 uberstrike/uberstrike.exe
@@ -8867,6 +8869,7 @@ win64/iblis.exe
 win64/icarus-win64-shipping.exe
 win64/iceworld-win64-shipping.exe
 win64/icon-win64-shipping.exe
+win64/idigging-win64-shipping.exe
 win64/ifss-win64-shipping.exe
 win64/ikeavr2.exe
 win64/illfloor.exe
@@ -9254,6 +9257,7 @@ win64/scholarsmate-win64-shipping.exe
 win64/scorn-win64-shipping.exe
 win64/scp_blackout-win64-shipping.exe
 win64/scpexperiences-win64-shipping.exe
+win64/scpfragmentedminds-win64-shipping.exe
 win64/scpthefoundation.exe
 win64/scribbleit-win64-shipping.exe
 win64/sdgundamba-win64-shipping.exe
@@ -9574,6 +9578,7 @@ win64/wonderlands.exe
 win64/worldofgoo.exe
 win64/wrc.exe
 win64/wrenchgame-win64-shipping.exe
+win64/wrfrontiers-win64-shipping.exe
 win64/wrsh-win64-shipping.exe
 win64/ws-win64-shipping.exe
 win64/wtl-win64-shipping.exe

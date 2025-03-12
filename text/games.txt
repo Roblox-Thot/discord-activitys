@@ -1271,6 +1271,7 @@ Charlie Murder
 Chased by Darkness
 Chasing Tails -A Promise in the Snow-
 Chasm
+Cheaters Cheetah
 Check it Out!
 Cheeky Chooks
 Cheese Game
@@ -6360,6 +6361,7 @@ SCP: 5K - Alpha Testing
 SCP: Blackout
 SCP: Containment Breach Remastered
 SCP: Escape Together
+SCP: Fragmented Minds
 SCP: Labrat
 SCP: Nine-Tailed Fox
 SCP: Nukalypse
@@ -8361,6 +8363,7 @@ Tyranny
 TyranoBuilder Visual Novel Studio
 Tyrant's Realm
 Tyrone vs Cops
+Tzar: The Burden of the Crown
 UBERMOSH
 UBOAT
 UFO 50
@@ -8664,6 +8667,7 @@ War Hospital
 War Planet Online: Global Conquest
 War Robots
 War Robots VR: The Skirmish
+War Robots: Frontiers
 War Rock
 War Selection
 War Thunder
@@ -9110,6 +9114,7 @@ fault - milestone one
 fin-dev
 hexceed
 how do you Do It?
+iDigging
 iRacing
 iRacing.com Race Simulation
 ibb & obb
