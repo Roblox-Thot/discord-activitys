@@ -313,6 +313,7 @@ an ankou/an ankou.exe
 an arcade full of cats/arcade.exe
 anarchy.exe
 anarchyonline.exe
+anarcute/anarcute.exe
 ancient dungeon vr/ancient_dungeon.exe
 ancient planet/game.exe
 ancient warfare 3/ancient warfare 3.exe
@@ -374,6 +375,7 @@ apewar/apewar.exe
 apex legends/r5apex.exe
 apex point/apex point.exe
 apex/r5apex.exe
+apex/r5apex_dx12.exe
 apico demo/apico.exe
 apico/apico.exe
 apollo justice ace attorney trilogy/gs456.exe
@@ -1424,6 +1426,7 @@ coloring book/coloring book for adults.exe
 coloring game 2/game.exe
 coloring game 3/game.exe
 coloring game 4/game.exe
+coloring game 5/game.exe
 coloring game the little city/game.exe
 coloring game/game.exe
 coloringpixels.exe
@@ -3480,6 +3483,7 @@ hidden robo cats/hidden robo cats.exe
 hidden winter cats/hidden winter cats.exe
 hidden/hidden.exe
 hiddeninplainsight/hiddeninplainsight.exe
+hiddenlands/hidden lands.exe
 hide-and-seek/hns.exe
 hideandshriek-win64-shipping.exe
 high entropy challenges/highentropy.exe
@@ -4418,6 +4422,7 @@ majesty 2 collection/majesty2.exe
 majesty 2/majesty2.exe
 majestyhd.exe
 majotori/majotori.exe
+makaimura_gg_re/makaimura_gg_re.exe
 make good choices/makegoodchoices.exe
 make it rain love of money/loveofmoney.exe
 make way/make way.exe
@@ -6253,6 +6258,7 @@ scanner sombre/scanner sombre.exe
 scarlet maiden/scarletmaiden.exe
 scarlet tower/the scarlet tower.exe
 scarlethollow/scarlethollow.exe
+scauage/scauage.exe
 scene investigators demo/scene investigators (demo).exe
 scene investigators/scene investigators.exe
 schedule i demo/schedule i free sample.exe
@@ -7323,6 +7329,7 @@ th18tr/th18.exe
 th19/th19.exe
 thank goodness you're here!/thank goodness you're here!.exe
 tharsis/tharsis.exe
+that's not my neighbor/that's not my neighbor (steam).exe
 the adventure pals/adventure pals.exe
 the backrooms 1998 - found footage backroom survival horror game/thebackrooms1998.exe
 the backrooms game/the backrooms game.exe
@@ -7524,6 +7531,7 @@ the scroll of taiwu/the scroll of taiwu alpha v1.0.exe
 the secret atelier/the secret atelier.exe
 the settlers online/nw.exe
 the seven realms - realm 1/thesevenrealms.exe
+the seven realms-high lathion/thesevenrealms.exe
 the ship remasted/theshipremasted.exe
 the ship single player/ship.exe
 the ship/ship.exe

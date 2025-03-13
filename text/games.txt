@@ -339,6 +339,7 @@ An Ankou
 An Arcade Full of Cats
 Anarchy Online
 Anarchy: Wolf's law : Prologue
+Anarcute
 Ancestors Legacy
 Ancestors: The Humankind Odyssey
 Ancient Cities
@@ -1420,6 +1421,7 @@ Coloring Game
 Coloring Game 2
 Coloring Game 3
 Coloring Game 4
+Coloring Game 5
 Coloring Game: Little City
 Coloring Pixels
 Colt Canyon
@@ -3086,6 +3088,7 @@ Ghostbusters: Spirits Unleashed Ecto Edition
 Ghostbusters: The Video Game Remastered
 Ghostrunner
 Ghostrunner 2
+Ghosts 'n Goblins Resurrection
 Ghosts Of Tabor
 Ghosts of war
 Ghostwire: Tokyo
@@ -3531,6 +3534,7 @@ Hextech Mayhem: A League of Legends Story™
 Hi-Fi RUSH
 Hidden Deep
 Hidden Folks
+Hidden Lands
 Hidden Robo Cats
 Hidden Through Time
 Hidden Winter Cats
@@ -6553,6 +6557,7 @@ Scarlet Hollow
 Scarlet Maiden
 Scarlet Tower
 Scars Above
+Scauage
 Scavengers
 Scene Investigators
 Scene Investigators Demo
@@ -7585,6 +7590,7 @@ Tetris® Effect: Connected
 Tetris® Ultimate
 Thank Goodness You're Here!
 Tharsis
+That's not my Neighbor
 The Adventure Pals
 The Age of Decadence
 The Anacrusis
@@ -7905,6 +7911,7 @@ The Settlers : Rise of an Empire - History Edition
 The Settlers Online
 The Settlers: New Allies
 The Settlers: Rise of an Empire
+The Seven Realms: High Lathión
 The Seven Realms: Terran
 The Ship
 The Ship Single Player
