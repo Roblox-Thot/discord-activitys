@@ -2041,6 +2041,7 @@ Disney Infinity 1.0: Gold Edition
 Disney Infinity 2.0: Gold Edition
 Disney Infinity 3.0: Gold Edition
 Disney Speedstorm
+Disney Universe
 Disney's Hercules
 Disney's Princess Enchanted Journey
 Disneyland Adventures
@@ -4642,6 +4643,7 @@ Mass Effect™ 2
 Mass Effect™ 3
 Mass Effect™: Andromeda
 Massive
+Master Detective Archives: RAIN CODE Plus
 Master Levels for DOOM II
 Master Reboot
 Master of Orion
@@ -7845,6 +7847,7 @@ The Monster Inside
 The Mortuary Assistant
 The Mortuary Assistant Demo
 The Murder of Sonic the Hedgehog
+The NOexistenceN of you AND me
 The Night of the Rabbit
 The Odyssey of the Mammoth
 The Oracle Land
@@ -8383,6 +8386,7 @@ UNDEFEATED
 UNDER NIGHT IN-BIRTH Exe:Late
 UNDER NIGHT IN-BIRTH Exe:Late[cl-r]
 UNDER NIGHT IN-BIRTH II Sys:Celes
+UNDER the SAND
 UNDERDOGS
 UNDERWARD
 UNI
