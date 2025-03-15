@@ -945,6 +945,7 @@ blueprint tycoon/blueprinttycoon.exe
 blushblush/blushblush.exe
 bmx streets/bmx streets.exe
 bns/bin64/client.exe
+bo/bo.exe
 boardland/boardland.exe
 bob was hungry/bobwashungry.exe
 boid.exe
@@ -2064,6 +2065,7 @@ dndclient64.exe
 dnf.exe
 dnftm/dnftm.exe
 dnl.exe
+do no harm/do no harm.exe
 do not feed the monkeys 2099/do not feed the monkeys 2099.exe
 doax-venusvacation/doax_vv.exe
 dodgydeliveries/dodgy deliveries.exe
@@ -2262,6 +2264,7 @@ dungeons & degenerate gamblers/dndg_64.exe
 dungeons & dragons hd/managame.exe
 dungeons 3/dungeons3bin.exe
 dungeons 4/dungeons 4.exe
+dungeons of blood and dream/dobad.exe
 dungeons of dredmor/dungeons of dredmor.exe
 dungeons of hinterberg/dungeons of hinterberg.exe
 dungeons2.exe
@@ -3713,6 +3716,7 @@ illarion/jre/bin/java.exe
 illusioncarnival/illusion carnival.exe
 ilycs/ilycs.exe
 imagwzii/z0mb1es.exe
+imgui_sample.exe
 immortal redneck/immortalredneck.exe
 immortallife/immortallife.exe
 immortals fenyx rising/immortalsfenyxrising.exe
@@ -8656,6 +8660,7 @@ win64/dollimpostor-win64-shipping.exe
 win64/dont_scream-win64-shipping.exe
 win64/dontlookaway-win64-shipping.exe
 win64/doubleclutch-win64-shipping.exe
+win64/doubleshoulders-win64-shipping.exe
 win64/dqiiihd2dremake.exe
 win64/dr-win64-shipping.exe
 win64/draconia-win64-shipping.exe
@@ -8717,6 +8722,7 @@ win64/ewtp_too-win64-shipping.exe
 win64/examplegame-win64-shipping.exe
 win64/exf-win64-shipping.exe
 win64/exit8-win64-shipping.exe
+win64/exodus-win64-shipping.exe
 win64/exorcist-win64-shipping.exe
 win64/expeditionsrome-win64-shipping.exe
 win64/f1manager22.exe
