@@ -577,6 +577,7 @@ bandle tale/bandle tale.exe
 banished/application-steam-x64.exe
 bannersofruin/bannersofruin.exe
 banzai escape 2 subterranean/banzai escape 2 subterranean.exe
+bapbap/bapbap.exe
 bard idle/bard.exe
 bare witness/barewitness.exe
 baremetal.exe
@@ -2386,6 +2387,7 @@ enchain demo/enchain.exe
 enclave/enclave.exe
 enderal/enderal launcher.exe
 endless dungeon/endless dungeon.exe
+endless monday dreams and deadlines/endlessmondaydnd.exe
 endless sky/endlesssky.exe
 endless space/endlessspace.exe
 endless zone/endlesszone.exe
@@ -2468,6 +2470,7 @@ eu3.exe
 eu3game.exe
 eu4.app
 eu4.exe
+eufloria hd/eufloriahd.exe
 europa1400gold.exe
 europa1400gold_tl.exe
 eurotrucks.exe
@@ -3887,6 +3890,7 @@ jerma's big adventure/jerma's big adventure.exe
 jesus christ rpg/game.exe
 jet island/jetisland.exe
 jet set radio/jsrsetup.exe
+jetlancer/jet lancer.exe
 jigoku kisetsukan/jigoku_kisetsukan.exe
 jigsaw puzzles infinite/jigsaw.exe
 jk.exe
@@ -4149,6 +4153,7 @@ league of pixels/nw.exe
 leagueclientux.exe
 leagueoflegends.app
 leap of faith/leapoffaith.exe
+leap year/leap year.exe
 learn to fly 3.exe
 left 4 dead 2/left4dead2.exe
 left4dead.exe
@@ -5455,6 +5460,7 @@ pentiment/pentiment.exe
 penumbra black plague/oalinst.exe
 people playground/people playground.exe
 per aspera/per aspera.exe
+peripeteia/peripeteia.exe
 perpetuum.exe
 persona 4 golden/p4g.exe
 persona 5 tactica/persona 5 tactica.exe
@@ -6953,6 +6959,7 @@ stronghold crusader extreme/stronghold_crusader_extreme.exe
 stronghold crusader.exe
 stronghold definitive edition/stronghold 1 definitive edition.exe
 stronghold kingdoms/strongholdkingdoms.exe
+stronghold legends/strongholdlegends.exe
 stronghold/stronghold.exe
 struggling/struggling.exe
 studyinsteampunk.exe
@@ -8584,6 +8591,7 @@ win64/clay_3-win64-shipping.exe
 win64/clay_4-win64-shipping.exe
 win64/clay_6-win64-shipping.exe
 win64/clay_7-win64-shipping.exe
+win64/clearing-win64-shipping.exe
 win64/clickold-win64-shipping.exe
 win64/cob-win64-shipping.exe
 win64/cobblestone-win64-shipping.exe
@@ -8749,6 +8757,7 @@ win64/fifteendays-win64-shipping.exe
 win64/finchgame.exe
 win64/find_yourself-win64-shipping.exe
 win64/firstclassescape-win64-shipping.exe
+win64/fisherman-win64-shipping.exe
 win64/fishgame-win64-shipping.exe
 win64/flickerofhope-win64-shipping.exe
 win64/flintlock-win64-shipping.exe
@@ -9451,6 +9460,7 @@ win64/thecrust-win64-shipping.exe
 win64/thedaybefore_be.exe
 win64/thedevilinme-win64-shipping.exe
 win64/thedevourer-win64-shipping.exe
+win64/theeternalcylinder-win64-shipping.exe
 win64/theexit_be.exe
 win64/thefront.exe
 win64/thehiddenroom-win64-shipping.exe
@@ -9735,6 +9745,7 @@ wizard with a gun/wizardwithagun.exe
 wizard101.exe
 wizardgraphicalclient.exe
 wizardoflegend.exe
+wizardry variants daphne/wizardryvariantsdaphne.exe
 wl2.exe
 wlkrr/wlkrr.exe
 wmgplaunch/wmgpmobilegame.exe

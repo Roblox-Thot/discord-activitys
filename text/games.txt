@@ -84,6 +84,7 @@ A Dance of Fire and Ice
 A Date with Death
 A Day Out
 A Difficult Game About Climbing
+A Fisherman's Tale
 A Game About
 A Game About Digging A Hole
 A Game of Thrones: The Board Game
@@ -554,6 +555,7 @@ BACKROOMS NO RETURN: Prologue
 BACKROOMS: NO RETURN Demo
 BAD END THEATER
 BADLAND: Game of the Year Edition
+BAPBAP
 BARRIER X
 BATTALION 1944
 BATTLE CRUSH
@@ -2375,6 +2377,7 @@ Enclave
 Enderal: Forgotten Stories
 Endless Battle
 Endless Legend
+Endless Monday: Dreams and Deadlines
 Endless Sky
 Endless Space
 Endless Space 2
@@ -2458,6 +2461,7 @@ Eternights
 Eternights Demo
 Eternium
 Ethereal Estate
+Eufloria HD
 Euro Truck Simulator
 Euro Truck Simulator 2
 Europa Universalis II
@@ -3949,6 +3953,7 @@ Jelly Brawl: Classic
 Jerma's Big Adventure
 Jesus Christ RPG Trilogy
 Jet Island
+Jet Lancer
 Jet Set Radio
 Jigoku Kisetsukan: Sense of the Seasons
 Jigsaw Puzzle Dreams
@@ -4265,6 +4270,7 @@ League of Angels-Heaven's Fury
 League of Legends
 League of Maidens
 League of Pixels
+Leap Year
 Leap of Faith
 Learn Japanese To Survive - Hiragana Battle
 Learn to Fly 3
@@ -5635,6 +5641,7 @@ Per Aspera
 Perfect Heist
 Perfect Heist 2
 Perfect Vermin
+Peripeteia
 Perpetuum
 Persona 3 Portable
 Persona 3 Reload
@@ -7237,6 +7244,7 @@ Stronghold Crusader Extreme HD
 Stronghold Crusader HD
 Stronghold HD
 Stronghold Kingdoms
+Stronghold Legends
 Stronghold: Definitive Edition
 Struggling
 Stubbs the Zombie in Rebel Without a Pulse
@@ -7707,6 +7715,7 @@ The Escape: Together
 The Escapists
 The Escapists 2
 The Escapists: The Walking Dead
+The Eternal Cylinder
 The Evil Within
 The Evil Within 2
 The Executive - Movie Industry Tycoon
@@ -8676,6 +8685,7 @@ Wall World
 Waltz of the Wizard
 Wandering Sword
 Wandersong
+Wanderstop
 Wanted Raccoon
 Wanted: Dead
 War Hospital
@@ -8874,6 +8884,7 @@ Wizard of Legend 2
 Wizard with a Gun
 Wizard with a Gun Demo
 Wizard101
+Wizardry Variants Daphne
 Wizardry: Proving Grounds of the Mad Overlord
 Wo Long: Fallen Dynasty
 Wobbledogs
