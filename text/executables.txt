@@ -114,6 +114,7 @@ a park full of cats/park.exe
 a plague tale innocence/aplaguetaleinnocence_x64.exe
 a plague tale requiem/aplaguetalerequiem_x64.exe
 a raven monologue/a raven monologue.exe
+a shelter full of cats/shelter.exe
 a short hike/ashorthike.exe
 a sky full of stars/advhd.exe
 a space for the unbound/a space for the unbound.exe
@@ -318,6 +319,7 @@ ancient dungeon vr/ancient_dungeon.exe
 ancient planet/game.exe
 ancient warfare 3/ancient warfare 3.exe
 andy's apple farm/andy's apple farm.exe
+aneurism iv/aneurism iv.exe
 angel legion/angellegion.exe
 angel wings/angelstory.exe
 anger foot demo/anger foot.exe
@@ -2746,6 +2748,7 @@ fire & maneuver/fire & maneuver.exe
 fire prowrestling world/fireprowrestlingw.exe
 firealpaca se/firealpacasteam.exe
 fireboy & watergirl elements/fbwg.exe
+fireboy & watergirl fairy tales/fbwg.exe
 firefallclient.exe
 firestone/firestone.exe
 firewatch.exe
@@ -5153,6 +5156,7 @@ nsuns4.exe
 nsunsr.exe
 ntr'd by clumsiness/ntrdbyclumsiness.exe
 nubarron/nubarron.exe
+nubby's number factory/nnf_fullversion.exe
 nuclear dawn/nucleardawn.exe
 nuclear last darkness/nucleares.exe
 nuclear option/nuclearoption.exe
@@ -5270,6 +5274,7 @@ orbusvr/vrclient.exe
 orc massage/orcmassage.exe
 orcsmustdie2.exe
 order of battle  pacific/autorun.exe
+order13/order13.exe
 organtrail.exe
 ori and the will of the wisps/oriwotw.exe
 ori.exe
@@ -9104,6 +9109,7 @@ win64/onset-win64-shipping.exe
 win64/oos-win64-shipping.exe
 win64/openvrbenchmark.exe
 win64/operationairsoft.exe
+win64/orebound-win64-shipping.exe
 win64/oregon-win64-shipping.exe
 win64/orvillefangame-win64-shipping.exe
 win64/osclient.exe
@@ -9581,6 +9587,7 @@ win64/vr3_part1.exe
 win64/vrflush.exe
 win64/vrpooldemo-win64-shipping.exe
 win64/vrpvpclient-win64-shipping.exe
+win64/vrsecretary-win64-shipping.exe
 win64/vzlom_jopi-win64-shipping.exe
 win64/walkingsimulator2020-win64-shipping.exe
 win64/walkinthewoods-win64-shipping.exe
@@ -9719,6 +9726,7 @@ windows_content/streamer life simulator 2.exe
 windows_content/streamer life simulator.exe
 windscape.exe
 windward/windward.exe
+wingdk/avowed-wingdk-shipping.exe
 wingdk/palworld-wingdk-shipping.exe
 wings of vi.exe
 wingspan/wingspan.exe

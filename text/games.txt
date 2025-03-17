@@ -104,6 +104,7 @@ A Plague Tale: Innocence
 A Plague Tale: Requiem
 A Quiet Place: The Road Ahead
 A Raven Monologue
+A Shelter Full of Cats
 A Short Hike
 A Sky Full of Stars
 A Space for the Unbound
@@ -139,6 +140,7 @@ AKIBA'S TRIP: Undead & Undressed
 AL QMRAH RESTAURANT
 ALTF4
 AMID EVIL
+ANEURISM IV
 ANIMAL WELL
 ANIME - World War II
 ANIME STANDING
@@ -2754,6 +2756,7 @@ Fire & Maneuver
 Fire Pro Wrestling World
 FireAlpaca SE
 Fireboy & Watergirl: Elements
+Fireboy & Watergirl: Fairy Tales
 Firefall
 Firefighting Simulator - The Squad
 Firestone Idle RPG
@@ -5275,6 +5278,7 @@ Nowhere Prophet
 Nowhere: Mysterious Artifacts
 NoxPlayer
 Nubarron: The adventure of an unlucky gnome
+Nubby's Number Factory
 Nuclear Dawn
 Nuclear Nightmare
 Nuclear Option
@@ -5304,6 +5308,7 @@ ONI
 ONINAKI Demo
 ONLY UP : Rising
 ONRAID
+ORDER 13
 ORION: Prelude
 ORX Demo
 OTXO
@@ -5424,6 +5429,7 @@ Orcs Must Die! 2
 Orcs Must Die! 3
 Orcs Must Die! Deathtrap
 Order of Battle: World War II
+Orebound
 Organ Trail: Director's Cut
 Ori and the Blind Forest: Definitive Edition
 Ori and the Will of the Wisps
@@ -8535,6 +8541,7 @@ VR Dungeon Knight
 VR Flush
 VR HOT
 VR Kanojo
+VR Secretary
 VRChat
 VRMark
 VRoid Clothing Maker
