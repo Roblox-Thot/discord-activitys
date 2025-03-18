@@ -1107,6 +1107,7 @@ cabalmain.exe
 cadria item shop/cadria.exe
 cafe owner simulator prologue/cafe owner simulator.exe
 cafe owner simulator/cafe owner simulator.exe
+cafemart simulator/cafemart simulator.exe
 caggame-win64-shipping.exe
 caggameserver.exe
 cake bash demo/cakebash_win64_steam.exe
@@ -3144,6 +3145,7 @@ good pizza, great pizza/pizzabusiness.exe
 goodbye deponia/deponia3.exe
 goog.exe
 goonect/goonect.exe
+goooool/game.exe
 goose goose duck/goose goose duck.exe
 gop3.exe
 gorebox/gorebox.exe
@@ -3960,6 +3962,7 @@ kanjozoku game/kanjozoku game.exe
 kanzi_de_go/集英社マンガ祭.exe
 kao the kangaroo round 2/kao2.exe
 kara no shojo 2.exe
+karakara/karakara.exe
 karate survivor/karatesurvivor.exe
 karmazoo/karmazoo.exe
 karos/amo.exe
@@ -4169,6 +4172,7 @@ legend of grimrock 2/grimrock2.exe
 legend of grimrock/grimrock.exe
 legend of keepers prologue/legendofkeepersprologue.exe
 legend of keepers/legendofkeepers.exe
+legend of mana/legend of mana.exe
 legendofdungeon.exe
 legendofmortal/mortal.exe
 legends of aria/legends of aria.exe
@@ -5394,6 +5398,7 @@ parking lot simulator/parkingsimulator.exe
 parkitect/parkitect.exe
 particle fleet emergence/particlefleet.exe
 party animals/partyanimals.exe
+party club/partyclub.exe
 party hard 2/partyhard2game.exe
 party hard/partyhardgame.exe
 party jousting/game.exe

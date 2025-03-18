@@ -1106,6 +1106,7 @@ Cadria Item Shop
 Caesar 3
 Cafe Owner Simulator
 Cafe Owner Simulator: Prologue
+Cafemart Simulator
 Cake Bash
 Cake Bash Demo
 Cakey's Twisted Bakery
@@ -4009,6 +4010,7 @@ Just King Demo
 Just Shapes & Beats
 Just Survive
 Justice League VR: The Complete Experience
+KARAKARA
 KARDS - The WWII Card Game
 KEO
 KHOLAT
@@ -4289,6 +4291,7 @@ Legend of Grimrock
 Legend of Grimrock 2
 Legend of Keepers
 Legend of Keepers: Prologue
+Legend of Mana
 Legendary Tales
 Legends of Aria
 Legends of Idleon MMO
@@ -5598,6 +5601,7 @@ Parkitect
 Particle Fleet: Emergence
 Partisans 1941
 Party Animals
+Party Club
 Party Hard
 Party Hard 2
 Party Jousting
@@ -9200,6 +9204,7 @@ yahtzee girl
 ВЗЛОМ ЖОПЫ
 Ваша мать
 Г.О.П.О.Т.А
+ГОООООООЛ!
 Древние Ящеры Против Русов: Битва за Гиперборею
 КЛЕТЬ Демо
 Калибр
