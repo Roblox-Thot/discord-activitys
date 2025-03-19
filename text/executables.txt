@@ -485,6 +485,7 @@ atelier ryza 2/atelier_ryza_2.exe
 atelier ryza 3/atelier_ryza_3.exe
 atelier ryza/atelier_ryza.exe
 atelier sophie the alchemist of the mysterious book/a17config.exe
+atelier yumia demo/atelier_yumia.exe
 atelierresleriana/atelierresleriana.exe
 atelierreslerianagl/atelierresleriana.exe
 atlantic fleet/atlanticfleet.exe
@@ -3298,6 +3299,7 @@ half minute hero/hmh.exe
 half-life 1 source deathmatch/hl2.exe
 half-life 2 deathmatch/hl2.exe
 half-life 2 downfall/hl2.exe
+half-life 2 rtx/hl2.exe
 half-life 2 update/hl2.exe
 half-life 2 vr/hl2.exe
 half-life 2 year long alarm/hl2.exe
@@ -9326,6 +9328,7 @@ win64/shooter-win64-shipping.exe
 win64/shootergame_be.exe
 win64/shootergameclient-win64-shipping.exe
 win64/shootergameserver.exe
+win64/shotballv1-win64-shipping.exe
 win64/shproto-win64-shipping.exe
 win64/shrimp-win64-shipping.exe
 win64/shta.exe
