@@ -1342,6 +1342,7 @@ Citra
 City Bus Manager
 City Car Driving
 City Game Studio
+City Lights Love Bites Season 0 [Pilot Season]
 City Of Brass
 City idle
 City of Broken Dreamers: Book One
@@ -4799,6 +4800,7 @@ Milfy City - Final Edition
 Milk inside a bag of milk inside a bag of milk
 Milk outside a bag of milk outside a bag of milk
 MilkChoco
+Milky Way Idle
 Millennia
 Milo and the Christmas Gift
 Milo and the Magpies
@@ -6071,6 +6073,7 @@ Rapture Rejects
 Ratchet & Clank: Rift Apart
 Ratopia
 Ratropolis
+Ratten Reich
 Ratty Catty
 Ratz Instagib 2.0
 Ravager
@@ -8586,6 +8589,7 @@ Varenje
 Vault of the Void
 Vaygren - Lustful Temptation
 Vecter
+Vector Strike
 Vectorio
 Vectromirror 0
 Vedelem: The Golden Horde
