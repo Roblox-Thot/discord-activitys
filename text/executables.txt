@@ -454,6 +454,7 @@ asn_app_pcdx9_final.exe
 asphalt 9 legends/asphalt9_steam_x64_rtl.exe
 assassin's creed iii remastered/aciii.exe
 assassin's creed mirage/acmirage.exe
+assassin's creed shadows/acshadows.exe
 assassin's creed syndicate/acs.exe
 assassin's creed unity/acu.exe
 assassinscreed_dx10.exe
@@ -8897,6 +8898,7 @@ win64/horrorgame-win64-shipping.exe
 win64/horrorwaiwai-win64-shipping.exe
 win64/horsegame-win64-shipping.exe
 win64/hospital666-win64-shipping.exe
+win64/hotel_renovator-win64-shipping.exe
 win64/hotwheels-win64-shipping.exe
 win64/houseofashestrial-win64-shipping.exe
 win64/hsho-win64-shipping.exe
@@ -9839,6 +9841,7 @@ wrc 7/wrc7.exe
 wrc 8 fia world rally championship/wrc8.exe
 wrc 9 fia world rally championship/wrc9.exe
 wrc generations - the fia wrc official game/wrcg.exe
+wreckfest 2/wreckfest2.exe
 wreckfest.exe
 wreckfest_x64.exe
 wreckfest_x64.exe
