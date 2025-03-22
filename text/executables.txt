@@ -2318,6 +2318,7 @@ earth defense force 5/edf5.exe
 earth defense force 6/edf6.exe
 earth defense force insect armageddon/edf-ia.exe
 earthkartws/earthkart.exe
+east trade tycoon inheritance/easttradetycoon.exe
 eastshade/eastshade.exe
 eastside hockey manager/ehm.exe
 eastward/eastward.exe
@@ -6819,6 +6820,7 @@ stalker clear sky/bin/xrengine.exe
 stalker clear sky/xrengine.exe
 stalker shadow of chernobyl/bin/xr_3da.exe
 stand out/standout.exe
+stand survivors/standsurvivors.exe
 standable full body estimation/standable.exe
 star chef 2 cooking game/star chef 2.exe
 star chef cooking & restaurant game/star chef.exe
