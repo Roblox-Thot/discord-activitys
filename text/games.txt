@@ -1489,6 +1489,7 @@ Contain
 Containers
 Content Warning
 Contra Anniversary Collection
+Contra: Operation Galuga
 Contraband Police
 Contraband Police Demo
 Contraband Police: Prologue
@@ -2827,6 +2828,7 @@ Flyout
 Fobia - St. Dinfna Hotel
 Fog Of War - Free Edition
 Folklore Hunter
+Food Delivery Simulator
 Food Fighter Clicker Games
 Football Club Management 2023
 Football Coach: College Dynasty
@@ -2890,6 +2892,7 @@ Forza Motorsport
 Forza Motorsport 7
 Foundation
 Founders' Fortune
+Fox Hime
 Fox Hime Zero
 Foxhole
 Fractal Fury
@@ -6263,6 +6266,7 @@ Roadwarden Demo
 Robin
 Robin Hood
 Robin Hood - Sherwood Builders - Bandit's Trail
+Robin Morningwood Adventure
 Roblox
 RoboCop: Rogue City
 RoboSquare
@@ -6593,6 +6597,7 @@ Scavengers
 Scene Investigators
 Scene Investigators Demo
 Schedule I: Free Sample
+Scheming Through The Zombie Apocalypse: The Beginning
 Scholar's Mate - First Move
 School Labyrinth
 School of Dragons: How to Train Your Dragon
@@ -7381,6 +7386,7 @@ Supraball
 Supraland
 Supraland Six Inches Under
 Supremacy 1914
+Supreme Commander
 Supreme Commander 2
 Supreme Commander: Forged Alliance
 Supreme Ruler Ultimate
