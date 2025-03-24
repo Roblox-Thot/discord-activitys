@@ -4786,6 +4786,7 @@ monopoly poker/monopoly poker.exe
 monster camp demo/monstercampdemo.exe
 monster cards/monstercards.exe
 monster crown/monster crown.exe
+monster girl 1,000/game.exe
 monster hunter rise sunbreak demo/mhrisesunbreakdemo.exe
 monster hunter stories 2 trial version/installermessage.exe
 monster hunter stories 2/game.exe
@@ -7960,6 +7961,7 @@ tt isle of man 2/tt2.exe
 tukoni/tukoni.exe
 tumblestone/tumblestone.exe
 tunche arena/tunche.exe
+tunguska the visitation/tunguska.exe
 tunic/tunic.exe
 tunnel divers/tunneldivers.exe
 turbo golf racing/turbo golf racing.exe
