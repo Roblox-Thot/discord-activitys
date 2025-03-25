@@ -5437,6 +5437,7 @@ pathfinder second adventure/wrath.exe
 pathless woods prologue/pathless woods.exe
 pathofexile/pathofexileegs.exe
 pathofexile2/pathofexileegs.exe
+pathologic 3 quarantine/pathologic3.exe
 pathologic/pathologic.exe
 pathway/pathway.exe
 patrick's parabox demo/patrick's parabox.exe
@@ -6296,6 +6297,7 @@ scauage/scauage.exe
 scene investigators demo/scene investigators (demo).exe
 scene investigators/scene investigators.exe
 schedule i demo/schedule i free sample.exe
+schedule i/schedule i.exe
 scheming through ep1/scheming through ep1.exe
 school of dragons how to train your dragon/domain.exe
 schoolboy runaway/schoolboy runaway.exe
@@ -6512,6 +6514,7 @@ sid meier's colonization/dosbox_windows/dosbox.exe
 sid meier's pirates!/pirates!.exe
 sid meier's starships/starships64.exe
 siege survival gloria victis prologue/siegesurvivalprologue.exe
+sigame/sigame.exe
 sigmatheory/sigma.exe
 sign of silence/sign of silence.exe
 signalis demo/signalis.exe
@@ -9778,6 +9781,7 @@ wizard101.exe
 wizardgraphicalclient.exe
 wizardoflegend.exe
 wizardry variants daphne/wizardryvariantsdaphne.exe
+wizardry8/wiz8.exe
 wl2.exe
 wlkrr/wlkrr.exe
 wmgplaunch/wmgpmobilegame.exe
@@ -9930,6 +9934,7 @@ yakuza 4/yakuza4.exe
 yakuza 6 - the song of life/yakuza6.exe
 yakuza kiwami 2/yakuzakiwami2.exe
 yakuza0.exe
+yandere school/yandereschool.exe
 ydkj_vol1xl/ydkj32.jbg
 ydkj_vol4/ydkjtr.jbg
 yellow taxi goes vroom/yellow taxi goes vroom.exe

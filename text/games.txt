@@ -5632,6 +5632,7 @@ Pathfinder: Kingmaker
 Pathfinder: Wrath of the Righteous
 Pathless Woods: Prologue
 Pathologic 2
+Pathologic 3: Quarantine
 Pathologic Classic HD
 Pathway
 Patrick's Parabox
@@ -6425,6 +6426,7 @@ SHENZHEN I/O
 SHOTBALL
 SIGNALIS
 SIGNALIS Demo
+SIGame
 SILENT BREATH
 SILENT HILL 2
 SIMULACRA
@@ -6597,6 +6599,7 @@ Scauage
 Scavengers
 Scene Investigators
 Scene Investigators Demo
+Schedule I
 Schedule I: Free Sample
 Scheming Through The Zombie Apocalypse: The Beginning
 Scholar's Mate - First Move
@@ -8912,6 +8915,7 @@ Wizard of Legend 2
 Wizard with a Gun
 Wizard with a Gun Demo
 Wizard101
+Wizardry 8
 Wizardry Variants Daphne
 Wizardry: Proving Grounds of the Mad Overlord
 Wo Long: Fallen Dynasty
@@ -9027,6 +9031,7 @@ Yakuza Kiwami
 Yakuza Kiwami 2
 Yakuza Rogue: Yokohama massage parlor chapter
 Yakuza: Like a Dragon
+Yandere School
 Yarimono
 Yellow Taxi Goes Vroom
 Yes, Master!
