@@ -2282,6 +2282,7 @@ Dying Light
 Dying Light 2
 Dying Light: Bad Blood
 Dynast.io
+Dynasty Warriors 8 Empires
 Dyson Sphere Program
 Dystopia
 Dystopika
@@ -5515,6 +5516,7 @@ Ozymandias
 P.A.S.
 PAC-MAN 256
 PAC-MAN Championship Edition DX+
+PAC-MAN MUSEUM+
 PAC-MAN WORLD Re-PAC
 PAC-MAN™ CHAMPIONSHIP EDITION 2
 PANICORE
@@ -6040,6 +6042,7 @@ Rabbit Hole
 Rabbit and Steel
 Rabi-Ribi
 Race The Sun
+Race of Life - Act 1
 Race.a.bit
 RaceRoom Racing Experience
 Racecraft
@@ -7754,6 +7757,7 @@ The Fall
 The Farmer Was Replaced
 The Fermi Paradox
 The Final Station
+The First Berserker: Khazan
 The First Descendant
 The First Tree
 The Fishing Club 3D
@@ -9171,6 +9175,7 @@ eFootball™
 eFootball™ 2023
 ePSXe
 ePic Character Generator
+eWorlds
 fault - milestone one
 fin-dev
 hexceed
@@ -9289,6 +9294,7 @@ yahtzee girl
 マジカルバトルアリーナNEXT・幻想郷空閃姫
 メタファー：リファンタジオ ～プロローグ体験版～
 モンスターハンターストーリーズ2　～破滅の翼～
+ユミアのアトリエ ～追憶の錬金術士と幻創の地～
 ユミアのアトリエ ～追憶の錬金術士と幻創の地～ 体験版
 ライザのアトリエ２ ～失われた伝承と秘密の妖精～
 ライザのアトリエ３ ～終わりの錬金術士と秘密の鍵～
