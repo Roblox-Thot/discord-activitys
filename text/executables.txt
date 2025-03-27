@@ -1668,6 +1668,7 @@ cult of the lamb/cult of the lamb.exe
 cultic demo/cultic.exe
 cultic/cultic.exe
 cultist simulator/cultistsimulator.exe
+cultures 8th wonder/game.exe
 cultures northland/game.exe
 cuphead.exe
 curious expedition 2/ce2.exe
@@ -8471,6 +8472,7 @@ win64/apk-win64-shipping.exe
 win64/apocclient-win64-shipping.exe
 win64/april_24th-win64-shipping.exe
 win64/aquietplace-win64-shipping.exe
+win64/arcade-win64-shipping.exe
 win64/archon-win64-shipping.exe
 win64/ard-win64-shipping.exe
 win64/arid-win64-shipping.exe
