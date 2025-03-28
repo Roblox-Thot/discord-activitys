@@ -512,6 +512,7 @@ Atlas Reactor
 Atma
 Atom Fishing II
 Atom Zombie Smasher
+Atomfall
 Atomic Heart
 Atomic Picnic
 Atomicrops
@@ -836,6 +837,7 @@ Blade & Sorcery
 Blade & Soul
 Blade Assault
 Blade Strangers
+Blade of God X
 Bladed Fury
 Blades of Time
 Blair Witch
@@ -2309,6 +2311,7 @@ EMERGENCY 20
 EMERGENCY 4 Deluxe
 EMPTY SHELL
 EMPTY SHELL: PROLOGUE
+ENA: Dream BBQ
 ENCHAIN Demo
 ENDER LILIES
 ENDER MAGNOLIA: Bloom in the Mist
@@ -4381,6 +4384,7 @@ Little Witch Nobeta Demo
 Little Witch in the Woods
 Littlewood
 Live Wallpaper Master
+Live2D VR Girls
 Live2DViewerEX
 Livelock
 Lively Chair Simulator
@@ -4845,6 +4849,7 @@ Mini Settlers: Prologue
 Mini Thief
 Mini World: Block Art
 MiniGolf Mania
+MiniRoyale
 Miniland Adventure: Prologue
 Mining Mechs
 Minion Masters
@@ -5938,6 +5943,7 @@ Prototype
 PrprLive
 Psalm 5:9-13
 Pseudoregalia
+Psycho Patrol R
 Psychonauts
 Psychonauts 2
 Psychopomp
@@ -8599,6 +8605,7 @@ Valley
 Valnir Rok
 Vampire Hunters
 Vampire Survivors
+Vampire Therapist
 Vampire: The Masquerade - Bloodlines
 Vampire: The Masquerade - Coteries of New York
 Vampire: The Masquerade - Shadows of New York
@@ -8632,6 +8639,7 @@ Viewfinder
 Viewfinder Demo
 Vigil: The Longest Night
 Vigor
+Viking Frontiers: Prologue
 Viking Rage
 Viking Rise: Valhalla
 Viking: Battle for Asgard

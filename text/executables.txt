@@ -885,6 +885,7 @@ blacktop hoops demo steam/blacktop hoops.exe
 blackwake.exe
 blade & sorcery/bladeandsorcery.exe
 blade assault/bladeassault.exe
+blade of god x/bogx.exe
 blade strangers/game.exe
 blade/fsn2-win64vc14-release.exe
 bladed/chopghost.exe
@@ -2394,6 +2395,7 @@ empty shell prologue/emptyshell.exe
 empty shell/emptyshellfull.exe
 empyrion - galactic survival/empyrion.exe
 en_trick & treat/game.exe
+ena dream bbq/ena-4-dreambbq.exe
 encased/encased.exe
 enchain demo/enchain.exe
 enclave/enclave.exe
@@ -4145,6 +4147,7 @@ late shift/lateshift.exe
 lateralligator/lateralligator.exe
 latestbuild/fargone.exe
 latex dungeon mv/game.exe
+launcher/atomfall.exe
 launcher/bethesda.net_launcher.exe
 launcher/df_launcher.exe
 launcher/df_launcher_global.exe
@@ -4271,6 +4274,7 @@ littlebigworkshop/littlebigworkshop.exe
 littlekittybigcity/little kitty, big city.exe
 littlenightmares.exe
 littlewood/littlewood.exe
+live2d_vr_girls/live2d_vr_girls.exe
 live2dviewerex/update.exe
 livelock/livelock.exe
 lively chair simulator/lively chair simulator.exe
@@ -5761,6 +5765,7 @@ psalm/psalm.exe
 pso2.exe
 pso2_bin/gameguard.des
 psobb.exe
+psycho patrol r/psychopatrolr.exe
 psychonauts.exe
 psychopomp gold/psychopomp gold.exe
 psychopomp/psychopomp.exe
@@ -8133,6 +8138,7 @@ vampire hunters/vampire hunters.exe
 vampire survivors/vampiresurvivors.exe
 vampire the masquerade - coteries of new york/vtm coteries of new york.exe
 vampire the masquerade - shadows of new york/vtm shadows of new york.exe
+vampire therapist/vampire therapist.exe
 vampire.exe
 vampiresurvivors/vampiresurvivors.exe
 vanguard-princess/vanpri.exe
@@ -8172,6 +8178,7 @@ viewfinder/viewfinder.exe
 vigil the longest night/vigil.exe
 vigor/vigor.exe
 viking battle for asgard/viking.exe
+viking frontiers prologue/viking frontiers.exe
 viking rise/vr.exe
 vikingrage.exe
 vikings - wolves of midgard/vikings.exe
@@ -9057,6 +9064,7 @@ win64/mid-win64-shipping.exe
 win64/midnightghosthunt-win64-shipping.exe
 win64/midnightsuns-win64-shipping.exe
 win64/mining-win64-shipping.exe
+win64/miniroyale.exe
 win64/mir4s.exe
 win64/mistclient-win64-shipping.exe
 win64/mistofthedark.exe
