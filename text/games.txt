@@ -128,6 +128,7 @@ AER Memories of Old
 AHEGAL
 AI Dungeon
 AI Image Generator
+AI Limit
 AI War 2
 AI War: Fleet Command
 AI2U: With You 'Til The End
@@ -4400,6 +4401,7 @@ Lonely Mountains: Downhill Demo
 Long Live Santa!
 Long Live The Queen
 Longshot [Dev]
+Looking For Cats In a Badly Drawn Forest
 Looking Up I See Only A Ceiling
 Loop Hero
 Loop Hero Demo
@@ -5274,6 +5276,7 @@ Nomad
 Nomad Survival
 Nomads of Driftland
 Nonogram - Master's Legacy
+Nordhold
 Nordhold: Origins
 Nordic Ashes
 Norland
