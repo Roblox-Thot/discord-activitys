@@ -1673,6 +1673,7 @@ cultist simulator/cultistsimulator.exe
 cultures 8th wonder/game.exe
 cultures northland/game.exe
 cuphead.exe
+cureocity/cureocity.exe
 curious expedition 2/ce2.exe
 curiouscases/curiouscases.exe
 current/client/client.exe
@@ -3215,6 +3216,7 @@ grid legends/gridlegends.exe
 grid2.exe
 grid2_avx.exe
 gridautosport_avx.exe
+gridroad/gridroad.exe
 grim clicker/game.exe
 grim dawn.exe
 grim fandango remastered/grimfandango.exe

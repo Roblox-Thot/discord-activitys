@@ -1660,6 +1660,7 @@ Cultist Simulator
 Cultures - 8th Wonder of the World
 Cultures - Northland
 Cuphead
+Cureocity
 Curious Cases
 Curious Expedition
 Curious Expedition 2
@@ -2994,6 +2995,7 @@ GRID (2019)
 GRID 2
 GRID Autosport
 GRID Legends
+GRIDROAD
 GRIME
 GRIME Demo
 GRIP
