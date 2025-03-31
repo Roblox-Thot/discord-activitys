@@ -166,6 +166,7 @@ ASKA
 ASTLIBRA ～生きた証～ Revision
 ASTRA: Knights of Veda
 ASTRONEER
+ASURAJANG
 AT SUNDOWN: SitD
 ATLAS
 ATLYSS
@@ -489,6 +490,7 @@ Assassin's Creed Unity
 Assassin's Creed Valhalla
 Assassin’s Creed® Chronicles: India
 Assault Android Cactus
+Assault Bots
 Assemble with Care
 Assetto Corsa
 Assetto Corsa Competizione
@@ -3149,6 +3151,7 @@ Go-Go Town!
 GoNNER
 Goat Simulator
 Goat Simulator 3
+Goat Simulator: Remastered
 Goblin Gearshop
 God Awe-full Clicker
 God Mode
@@ -3239,6 +3242,7 @@ Graveyard Keeper
 Graveyard Shift
 Gravitas
 Gravity Circuit
+Gravity Sketch VR
 Gray Zone Warfare
 Greak: Memories of Azur
 Greed of Man
@@ -6754,6 +6758,7 @@ Shantae and the Seven Sirens
 Shantae: Half-Genie Hero
 Shantae: Risky's Revenge - Director's Cut
 Shape of Dreams: Prologue
+ShapeHero Factory / シェイプヒーローファクトリー
 Shardbound
 Shark Attack Deathmatch 2
 Shark Simulator
@@ -8281,6 +8286,7 @@ Tower Unite
 Tower Wars
 Tower and Sword of Succubus
 Tower of Babel: Survivors of Chaos (Demo)
+Tower of Fantasy
 Tower of Time
 Tower! Simulator 3
 Tower!3D Pro
@@ -8885,6 +8891,7 @@ Who's Lila?
 Who's Your Daddy
 Widget Inc.
 Wild Animal Racing
+Wild Bastards
 Wild Dive
 Wild Life Demo
 Wild Terra 2: New Lands

@@ -462,6 +462,7 @@ assassinscreed_dx10.exe
 assassinscreediigame.exe
 assassinscreedmirage/acmirage.exe
 assault android cactus/cactus.exe
+assault bots/assault bots.exe
 assemble with care/awc.exe
 assetto corsa evo/assettocorsaevo.exe
 assettocorsa.exe
@@ -3199,6 +3200,7 @@ granny/granny.exe
 grapple/grapple.exe
 grapples galore/grapples galore.exe
 graveyard keeper.exe
+gravity sketch vr/gravitysketchvr.exe
 grb.exe
 grb_upp.exe
 grb_vulkan.exe
@@ -3617,6 +3619,7 @@ hotline miami 2 wrong number digital comic/hlm2comics.exe
 hotlinemiami.exe
 hotlinemiami2.exe
 hotshot racing/hotshotracing.exe
+hottalaunch/hottagame.exe
 house builder demo/housebuilder.exe
 house builder first job/housebuilder.exe
 house builder/housebuilder.exe
@@ -6449,6 +6452,7 @@ shakes and fidget.exe
 shantae and the pirate's curse.exe
 shantaecurse.exe
 shape of dreams prologue/shape of dreams.exe
+shapehero factory/shapeherofactory.exe
 shapez 2/shapez 2.exe
 shapez.io demo/shapezio.exe
 shapez.io/shapezio.exe
@@ -8387,6 +8391,7 @@ who's lila/whoslila.exe
 whosyourdaddy.exe
 widgetinc/widgetinc.exe
 wild animal racing/wild animal racing.exe
+wild bastards/wildbastards.exe
 wild terra 2/wild-terra-2.exe
 wild terra online/wild-terra.exe
 wild west saga/wildwest.exe
@@ -8696,6 +8701,7 @@ win64/desynced.exe
 win64/detective-win64-shipping.exe
 win64/detnoir-win64-shipping.exe
 win64/devolverland_expo-win64-shipping.exe
+win64/dground-win64-shipping.exe
 win64/diabloimmortal.exe
 win64/dicekingdom-win64-shipping.exe
 win64/dieselbrothers-win64-shipping.exe
@@ -8866,6 +8872,7 @@ win64/glasscarriers-win64-shipping.exe
 win64/gmod.exe
 win64/goat2-win64-shipping.exe
 win64/goatofduty-win64-shipping.exe
+win64/goatsim_ue4-win64-shipping.exe
 win64/golfpartyproject.exe
 win64/goofy-win64-shipping.exe
 win64/gopota.exe
