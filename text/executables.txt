@@ -2091,6 +2091,7 @@ dogs organized neatly/dogs organized neatly.exe
 dogsledsaga/dogsledsaga.exe
 doka 2/doka2.exe
 dokapon kingdom connect/dkkstm.exe
+dokapon ~sword of fury~/dokapon! sword of fury.exe
 doki doki literature club plus/doki doki literature club plus.exe
 doki doki literature club.app
 dokidoki-ai/dokidoki-ai.exe
@@ -2659,6 +2660,7 @@ fatalzone/fatalzone.exe
 fate arena alpha/fate arena.exe
 fate extella link/fateextellalink.exe
 fate extella/game.exe
+fate reawakened/fatereawakened.exe
 fate the cursed king/fate.exe
 fate the traitor soul/fate.exe
 fate undiscovered realms/fate.exe
@@ -6351,6 +6353,7 @@ scribblenauts/scribble.exe
 scrivener.exe
 scrutinized/scrutinized.exe
 scum.exe
+scummvm/scummvm.exe
 scythe digital edition/scythe.exe
 sdata/shadows.exe
 sdhdship.exe

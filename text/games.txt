@@ -1725,6 +1725,7 @@ DK Online
 DLC Quest
 DNF DUEL
 DOKA 2 KISHKI EDITION
+DOKAPON! Sword of Fury
 DON'T FACE UP
 DON'T LOOK AWAY
 DON'T SCREAM
@@ -2551,6 +2552,7 @@ FAR: Changing Tides
 FAR: Lone Sails
 FATAL FRAME / PROJECT ZERO: Maiden of Black Water
 FATE
+FATE: Reawakened
 FATE: The Cursed King
 FATE: The Traitor Soul
 FATE: Undiscovered Realms
@@ -4320,6 +4322,7 @@ Legends of Runeterra
 Legion TD 2
 Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored
 Leisure Suit Larry - Wet Dreams Don't Dry
+Leisure Suit Larry 1 - In the Land of the Lounge Lizards
 Lemnis Gate
 Lemon Cake
 Lemonade Apocalypse
