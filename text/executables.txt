@@ -543,6 +543,7 @@ axon td uprising/axon td uprising.exe
 azure striker gunvolt/exe/gv_win.exe
 b100x/b100x.exe
 b24f49f9-d7fe-40b6-8f4d-65b0c6bf6a6b/borderlands.exe
+b2ba/b2b apocalypse.exe
 baba is you.exe
 baba is you/baba is you.exe
 babbdi/babbdi.exe
@@ -7387,6 +7388,7 @@ th155.exe
 th15e.exe
 th16/th16.exe
 th16tr/th16.exe
+th17/th17.exe
 th18/th18.exe
 th18tr/th18.exe
 th19/th19.exe
@@ -7416,6 +7418,7 @@ the brew barons/the brew barons.exe
 the bunny graveyard/game.exe
 the button/the button.exe
 the case of the golden idol/game.exe
+the children of clay/thechildrenofclay.exe
 the choice of life middle ages/the choice of life - middle ages.exe
 the classrooms/the classrooms.exe
 the closing shift/theclosingshift.exe
@@ -9311,6 +9314,7 @@ win64/rime.exe
 win64/riseofgun-win64-shipping.exe
 win64/rivals2-win64-shipping.exe
 win64/riven-win64-shipping.exe
+win64/rldb-win64-shipping.exe
 win64/roa3-win64-shipping.exe
 win64/robinhoodfull-win64-shipping.exe
 win64/robobuild-win64-shipping.exe
