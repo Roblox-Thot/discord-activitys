@@ -376,6 +376,7 @@ Anno 1404 - History Edition
 Anno 1404: Venice
 Anno 1800
 Anno 2205
+Anomalous Coffee Machine
 Anomaly Agent
 Anomaly Exit
 Anomaly Zone
@@ -585,6 +586,7 @@ BLACKHOLE
 BLACKJACK and WAIFUS
 BLACKTAIL
 BLEACH Brave Souls - 3D Action
+BLEACH Rebirth of Souls
 BLOCKADE 3D
 BLOCKPOST
 BLOODSTRIKE
@@ -1887,6 +1889,7 @@ Deceit 2
 Deceive Inc.
 Decent Icons
 Decent Icons 2
+Deconstruction Simulator: Prologue
 Deducto
 Deducto 2
 Deep Dungeons of Doom
@@ -2175,6 +2178,7 @@ Dream Golf VR
 Dreamcore
 Dreamfall Chapters: The Longest Journey
 Dreamland
+Dreams of Aether
 Dreams of Desire: Definitive Edition
 Dreamscaper
 Dreamscaper: Prologue
@@ -3432,6 +3436,7 @@ Harvest Seasons
 Harvester
 Hasbro's BATTLESHIP
 Hashiriya Drifter
+Haste
 Hate Plus
 Hatoful Boyfriend
 Hatred
@@ -3586,6 +3591,7 @@ High On Life
 High Profits
 High School Simulator 2018
 HighFleet
+Highrise City
 Higurashi When They Cry Hou - Ch.1 Onikakushi
 Higurashi When They Cry Hou - Ch.2 Watanagashi
 Higurashi When They Cry Hou - Ch.3 Tatarigoroshi
@@ -7216,6 +7222,7 @@ Steambirds Alliance Open Beta
 Steel Circus
 Steel Division 2
 Steel Division: Normandy 44
+Steel Hunters
 Steel Ocean
 Steel Rats
 Steelrising

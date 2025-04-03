@@ -345,6 +345,7 @@ anno4.exe
 anno5.exe
 annomutationem/anno.exe
 annomutationem/anno_mutationem.exe
+anomalous coffee machine/acm_windows.exe
 anomaly agent/anomaly agent.exe
 another brick in the mall/launch.exe
 another crab's treasure/anothercrabstreasure.exe
@@ -909,6 +910,7 @@ blaze rush/game.exe
 blazing beaks/blazingbeaks.exe
 blazing chrome/blazing chrome.exe
 bleach brave souls/bleachbravesouls.exe
+bleach rebirth of souls/bleach_rebirth_of_souls.exe
 bleed 2/bleed2.exe
 bless online/binaries/win64/bless.exe
 blightbound/blightbound.exe
@@ -2192,6 +2194,7 @@ dream car builder/dcr3d_x64.exe
 dream daddy/ddadds.exe
 dreamfall chapters.exe
 dreamland/dreamland.exe
+dreams of aether/dreamsofaether.exe
 dreams of desire definitive edition/dreamsofdesire.exe
 dreddvsdeath/dredd.exe
 dredge chapter one/dredge.exe
@@ -3375,6 +3378,7 @@ harvest seasons/harvest seasons.exe
 harvester/dosbox_windows/dosbox.exe
 hasbro's battleship/battleship.exe
 hashiriya drifter/hashiriya.exe
+haste/haste.exe
 hate plus.app
 hate plus.exe
 hatintimegame.exe
@@ -8643,6 +8647,7 @@ win64/chronos-win64-shipping.exe
 win64/chushpansimulator-win64-shipping.exe
 win64/citadel-win64-shipping.exe
 win64/citydriver-win64-shipping.exe
+win64/citynext-win64-shipping.exe
 win64/civ7_win64_dx12_finalrelease.exe
 win64/clay_0-win64-shipping.exe
 win64/clay_2-win64-shipping.exe
@@ -8698,6 +8703,7 @@ win64/deathinunison-win64-shipping.exe
 win64/deathlystillnessgame-win64-shipping.exe
 win64/deathsprint66.exe
 win64/deceit2game-win64-shipping.exe
+win64/deconstructionsim-win64-shipping.exe
 win64/deeply_dark.exe
 win64/defiantimmortalssteam-win64-shipping.exe
 win64/deltaforceclient-win64-shipping.exe
@@ -9253,6 +9259,7 @@ win64/projectcoop-win64-shipping.exe
 win64/projectcoral-win64-shipping.exe
 win64/projectnimble.exe
 win64/projectnowhere-win64-shipping.exe
+win64/projectr3-win64-shipping.exe
 win64/projectracing-win64-shipping.exe
 win64/projectunknown-win64-shipping.exe
 win64/projectwingman-win64-shipping.exe
