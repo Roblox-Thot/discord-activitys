@@ -2196,6 +2196,7 @@ Driftwood
 Drill Core
 Drill Deal: Borehole Alpha
 Drive 21
+Drive Beyond Horizons
 Driver Booster 3 for STEAM
 Driver Booster 4 for Steam
 Driver Booster 5 for Steam
@@ -3712,6 +3713,7 @@ Hunt and Snare
 Hunt: Showdown
 Hunt: Showdown (Test Server)
 Huntdown
+Hunted: The Demon's Forge
 Hunting Simulator 2
 Hurtworld
 Hush Hush - Only Your Love Can Save Them
@@ -3861,6 +3863,7 @@ Incremental Cubes
 Incremental Epic Hero
 Incremental Epic Hero 2
 Incremental Factory
+Incubus
 Incursion Red River
 Indiana Jones and the Great Circle
 Indiana Jones® and the Emperor's Tomb™
@@ -4247,6 +4250,7 @@ LOCKDOWN Protocol
 LOEK
 LOLLIPOP CHAINSAW RePOP
 LOLLIPOP!
+LONESTAR
 LOST EGG
 LOST EGG 2: Be together
 LOST EGG 3: The Final
@@ -6074,6 +6078,7 @@ Race of Life - Act 1
 Race.a.bit
 RaceRoom Racing Experience
 Racecraft
+Racine
 Racing Classics: Drag Race Simulator
 Rack and Slay
 Rad Rodgers
@@ -7885,6 +7890,7 @@ The Last Stand Legacy Collection
 The Last Stand: Aftermath
 The Last Stand: Aftermath Demo
 The Last of Us™ Part I
+The Last of Us™ Part II Remastered
 The Last of Waifus
 The Legend of Bum-Bo
 The Legend of Heroes: Trails in the Sky
@@ -7938,6 +7944,7 @@ The Pale Beyond
 The Park
 The Past Within
 The Past Within Demo
+The Pathless
 The Pedestrian
 The Pedestrian Demo
 The PenguinGame 2 -Lies of Penguin-
