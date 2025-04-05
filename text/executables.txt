@@ -1012,6 +1012,7 @@ boxes/boxes lost fragments.exe
 boxing school/boxingschool.exe
 boxvr/boxvr.exe
 boyfriend dungeon/boyfrienddungeon.exe
+braid anniversary edition/braid64_d3d11_final.exe
 braid.exe
 brain show/brain show.exe
 brainbread2/bb2.exe
@@ -9435,6 +9436,7 @@ win64/soulstice.exe
 win64/spacefish.exe
 win64/spacegaragesteam-win64-shipping.exe
 win64/spacemyths-win64-shipping.exe
+win64/spanky-win64-shipping.exe
 win64/sparkingzero-win64-shipping.exe
 win64/spectreclient-win64-shipping.exe
 win64/spectreclient_be.exe
@@ -9466,6 +9468,7 @@ win64/storewars-win64-shipping.exe
 win64/stormgame-win64-shipping.exe
 win64/stormgate-win64-shipping.exe
 win64/stormstrikerclient-win64-shipping.exe
+win64/storrorparkourpro-win64-shipping.exe
 win64/storybook-win64-shipping.exe
 win64/strangecreatures-win64-shipping.exe
 win64/stranger-win64-shipping.exe
