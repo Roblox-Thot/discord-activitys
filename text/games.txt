@@ -2352,6 +2352,7 @@ Echocalypse: The Scarlet Covenant
 Echoed World
 Echoes of the Plum Grove
 Eco
+Ecosystem
 Ecosystem Demo
 Eden Crafters
 Eden Rising
@@ -2531,6 +2532,7 @@ Expeditions: Viking
 Explore Fushimi Inari
 Extremely Powerful Capybaras
 Extremely Powerful Capybaras: Training Grounds
+Ezbench
 F*CK STALIN
 F.E.A.R.
 F.E.A.R. 2: Project Origin
@@ -2987,6 +2989,7 @@ Fury Unleashed
 Fuse
 Futa Fix Dick Dine and Dash
 Futanari di Funghi
+Future Fragments
 Future Wars
 GAROU: MARK OF THE WOLVES
 GET OUT!
@@ -3355,6 +3358,7 @@ HITMAN 3
 HITMAN™ 2
 HIVESWAP: ACT 1
 HIVESWAP: ACT 2
+HOLE
 HOME
 HOT WHEELS UNLEASHED™
 HROT
@@ -5836,6 +5840,7 @@ Police Stories: The Academy
 Poly Bridge
 Poly Bridge 2
 Poly Bridge 3
+PolyZ
 Polyball
 Polygoneer
 Pompacı Simülasyonu
@@ -6556,6 +6561,7 @@ SUPERVIVE
 SURV1V3
 SWAT 3: Tactical Game of the Year Edition
 SWAT 4
+SWAT Commander: Prologue
 SWINE HD Remaster
 SWORD ART ONLINE Alicization Lycoris
 SWORN
@@ -9091,6 +9097,7 @@ Yet Another Zombie Survivors
 Yet Another Zombie Survivors Demo
 Yi Xian: The Cultivation Card Game
 Ylands
+Ymir
 Yog-Sothoth's Yard
 Yogurt!
 Yoku's Island Express

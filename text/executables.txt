@@ -2345,6 +2345,7 @@ echoed world/echoedworld.exe
 echoes of the plum grove/echoes of the plum grove.exe
 eco.exe
 ecosystem demo/ecosystem.exe
+ecosystem/ecosystem.exe
 ed6_win.exe
 ed6_win2.exe
 ed6_win2_dx9.exe
@@ -2975,6 +2976,7 @@ fury unleashed/furyunleashed.exe
 fuse.exe
 futa fix dick dine and dash/game.exe
 futanari di funghi/futanaridifunghi.exe
+future fragments/future_fragments.exe
 future soldier dx11.exe
 future soldier.exe
 futurewars.exe
@@ -8949,6 +8951,7 @@ win64/hll-win64-shipping.exe
 win64/hlvr.exe
 win64/hms_00-win64-shipping.exe
 win64/hogwartslegacy.exe
+win64/hole-win64-shipping.exe
 win64/homesweethome2-win64-shipping.exe
 win64/homeworld3.exe
 win64/hood.exe
@@ -9044,6 +9047,7 @@ win64/lemnisgate-win64-shipping.exe
 win64/lemoncake-win64-shipping.exe
 win64/letitflow-win64-shipping.exe
 win64/level1.exe
+win64/level3-win64-shipping.exe
 win64/libertycity.exe
 win64/lift-win64-shipping.exe
 win64/lightbearers.exe
@@ -9242,6 +9246,7 @@ win64/playtime_multiplayer-win64-shipping.exe
 win64/pnztower-win64-shipping.exe
 win64/police-win64-shipping.exe
 win64/policeshootout-win64-shipping.exe
+win64/poly_survival-win64-shipping.exe
 win64/polygon-win64-shipping.exe
 win64/poolnationfx.exe
 win64/poppy_playtime-win64-shipping.exe
@@ -9503,6 +9508,7 @@ win64/survivalhorror-win64-shipping.exe
 win64/surviveall-win64-shipping.exe
 win64/sw3.exe
 win64/sw64-win64-shipping.exe
+win64/swatcommander-win64-shipping.exe
 win64/swayzegame.exe
 win64/sycamore-win64-shipping.exe
 win64/synced.exe
@@ -10002,6 +10008,7 @@ ygopro.app
 ygopro_vs.exe
 yixianpai/yixianpai.exe
 ylands.exe
+ymir/ymir.exe
 ynab 4/ynab 4.exe
 yog-sothoth's yard/yog-sothoth's yard.exe
 yogurt!!/yogurt!.exe
