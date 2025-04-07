@@ -239,6 +239,7 @@ aimtastic.exe
 aion.bin
 aion.bin
 air brawl/air brawl.exe
+airborne empire/airborneempire.exe
 airborne kingdom/airbornekingdom.exe
 aircraft carrier survival prolouge/aircraftcarriersurvival.exe
 airline manager 4/airline manager 4.exe
@@ -1713,6 +1714,7 @@ dangerous waters/steamrun.exe
 dankagupl/dankagupl.exe
 daorigins.exe
 daorigins.exe
+dark deity 2/darkdeity2.exe
 dark deity/darkdeity.exe
 dark devotion/darkdevotion.exe
 dark elf/game.exe
@@ -4322,6 +4324,7 @@ lonely mountains downhill - demo/lmd_demo_win_x64.exe
 lonestar/lonestar.exe
 long live santa.exe
 longlivethequeen.exe
+look outside/game.exe
 looking for cats in a badly drawn forest/looking for cats in a badly drawn forest.exe
 looking up i see only a ceiling/luisoac.exe
 loop hero demo/loophero_demo.exe
@@ -6783,6 +6786,7 @@ spazgame.exe
 species alre/species.exe
 specopstheline.exe
 spectral scream/spectralscream.exe
+speed stars/speed stars.exe
 speedrun/speed run.exe
 speedrunners.exe
 speedway challenge 2024/sc24.exe
@@ -9012,6 +9016,7 @@ win64/jujutsu kaisen cc.exe
 win64/jump_force-win64-shipping.exe
 win64/justanothernightshift-win64-shipping.exe
 win64/justup-win64-shipping.exe
+win64/justwartrains-win64-shipping.exe
 win64/kabounce-win64-shipping.exe
 win64/kaf_village-win64-shipping.exe
 win64/kageroh-win64-shipping.exe
