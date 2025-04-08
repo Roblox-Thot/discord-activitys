@@ -2874,6 +2874,7 @@ forhonor.exe
 forkdrift/forkdrift.exe
 formula bwoah/formula bwoah.exe
 formula evolution 2024/engine evolution.exe
+forsaken frontiers/forsaken frontiers.exe
 forspoken demo/forspokendemo.exe
 forspoken/forspoken.exe
 fort triumph/fort triumph.exe
@@ -4786,6 +4787,7 @@ mobiusff.exe
 mod manager/mod manager.exe
 model builder/model builder.exe
 modern combat 5/mc5.exe
+modern pink elf rpg/nw.exe
 moderncombatversus.exe
 modlands.exe
 moe ninja girls/moeninjagirls.exe
@@ -8366,6 +8368,7 @@ we were here together/we were here together.exe
 we were here too.exe
 we were here.exe
 weapon of choice/wocgame.exe
+wearefootball2024/waf2024.exe
 webbed/webbed.exe
 webfishing/webfishing.exe
 wedding witch/wedding witch.exe
@@ -9612,6 +9615,7 @@ win64/trailout-win64-shipping.exe
 win64/train-win64-shipping.exe
 win64/trainset-win64-test.exe
 win64/trainsimworld.exe
+win64/tramsimnext-win64-shipping.exe
 win64/tramsimulator-win64-shipping.exe
 win64/tramsimvienna-win64-shipping.exe
 win64/trashpatrol-win64-shipping.exe

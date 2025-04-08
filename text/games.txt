@@ -1356,6 +1356,7 @@ City Car Driving
 City Game Studio
 City Lights Love Bites Season 0 [Pilot Season]
 City Of Brass
+City Transport Simulator: Tram
 City idle
 City of Broken Dreamers: Book One
 City of Gangsters
@@ -2896,6 +2897,7 @@ Forklift Racer
 Formata
 Formula Bwoah
 Formula Evolution 2024
+Forsaken Frontiers
 Forsaken Remastered
 Forspoken
 Forspoken Demo
@@ -4920,6 +4922,7 @@ Mod and Play
 Model Builder
 Modern Combat 5
 Modern Combat Versus
+Modern Pink Elf RPG
 Modlands 0.512a version 0.512a
 Moe Era
 Moe! Ninja Girls
@@ -8734,6 +8737,7 @@ WARSAW
 WASTED
 WAVESHAPER
 WE ARE FOOTBALL
+WE ARE FOOTBALL 2024
 WEBFISHING
 WGT Golf
 WHAT THE CAR?
