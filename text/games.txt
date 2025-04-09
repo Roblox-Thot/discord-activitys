@@ -3606,6 +3606,7 @@ Higurashi When They Cry Hou - Ch.1 Onikakushi
 Higurashi When They Cry Hou - Ch.2 Watanagashi
 Higurashi When They Cry Hou - Ch.3 Tatarigoroshi
 Higurashi When They Cry Hou - Ch.4 Himatsubushi
+Higurashi When They Cry Hou - Ch.5 Meakashi
 Himno
 Hired Ops
 Hitler Waifu
@@ -5280,6 +5281,7 @@ Nitroplus Blasterz: Heroines Infinite Duel
 No Fair Play
 No Heroes Here
 No Man's Sky
+No Mercy
 No More Heroes
 No More Money
 No More Room in Hell
@@ -8618,6 +8620,7 @@ VERGE:Lost chapter
 VHS
 VIVE Console for SteamVR
 VLADiK BRUTAL
+VOIN
 VPet
 VR Benchmark Kanojo
 VR Dungeon Knight
@@ -9446,6 +9449,7 @@ yahtzee girl
 메탈슬러그: 각성
 베리드 스타즈
 산나비
+삼국지13
 삼국지14
 삼국지8  REMAKE
 썸썸 편의점
