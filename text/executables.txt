@@ -9287,6 +9287,7 @@ win64/projectnimble.exe
 win64/projectnowhere-win64-shipping.exe
 win64/projectr3-win64-shipping.exe
 win64/projectracing-win64-shipping.exe
+win64/projectt-win64-shipping.exe
 win64/projectunknown-win64-shipping.exe
 win64/projectwingman-win64-shipping.exe
 win64/projectworker-win64-shipping.exe
@@ -9449,6 +9450,7 @@ win64/sonder-win64-shipping.exe
 win64/songofhorror-win64-shipping.exe
 win64/songofnunu-win64-shipping.exe
 win64/soulstice.exe
+win64/southofmidnight.exe
 win64/spacefish.exe
 win64/spacegaragesteam-win64-shipping.exe
 win64/spacemyths-win64-shipping.exe
