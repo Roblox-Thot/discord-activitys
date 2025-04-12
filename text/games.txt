@@ -918,6 +918,7 @@ Bloons TD Battles
 Bloons TD Battles 2
 Bloons TD5
 Blue Fire
+Blue Prince
 Blueprint Tycoon
 Blush Blush
 BoardLand
@@ -5308,6 +5309,7 @@ Nodebuster
 Noita
 Nom Nom Galaxy
 Nomad
+Nomad Idle
 Nomad Survival
 Nomads of Driftland
 Nonogram - Master's Legacy
@@ -5653,6 +5655,7 @@ ParanormalHK
 Paratopic
 Park Beyond
 Parkasaurus
+Parking Garage Rally Circuit
 Parking Tycoon: Business Simulator
 Parkitect
 Particle Fleet: Emergence
@@ -6001,6 +6004,7 @@ Purple Place - Classic Games
 Purrfect Date
 Purrgatory
 Push Battle
+Pushing it! Together - Sisyphus Co-op
 Puyo Puyo Champions - ぷよぷよ eスポーツ
 Puyo Puyo™Tetris®
 Puzzle Together
@@ -7098,6 +7102,7 @@ SpaceBourne 2
 SpaceChem
 SpaceEngine
 Spaceflight Simulator
+Spacelines From The Far Out
 Spacelines from the Far Out - Captain's Prologue
 Spacelords
 Spaceship Looter
@@ -9454,6 +9459,7 @@ yahtzee girl
 삼국지13
 삼국지14
 삼국지8  REMAKE
+세피리아
 썸썸 편의점
 오구와 비밀의 숲
 오목 가자

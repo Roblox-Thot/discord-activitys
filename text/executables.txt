@@ -955,6 +955,7 @@ bloons td battles 2/btdb2_game.exe
 bloons td battles/battles-win.exe
 bloonstd6.exe
 bloonstd6/bloonstd6.exe
+blue prince/blue prince.exe
 blueprint tycoon/blueprinttycoon.exe
 blushblush/blushblush.exe
 bmx streets/bmx streets.exe
@@ -5167,6 +5168,7 @@ nocaseunsolved/nocaseunsolved.exe
 nodebuster/nodebuster.exe
 noheroeshere/nhh_build.exe
 noita/noita.exe
+nomad idle/nomadidle.exe
 nomad survival/nomad survival.exe
 nomad.exe
 nomnomgalaxy/nomnomgalaxy.exe
@@ -5470,6 +5472,7 @@ path of exile/pathofexile.exe
 path of exile/pathofexile_x64.exe
 path of exile/pathofexile_x64steam.exe
 path of exile/pathofexilesteam.exe
+path of exile2/pathofexile_kg.exe
 pathfinder adventures/pathfinderadventures.exe
 pathfinder second adventure/wrath.exe
 pathless woods prologue/pathless woods.exe
@@ -5820,6 +5823,7 @@ purple place/purple place.exe
 purrfect date/purrfect date.exe
 purrgatory/purrgatory.exe
 push battle/pushbattle.exe
+pushing it! together sisyphus co-op/pushing it! together.exe
 puss!/puss!.exe
 puyo puyo champions/puyopuyochampions.exe
 puyopuyotetris/puyopuyotetris.exe
@@ -6422,6 +6426,7 @@ senran kagura peach beach splash/skpeachbeachsplash.exe
 senran kagura shinovi versus/skshinoviversus.exe
 sentinels of the multiverse/sentinels.exe
 sentry/sentry.exe
+sephiria/sephiria.exe
 september1999/september1999.exe
 seraph's last stand/seraph's last stand.exe
 serena/dagon64.exe
@@ -6778,6 +6783,7 @@ spaceflight simulator game/spaceflight simulator.exe
 spacegame-win64-shipping.exe
 spacehaven/spacehaven.exe
 spacehulkgame-win64-shipping.exe
+spacelines from the far out/spacelines from the far out.exe
 spacelines prologue/spacelines from the far out flight school.exe
 spacemarine.exe
 spaceplan/spaceplan.exe
@@ -8442,6 +8448,7 @@ win-unpacked/frayfight.exe
 win-unpacked/mr.mine.exe
 win-unpacked/sixtyfour.exe
 win/alpaca stacka.exe
+win/garagerally.exe
 win/kingsquest.exe
 win/leftonread.exe
 win/nebuchadnezzar.exe
