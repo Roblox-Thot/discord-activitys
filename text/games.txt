@@ -1712,6 +1712,7 @@ DEATH STRANDING
 DEATHGARDEN
 DEATHLOOP
 DEATHVERSE: LET IT DIE
+DEATHWATCHERS
 DEEEER Simulator: Your Average Everyday Deer Game
 DEEMO -Reborn-
 DEEP SPACE WAIFU
@@ -3008,6 +3009,7 @@ GOD EATER 3
 GOD EATER RESURRECTION
 GORN
 GPRO
+GRANDIA HD Remaster
 GRANDMA
 GRAV
 GRID (2019)
@@ -3936,6 +3938,7 @@ Interstellar Marines
 Interstellar Rift
 Into The Flames
 Into the Breach
+Into the Dead: Our Darkest Days
 Into the Necrovale
 Into the Radius 2
 Into the Radius VR
@@ -4537,6 +4540,7 @@ MEGA MAN X DiVE Offline
 MELTY BLOOD Actress Again Current Code
 MELTY BLOOD: TYPE LUMINA
 MEMORIA POLIS
+METAL EDEN Demo 2025
 METAL GEAR RISING: REVENGEANCE
 METAL GEAR SOLID - Master Collection Version
 METAL GEAR SOLID 3 SNAKE EATER (MASTER COLLECTION版)
@@ -4981,6 +4985,7 @@ Moonring
 Moons of Madness
 Moonstone Island
 Moose Miners
+Moral Dilemma: The Interview
 Morbid: The Seven Acolytes
 Mordheim: City of the Damned
 Morimens
@@ -5858,6 +5863,7 @@ Polyball
 Polygoneer
 Pompacı Simülasyonu
 Pony Island
+Pool Cleaning Simulator
 Pool Nation
 Pool Nation FX
 Pool Panic
@@ -6490,6 +6496,7 @@ SIMULACRA 2
 SIMULACRA: Pipe Dreams
 SINNER
 SKALD: Against the Black Priory
+SKIBIDI GYATROOMS
 SKYBOX VR Video Player
 SKYE
 SKYHILL
@@ -6593,6 +6600,7 @@ Sacred Gold
 Sacred Sword Princesses
 Safety First!
 Sagrada
+Saihate Station
 Saiko no sutoka
 Saint Seiya: Soldiers' Soul
 Saints Row 2
@@ -7337,6 +7345,7 @@ Stronghold HD
 Stronghold Kingdoms
 Stronghold Legends
 Stronghold: Definitive Edition
+Struckd - 3D Game Creator
 Struggling
 Stubbs the Zombie in Rebel Without a Pulse
 Stuck In Time
@@ -8939,6 +8948,7 @@ Who's Lila?
 Who's Your Daddy
 Widget Inc.
 Wild Animal Racing
+Wild Assault
 Wild Bastards
 Wild Dive
 Wild Life Demo
