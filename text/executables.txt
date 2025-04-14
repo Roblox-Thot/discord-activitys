@@ -127,6 +127,7 @@ aaero/aaero.exe
 aagame.exe
 abalyte/abalyte.exe
 abandon ship/abandonship.exe
+abi-dos/abi-dos.exe
 above snakes prologue/above snakes.exe
 absconding zatwor/absconding zatwor.exe
 absolute drift/absolutedrift.exe
@@ -3951,6 +3952,7 @@ joe 'n jo/joenjo.exe
 joggernauts/joggernauts.exe
 john wick hex/john wick hex.exe
 jojo's bizarre adventure all-star battle r demo version/asbr.exe
+jojo's bizarre adventure all-star battle r/asbr.exe
 joker show - horror escape/joker show.exe
 joshua.exe
 jotun.exe
@@ -9291,6 +9293,7 @@ win64/proa34-win64-shipping.exe
 win64/project-win64-shipping.exe
 win64/project.exe
 win64/project8.exe
+win64/project_f-win64-shipping.exe
 win64/project_flames-win64-shipping.exe
 win64/project_k-win64-shipping.exe
 win64/projectagartha-win64-shipping.exe

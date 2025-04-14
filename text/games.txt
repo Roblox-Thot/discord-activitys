@@ -118,6 +118,7 @@ A Way Out
 A Webbing Journey Demo
 A.R.D. Alien Removal Division
 A.W.O.L.
+ABI-DOS
 ABZU
 ACE COMBAT™ 7: SKIES UNKNOWN
 ACE COMBAT™ ASSAULT HORIZON Enhanced Edition
@@ -2395,6 +2396,7 @@ Emily Wants to Play Too
 Emily is Away
 Emily is Away <3
 Emily is Away Too
+Emissary Zero
 Empire of Sin
 Empire of the Ants
 Empires
@@ -4011,6 +4013,7 @@ Jigoku Kisetsukan: Sense of the Seasons
 Jigsaw Puzzle Dreams
 Jigsaw Puzzles Infinite
 Jivana
+JoJo's Bizarre Adventure: All-Star Battle R
 JoJo's Bizarre Adventure: All-Star Battle R Demo version
 Job Simulator
 Joe 'n Jo
