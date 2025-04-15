@@ -179,6 +179,7 @@ adom/adom.exe
 adventneon demo/adventneon.exe
 adventure climb vr/acvr.exe
 adventure escape mysteries/aem.exe
+adventure time pirates of the enchiridion/adventure time pirates of the enchiridion.exe
 adventure-capitalist.exe
 adventure-communist.exe
 aegis defenders/aegisdefenders.exe
@@ -10101,6 +10102,7 @@ zero grounds/zero grounds.exe
 zero hour/zero hour.exe
 zero idle/zeroidle.exe
 zero sievert/zero sievert.exe
+zet zillions/zet zillions.exe
 zetria/zetria.exe
 zetria_demo/zetria.exe
 zeus + poseidon/zeus.exe
