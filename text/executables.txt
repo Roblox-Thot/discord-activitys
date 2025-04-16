@@ -451,6 +451,7 @@ ascension.exe
 ascensiongame.exe
 aseprite.exe
 asgard's fall origins/asgardsfallorigins.exe
+asgard's fall/asgardsfall.exe
 ash of gods redemption/terminus.exe
 ashen-win64-shipping.exe
 ashesescalation_dx11.exe
@@ -475,6 +476,7 @@ assettocorsa/acshowroom.exe
 assettocorsa/content manager.exe
 assettocorsa/jsgme.exe
 astebreed.exe
+asterix & obelix xxl 1/oxxl1game.exe
 asterix xxl 2/oxxl2game.exe
 astlibra/astlibra.exe
 astra knights of veda/astra.exe
@@ -3592,6 +3594,7 @@ hollow cocoon/hollow cocoon.exe
 hollow survivors prologue/hollow survivors.exe
 hollow_knight.exe
 hollowbody/hollowbody.exe
+hollywood animal/holly.exe
 holo x break/holo x break.exe
 holocure/holocure.exe
 holodrive.exe
@@ -7071,6 +7074,7 @@ substance painter 2020/substance painter.exe
 subsurface circular/subsurface circular.exe
 subterrain/subterrain.exe
 subterranauts/subterranauts.exe
+subterror/subterror.exe
 suchart creative space/suchart.exe
 suchart/suchart.exe
 sucker for love date to die for/datetodieforpb.exe
@@ -9250,6 +9254,7 @@ win64/parkbeyond-win64-shipping.exe
 win64/partisans-win64-shipping.exe
 win64/pathless-win64-shipping.exe
 win64/pathoftheabyss-win64-shipping.exe
+win64/patiti-win64-shipping.exe
 win64/payday3client-win64-shipping.exe
 win64/peasantswar18-win64-shipping.exe
 win64/peekaboo-win64-shipping.exe
@@ -9385,6 +9390,7 @@ win64/ronin-win64-shipping.exe
 win64/rooftopsandalleys-win64-shipping.exe
 win64/rpgame-win64-shipping.exe
 win64/rr-win64-shipping.exe
+win64/rsdragonwilds-win64-shipping.exe
 win64/rsg-win64-shipping.exe
 win64/rtstest-win64-shipping.exe
 win64/runnerproject-win64-shipping.exe
@@ -9397,6 +9403,7 @@ win64/sandland-win64-shipping.exe
 win64/sanka-win64-shipping.exe
 win64/sao utils.exe
 win64/saofd.exe
+win64/sapphire_safari-win64-shipping.exe
 win64/sas-win64-shipping.exe
 win64/sauna-win64-shipping.exe
 win64/sb2-win64-shipping.exe
@@ -9490,6 +9497,7 @@ win64/sps-win64-shipping.exe
 win64/spyro-win64-shipping.exe
 win64/sqcclient-win64-shipping.exe
 win64/sqcgame.exe
+win64/squirrelgame-win64-shipping.exe
 win64/squirrelgun-win64-shipping.exe
 win64/stalker2-win64-shipping.exe
 win64/standbox-win64-shipping.exe
