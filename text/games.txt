@@ -550,6 +550,7 @@ Avalon Lords: Dawn Rises
 Avatar: Frontiers of Pandora
 Aven Colony
 Aviary Attorney
+Aviassembly
 Aviators
 Avorion
 Avowed
@@ -2347,6 +2348,7 @@ EXAPUNKS
 EXOPRIMAL Open Beta Test
 EZ2ON REBOOT : R
 Earn to Die 2
+Earth 2150 Trilogy
 Earth 2160
 Earth Defense Force: Insect Armageddon
 EarthKart
@@ -2492,6 +2494,7 @@ Eternal Quest
 Eternal Return
 Eternal Return: Black Survival Demo
 Eternal Senia
+Eternal Strands
 Eternights
 Eternights Demo
 Eternium
@@ -2779,6 +2782,7 @@ Final DOOM
 Final Exam
 Final Factory
 Final Fantasy III
+Find 100 Ducks and Blast Them!
 Find Yourself
 Finding Frankie
 Finding Paradise
@@ -3997,6 +4001,7 @@ JBMod
 JDM: Rise of the Scorpion
 JOY OF PROGRAMMING - Software Engineering Simulator
 JUMP FORCE
+JUMP KING QUEST
 Jackpot Poker by PokerStars
 Jade Empire: Special Edition
 Jaded
@@ -6676,7 +6681,6 @@ Scavengers
 Scene Investigators
 Scene Investigators Demo
 Schedule I
-Schedule I: Free Sample
 Scheming Through The Zombie Apocalypse: The Beginning
 Scholar's Mate - First Move
 School Labyrinth
@@ -8922,6 +8926,7 @@ Weedcraft Inc
 Weird Hat Fight
 Weird West
 Welcome To The Backrooms
+Welcome to Dustown
 Welcome to Free Will
 Welcome to Kowloon
 Welcome to ParadiZe
@@ -9074,6 +9079,7 @@ Worms W.M.D
 Worms World Party Remastered
 Worn Thin
 Worshippers of Cthulhu
+Wrap House Simulator: Prologue
 Wrecked
 Wreckfest
 Wreckfest 2

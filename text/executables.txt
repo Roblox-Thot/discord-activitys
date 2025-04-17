@@ -535,6 +535,7 @@ avalonlords.app
 avalonlords.exe
 avgame-win64-shipping.exe
 aviary attorney/nw.exe
+aviassembly/aviassembly.exe
 avicii - invector/avicii invector.exe
 avp3.exe
 avp_dx11.exe
@@ -2338,6 +2339,7 @@ ea sports fc 25/fc25.exe
 ea sports fc 25/fc25_trial.exe
 eagle/eagle.exe
 earn to die 2/earntodie_2.exe
+earth 2150 eftbp/setup.exe
 earth 2160/earth2160_sse.exe
 earth defense force 5/edf5.exe
 earth defense force 6/edf6.exe
@@ -2771,6 +2773,7 @@ final/game.exe
 finalfactory/finalfactory.exe
 finalfantasyxvi/ffxvi.exe
 finalfantasyxvi_demo/ffxvi_demo.exe
+find 100 ducks and blast them!/find 100 ducks and blast them!.exe
 find all 4 magic/find all 4 magic.exe
 find all/find all.exe
 finding paradise/finding paradise.exe
@@ -3967,6 +3970,7 @@ journeys in middle-earth/jime.exe
 joyspring/joyspring.exe
 judgment/judgment.exe
 juice galaxy/juice galaxy.exe
+jump king quest/jkq.exe
 jump king/jumpking.exe
 junkyard truck/junkyardtruck.exe
 jupiter hell/jh.exe
@@ -8832,6 +8836,7 @@ win64/escapefromschool-win64-shipping.exe
 win64/escapememoirs1-win64-shipping.exe
 win64/escapememoirsms-win64-shipping.exe
 win64/escapememoirsqss-win64-shipping.exe
+win64/eternalstrandssteam-win64-shipping.exe
 win64/etherealestate.exe
 win64/evogamesteam-win64-shipping.exe
 win64/evowave-win64-shipping.exe
@@ -9729,6 +9734,7 @@ win64/wayofthehunter-win64-shipping.exe
 win64/wdgame-win64-shipping.exe
 win64/weaponized-win64-shipping.exe
 win64/weirdwest-win64-shipping.exe
+win64/welcometodustown-win64-shipping.exe
 win64/wewentback-win64-shipping.exe
 win64/whatneverwas-win64-shipping.exe
 win64/whatthefoggame.exe
@@ -9743,6 +9749,7 @@ win64/wizards-win64-shipping.exe
 win64/wol2-win64-shipping.exe
 win64/wonderlands.exe
 win64/worldofgoo.exe
+win64/wraphousesimulator-win64-shipping.exe
 win64/wrc.exe
 win64/wrenchgame-win64-shipping.exe
 win64/wrfrontiers-win64-shipping.exe
