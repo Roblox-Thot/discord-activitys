@@ -271,6 +271,7 @@ Aircar
 Aircraft Carrier Survival: Prolouge
 Airline Manager 4
 Airport CEO
+Airport X-Ray Simulator
 AirportSim
 AirportSim Demo
 Airscape: The Fall of Gravity
@@ -519,6 +520,7 @@ Atlantica Global
 Atlas Fallen
 Atlas Reactor
 Atma
+AtmaSphere
 Atom Fishing II
 Atom Zombie Smasher
 Atomfall
@@ -2319,6 +2321,7 @@ EARTH DEFENSE FORCE 4.1  The Shadow of New Despair
 EARTH DEFENSE FORCE 5
 EARTH DEFENSE FORCE 6
 EARTH DEFENSE FORCE: IRON RAIN
+EARTHLOCK
 ECHO
 EDGE
 EGG
@@ -4574,6 +4577,7 @@ MICROVOLTS: Recharged
 MILF's Plaza
 MILFs of Sunville
 MILFs of Sunville - Season 2
+MINDHACK
 MINDNIGHT
 MINERVA: Metastasis
 MIR4
@@ -5225,6 +5229,7 @@ Need for Speed™ Rivals
 Need for Speed™ Unbound
 Negligee
 Nehrim: At Fate's Edge
+Neighbors: Suburban Warfare
 Neighbours From Hell Compilation
 Neighbours back From Hell
 Nekojishi
@@ -7633,6 +7638,7 @@ TaleSpire
 TaleSpire - Guest Edition
 Talented
 Tales And Tactics
+Tales Beyond The Tomb - Pineville Night Stalker
 Tales Runner
 Tales from Candlekeep: Tomb of Annihilation
 Tales from the Borderlands
@@ -7696,6 +7702,7 @@ Teleglitch: Die More Edition
 Tell Me Why
 Telling Lies
 Tempest
+Tempest Rising
 Tempo
 Temtem
 Temtem: Swarm
@@ -9136,6 +9143,7 @@ Yakuza Rogue: Yokohama massage parlor chapter
 Yakuza: Like a Dragon
 Yandere School
 Yarimono
+Yasuke Simulator
 Yellow Taxi Goes Vroom
 Yes, Master!
 Yes, Your Grace
