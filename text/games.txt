@@ -120,6 +120,7 @@ A.R.D. Alien Removal Division
 A.W.O.L.
 ABI-DOS
 ABZU
+AC Sailing
 ACE COMBAT™ 7: SKIES UNKNOWN
 ACE COMBAT™ ASSAULT HORIZON Enhanced Edition
 ACTION SANDBOX
@@ -1341,6 +1342,7 @@ Choo-Choo Charles
 Choo-Choose
 Chop Goblins
 Chris Sawyer's Locomotion
+Christmas Massacre
 Chroma Squad
 Chronicle: RuneScape Legends
 Chronicon
@@ -2851,6 +2853,7 @@ Florence
 Florensia
 Flotsam
 FlowScape
+FlowState
 Flower
 Flower girl 2
 Fluffy Horde
@@ -5257,6 +5260,7 @@ Nevergrind Online
 Neverwinter
 Neverwinter Nights: Enhanced Edition
 New Cycle
+New Day
 New Gundam Breaker
 New Tales from the Borderlands
 New World
@@ -7097,6 +7101,7 @@ SoulWorker
 Soulash 2
 Souldiers
 Soulmask
+Soulslinger: Envoy of Death
 Soulstice
 Soulstone Survivors
 Soulstone Survivors: Prologue

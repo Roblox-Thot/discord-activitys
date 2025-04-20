@@ -1318,6 +1318,7 @@ choice of life middle ages 2/choice of life - middle ages 2.exe
 choo-choose/choo-choose.exe
 chop goblins/chop goblins.exe
 choushougi/choushougi.exe
+christmas massacre/christmas massacre.exe
 chromasquad/chromasquad.exe
 chronicle.exe
 chronicon.exe
@@ -2833,6 +2834,7 @@ flower girl 2/flower girl 2.exe
 flower girl/flower girl.exe
 flower/flower.exe
 flowscape/flowscape.exe
+flowstate/game.exe
 fluffy horde/fluffyhorde.exe
 fluid engine pc live wallpaper demo/fluidenginedemo.exe
 fluid/pce2.exe
@@ -5110,6 +5112,7 @@ nevergrind online/nevergrind-online.exe
 neverwinter.exe
 neverwinter/live/gameclient.exe
 new cycle/new cycle.exe
+new day/new day.exe
 new epic scuffed bhop simulator 2023 (pog champ)/bhop.exe
 new scuffed bhop simulation 2026 goty edition/bhop2.exe
 new world/newworldlauncher.exe
@@ -8524,6 +8527,7 @@ win64/abbeycore_win32_steam.exe
 win64/abioticfactor-win64-shipping.exe
 win64/abzugame-win64-shipping.exe
 win64/ac2-win64-shipping.exe
+win64/ac40_simulator-win64-shipping.exe
 win64/acleaninghorror-win64-shipping.exe
 win64/ado-win64-shipping.exe
 win64/advancedgame-win64-shipping.exe
@@ -9489,6 +9493,7 @@ win64/solarlandclient-win64-shipping.exe
 win64/sonder-win64-shipping.exe
 win64/songofhorror-win64-shipping.exe
 win64/songofnunu-win64-shipping.exe
+win64/soulslinger-win64-shipping.exe
 win64/soulstice.exe
 win64/southofmidnight.exe
 win64/spacefish.exe
