@@ -2427,6 +2427,7 @@ Endless World Idle RPG
 Endless Zone
 Endling - Extinction is Forever
 Endoparasitic
+Endoparasitic 2
 Endzone - A World Apart
 Endzone 2
 Enemy Front
@@ -2873,6 +2874,7 @@ Food Delivery Simulator
 Food Fighter Clicker Games
 Football Club Management 2023
 Football Coach: College Dynasty
+Football Life Simulator
 Football Manager 2014
 Football Manager 2015
 Football Manager 2016
@@ -4491,6 +4493,7 @@ Lost Planet: Extreme Condition
 Lost Records: Bloom & Rage
 Lost Ruins
 Lost Saga North America
+Lost Skies
 Lost in Play
 Lost in Vivo
 LostWinds

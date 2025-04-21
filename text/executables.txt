@@ -2436,6 +2436,7 @@ endlesslegend.exe
 endlessspace2.exe
 endlessworld/endlessworld.exe
 endoparasitic/endoparasitic.exe
+endoparasitic2/endoparasitic2.exe
 endzone - a world apart/endzone.exe
 endzone 2/endzone2.exe
 enemyonboard/enemy-on-board.exe
@@ -2850,6 +2851,7 @@ food delivery simulator/fooddeliverysimulator.exe
 food fighter clicker games/food fighter.exe
 football club management 2023/fcm23.exe
 football coach college dynasty/footballcoach.exe
+football life simulator/football life simulator.exe
 football manager 2014/fm.exe
 football manager 2015/fm.exe
 football manager 2016/fm.exe
@@ -8455,6 +8457,7 @@ whosyourdaddy.exe
 widgetinc/widgetinc.exe
 wild animal racing/wild animal racing.exe
 wild bastards/wildbastards.exe
+wild skies/lostskies.exe
 wild terra 2/wild-terra-2.exe
 wild terra online/wild-terra.exe
 wild west saga/wildwest.exe
