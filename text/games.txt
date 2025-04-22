@@ -389,6 +389,7 @@ Anonymous Hacker Simulator: Prologue
 Another Brick in The Mall
 Another Crab's Treasure
 Another Farm Roguelike
+Another Try 2
 Anthem™
 Antichamber
 Antihero
@@ -1439,6 +1440,7 @@ Coin Flipper
 Coin Pusher Casino
 Cold Fear
 Cold Waters
+Colin McRae Rally
 College Bound
 College Kings
 College Kings 2 - Episode 1
@@ -3790,6 +3792,7 @@ I Was a Teenage Exocolonist
 I am Bread
 I am Setsuna
 I commissioned some bees 0
+I got a cat maid！
 I hate this game
 I'm on Observation Duty
 I'm on Observation Duty 2: Timothy's Revenge
@@ -3981,6 +3984,7 @@ Iron League
 Iron Lung
 Iron Marines
 Iron Order 1919
+Iron Rebellion
 Iron Sky Invasion
 Iron Snout
 IronWolf VR

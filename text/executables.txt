@@ -1445,6 +1445,7 @@ cojbibgame_x86.exe
 cojgunslinger.exe
 cold fear/coldfear_retail.exe
 cold waters/coldwaters.exe
+colin mcrae rally/cmr.exe
 college bound/collegebound.exe
 college kings 2/collegekings2.exe
 college kings/collegekings.exe
@@ -3715,6 +3716,7 @@ i am your president prologue/i am your president prologue.exe
 i expect you to die 2/ieytd2.exe
 i expect you to die 3/i expect you to die 3.exe
 i expect you to die/ieytd.exe
+i got a cat maid/i got a cat maid.exe
 i hate this game/i hate this game.exe
 i just want to be single!! demo/ijwtbs_demo.exe
 i wani hug that gator!/wanigame.exe
@@ -3895,6 +3897,7 @@ iron league/ironleague.exe
 iron lung/iron lung.exe
 iron marines/ironmarines.exe
 iron order 1919/iron order.exe
+iron rebellion beta/iron rebellion.exe
 iron sky invasion/isi_dx11.exe
 ironbrigade/ironbrigade.exe
 ironsight_wpg/ironsight.exe
@@ -8553,6 +8556,7 @@ win64/angledshooter-win64-shipping.exe
 win64/anightinberlin-win64-shipping.exe
 win64/animaliasurvival-win64-shipping.exe
 win64/anno1800.exe
+win64/anothertry-win64-shipping.exe
 win64/aperion-win64-shipping.exe
 win64/apk-win64-shipping.exe
 win64/apocclient-win64-shipping.exe
