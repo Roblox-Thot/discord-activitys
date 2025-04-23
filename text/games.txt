@@ -285,6 +285,7 @@ Alba: A Wildlife Adventure
 Albion Online
 Ale & Tale Tavern
 Ale & Tale Tavern: First Pints
+Ale Abbey
 Alice: Madness Returns
 Alicemare
 Alicia
@@ -1339,6 +1340,7 @@ Chocolate Factory: Prologue
 Choice Chamber
 Choice of Life: Middle Ages
 Choice of Life: Middle Ages 2
+Chonkers
 Choo-Choo Charles
 Choo-Choose
 Chop Goblins
@@ -2455,6 +2457,7 @@ Epic Roller Coasters
 Epido
 Epistory - Typing Chronicles
 Eraser
+Erenshor
 EroPhone
 Eroico
 Eronoctosis: Put Yourself Together
@@ -4004,6 +4007,7 @@ Istrolid
 It Lurks Below
 It Steals
 It Takes Two
+It gets so lonely here
 It's Only Money
 IvAc
 I’m not a Monster
@@ -4429,6 +4433,7 @@ Line of Sight
 Lineage
 Lineage II
 Lines X Free
+Lingo
 Liquidators
 Little Big Workshop
 Little Goody Two Shoes
@@ -4537,6 +4542,7 @@ Lumberjack's Dynasty
 Lumencraft
 Lumini
 Lunacid
+Lunacid - Tears of the Moon
 Lunar's Chosen
 Lunch Lady
 Lurk in the Dark : Prologue
@@ -7739,6 +7745,7 @@ Tetris
 Tetris for Two
 Tetris® Effect: Connected
 Tetris® Ultimate
+Texas Hold'em Poker: Pokerist
 Thank Goodness You're Here!
 Tharsis
 That's not my Neighbor
@@ -7840,6 +7847,7 @@ The Dwarves
 The Elder Scrolls II: Daggerfall
 The Elder Scrolls III: Morrowind
 The Elder Scrolls IV: Oblivion
+The Elder Scrolls IV: Oblivion Remastered
 The Elder Scrolls Online: Tamriel Unlimited
 The Elder Scrolls V: Skyrim
 The Elder Scrolls V: Skyrim Special Edition
@@ -8243,6 +8251,7 @@ Tiny Town VR
 Tiny and Big: Grandpa's Leftovers
 Tinyfolks
 Tinykin
+Titan Chaser
 Titan Quest
 Titan Quest Anniversary Edition
 Titan Souls

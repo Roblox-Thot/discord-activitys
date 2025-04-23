@@ -264,6 +264,7 @@ alba/alba.exe
 albion-online.app
 albion-online.exe
 ale & tale tavern first pints/ale and tale tavern.exe
+ale abbey/aleabbey.exe
 ale and tale tavern/ale and tale tavern.exe
 alicemare/game.exe
 alicia/alicia.exe
@@ -1315,6 +1316,7 @@ chkn/chkn.exe
 chocolate factory simulator prologue/chocolate factory simulator prologue.exe
 choice chamber/choicechamber.exe
 choice of life middle ages 2/choice of life - middle ages 2.exe
+chonkers/chonkers.exe
 choo-choose/choo-choose.exe
 chop goblins/chop goblins.exe
 choushougi/choushougi.exe
@@ -2464,6 +2466,7 @@ epsxe.exe
 eqclient.exe
 eqgame.exe
 eraser/eraser.exe
+erenshor/erenshor.exe
 eroico/eroico.exe
 eronoctosis/eronoctosis.exe
 erophone/erophone.exe
@@ -3921,6 +3924,7 @@ isles of limbo/islesoflimbo.exe
 iso racer/streetracer.exe
 isonzo/isonzo.exe
 istrolid/istrolid.exe
+it gets so lonely here/itgetssolonelyhere.exe
 it lurks below/ilb.exe
 it steals/it steals.exe
 ivac.exe
@@ -4307,6 +4311,7 @@ line war/linewarclient.exe
 lineage.exe
 lineageii.exe
 lines x free/lines x free.exe
+lingo/lingo.exe
 lisa.exe
 little goody two shoes/lgts.exe
 little inferno beta/little inferno.exe
@@ -4427,6 +4432,7 @@ luma island/luma island.exe
 lumberjacks dynasty/lumberjacksdynasty.exe
 lumencraft/lumencraft.exe
 lumini_win64.exe
+lunacid - tears of the moon/game.exe
 lunacid/lunacid.exe
 lunar's chosen/lunarschosen.exe
 lurk in the dark prologue/lurk in the dark prologue.exe
@@ -7405,6 +7411,7 @@ tetris_for_two/game.exe
 tetrisultimate.exe
 tevi/tevi.exe
 tew2.exe
+texas hold'em poker pokerist/texas poker.exe
 textorcist/textorcist.exe
 tfil.exe
 tgaac/tgaac.exe
@@ -7839,6 +7846,7 @@ tinyfolks/tinyfolks.exe
 tinykin/tinykin.exe
 tinysurvivors/tinysurvivors.exe
 tis100.exe
+titan chaser/titan chaser.exe
 titan quest/titan quest.exe
 titan souls/titan.exe
 titanfall.exe
@@ -9221,6 +9229,7 @@ win64/oar-win64-shipping.exe
 win64/oasis-win64-shipping.exe
 win64/obama-win64-shipping.exe
 win64/obf-win64-shipping.exe
+win64/oblivionremastered-win64-shipping.exe
 win64/obscure-win64-shipping.exe
 win64/observersystemredux.exe
 win64/octarina-win64-shipping.exe
