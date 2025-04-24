@@ -1486,6 +1486,7 @@ Command and Conquer: Red Alert 3
 Command and Conquer: Red Alert 3 - Uprising
 Command: Modern Air / Naval Operations WOTY
 Commander Keen Complete Pack
+Commander Quest
 Commandos 2 - HD Remaster
 Commandos 2: Men of Courage
 Commandos 3: Destination Berlin
@@ -3303,6 +3304,7 @@ Griftlands
 Grim Clicker
 Grim Dawn
 Grim Fandango Remastered
+Grim Legends: The Forsaken Bride
 Grim Nights
 Grimhook
 Grimlord
@@ -7001,6 +7003,7 @@ Slay Together
 Slay the Princess
 Slay the Princess Demo
 Slay the Spire
+Slayaway Camp
 Sledders
 Sleeping Dogs: Definitive Edition
 Sleeping Dogs™
@@ -8764,6 +8767,7 @@ Virtua Fighter 5 R.E.V.O.
 Virtual Aquarium - Overlay Desktop Game
 Virtual Cottage
 Virtual Desktop
+Virtual Interactive Fireplace
 Virtual Rides 3
 Virtual Studio
 Virtual Villagers Origins 2
