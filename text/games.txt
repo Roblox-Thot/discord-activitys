@@ -1380,6 +1380,7 @@ Citystate II
 Citywars Tower Defense
 CivCity: Rome
 CivIdle
+Clair Obscur: Expedition 33
 Claire's Quest
 Clanfolk
 Clanfolk Demo
@@ -1708,6 +1709,7 @@ DARK SOULS III
 DARK SOULS™ II
 DARK SOULS™: Prepare To Die Edition
 DARK SOULS™: REMASTERED
+DARKEST DAYS
 DARQ
 DATE A LIVE: Rio Reincarnation
 DAVE THE DIVER
@@ -2820,6 +2822,7 @@ First Date : Late To Date
 Fish Game
 Fish Idle 2: Underwater Mystery
 Fish Tycoon 2: Virtual Aquarium
+Fishards
 Fisher Online
 Fishing Adventure
 Fishing Planet
@@ -5348,6 +5351,7 @@ Noble Fates
 Nobody - The Turnaround Demo
 Nobody Saves the World
 Nobody Wants to Die
+Nocturnals
 Nodebuster
 Noita
 Nom Nom Galaxy

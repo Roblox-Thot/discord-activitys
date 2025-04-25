@@ -2802,6 +2802,7 @@ fireworks mania/fireworks mania.exe
 first cut samurai duel/firstcutv2.exe
 first date/first date.exe
 fish tycoon 2 virtual aquarium/virtual fish tycoon.exe
+fishards/fishards.exe
 fishidle 2/game.exe
 fishing adventure/fishing adventure.exe
 fishingplanet.exe
@@ -5199,6 +5200,7 @@ nobody saves the world/nstw_x64.exe
 nobody/nobody.exe
 nobu16/nobu16.exe
 nocaseunsolved/nocaseunsolved.exe
+nocturnals/nocturnals.exe
 nodebuster/nodebuster.exe
 noheroeshere/nhh_build.exe
 noita/noita.exe
@@ -9346,6 +9348,7 @@ win64/projectboundarysteam-win64-shipping.exe
 win64/projectcoop-win64-shipping.exe
 win64/projectcoral-win64-shipping.exe
 win64/projectnimble.exe
+win64/projectnow-win64-shipping.exe
 win64/projectnowhere-win64-shipping.exe
 win64/projectr3-win64-shipping.exe
 win64/projectracing-win64-shipping.exe
@@ -9435,6 +9438,7 @@ win64/sackboy-win64-shipping.exe
 win64/saloonsimulator-win64-shipping.exe
 win64/samuraishodown-win64-shipping.exe
 win64/sanandreas.exe
+win64/sandfall-win64-shipping.exe
 win64/sandland-win64-shipping.exe
 win64/sanka-win64-shipping.exe
 win64/sao utils.exe
