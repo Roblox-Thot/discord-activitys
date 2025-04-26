@@ -404,6 +404,7 @@ arc apellago/arc apellago.exe
 arcade/arcadeparadise.exe
 arcadius/arcadius.exe
 arcana heart 3 love max/ah3lm.exe
+arcanaheart3lmss/aalib.exe
 arcania.exe
 arcanists/arcanists.exe
 archeage.exe
@@ -8251,6 +8252,7 @@ verlet swing/verlet swing.exe
 vermintide.exe
 versus game/versus.exe
 vertigo 2/vertigo2.exe
+vertigo remastered/vertigo.exe
 vgdd/vg2.exe
 vhs/vhs.exe
 victor vran/victorvransteam.exe
