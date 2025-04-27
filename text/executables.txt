@@ -4864,6 +4864,7 @@ monster hunter stories/mhst.exe
 monster hunter world/mhw_modmanager.exe
 monster prom 2 - monster camp/monstercamp.exe
 monster prom 3 - monster roadtrip/monsterroadtrip.exe
+monster prom 4 - monster con/monstercon.exe
 monster prom demo/monsterpromdemo.exe
 monster roadtrip demo/monsterroadtripdemo.exe
 monster sanctuary/monster sanctuary.exe
@@ -5196,6 +5197,7 @@ no strangers/nostrangers.exe
 no time to explain remastered/notimetoexplain.exe
 no time to relax/no time to relax.exe
 no umbrellas allowed/no umbrellas allowed.exe
+no-skin/no-skin_ver1.exe
 noble fates/noble fates.exe
 nobody saves the world/nstw_x64.exe
 nobody/nobody.exe
@@ -7281,6 +7283,7 @@ system/unrealtournament.exe
 system/ut2004.exe
 system/witcher.exe
 system/xiii.exe
+system/zanthp.exe
 szoneonline.exe
 t-engine.exe
 t6mp.exe
@@ -8280,6 +8283,7 @@ virtual aquarium - overlay desktop game/virtual aquarium.exe
 virtual cottage/virtual cottage_windows.exe
 virtual desktop/virtual desktop.exe
 virtual interactive fireplace/virtual interactive fireplace.exe
+virtual rc pro/game_s.exe
 virtual rides 3/vr3.exe
 virtual romance club/viroplayspace.exe
 virtual villagers origins 2/virtual villagers origins 2.exe
@@ -9131,6 +9135,7 @@ win64/liquidatortest-win64-shipping.exe
 win64/lis-win64-shipping.exe
 win64/lis2-win64-shipping.exe
 win64/little nightmares ii.exe
+win64/loa-win64-shipping.exe
 win64/loc-win64-shipping.exe
 win64/lockdownprotocol-win64-shipping.exe
 win64/lof2-win64-shipping.exe
@@ -9356,6 +9361,7 @@ win64/projectr3-win64-shipping.exe
 win64/projectracing-win64-shipping.exe
 win64/projectt-win64-shipping.exe
 win64/projectunknown-win64-shipping.exe
+win64/projectvenue-win64-shipping.exe
 win64/projectwingman-win64-shipping.exe
 win64/projectworker-win64-shipping.exe
 win64/projectx-win64-shipping.exe

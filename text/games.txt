@@ -5006,6 +5006,7 @@ Monster Prom 2: Monster Camp
 Monster Prom 2: Monster Camp Demo
 Monster Prom 3: Monster Roadtrip
 Monster Prom 3: Monster Roadtrip Demo
+Monster Prom 4: Monster Con
 Monster Prom Demo
 Monster Sanctuary
 Monster Slayers
@@ -5207,6 +5208,7 @@ NINJA GAIDEN 2 Black
 NITE Team 4
 NKO DICE
 NO STRANGERS
+NO-SKIN
 NOKBAK
 NORCO
 NOT A HERO
@@ -5302,6 +5304,7 @@ Nidhogg 2
 NieR Replicant ver.1.22474487139...
 NieR:Automata
 Niffelheim
+Night Club Simulator: Prolouge
 Night Delivery | 例外配達
 Night Loops
 Night in Riverager
@@ -8535,6 +8538,7 @@ Turtle Champs
 Tvö
 Twelve Minutes
 Twilight Struggle
+Twin Mirror
 Twin Sector
 Two Point Campus
 Two Point Hospital
@@ -8697,6 +8701,7 @@ VR Flush
 VR HOT
 VR Kanojo
 VR Secretary
+VRC PRO
 VRChat
 VRMark
 VRoid Clothing Maker
@@ -9225,6 +9230,7 @@ ZONE OF THE ENDERS THE 2nd RUNNER : MARS / ANUBIS ZONE OF THE ENDERS : MARS
 ZSNESw
 ZULA Latino America
 Zaccaria Pinball
+ZanZarah: The Hidden Portal
 Zandronum
 Zardy's Maze
 Zauberhandwerk Magicraft
