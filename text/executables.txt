@@ -2669,6 +2669,7 @@ farm frenzy collection/farmfrenzymegapack.exe
 farm manager 2018/farm manager 2018.exe
 farm manager 2021 prologue/farmmanager21.exe
 farm manager 2021/farmmanager21.exe
+farm manager world/farmmanagerworld.exe
 farm together 2/farmtogether2.exe
 farmd/farmd.exe
 farmer against potatoes idle/farmer against potatoes idle.exe
@@ -4317,6 +4318,7 @@ lineage.exe
 lineageii.exe
 lines x free/lines x free.exe
 lingo/lingo.exe
+liquor store simulator prologue/liquor store simulator.exe
 lisa.exe
 little goody two shoes/lgts.exe
 little inferno beta/little inferno.exe
@@ -4410,6 +4412,7 @@ love stories/love stories.exe
 love sucks night one/lovesucks.exe
 love vibe aria/love vibe aria.exe
 love wish 2/love wish 2.exe
+love x debut/love-x-debut.exe
 love, money, rock-n-roll demo/love, money, rock'n'roll.exe
 love, money, rock-n-roll/love, money, rock'n'roll.exe
 lovebeat/gameguard.des
@@ -6488,6 +6491,7 @@ seum.exe
 sevgilim/sevgilim.exe
 sex & blood vampires/sex & blood vampires.exe
 sex coach hot yoga - prologue/sex coach hot yoga - prologue.exe
+sex desert mad lust/sex desert mad lust.exe
 sex of thrones/sex of thrones.exe
 sex simulator/sex simulator.exe
 sexbot/sexbot.exe
@@ -9917,6 +9921,7 @@ windscape.exe
 windward/windward.exe
 wingdk/avowed-wingdk-shipping.exe
 wingdk/palworld-wingdk-shipping.exe
+wingdk/sandfall-wingdk-shipping.exe
 wings of vi.exe
 wingspan/wingspan.exe
 winkeltje/shopkeeper.exe
