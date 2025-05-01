@@ -5994,6 +5994,7 @@ Pro Cycling Manager 2021
 Pro Cycling Manager 2022
 Pro Cycling Manager 2023
 Pro Cycling Manager 2024
+Pro Evolution Soccer 2016 myClub
 Pro Evolution Soccer 2017
 Pro Soccer Online
 Prodeus
@@ -7508,6 +7509,7 @@ SuperPower 2
 SuperSmash
 SuperTux
 Superbrothers: Sword & Sworcery EP
+Supercar Collection Simulator
 SupercupOnline
 Superfighters Deluxe
 Superflight
