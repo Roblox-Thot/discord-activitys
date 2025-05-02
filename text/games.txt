@@ -323,6 +323,7 @@ Amazing Cultivation Simulator
 Amazing Frog ? V3
 Amazing Frog?
 Amber Isle
+Ambidextro
 Ambulance Life: A Paramedic Simulator
 Amenti
 America's Army: Proving Grounds
@@ -1222,6 +1223,7 @@ Carrier Deck
 Carry The Glass
 Cars
 Cars 2
+Cars Mater-National
 Cart Racer
 Cart To The End
 Cartel Tycoon Demo
@@ -7347,7 +7349,7 @@ Sticky Business Demo
 Still Wakes the Deep
 Stolen Realm
 Stonehearth
-Stoneshard: Prologue
+Stoneshard
 Stonies
 Storage Hunter
 Storage Hustle
@@ -9407,6 +9409,7 @@ yahtzee girl
 Повестка
 Пушистая Мисс
 РУСЫ ПРОТИВ ЯЩЕРОВ
+РУСЫ ПРОТИВ ЯЩЕРОВ 2
 Русы не против Ящерок
 Симулятор Квадробера
 Симулятор Побега от Военкомата

@@ -295,6 +295,7 @@ amazing frog v3/amazingfrog.exe
 amazing frog/amazingfrog.exe
 amazingcultivationsimulator/amazing cultivation simulator.exe
 amber isle/amber isle.exe
+ambidextro/ambidextro.exe
 amd64/redeclipse.exe
 american conquest - fight back/dmcr.exe
 american conquest/dmcr.exe
@@ -1204,6 +1205,7 @@ carrier deck/autorun.exe
 carrier.exe
 carrion/carrion.exe
 cars 2/game-cars.exe
+cars mater-national/cars_mater.exe
 cars/cars.exe
 cart racer/cart_racer.exe
 cart to the end/cart to the end.exe
@@ -4341,6 +4343,7 @@ livelock/livelock.exe
 lively chair simulator/lively chair simulator.exe
 living with sister monochrome fantasy/game.exe
 lizard survivors/lizard survivors.exe
+lizards must die 2/lizards_must_die_2.exe
 lizards must die/lizardsmustdie.exe
 lizardwomen/lizardwomen.exe
 llblaze.exe
