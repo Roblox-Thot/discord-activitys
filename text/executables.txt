@@ -1516,6 +1516,7 @@ condemned criminal origins/condemned.exe
 confessmylove/game.exe
 conflict of nations/conflict of nations.exe
 conflict_desert_storm/desertstorm.exe
+conquest dark/conquest dark.exe
 conquestofelysium5/coe5.exe
 conquests/civ3conquests.exe
 conscript/conscript.exe
@@ -7641,6 +7642,7 @@ the magician's research/the magicians research.exe
 the messenger/themessenger.exe
 the mortuary assistant/the mortuary assistant demo.exe
 the mortuary assistant/the mortuary assistant.exe
+the mr. rabbit magic show/themrrabbitmagicshow.exe
 the murder of sonic the hedgehog/the murder of sonic the hedgehog.exe
 the night of the rabbit/rabbit.exe
 the noexistencen of you and me/thenoexistencenofyouandme.exe
@@ -9084,6 +9086,7 @@ win64/inheat-win64-shipping.exe
 win64/intotheradius-win64-shipping.exe
 win64/intotheradius2-win64-shipping.exe
 win64/inworldrt-win64-shipping.exe
+win64/inzoi-win64-shipping.exe
 win64/ironconflict.exe
 win64/irondesert-win64-shipping.exe
 win64/islandmainproject-win64-shipping.exe
