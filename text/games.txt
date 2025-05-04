@@ -6039,6 +6039,7 @@ Project64
 Project: Name
 ProjectRIK
 Projekt: Passion
+Projekt: Passion - Season 2
 Prominence Poker
 Prop Hunt
 Prop and Seek
@@ -9430,6 +9431,7 @@ yahtzee girl
 アンリアルライフ
 イナズマイレブン 英雄たちのヴィクトリーロード 全世界ベータテスト体験版 “世界に刻め！イナズママーク”
 ウツロマユ - Hollow Cocoon -
+ウツロマユ - Hollow Cocoon - 体験版
 ウーマンコミュニケーション
 オクトパストラベラー II
 ガンダムブレイカー4
