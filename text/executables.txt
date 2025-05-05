@@ -572,6 +572,7 @@ bad dream fever/bad dream fever.exe
 bad end theater/badendtheater.exe
 bad parenting 1 mr. red face/bad parenting 1.exe
 badland/badland.exe
+badlandscrew/badlandscrew.exe
 badnorth.exe
 baf/datacachepreprocessor.exe
 bakery magnate/bakery magnate.exe
@@ -690,6 +691,7 @@ befunnynow/befunnynow.exe
 beginnersguide.exe
 behindtheframe_pc_steam/behind the frame.exe
 beholder 2/beholder2.exe
+beholder conductor/beholderconductor.exe
 beholder.exe
 being a dik/beingadik.exe
 bejblitz.exe
@@ -1118,6 +1120,7 @@ businesstour.exe
 bustafellows/bustafellows.exe
 bustybiz/bustybiz.exe
 butcher/butcher.exe
+buttknight/buttknight.exe
 button pusher/button pusher.exe
 bz2r/battlezone2.exe
 c09fs-1.0/c09fs.exe
@@ -1340,6 +1343,7 @@ cities in motion 2/cim2.exe
 cities in motion.exe
 cities skylines ii/cities2.exe
 cities.exe
+citizen sleeper 2 starward vector/citizen sleeper 2.exe
 citizen sleeper/citizen sleeper.exe
 citra-qt.app
 citra-qt.exe
@@ -4293,6 +4297,7 @@ let's school/letsschool.exe
 lethal company/lethal company.exe
 lethalleague.app
 lethalleague.exe
+letsplayoinkgames/letsplayoinkgames.exe
 letthemcome.exe
 levelhead/levelhead.exe
 lewd gym/game.exe
@@ -4450,6 +4455,7 @@ lumini_win64.exe
 lunacid - tears of the moon/game.exe
 lunacid/lunacid.exe
 lunar's chosen/lunarschosen.exe
+lunistice/lunistice.exe
 lurk in the dark prologue/lurk in the dark prologue.exe
 lurkbait twitch fishing/lurkbait twitch fishing.exe
 lust academy season 3/lust-academy.exe
@@ -5653,6 +5659,7 @@ pixel_dungeons.exe
 pixelworlds.exe
 pixieditor/pixieditor.exe
 pizza connection 3/pizza connection 3.exe
+pizza frenzy/popcapgame1.exe
 pizza possum/pizzapossum.exe
 pizza tower/pizzatower.exe
 pla_toon-win64-shipping.exe
@@ -8225,6 +8232,7 @@ urbo dream one/urbo dream one.exe
 urp/beholder3.exe
 urtuk the desolation/urtuk.exe
 use your words/uyw.exe
+used cars simulator/used cars simulator.exe
 ut3.exe
 uurnog.exe
 uvolley/uvolley.exe
@@ -8835,6 +8843,7 @@ win64/doe-win64-shipping.exe
 win64/doge_fight-win64-shipping.exe
 win64/doggonehungry-win64-shipping.exe
 win64/dollimpostor-win64-shipping.exe
+win64/dollsnest-win64-shipping.exe
 win64/dont_scream-win64-shipping.exe
 win64/dontlookaway-win64-shipping.exe
 win64/doubleclutch-win64-shipping.exe

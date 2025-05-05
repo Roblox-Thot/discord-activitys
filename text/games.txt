@@ -642,6 +642,7 @@ Bad North
 Bad Parenting 1: Mr. Red Face
 Bad Rats
 Badlanders
+Badlands Crew
 Bakery Magnate: Beginning
 Bakery Simulator
 Bakso Simulator
@@ -771,6 +772,7 @@ Behind the Frame: The Finest Scenery
 Beholder
 Beholder 2
 Beholder 3
+Beholder: Conductor
 Being a DIK
 Bejeweled 3
 Bejeweled Blitz
@@ -1084,6 +1086,7 @@ Bus Simulator 21
 Bus World
 Business Tour - Online Multiplayer Board Game
 BustyBiz
+ButtKnight
 Bō: Path of the Teal Lotus
 C9
 CABAL Online
@@ -1366,6 +1369,7 @@ Cities in Motion 2
 Cities: Skylines
 Cities: Skylines II
 Citizen Sleeper
+Citizen Sleeper 2: Starward Vector
 Citra
 City Bus Manager
 City Car Driving
@@ -2127,6 +2131,7 @@ Doki Doki Literature Club Plus!
 Doll Impostor
 Dollar
 Dollmare
+Dolls Nest
 Dolphin
 Dome Keeper
 Domina
@@ -4562,6 +4567,7 @@ Lunacid
 Lunacid - Tears of the Moon
 Lunar's Chosen
 Lunch Lady
+Lunistice
 Lurk in the Dark : Prologue
 LurkBait Twitch Fishing
 Lust Academy
@@ -5855,6 +5861,7 @@ PixelJunk™ Monsters Ultimate
 PixelJunk™ Shooter Ultimate
 PixiEditor
 Pizza Connection 3
+Pizza Frenzy
 Pizza Possum
 Pizza Tower
 Placid Plastic Duck Simulator
@@ -8694,6 +8701,7 @@ Urbek City Builder
 Urbek City Builder: Prologue
 Urtuk: The Desolation
 Use Your Words
+Used Cars Simulator
 Uurnog Uurnlimited
 V Rising
 V-Rally 4
@@ -9466,6 +9474,7 @@ yahtzee girl
 ライザのアトリエ２ ～失われた伝承と秘密の妖精～
 ライザのアトリエ３ ～終わりの錬金術士と秘密の鍵～
 レスレリアーナのアトリエ ～忘れられた錬金術と極夜の解放者～
+レッツプレイ！オインクゲームズ
 ロックマンエグゼ アドバンスドコレクション Vol.1
 ロックマンエグゼ アドバンスドコレクション Vol.2
 ロマンシング サガ2 リベンジオブザセブン
