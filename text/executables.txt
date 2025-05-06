@@ -37,6 +37,7 @@
 2012/vcredist_x86.exe
 2013/vcredist_x64.exe
 2017/vc_redist.x86.exe
+2024 mosaic retrospective/retrospective 2024.exe
 20minutetilldawn/minutestilldawn.exe
 20xx.exe
 270  two seventy us election/270.exe
@@ -6072,6 +6073,7 @@ reliccoh2.exe
 relicdow3.exe
 relichunterszero.exe
 remastered/tie95.exe
+remastered/xwing95.exe
 rememberinghowwemet.exe
 reminiscence/reminiscence.exe
 remnant records/remnant records.exe
@@ -8358,6 +8360,7 @@ vup/vup.exe
 vvvvvv.exe
 vvvvvv/vvvvvv.exe
 wa.exe
+waifu closet/waifu closet.exe
 waifufighterfist/boxingwaifu.exe
 wait! life is beautiful! prologue/wait! life is beautiful!.exe
 wakaru/wakaru.exe
@@ -9156,6 +9159,7 @@ win64/lemoncake-win64-shipping.exe
 win64/letitflow-win64-shipping.exe
 win64/level1.exe
 win64/level3-win64-shipping.exe
+win64/levelunknown-win64-shipping.exe
 win64/libertycity.exe
 win64/lift-win64-shipping.exe
 win64/lightbearers.exe
