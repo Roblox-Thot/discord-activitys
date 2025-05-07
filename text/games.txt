@@ -464,8 +464,7 @@ Arpiel Online
 Arruyo
 Art of War: Red Tides
 Artifact
-Artifact Seeker
-Artifact Seeker:Prologue
+Artifact Seeker: Resurrection
 Artisan TD
 Artist Idle
 Arx Fatalis
@@ -1130,6 +1129,7 @@ CUCKOLD SIMULATOR: Life as a Beta Male Cuck
 CULTIC
 CULTIC Demo
 CUSTOM ORDER MAID 3D2 It's a Night Magic
+CYGNI: All Guns Blazing
 Cabal 2
 Cadria Item Shop
 Caesar 3
@@ -1207,7 +1207,8 @@ Car Trader Simulator - Welcome to the Business
 CarX Drift Racing Online
 CarX Street
 Caravan Sandwitch
-Carcassonne: The Official Board Game
+Caravanners: Co-op Open World Camping
+Carcassonne - Tiles & Tactics
 Card Hunter
 Card Shark
 Card Shark Demo
@@ -1217,6 +1218,7 @@ Cardfight!! Vanguard Dear Days
 Cardfight!! Vanguard Dear Days Demo
 Cards & Tankards
 Cards and Castles 2
+Cards!
 Cargo Commander
 Carmageddon: Max Damage
 Carnal Instinct
@@ -1913,6 +1915,8 @@ Death's Door
 Death's Gambit
 DeathComing
 DeathSprint 66
+Deathless
+Deathless. The Hero Quest
 Deathsmiles
 Deathtrap
 Debugger 3.16: Hack'n'Run
@@ -3795,6 +3799,7 @@ Hyperdimension Neptunia Re;Birth3 V Generation
 Hyperdimension Neptunia U: Action Unleashed
 Hypnospace Outlaw
 I Am Alive
+I Am Cat
 I Am Fish
 I Am Future Demo
 I Am Future: Cozy Apocalypse Survival
@@ -4108,6 +4113,7 @@ Just Shapes & Beats
 Just Survive
 Just War Trains
 Justice League VR: The Complete Experience
+KALPA: Cosmic Symphony
 KARAKARA
 KARDS - The WWII Card Game
 KEO
@@ -4683,6 +4689,7 @@ Madden NFL 24
 Made in Abyss: Binary Star Falling into Darkness
 Madrun
 Maelstrom
+Maestro
 Mafia
 Mafia II
 Mafia II: Definitive Edition
@@ -5312,6 +5319,7 @@ Nexomon
 Nexomon: Extinction
 Next Car Game: Wreckfest
 Next Day: Survival
+Nextbots In The Backrooms
 Nexus: The Jupiter Incident
 Ni no Kuni™ II: Revenant Kingdom
 NiGHTS into Dreams...
@@ -5421,6 +5429,7 @@ Nunholy
 Nyan Cat: Lost In Space
 O2Jam
 OBEY
+OBSCURA
 OCTOPATH TRAVELER
 OH MY GOD, LOOK AT THIS KNIGHT
 OHV
@@ -6327,6 +6336,7 @@ Retimed
 Retro City Rampage™ DX
 Retro Commander
 Retro Gadgets
+Retro Rally
 RetroArch
 RetroMaze
 Retrocycles
@@ -7433,6 +7443,7 @@ Sub Command
 Sub Rosa
 Submachine: Legacy
 Submerged
+Submerged: Hidden Depths
 Subnautica
 Subnautica: Below Zero
 Subsiege
@@ -7985,6 +7996,7 @@ The Kite
 The LEGO® Movie - Videogame
 The LEGO® Movie 2 - Videogame
 The Lab
+The Labyrinth
 The Lamplighters League
 The Lancaster Leak - Crisis At Call Center
 The Lancaster Leak - Entity Exam
@@ -8053,6 +8065,7 @@ The Odyssey of the Mammoth
 The Oracle Land
 The Oregon Trail
 The Orville - Interactive Fan Experience
+The Other Side
 The Ouroboros King Demo
 The Outer Worlds
 The Outer Worlds: Spacer's Choice Edition
@@ -8876,6 +8889,8 @@ WWE 2K22
 WWE 2K23
 WWE 2K24
 WWE 2K25
+Waifu
+Waifu - Kawaii Idler & Clicker
 Waifu Closet
 Waifu Fighter
 Waifu Secret

@@ -441,6 +441,7 @@ arms trade tycoon tanks/arms trade tycoon tanks.exe
 army men rts/amrts.exe
 armyofruin/armyofruin.exe
 arpiel.exe
+artifact seeker resurrection/artifactseeker.exe
 artifact seekerlegend of aurorium/artifactseeker.exe
 artifact seekerprologue/artifactseeker.exe
 artisan td/artisan td.exe
@@ -1202,6 +1203,7 @@ cardhunter.exe
 cardlife/cardlife.exe
 cards & tankards/cards & tankards.exe
 cards and castles 2/c2.exe
+cards!/cards!.exe
 cargocommander.app
 cargocommander.exe
 carrier command 2/carrier_command.exe
@@ -1888,6 +1890,8 @@ death trash/deathtrash.exe
 death's door/deathsdoor.exe
 death's gambit/deathsgambit397.exe
 deathcoming/xdeath.exe
+deathless tales of old rus/deathless.exe
+deathless/deathless.exe
 deathloop/deathloop.exe
 deathroadtocanada/prog.exe
 deathsmiles/default.exe
@@ -3120,7 +3124,8 @@ get to the orange door demo/get to the orange door.exe
 get to the orange door/get to the orange door.exe
 get to work/get to work.exe
 getout/historicallyaccuratejam.exe
-gettingoverit.exe
+getting over it/gettingoverit.app
+getting over it/gettingoverit.exe
 getwrecked.exe
 gg2/ggsx.exe
 gg_achbuild/grapple gear.exe
@@ -3729,6 +3734,7 @@ hyperfight/hyperfight.exe
 hyperlightdrifter.exe
 hyperuniverse.exe
 hypnospace outlaw/hypnos.exe
+i am cat/iamcat.exe
 i am future demo/i am future demo.exe
 i am future/i am future.exe
 i am your beast/i am your beast.exe
@@ -4035,6 +4041,7 @@ kaijuprincess/kaijuprincess.exe
 kaion tale mmorpg/kaiontale.exe
 kakele online - mmorpg/kakele.exe
 kallax/kallax.exe
+kalpa cosmicsymphony/kalpa cosmicsymphony.exe
 kami/spiritfarer.exe
 kamitsubaki_city_ensemble/kamitsubaki city ensemble.exe
 kandidatos kart/kandidatos kart.exe
@@ -5288,6 +5295,7 @@ oblivion/oblivion.exe
 oblivion/obse_loader.exe
 oblivity/oblivity.exe
 obradinn/obradinn.exe
+obscura/obscura.exe
 obscure/obscure.exe
 obscure2/obscure2.exe
 observation/observation.exe
@@ -6111,6 +6119,7 @@ retail/hitman3.exe
 retail/injustice2.exe
 retail/mk11_dx12.exe
 retro commander/app_main.exe
+retro rally demo/retrorally.exe
 retroarch.exe
 retrocityrampage.exe
 retrocycles/retrocycles.exe
@@ -7615,6 +7624,7 @@ the king of fighters '97 global match/kof97.exe
 the king of fighters xiv/kofxiv.exe
 the king of fighters'98 ultimate match/kingoffighters98um_x64.exe
 the kite/the kite.exe
+the labyrinth/the labyrinth.exe
 the lancaster leak - crisis at call center/crisis at call center.exe
 the lancaster leak - entity exam/the lancaster leak - entity exam.exe
 the last campfire demo/the last campfire.exe
@@ -8342,6 +8352,7 @@ vox machinae/vm.exe
 voxeltycoon/voxeltycoon.exe
 vpet/vpet-simulator.windows.exe
 vr hot/vr hot.exe
+vr secretary/vrsecretary.exe
 vr4/vrally4.exe
 vr_dungeonknight content/vr dungeonknight.exe
 vr_kanojo/vr_kanojo.exe
@@ -8361,6 +8372,7 @@ vvvvvv.exe
 vvvvvv/vvvvvv.exe
 wa.exe
 waifu closet/waifu closet.exe
+waifu/waifu.exe
 waifufighterfist/boxingwaifu.exe
 wait! life is beautiful! prologue/wait! life is beautiful!.exe
 wakaru/wakaru.exe
@@ -8733,6 +8745,7 @@ win64/bussimulator18-win64-shipping.exe
 win64/bussimulator21-win64-shipping.exe
 win64/cabinfactory-win64-shipping.exe
 win64/callofkarenunreal-win64-shipping.exe
+win64/campervansimulator-win64-shipping.exe
 win64/cantescapethebackrooms-win64-shipping.exe
 win64/captured-win64-shipping.exe
 win64/capybaraspa-win64-shipping.exe
@@ -8798,6 +8811,7 @@ win64/ctg-win64-shipping.exe
 win64/cuisine_royale.exe
 win64/cv2_baseclient_shipping.exe
 win64/cyberdimensionneptunia4goddessesonline-win64-shipping.exe
+win64/cygni-win64-shipping.exe
 win64/dakar18game-win64-shipping.exe
 win64/darkalliance-win64-shipping.exe
 win64/darkfracture-win64-shipping.exe
@@ -9184,6 +9198,7 @@ win64/lowlightcombat-win64-shipping.exe
 win64/luto-win64-shipping.exe
 win64/madeinabyss-win64-shipping.exe
 win64/maelstromv2-win64-shipping.exe
+win64/maestro-win64-shipping.exe
 win64/mailtime-win64-shipping.exe
 win64/maine-win64-shipping.exe
 win64/maneater-win64-shipping.exe
@@ -9261,6 +9276,7 @@ win64/newgreedland-win64-shipping.exe
 win64/newgundambreaker.exe
 win64/newkaragon.exe
 win64/newtales.exe
+win64/nextbotsinbackrooms.exe
 win64/nightfallclient-win64-shipping.exe
 win64/ninetofiveclient-win64-shipping.exe
 win64/ninjagaiden2black-win64-shipping.exe
@@ -9606,6 +9622,7 @@ win64/stranger-win64-shipping.exe
 win64/stray-win64-shipping.exe
 win64/straygods-win64-shipping.exe
 win64/submerged-win64-shipping.exe
+win64/submerged.exe
 win64/subverse-win64-shipping.exe
 win64/subwayaftermidnight.exe
 win64/suicidesquad_ktjl.exe
@@ -9697,6 +9714,7 @@ win64/thelegendofkarl-win64-shipping.exe
 win64/thematriarch-win64-shipping.exe
 win64/themeangreens-win64-shipping.exe
 win64/theoregontrail_win64_shipping.exe
+win64/theotherside-win64-shipping.exe
 win64/thequarry-win64-shipping.exe
 win64/theranchofrivershine-win64-shipping.exe
 win64/theredstare-win64-shipping.exe
@@ -9927,6 +9945,7 @@ windows/retimed.exe
 windows/reversecollapse.exe
 windows/tilestd.exe
 windows/travellersrest.exe
+windows/waifu.exe
 windows64/nimbatus.exe
 windows64/nimbatusdronecreator.exe
 windows64/wanderingvillage.exe
