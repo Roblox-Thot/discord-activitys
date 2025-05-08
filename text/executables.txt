@@ -134,6 +134,7 @@ absconding zatwor/absconding zatwor.exe
 absolute drift/absolutedrift.exe
 absolver-win64-shipping.exe
 abyss the forgotten past prologue/abyss the forgotten past.exe
+abyssonline/abyss.exe
 abzugame-win64-shipping.exe
 ac3lhd_32.exe
 ac3mp.exe
@@ -183,6 +184,7 @@ adventure escape mysteries/aem.exe
 adventure time pirates of the enchiridion/adventure time pirates of the enchiridion.exe
 adventure-capitalist.exe
 adventure-communist.exe
+ae/oni.exe
 aegis defenders/aegisdefenders.exe
 aeon rivals.exe
 aeons echo/aeons_echo.exe
@@ -244,6 +246,7 @@ aion.bin
 aiport x-ray simulator/airport x-ray simulator.exe
 air brawl/air brawl.exe
 airborne empire/airborneempire.exe
+airborne files/airborne.exe
 airborne kingdom/airbornekingdom.exe
 aircraft carrier survival prolouge/aircraftcarriersurvival.exe
 airline manager 4/airline manager 4.exe
@@ -312,6 +315,7 @@ among trees/among trees.exe
 among us - copy/among us.exe
 among us - kopie/among us.exe
 among us - tou/among us.exe
+among us 3d/amongus3d.exe
 among us vr/amongusvr.exe
 among us/among us.exe
 amongripples/amongripples.exe
@@ -389,6 +393,7 @@ apex/r5apex.exe
 apex/r5apex_dx12.exe
 apico demo/apico.exe
 apico/apico.exe
+aplaguetalerequiem/aplaguetalerequiem_x64.exe
 apollo justice ace attorney trilogy/gs456.exe
 apotheon arena/apotheonarena.exe
 apotheon/apotheon.exe
@@ -462,6 +467,7 @@ ash of gods redemption/terminus.exe
 ashen-win64-shipping.exe
 ashesescalation_dx11.exe
 aska/aska.exe
+asleep/asleep.exe
 asn_app_pcdx9_final.exe
 asphalt 9 legends/asphalt9_steam_x64_rtl.exe
 assassin's creed iii remastered/aciii.exe
@@ -1055,6 +1061,7 @@ brggame-steam.exe
 brick-force row/infernumlogin.exe
 brickrigs-win64-shipping.exe
 bridge constructor stunts/wmv9codec.exe
+bridge constructor the walking dead/bc_twd.exe
 bridge_constructor_medieval.exe
 bridge_constructor_portal.exe
 bridge_constructor_stunts.exe
@@ -1253,6 +1260,8 @@ catherineclassic/catherine.exe
 catlateraldamage/catlateraldamage.exe
 catquest_purribean/cat quest iii.exe
 cats and seek  kyoto/cats and seek  kyoto.exe
+cats and seek at dino park/cats and seek at dino park.exe
+cats and seek toge land/cats and seek togeland.exe
 cats and seek/cats and seek.exe
 cats hidden in christmas/cats hidden in christmas.exe
 cats hidden in italy/cats hidden in italy.exe
@@ -1970,6 +1979,7 @@ desertsofkharak32.exe
 desertsofkharak64.exe
 desktop dungeons/desktopdungeons.exe
 desktop farm/desktopfarm.exe
+desktop garage kit/desktop garage kit.exe
 desktop kanojo/desktopkanojo.exe
 desktop mate/desktopmate.exe
 desktop ricardo/desktopricardo.exe
@@ -2160,6 +2170,7 @@ doom vfr/doomvfrx64.exe
 doom3.exe
 doometernal/doometernalx64vk.exe
 doomsday last survivors/doomsday.exe
+doomsdaylastsurvivors/doomsday.exe
 doomx64.exe
 door kickers - action squad/actionsquad.exe
 doorkickers.exe
@@ -2430,6 +2441,7 @@ emergenyc/emergenyc.exe
 emily is away 3/emily3.exe
 emily is away too/emilyisawaytoo.exe
 emily is away.exe
+emojicc/emojicc.exe
 empire total war/empire.exe
 empire.exe
 empireofsin/empireofsin.exe
@@ -2679,6 +2691,7 @@ farcry4.exe
 farcry4.exe
 farcry5.exe
 farcrynewdawn.exe
+farlands/farlands.exe
 farm frenzy collection/farmfrenzymegapack.exe
 farm manager 2018/farm manager 2018.exe
 farm manager 2021 prologue/farmmanager21.exe
@@ -2816,6 +2829,7 @@ fireboy & watergirl fairy tales/fbwg.exe
 firefallclient.exe
 firestone/firestone.exe
 firewatch.exe
+firework/game.exe
 fireworks mania/fireworks mania.exe
 first cut samurai duel/firstcutv2.exe
 first date/first date.exe
@@ -3190,6 +3204,7 @@ gods will be watching/gwbw.exe
 godsbane idle/godsbane.exe
 godstrigger/godstrigger.exe
 godsworn/godsworn.exe
+gogh focus with your avatar/gogh.exe
 gogonippon/bgi.exe
 going medieval/going medieval.exe
 going under demo/going under.exe
@@ -3406,6 +3421,7 @@ handshakes/handshakes.exe
 handy harry's haunted house services/handy harry's haunted house services.exe
 handydandywindows/handydandyhandy2020.exe
 handyman legend/handyman legend.exe
+hans/hans.exe
 hanyo/hanyo.exe
 hanz puppetguns/hanz.exe
 happy room/happy room.exe
@@ -3570,6 +3586,7 @@ hidden cats the last of cats/hidden cats the last of cats.exe
 hidden deep/hdeep.exe
 hidden folks.exe
 hidden robo cats/hidden robo cats.exe
+hidden through time 2/htt2.exe
 hidden winter cats/hidden winter cats.exe
 hidden/hidden.exe
 hiddeninplainsight/hiddeninplainsight.exe
@@ -4392,6 +4409,7 @@ loop odyssey/loopodyssey.exe
 looterkings.exe
 lords & villeins/lords and villeins.exe
 lords mobile/lords mobile.exe
+lords of the fallen/lotf2.exe
 lordsofthefallen.exe
 lorelei and the laser eyes/lorelei and the laser eyes.exe
 lorn's lure/lornslure.exe
@@ -4788,6 +4806,7 @@ mini healer/minihealer.exe
 mini motorways/mini motorways.exe
 mini ninjas/ninja.exe
 mini settlers prologue/mini settlers prologue.exe
+mini settlers/mini settlers.exe
 mini thief/minithief.exe
 mini world block art/minigameapp.exe
 minigolf mania/minigolfmania.exe
@@ -5190,11 +5209,13 @@ night in the woods.exe
 night loops/night loops.exe
 night of the dead/lf.exe
 night of the full moon/night of the full moon.exe
+night run/nightrun.exe
 night-runners prologue/night-runners prologue.exe
 nightclubsimulator/nightclubsimulater.exe
 nightmare files - clap clap/nightmare files clap clap.exe
 nightmare house source/hl2.exe
 nightmare of decay/nightmareofdecay.exe
+nightrun3d2gw/nightrun.exe
 nights into dreams/nights.exe
 nimby rails/nimbyrails.exe
 nimrods/nimrods.exe
@@ -5365,6 +5386,7 @@ oneshot world machine edition/oneshotmg.exe
 oneshot.exe
 onetrollarmy/ota.exe
 oni.exe
+oni/oni.exe
 onigiri/onigiri.exe
 onimusha/game.exe
 oninaki demo/oninaki demo.exe
@@ -6040,6 +6062,7 @@ recroom/recroom.exe
 recroom_release.exe
 recycling center simulator/rcsim.exe
 recyclingcentersimulator_prologue/rcsim.exe
+red chaos - the strict order/red chaos the strict order.exe
 red crucible firestorm/red crucible.exe
 red dead redemption 2/playrdr2.exe
 red dead redemption 2/rdr2.exe
@@ -6075,6 +6098,7 @@ release/ironharvest.exe
 release/rof.exe
 release/samawa idle.exe
 release/steamwindows.exe
+releaseeos/homeworldrm.exe
 releaseexe/evilgeniusexestub-release.exe
 reliccoh.exe
 reliccoh2.exe
@@ -6286,6 +6310,7 @@ rpgmv.exe
 rpgvxace.exe
 rpgxp/rpgxp.exe
 rrre64.exe
+rsdragonwilds/epiconlineservicesinstaller.exe
 rubber bandits christmas prologue/rubberbandits.exe
 rubber bandits summer prologue/rubberbandits.exe
 rubberbandits/rubberbandits.exe
@@ -6384,6 +6409,7 @@ sanctumgame-win32-shipping.exe
 sandbox/sandbox.exe
 sands/sands.exe
 sandstorm/insurgencyeac.exe
+sandstorm_beta/insurgencyeac.exe
 sandtrix+ demo/sandtrix.exe
 santavn/santa.exe
 sao utils/sao utils.exe
@@ -6614,6 +6640,7 @@ shootinghurts/shooting hurts.exe
 shootingstars.exe
 shootyskies.exe
 shop heroes/shopheroes.exe
+shop simulator - supermarket demo/shop simulator - supermarket.exe
 shoppe keep 2 sp/shoppe keep 2.exe
 shoppe keep/shoppe keep.exe
 shoptitan/shoptitan.exe
@@ -6729,6 +6756,7 @@ sleepingdogs/hkship.exe
 slender - the arrival/slender - the arrival.exe
 slender hentai edition/slender hentai edition.exe
 slice_n_dice/sliceanddice.exe
+slider/slider.exe
 slime 3k/slime3k.exe
 slime ccg.exe
 slime rancher 2/slimerancher2.exe
@@ -6752,6 +6780,7 @@ smilemo/smilemo.exe
 smite.exe
 smiteeac.exe
 smithworks/smithworks.exe
+smt3hd/smt3hd.exe
 smushi come home/smushi come home.exe
 snail simulator/snail simulator.exe
 snake force/snake force.exe
@@ -7383,6 +7412,7 @@ tanki online5/tanki onlinet.exe
 tanki x/tankix.exe
 tankmechanicsimulator/tankmechanicsimulator.exe
 taora  beginning/taora beginning.exe
+taora/taora survival.exe
 tap ninja/tap ninja.exe
 tap tap infinity/taptapinfinity.exe
 tap wizard 2/tap wizard 2.exe
@@ -7404,6 +7434,7 @@ tavern manager simulator prologue/tavern manager simulator prologue.exe
 tavern manager simulator/tavern manager simulator.exe
 tavern master - prologue/tavern master.exe
 tavern master/tavern master.exe
+tavern talk demo/tavern talk demo.exe
 tavern talk/tavern talk.exe
 tavern tycoon/taverntycoon.exe
 tbl-win64-shipping.exe
@@ -8475,6 +8506,7 @@ wearefootball2024/waf2024.exe
 webbed/webbed.exe
 webfishing/webfishing.exe
 wedding witch/wedding witch.exe
+wee tanks/wee tanks.exe
 weed shop 2/weed shop 2.exe
 weed shop 3/weed shop 3.exe
 weedcraft/weedcraft inc.exe
@@ -8593,6 +8625,7 @@ win32_release/stronghold3.exe
 win64/aarcadia-win64-shipping.exe
 win64/abbeycore_win32_steam.exe
 win64/abioticfactor-win64-shipping.exe
+win64/abyss-win64-shipping.exe
 win64/abzugame-win64-shipping.exe
 win64/ac2-win64-shipping.exe
 win64/ac40_simulator-win64-shipping.exe
@@ -8603,6 +8636,7 @@ win64/advancedlocomotionsystemv-win64-shipping.exe
 win64/afterimage-win64-shipping.exe
 win64/agrou-win64-shipping.exe
 win64/aimbeast-win64-shipping.exe
+win64/aimx1.exe
 win64/aiproject-win64-shipping.exe
 win64/aircar-win64-shipping.exe
 win64/aitdprologue-win64-shipping.exe
@@ -8625,6 +8659,7 @@ win64/apocclient-win64-shipping.exe
 win64/april_24th-win64-shipping.exe
 win64/aquietplace-win64-shipping.exe
 win64/arcade-win64-shipping.exe
+win64/arcclient-win64-shipping.exe
 win64/archon-win64-shipping.exe
 win64/ard-win64-shipping.exe
 win64/arid-win64-shipping.exe
@@ -8769,6 +8804,7 @@ win64/chernobylgame-win64-shipping.exe
 win64/chess2-win64-shipping.exe
 win64/chexhd-win64-shipping.exe
 win64/chivalry2-win64-shipping.exe
+win64/chmvp-win64-shipping.exe
 win64/chronos-win64-shipping.exe
 win64/chushpansimulator-win64-shipping.exe
 win64/citadel-win64-shipping.exe
@@ -8881,6 +8917,7 @@ win64/driftexperiencejapan.exe
 win64/driftland-win64-shipping.exe
 win64/drivebeyondhorizons-win64-shipping.exe
 win64/drop-win64-shipping.exe
+win64/dropduchy-win64-shipping.exe
 win64/dropin.exe
 win64/drugdealersimulator-win64-shipping.exe
 win64/drugdealersimulator2-win64-shipping.exe
@@ -9069,6 +9106,7 @@ win64/hideandseek.exe
 win64/hidenprop-win64-shipping.exe
 win64/highmoon-win64-shipping.exe
 win64/hll-win64-shipping.exe
+win64/hllepicgamesstore-win64-shipping.exe
 win64/hlvr.exe
 win64/hms_00-win64-shipping.exe
 win64/hogwartslegacy.exe
@@ -9111,6 +9149,7 @@ win64/inertia-win64-shipping.exe
 win64/infliction-win64-shipping.exe
 win64/infused-win64-shipping.exe
 win64/inheat-win64-shipping.exe
+win64/insurgencyclient-win64-test.exe
 win64/intotheradius-win64-shipping.exe
 win64/intotheradius2-win64-shipping.exe
 win64/inworldrt-win64-shipping.exe
@@ -9142,6 +9181,7 @@ win64/kaf_village-win64-shipping.exe
 win64/kageroh-win64-shipping.exe
 win64/kagura_survivors-win64-shipping.exe
 win64/kani-win64-shipping.exe
+win64/kao-win64-shipping.exe
 win64/kards-win64-shipping.exe
 win64/karnagevr-win64-shipping.exe
 win64/kartdrift-win64-shipping.exe
@@ -9436,6 +9476,7 @@ win64/puzzlegame-win64-shipping.exe
 win64/pwndclient-win64-shipping.exe
 win64/quadrobersimulator.exe
 win64/qube-win64-shipping.exe
+win64/qube_remastered-win64-shipping.exe
 win64/quidditchchampions-win64-shipping.exe
 win64/raccoon.exe
 win64/racsim24-win64-shipping.exe
@@ -9454,6 +9495,7 @@ win64/rebuilder-win64-shipping.exe
 win64/recolored-win64-shipping.exe
 win64/red-win64-shipping.exe
 win64/redfall.exe
+win64/redout-win64-shipping.exe
 win64/redream.exe
 win64/redreef.exe
 win64/remnant-win64-shipping.exe
@@ -9486,6 +9528,7 @@ win64/romancing saga 2 rots demo-win64.exe
 win64/romancing saga 2 rots-win64.exe
 win64/ronin-win64-shipping.exe
 win64/rooftopsandalleys-win64-shipping.exe
+win64/rose-win64-shipping.exe
 win64/rpgame-win64-shipping.exe
 win64/rr-win64-shipping.exe
 win64/rsdragonwilds-win64-shipping.exe
@@ -9579,6 +9622,7 @@ win64/songofnunu-win64-shipping.exe
 win64/soulslinger-win64-shipping.exe
 win64/soulstice.exe
 win64/southofmidnight.exe
+win64/spacecoffeen-win64-shipping.exe
 win64/spacefish.exe
 win64/spacegaragesteam-win64-shipping.exe
 win64/spacemyths-win64-shipping.exe
@@ -9586,6 +9630,7 @@ win64/spanky-win64-shipping.exe
 win64/sparkingzero-win64-shipping.exe
 win64/spectreclient-win64-shipping.exe
 win64/spectreclient_be.exe
+win64/speeddemon-win64-shipping.exe
 win64/spidermanffh-win64-shipping.exe
 win64/spiritcity-win64-shipping.exe
 win64/spitfiregame.exe
@@ -9661,6 +9706,7 @@ win64/tabletopplayground-win64-shipping.exe
 win64/tactics-win64-shipping.exe
 win64/tactics.exe
 win64/takedowngame-win64-shipping.exe
+win64/takeme.exe
 win64/tales of arise.exe
 win64/talesandtactics-win64-shipping.exe
 win64/talos2-win64-shipping.exe
@@ -9725,6 +9771,7 @@ win64/theyarehere-win64-shipping.exe
 win64/thirdpersonbp-win64-shipping.exe
 win64/thisbedwemade-win64-shipping.exe
 win64/thps12.exe
+win64/threshold-win64-shipping.exe
 win64/thunder2305-win64-shipping.exe
 win64/titan-win64-shipping.exe
 win64/titanxx-win64-shipping.exe
@@ -9868,6 +9915,7 @@ win64/zookeepersimulator-win64-shipping.exe
 win64/zoonomaly-win64-shipping.exe
 win64_bin/wargroove64.exe
 win64_shipping_client/bannerlord.exe
+win64_shipping_client/taleworlds.mountandblade.launcher.exe
 win64_steam/gravitycircuit.exe
 win64mastermastersteampgo/kingdomcome.exe
 win_x64/huntgame.exe

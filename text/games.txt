@@ -136,6 +136,7 @@ AI War 2
 AI War: Fleet Command
 AI2U: With You 'Til The End
 AI: The Somnium Files
+AIMX
 AION Free-to-Play
 AIアートインポスター
 AK-xolotl
@@ -186,6 +187,7 @@ Above Snakes: Prologue
 Absconding Zatwor
 Absolute Drift
 Absolver
+Abyss
 Abyss The Forgotten Past: Prologue
 Academia : School Simulator
 Acceleration of SUGURI 2
@@ -267,6 +269,7 @@ Aimtastic
 Aion
 Air Brawl
 AirMech Strike
+Airborne
 Airborne Empire
 Airborne Kingdom
 Aircar
@@ -342,6 +345,7 @@ Amnesia: The Dark Descent
 Among Ripples
 Among Trees
 Among Us
+Among Us 3D
 Among Us VR
 Among the Sleep
 Among the Sleep Demo
@@ -480,6 +484,7 @@ Ashen
 Asheron's Call
 Ashes of Creation Apocalypse
 Ashes of the Singularity: Escalation
+Asleep - Ato 1
 Asphalt 9: Legends
 Assassin's Creed
 Assassin's Creed Brotherhood
@@ -1018,6 +1023,7 @@ Bridge Constructor Medieval
 Bridge Constructor Playground
 Bridge Constructor Portal
 Bridge Constructor Stunts
+Bridge Constructor: The Walking Dead
 Brief Karate Foolish
 Brigador: Up-Armored Edition
 Bright Memory
@@ -1211,7 +1217,6 @@ Caravanners: Co-op Open World Camping
 Carcassonne - Tiles & Tactics
 Card Hunter
 Card Shark
-Card Shark Demo
 CardLife
 Cardboard Town
 Cardfight!! Vanguard Dear Days
@@ -1277,6 +1282,8 @@ Cats Hidden in Paris
 Cats Organized Neatly
 Cats and Seek
 Cats and Seek : Kyoto
+Cats and Seek: Dino Park
+Cats and Seek: Toge Land
 Cattails
 Cattails: Wildwood Story
 Catto Pew Pew!
@@ -1443,6 +1450,7 @@ Cockroach Simulator
 Cockwork Industries Complete
 Codename CURE
 Codename Gordon
+Coffee Break
 Coffee Caravan
 Coffee Talk
 Coffee Talk Demo
@@ -1987,6 +1995,7 @@ Desert Stalker
 Desktop Dungeons
 Desktop Dаnce
 Desktop Farm
+Desktop Garage Kit
 Desktop Kanojo
 Desktop Mate
 Desktop+
@@ -2243,6 +2252,7 @@ Driver Booster for Steam
 Driver4VR
 Driver: Parallel Lines
 Drop Alive
+Drop Duchy
 Drop In - VR F2P
 Dropsy
 Dropzone
@@ -2431,6 +2441,7 @@ Emily is Away
 Emily is Away <3
 Emily is Away Too
 Emissary Zero
+Emoji Clicker Collector
 Empire of Sin
 Empire of the Ants
 Empires
@@ -2611,6 +2622,7 @@ FATE: The Cursed King
 FATE: The Traitor Soul
 FATE: Undiscovered Realms
 FCEUX 2.2.3
+FEAR OF FAITH
 FEMINAZI: The Triggering
 FEZ
 FIFA 15
@@ -2738,6 +2750,7 @@ Far Cry® 3
 Far Cry® 3 Blood Dragon
 FarCry 4
 Fargone
+Farlands
 Farlight 84
 Farm Frenzy Collection
 Farm Manager 2018
@@ -2833,6 +2846,7 @@ Firefall
 Firefighting Simulator - The Squad
 Firestone Idle RPG
 Firewatch
+Firework
 Fireworks Mania
 First Class Escape: The Train of Thought
 First Class Trouble
@@ -2872,6 +2886,7 @@ FlatOut: Ultimate Carnage
 Flatout 3
 Fleet Command
 Flesh Water
+FleshBound
 Flicker of Hope
 Fling to the Finish
 Fling to the Finish Demo
@@ -3637,6 +3652,7 @@ Hidden Folks
 Hidden Lands
 Hidden Robo Cats
 Hidden Through Time
+Hidden Through Time 2: Myths & Magic
 Hidden Winter Cats
 Hidden in Plain Sight
 Hide and Seek
@@ -4138,6 +4154,7 @@ Kandidatos Kart
 Kane & Lynch 2: Dog Days
 Kane & Lynch: Dead Men
 Kanjozoku Game レーサー
+Kao the Kangaroo
 Kao the Kangaroo: Round 2
 Kara no Shojo 2
 Karate Survivor
@@ -4952,6 +4969,7 @@ Mini Healer
 Mini Metro
 Mini Motorways
 Mini Ninjas
+Mini Settlers
 Mini Settlers: Prologue
 Mini Thief
 Mini World: Block Art
@@ -5336,6 +5354,7 @@ Niffelheim
 Night Club Simulator: Prolouge
 Night Delivery | 例外配達
 Night Loops
+Night Run
 Night in Riverager
 Night in the Woods
 Night of the Dead
@@ -5446,7 +5465,7 @@ ONE PIECE PIRATE WARRIORS 3
 ONE PIECE World Seeker
 ONE PIECE: PIRATE WARRIORS 4
 ONE PUNCH MAN: A HERO NOBODY KNOWS
-ONI
+ONI : Road to be the Mightiest Oni
 ONINAKI Demo
 ONLY UP : Rising
 ONRAID
@@ -5688,6 +5707,7 @@ PRO EVOLUTION SOCCER 2019 DEMO
 PROJECT QUARANTINE Demo
 PROTOTYPE 2
 PUBG LITE
+PUBG: BLINDSPOT
 PUBG: Test Server
 PULSAR: Lost Colony
 PUMPKIN PANIC
@@ -6099,6 +6119,7 @@ Pyrite Heart
 Pyroworks
 Q  REMASTERED
 Q.U.B.E.
+Q.U.B.E. 10th Anniversary
 Q.U.B.E. 2
 Q.U.B.E: Director's Cut
 Quackdzilla: Pool Cleaning Simulator
@@ -6265,6 +6286,7 @@ Record of Lodoss War-Deedlit in Wonder Labyrinth-
 Recycling Center Simulator
 Recycling Center Simulator: Prologue
 Red Alert 3 Demo
+Red Chaos - The Strict Order
 Red Crucible: Firestorm
 Red Dead Online
 Red Dead Redemption
@@ -6278,6 +6300,7 @@ Red Wings
 Redeemer
 Redfall
 Redmatch 2
+Redout: Enhanced Edition
 Refind Self: 性格診断ゲーム
 Reflex Arena
 Refunct
@@ -6476,6 +6499,7 @@ Rooftops & Alleys: The Parkour Game
 Root
 Roots of Pacha
 Ropuka's Idle Island
+Rose
 Rosenkreuzstilette
 Rotwood
 Rounds of Zombies
@@ -6916,6 +6940,7 @@ Sherwood Extreme
 Shhh!
 Shieldwall
 Shift Happens
+Shin Megami Tensei III Nocturne HD Remaster
 Shin Megami Tensei V: Vengeance
 Shiness: The Lightning Kingdom
 Shining Resonance Refrain
@@ -6934,6 +6959,7 @@ Shooting Hurts
 Shooting Stars!
 Shooty Skies
 Shop Heroes
+Shop Simulator: Supermarket
 Shop Titans
 Shoppe Keep
 Shoppe Keep 2
@@ -7055,6 +7081,7 @@ Slender Hentai Edition
 Slender: The Arrival
 Slenderman Demo
 Slice & Dice
+Slider
 Slime 3K: Rise Against Despot
 Slime CCG
 Slime Rancher
@@ -7650,6 +7677,7 @@ THE KING OF FIGHTERS XV
 THE MULLER-POWELL PRINCIPLE: Foreword
 THE NORMAL THING
 THE SHORE
+THRESHOLD
 THRONE AND LIBERTY
 TIS-100
 TMNT 2 - Battle Nexus
@@ -7697,6 +7725,7 @@ Taimanin Collection: Battle Arena
 Tainted Grail
 Tainted Grail: The Fall of Avalon
 Take Me To The Dungeon!!
+Take Me, Vitaly
 Take On Mars
 Take the Throne
 Takedown: Red Sabre
@@ -7731,6 +7760,7 @@ Tank Team
 Tanki Online
 Tanki X
 Taora : Beginning
+Taora : Survival
 Tap Ninja
 Tap Tap Infinity
 Tap Wizard 2
@@ -9009,6 +9039,7 @@ We. The Revolution
 Weapon of Choice
 Webbed
 Wedding Witch
+Wee Tanks!
 Weed Shop 2
 Weed Shop 3
 Weedcraft Inc
@@ -9370,6 +9401,7 @@ ePic Character Generator
 eWorlds
 fault - milestone one
 fin-dev
+gogh: Focus with Your Avatar
 hexceed
 how do you Do It?
 iDigging
