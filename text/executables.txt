@@ -1295,6 +1295,7 @@ changed/game.exe
 chants of sennaar/chants of sennaar.exe
 chaos combat chess/tremor.exe
 chaos on deponia/deponia2.exe
+chaos;head noah/game_steam.exe
 chaoscode_nsoc/chaoscode.exe
 chaosgate/chaosgate.exe
 chaosrebornwin64.exe
@@ -1347,6 +1348,7 @@ chronoshot/chronoshot.exe
 chuchel/chuchel.exe
 churnvector/churnvector.exe
 chusingura46+1/chusingura46+1.exe
+cinema simulator 2025/cinema simulator 2025.exe
 circle empires multiplayer/circle empires rivals.exe
 circle empires/circle empires.exe
 circle of sumo online rumble!/circle of sumo - online rumble.exe
@@ -3127,6 +3129,7 @@ genitaljousting.exe
 genome guardian/genome guardian.exe
 genshinimpact.exe
 gentlemen's club/gentlemens-club.exe
+geoguessr duels/geoguessr.exe
 geometry arena/geometry arena.exe
 geometry dash/geometrydash.exe
 geometry may. i swear it's a nice free game/nw.exe
@@ -6525,6 +6528,7 @@ senran kagura burst renewal/skburstrenewal.exe
 senran kagura estival versus/skestivalversus.exe
 senran kagura peach beach splash/skpeachbeachsplash.exe
 senran kagura shinovi versus/skshinoviversus.exe
+senrenbanka/senrenbanka.exe
 sentinels of the multiverse/sentinels.exe
 sentry/sentry.exe
 sephiria/sephiria.exe
@@ -6705,6 +6709,7 @@ siralim ultimate/siralimultimate.exe
 siren head the horror experience/sirenhead - the horror experience.exe
 siren head the siren's forest/sirean head.exe
 siren head's awakening/siren head awakening.exe
+sirocco/sirocco.exe
 sizeable_steam_windows/sizeable.exe
 skald against the black priory/skald against the black priory.exe
 skatebird/skatebird.exe
@@ -7630,6 +7635,7 @@ the house of da vinci 2/thodv2.exe
 the house of da vinci/the house of da vinci.exe
 the house of the dead remake/the house of the dead remake.exe
 the hundred line -last defense academy- demo ver/hundred_line_demo.exe
+the hundred line -last defense academy-/hundred_line.exe
 the i of the dragon/theiofthedragon.exe
 the imperial gatekeeper/game.exe
 the incredible adventures of van helsing final cut/vanhelsing_x64_win10.exe
@@ -8989,6 +8995,7 @@ win64/fg-win64-shipping.exe
 win64/fh-win64-shipping.exe
 win64/fictorum-win64-shipping.exe
 win64/fifteendays-win64-shipping.exe
+win64/fifthgrader-win64-shipping.exe
 win64/finchgame.exe
 win64/find_yourself-win64-shipping.exe
 win64/firstclassescape-win64-shipping.exe
