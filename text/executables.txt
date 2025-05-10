@@ -1353,6 +1353,7 @@ circle empires multiplayer/circle empires rivals.exe
 circle empires/circle empires.exe
 circle of sumo online rumble!/circle of sumo - online rumble.exe
 circuit superstars/circuit-superstars.exe
+citadelum/citadelum.exe
 cities in motion 2/cim2.exe
 cities in motion.exe
 cities skylines ii/cities2.exe
@@ -1575,6 +1576,7 @@ copycat/copycat.exe
 core keeper demo/corekeeper.exe
 core keeper/corekeeper.exe
 corn kidz 64/corn kidz 64.exe
+cornerpond/cornerpond.exe
 coromon/coromon.exe
 corpse party rf/corpseparty.exe
 corpse party/corpseparty.exe
@@ -4478,6 +4480,7 @@ lucky tower ultimate/lucky tower ultimate.exe
 lucy -the eternity she wished for-/lucy.exe
 ludo online/ludo-online.exe
 luma island/luma island.exe
+lumberjacked!/lumberjacked.exe
 lumberjacks dynasty/lumberjacksdynasty.exe
 lumencraft/lumencraft.exe
 lumini_win64.exe
@@ -6913,6 +6916,7 @@ speed stars/speed stars.exe
 speedrun/speed run.exe
 speedrunners.exe
 speedway challenge 2024/sc24.exe
+speedway challenge 2025/sc25.exe
 spell disk/spelldisk.exe
 spellbook demonslayers prologue/spellbook demonslayers.exe
 spellbook demonslayers/spellbook demonslayers.exe
@@ -7846,6 +7850,7 @@ themisfits.exe
 themonsterinside/the monster inside.exe
 thenewz.exe
 thepark.exe
+thepriceofflesh-market/thepriceofflesh.exe
 there is no game  jam edition 2015/ting_jam.exe
 there is no game - wrong dimension/ting.exe
 there's poop in my soup/poopinmysoup.exe
@@ -8798,6 +8803,7 @@ win64/carteltycoon-win64-shipping.exe
 win64/cartofglory-win64-shipping.exe
 win64/case2-win64-shipping.exe
 win64/casemultiplayer-win64-shipping.exe
+win64/cashcleanersim-win64-shipping.exe
 win64/castingfrankstone-win64-shipping.exe
 win64/castlerockbeach-win64-shipping.exe
 win64/ccff7r-win64-shipping.exe

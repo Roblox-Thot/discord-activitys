@@ -1243,6 +1243,7 @@ Cartel Tycoon Demo
 Carto
 Carto Demo
 Cartoon Strike
+Cash Cleaner Simulator
 Casino Simulator
 Cassette Beasts
 Castle Break
@@ -1377,6 +1378,7 @@ Circle Empires Rivals
 Circle of Sumo: Online Rumble!
 Circuit Superstars
 Citadel: Forged With Fire
+Citadelum
 Cities in Motion
 Cities in Motion 2
 Cities: Skylines
@@ -1570,6 +1572,7 @@ Coral Island
 Core Keeper
 Core Keeper Demo
 Corn Kidz 64
+Cornerpond
 Coromon
 Corpse Party
 Corpse Party (2021)
@@ -4590,6 +4593,7 @@ Ludo Online
 Ludus
 Luma Island
 Lumberjack's Dynasty
+Lumberjacked
 Lumencraft
 Lumini
 Lunacid
@@ -7245,6 +7249,7 @@ Speed Stars
 SpeedRunners
 Speedrun
 Speedway Challenge 2024
+Speedway Challenge 2025
 Spell Disk
 SpellForce 2 - Anniversary Edition
 SpellForce 3
@@ -8128,6 +8133,7 @@ The Political Machine 2020
 The Political Process
 The Pony Factory
 The Powder Toy
+The Price Of Flesh
 The Purge Dilemma
 The Quarry
 The Quinfall
