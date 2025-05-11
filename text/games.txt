@@ -1910,6 +1910,7 @@ Deadly Days
 Deadpool
 Deadside
 Deadswitch 3
+Deadzone Rogue
 Dealer Simulator
 Dealer's Life
 Dealer's Life 2
@@ -6004,6 +6005,7 @@ Predecessor
 Prehistoric Kingdom
 Prehistoric Kingdom Demo
 Prepar3D
+Preserve
 Press Any Button
 Press X to Not Die
 Pretty Angel
@@ -6062,6 +6064,7 @@ Project Castaway
 Project Eagle
 Project Gunship
 Project H
+Project Hailstorm
 Project Hardline
 Project Hedra
 Project Highrise
@@ -6561,6 +6564,7 @@ S.T.A.L.K.E.R.: Shadow of Chernobyl
 S4 League
 SAMURAI SHODOWN
 SAMURAI SHODOWN V SPECIAL / サムライスピリッツ零スペシャル
+SAMURAI WARRIORS 4 DX
 SAMURAI WARRIORS 4-II
 SAMURAI WARRIORS 5 Trial version
 SAND LAND
@@ -7361,6 +7365,7 @@ Starpoint Gemini 2
 Stars End
 Starsand
 Starship EVO
+Starship Troopers: Extermination
 Startup Company
 Stash
 State of Decay: Year-One
@@ -9604,6 +9609,7 @@ yahtzee girl
 空気読み。オンライン
 罪業狂襲FrenzyRetribution
 花妖物语/Flower girl
+苏丹的游戏
 蒼の彼方のフォーリズム
 超将棋
 近畿霊務局
