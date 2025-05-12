@@ -722,6 +722,7 @@ Battle Worlds: Kronos
 Battle for Wesnoth
 Battle of Empires : 1914-1918
 Battle vs Chess
+BattleBit Remastered
 BattleBlock Theater
 BattleRush
 BattleStick
@@ -1417,6 +1418,7 @@ Classic Racers
 Classic Sudoku
 Classroom Aquatic Demo
 Clatter
+Cleaner Company: Prologue
 Click Click Dig: Prologue
 Click Mage
 Click to Eleven
@@ -1725,6 +1727,7 @@ Cyber Hook Demo
 Cyber Manhunt
 Cyberdimension Neptunia: 4 Goddesses Online
 Cyberpunk 2077
+Cycle Idle RPG
 Cypher
 Cyphers
 D&D Lords of Waterdeep
@@ -2567,6 +2570,7 @@ Evergarden
 Everhood
 Everhood 2
 Everlasting Summer
+Everlusting Life
 Evil Bank Manager
 Evil Genius
 Evil Genius 2
@@ -3515,6 +3519,7 @@ Hard West 2
 Hardspace: Shipbreaker
 Harry Potter: Quidditch Champions
 Harvest Moon: Light of Hope
+Harvest Moon: The Winds of Anthos
 Harvest Seasons
 Harvester
 Hasbro's BATTLESHIP
@@ -6878,6 +6883,7 @@ Sex Coach: Hot Yoga - Prologue
 Sex Desert: Mad Lust
 Sex Simulator
 Sex and the Furry Titty
+Sex and the Furry Titty 2: Sins of the City
 Sex of Thrones
 Sex with Stalin
 Sex with the Devil
@@ -7608,6 +7614,7 @@ Surrounded
 Survarium
 Survival Frenzy
 Survival Horror #8,436
+Survival Machine
 Survival Quiz CITY Visitor's Pass
 Survival Quiz CITY おまつり編
 Survival: Fountain of Youth
@@ -7651,6 +7658,7 @@ Swords and Sandals Classic Collection
 Swords and Sandals Immortals
 Swords of Gurrah
 Swords of Legends Online
+Swordsman VR
 Syberia
 Syberia - The World Before
 Syberia 2
