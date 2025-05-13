@@ -8036,6 +8036,7 @@ touhou mystia izakaya/touhou mystia izakaya.exe
 tower 3d pro/tower3d.exe
 tower 57/tower57.exe
 tower and sword succubus/succubus_sword.exe
+tower dominion/tower-dominion.exe
 tower factory/towerfactory.exe
 tower keepers.exe
 tower keepers/tower keepers.exe
