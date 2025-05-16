@@ -4075,6 +4075,7 @@ JOY OF PROGRAMMING - Software Engineering Simulator
 JUMP FORCE
 JUMP KING QUEST
 Jackpot Poker by PokerStars
+Jacksmith: Weapons and Warriors
 Jade Empire: Special Edition
 Jaded
 Jagged Alliance 2 - Wildfire
@@ -5454,6 +5455,7 @@ Nowhere: Mysterious Artifacts
 NoxPlayer
 Nubarron: The adventure of an unlucky gnome
 Nubby's Number Factory
+Nubs!
 Nuclear Dawn
 Nuclear Nightmare
 Nuclear Option

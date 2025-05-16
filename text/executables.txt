@@ -3989,6 +3989,7 @@ ixion/ixion.exe
 j-jump arena/j-jump arena.exe
 ja2_wildfire/wf6.exe
 jackpot poker by pokerstars/jackpotpoker.exe
+jacksmith weapons and warriors/jacksmith.exe
 jaded/jaded.exe
 jadeempire.exe
 jagexcache/jagexlauncher/bin/jagexlauncher.exe
@@ -5310,6 +5311,7 @@ nsunsr.exe
 ntr'd by clumsiness/ntrdbyclumsiness.exe
 nubarron/nubarron.exe
 nubby's number factory/nnf_fullversion.exe
+nubs!/nubs!.exe
 nuclear dawn/nucleardawn.exe
 nuclear last darkness/nucleares.exe
 nuclear option/nuclearoption.exe
