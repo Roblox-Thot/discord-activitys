@@ -1925,6 +1925,7 @@ deeeer simulator/deeeer simulator.exe
 deemo -reborn-/deemo -reborn-.exe
 deep rock survivor/drg survivor.exe
 deep sky derelicts/deep sky derelicts.exe
+deep space cache/deep space cache.exe
 deep space waifu fantasy/deep space waifu fantasy.exe
 deep space waifu justice/deep space waifu flat justice.exe
 deep space waifu nekomimi/deep space waifu nekomimi.exe
@@ -2073,6 +2074,7 @@ dirt4.exe
 dirtyleague/dirtyleague.exe
 dis the game/dis the game.exe
 disaster band/disaster band.exe
+disc golf valley/discgolf.exe
 disc room/disc room.exe
 disc space/discspace.exe
 discipl2.exe
@@ -3045,6 +3047,7 @@ future soldier dx11.exe
 future soldier.exe
 futurewars.exe
 g01/binaries/win64/g01client-win64-shipping.exe
+gacha girls united/gacha girls unite.exe
 gachi heroes/nw.exe
 gahkthun.exe
 galactic civilizations iii/galciv3.exe
@@ -4726,6 +4729,7 @@ metal slug/mslug1.exe
 metal unit/metalunit.exe
 metal wolf chaos xd/wilson.exe
 metalheadgames/back to the dawn.exe
+metalthunder/metal thunder.exe
 metalwaltz/sherman.exe
 metamorphos/metamorphos.exe
 metaphor refantazio demo/metaphor.exe
@@ -9476,6 +9480,7 @@ win64/projectborealis-win64-shipping.exe
 win64/projectboundarysteam-win64-shipping.exe
 win64/projectcoop-win64-shipping.exe
 win64/projectcoral-win64-shipping.exe
+win64/projecthonorclient.exe
 win64/projectnimble.exe
 win64/projectnow-win64-shipping.exe
 win64/projectnowhere-win64-shipping.exe
