@@ -859,6 +859,7 @@ Blackjack Championship
 Blacklight: Retribution
 Blackout Z: Slaughterhouse Edition
 Blacksad
+Blacksmith Master
 Blacktop Hoops
 Blackwake
 Blade & Sorcery
@@ -1191,6 +1192,7 @@ Capcom Arcade 2nd Stadium
 Capcom Arcade Stadium
 Capcom Beat 'Em Up Bundle
 Capcom Fighting Collection
+Capcom Fighting Collection 2
 Capitalism 2
 Captain Bones: Prologue
 Captain Starshot
@@ -2671,6 +2673,7 @@ FINAL FANTASY XIV Online
 FINAL FANTASY XV WINDOWS EDITION
 FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO
 FINAL FANTASY XVI
+FINAL FANTASY® XI: Ultimate Collection Seekers Edition NA
 FINAL SPIN
 FIND ALL
 FIND ALL 4: Magic
@@ -6035,6 +6038,7 @@ Prince of Persia
 Prince of Persia The Lost Crown
 Prince of Persia: The Forgotten Sands
 Prince of Persia: The Sands of Time
+Prince of Persia: The Two Thrones
 Prince of Persia: Warrior Within
 Prince of Suburbia - Part 1
 Princess & Conquest
@@ -6733,6 +6737,7 @@ Safety First!
 Sagrada
 Saihate Station
 Saiko no sutoka
+Sailwind
 Saint Seiya: Soldiers' Soul
 Saints Row 2
 Saints Row IV
@@ -7366,6 +7371,7 @@ Star of Providence
 StarBreak
 StarCraft
 StarCraft II
+StarVaders
 Starbase
 Starblast
 Starbound
@@ -8842,6 +8848,7 @@ Vampire: The Masquerade - Bloodlines
 Vampire: The Masquerade - Coteries of New York
 Vampire: The Masquerade - Shadows of New York
 Vampyr
+Vangers
 Vanguard Princess
 Vanquish
 Varenje
@@ -9115,6 +9122,7 @@ White Day: A Labyrinth Named School
 White Knuckle
 White Noise 2
 White Noise Online
+White Shadows
 Who Needs a Hero?
 Who Wants To Be A Millionaire
 Who's Lila?

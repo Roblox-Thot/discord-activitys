@@ -904,6 +904,7 @@ blackopsmp.exe
 blackout z slaughterhouse edition/blackout z.exe
 blacksad - under the skin/blacksad.exe
 blackshot.exe
+blacksmith master/blacksmith master.exe
 blacksurvival.exe
 blackthefall/blackthefall.exe
 blacktop hoops demo steam/blacktop hoops.exe
@@ -1182,6 +1183,7 @@ canvas of kings/canvasofkings.exe
 canvas the gallery game/canvasthegallery.exe
 capcom arcade 2nd stadium/capcomarcade2ndstadium.exe
 capcom arcade stadium/capcomarcadestadium.exe
+capcom fighting collection 2/capcomfightingcollection2.exe
 capcom fighting collection/capcomfightingcollection.exe
 capitalism 2/cap2.exe
 captain bones prologue/captain bones prologue.exe
@@ -5835,6 +5837,7 @@ prince of persia forgotten sands/prince of persia.exe
 prince of persia the lost crown/thelostcrown.exe
 prince of persia the sands of time/princeofpersia.exe
 prince of persia the warrior within/princeofpersia.exe
+prince of persia two thrones/princeofpersia.exe
 prince of persia/launcher/launcher.exe
 prince of suburbia - part one/princeofsuburbiarewrite.exe
 princeofpersia_launcher.exe
@@ -6392,6 +6395,7 @@ safetyfirst.exe
 sagrada/sagrada.exe
 saihateeki/game.exe
 saiko no sutoka/saiko no sutoka.exe
+sailwind/sailwind.exe
 saints row the third remastered/srttr.exe
 saintsrowgatoutofhell.exe
 saintsrowiv.exe
@@ -7062,6 +7066,7 @@ stars end/stars end.exe
 starsand/starsand.exe
 starship evo/starship evo.exe
 startupcompany.exe
+starvaders/starvaders.exe
 starwarsbattlefront.exe
 starwarsbattlefrontii.exe
 starwarsg.exe
@@ -7997,6 +8002,7 @@ tombraider.exe
 tomoyo after ~it's a wonderful life~ english edition/realliveen.exe
 tools up! demo/tools up demo.exe
 tools up!/tools up.exe
+toolsus/final fantasy xi config.exe
 toontown rewritten/ttrengine.exe
 toothandtail.exe
 top speed 2/top speed 2.exe
@@ -8575,6 +8581,7 @@ white day a labyrinth named school/whiteday.exe
 white knuckle/white knuckle.exe
 white noise 2/whitenoise2.exe
 white noise online/whitenoiseonline.exe
+white shadows/whiteshadows.exe
 whitesilence-win64-shipping.exe
 who needs a hero/who needs a hero.exe
 who wants to be a millionaire/wwtbam.exe
@@ -9968,6 +9975,7 @@ windbound/windboundwindows.exe
 windlands 2/windlands2.exe
 windlands/windlands_win_x64.exe
 windowkill/windowkill-vulkan.exe
+windows-64/vangers.exe
 windows-i686/actinglessons.exe
 windows-i686/angels with scaly wings.exe
 windows-i686/brokendreamers.exe
