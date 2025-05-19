@@ -1705,6 +1705,7 @@ Cube Racer
 Cube Racer 2
 Cube World
 Cubic Castles
+Cubic Odyssey
 Cucumber
 Cuisine Royale
 Cuisineer
@@ -2908,6 +2909,7 @@ Flicker of Hope
 Fling to the Finish
 Fling to the Finish Demo
 Flinthook
+Flintlock: The Siege of Dawn
 FlipWitch - Forbidden Sex Hex
 Floating Point
 Florence
@@ -3616,6 +3618,7 @@ Hentai Asmodeus
 Hentai Beach
 Hentai Crush
 Hentai Furry
+Hentai Furry 2
 Hentai Girl
 Hentai Girl Division
 Hentai Girl Fantasy
@@ -4877,6 +4880,7 @@ Melody's Escape
 Melon
 Meltys Quest
 Melvor Idle
+Meme Mayhem
 Memoria
 Memories of Mars
 Men of Valor
@@ -6078,6 +6082,7 @@ Project CARS 2
 Project CARS 2 Demo
 Project CARS 3
 Project Castaway
+Project Demigod
 Project Eagle
 Project Gunship
 Project H
@@ -7543,6 +7548,7 @@ Summer~Life in the Countryside~
 Summoners War
 Sun Haven
 Sundered
+Sunderfolk
 Sunkenland
 Sunless Sea
 Sunless Skies

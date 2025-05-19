@@ -3544,6 +3544,7 @@ hentai arena  battle royale/hentai arena.exe
 hentai asmodeus/hentai asmodeus.exe
 hentai beach/nw.exe
 hentai crush/hentai crush.exe
+hentai furry 2/hentai furry 2.exe
 hentai furry/hentai furry.exe
 hentai girl division/hentai girl division.exe
 hentai honeys jigsaw/hentaihoneysjigsaw.exe
@@ -4699,6 +4700,7 @@ melon/melon.exe
 melty blood type lumina/mbtl.exe
 meltys quest/nw.exe
 melvor idle/melvor idle.exe
+meme mayhem/meme mayhem.exe
 memologygoyda/memology2.exe
 memoria.exe
 memoria.exe
@@ -5429,6 +5431,7 @@ operation tango/operation tango.exe
 operator/operator.exe
 oppw3.exe
 oppw4/oppw4.exe
+optimized/cubicodysseysteam.exe
 opus magnum/lightning.exe
 orb of creation/orb of creation.exe
 orbital gear/orbitalgear.exe
@@ -5876,6 +5879,7 @@ project cars 2 demo/pcars2demoavx.exe
 project cars 3/pcars3.exe
 project castaway/project castaway.exe
 project castle/castle.exe
+project demigod/project demigod - early access.exe
 project hardline/project hardline.exe
 project highrise/game.exe
 project hospital/projecthospital.exe
@@ -7222,6 +7226,7 @@ summer~life in the countryside~/summer.exe
 summoners war/summonerswar.exe
 sun haven/sun haven.exe
 sundered.exe
+sunderfolk/sunderfolk.exe
 sunkenland/sunkenland.exe
 sunless skies.exe
 sunlesssea/sunless sea.exe
@@ -9581,6 +9586,7 @@ win64/runnerproject-win64-shipping.exe
 win64/sabotaj.exe
 win64/sackboy-win64-shipping.exe
 win64/saloonsimulator-win64-shipping.exe
+win64/saltpeter-win64-shipping.exe
 win64/samuraishodown-win64-shipping.exe
 win64/sanandreas.exe
 win64/sandfall-win64-shipping.exe
