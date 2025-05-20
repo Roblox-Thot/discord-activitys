@@ -1848,6 +1848,7 @@ dcgame.exe
 dcs.exe
 ddda.exe
 ddlc.exe
+ddnet/ddnet-server.exe
 ddnet/ddnet.exe
 ddo.exe
 dead bits/dead bits.exe
@@ -6970,6 +6971,7 @@ spin rhythm/spinrhythm.exe
 spintires.exe
 spiral clicker/spiral clicker.exe
 spiral knights/java_vm/bin/javaw.exe
+spirit city - lofi sessions.app
 spirit hunters infinite horde/spirit hunters infinite horde.exe
 spirit island/spiritisland.exe
 spirit of the island demo/soti demo.exe
@@ -8835,6 +8837,7 @@ win64/cartofglory-win64-shipping.exe
 win64/case2-win64-shipping.exe
 win64/casemultiplayer-win64-shipping.exe
 win64/cashcleanersim-win64-shipping.exe
+win64/castandspell-win64-shipping.exe
 win64/castingfrankstone-win64-shipping.exe
 win64/castlerockbeach-win64-shipping.exe
 win64/ccff7r-win64-shipping.exe
@@ -9364,6 +9367,7 @@ win64/newgundambreaker.exe
 win64/newkaragon.exe
 win64/newtales.exe
 win64/nextbotsinbackrooms.exe
+win64/nfl1-win64-shipping.exe
 win64/nightfallclient-win64-shipping.exe
 win64/ninetofiveclient-win64-shipping.exe
 win64/ninjagaiden2black-win64-shipping.exe
