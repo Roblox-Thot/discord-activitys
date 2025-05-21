@@ -2172,6 +2172,7 @@ Dominions 4
 Dominions 6
 Don't Be Afraid - The First Toy
 Don't Bite Me Bro! +
+Don't Disturb Your STEPMOM
 Don't Escape Trilogy
 Don't Escape: 4 Days to Survive
 Don't Shout Together
@@ -2585,6 +2586,7 @@ Evil Inside - Prologue
 Evil Possession
 Evil Tag
 Evil West
+Eville
 Evo\Wave
 Evoland
 Evoland 2
@@ -5052,6 +5054,7 @@ Moen
 Mojo 2: Mia
 Mojo XXX
 Mojo: Hanako
+Mom got stuck in the washing machine
 Momo Mother Bird: Final Story
 Momodora III
 Momodora: Moonlit Farewell
@@ -6463,6 +6466,7 @@ Road 96
 Road 96: Mile 0
 Road Redemption
 Road to Vostok Demo
+RoadCraft
 Roadwarden
 Roadwarden Demo
 Robin
@@ -6585,6 +6589,7 @@ S.T.A.L.K.E.R. 2: Heart of Chornobyl
 S.T.A.L.K.E.R.: Call of Pripyat
 S.T.A.L.K.E.R.: Clear Sky
 S.T.A.L.K.E.R.: Shadow of Chernobyl
+S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition
 S4 League
 SAMURAI SHODOWN
 SAMURAI SHODOWN V SPECIAL / サムライスピリッツ零スペシャル
