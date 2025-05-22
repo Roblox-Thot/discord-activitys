@@ -3249,6 +3249,7 @@ Gloomwood Demo
 Gloria Victis
 Glory & Miserable Survivors DX
 Glyphica: Typing Survival
+Gnomes
 Gnomoria
 Go Kart Run!
 Go! Go! Nippon! ~My First Trip to Japan~
@@ -3277,6 +3278,7 @@ Going Under Demo
 Gold Mining Simulator
 Gold Rush: The Game
 Golden Axed: A Cancelled Prototype
+Golden Lap
 Golden Light
 Golf Around!
 Golf Defied
@@ -4549,6 +4551,7 @@ Loop Hero
 Loop Hero Demo
 Loop-Loop DX
 Looterkings
+Lootun
 Lord of the Rings: War in the North
 Lords Mobile
 Lords Of The Fallen
@@ -6587,6 +6590,7 @@ S H R i M P
 S.K.I.L.L. - Special Force 2
 S.T.A.L.K.E.R. 2: Heart of Chornobyl
 S.T.A.L.K.E.R.: Call of Pripyat
+S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition
 S.T.A.L.K.E.R.: Clear Sky
 S.T.A.L.K.E.R.: Shadow of Chernobyl
 S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition
@@ -6702,6 +6706,7 @@ STAR WARS™: The Force Unleashed™ II
 STAR WARS™: The Force Unleashed™ Ultimate Sith Edition
 STAR WARS™: X-Wing Alliance™
 STAR WARS™: X-Wing Special Edition
+START AGAIN: a prologue
 STARWHAL
 STEINS;GATE
 STG Football
@@ -7332,6 +7337,7 @@ Split Fiction
 Split or Steal
 Split/Second
 Splitgate
+Splitgate 2
 SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 SpongeBob SquarePants: The Cosmic Shake
 Spooky Station
