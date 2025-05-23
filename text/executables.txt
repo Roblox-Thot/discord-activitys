@@ -1316,6 +1316,7 @@ chess evolved online/ceo.exe
 chess for idiots/chess for idiots.exe
 chess'extra/chess'extra.exe
 chess/chess.exe
+chess2.app
 chicken farm 2k17/cfs_2k17_v2.exe
 chicken invaders 2/ci2rm.exe
 chicken invaders 5/ci5.exe
@@ -2211,6 +2212,7 @@ dqxgame.exe
 dr langeskov the tiger and the terribly cursed emerald a whirlwind heist/drlangeskov.exe
 dr livesey giga based edition/dr livesey rom and death edition.exe
 dr2_us.exe
+dr3d/dr3d_streets2.exe
 dragon age the veilguard character creator/dragon age the veilguard ea.exe
 dragon age the veilguard/dragon age the veilguard.exe
 dragon ball the breakers/start_game.exe
@@ -4939,6 +4941,7 @@ monster prom demo/monsterpromdemo.exe
 monster roadtrip demo/monsterroadtripdemo.exe
 monster sanctuary/monster sanctuary.exe
 monster slayers/monster slayers db.exe
+monster train 2/monstertrain2.exe
 monster train/monstertrain.exe
 monsterhunterrise/monsterhunterrise.exe
 monsterhunterrisedemo/monsterhunterrisedemo.exe
@@ -6522,6 +6525,7 @@ sea of stars demo/seaofstars.exe
 sea of stars/seaofstars.exe
 sea of survivors/sea of survivors.exe
 sea power/sea power.exe
+sea salt/seasalt.exe
 seablip/seablip.exe
 seagame.exe
 seaofsolitude/seaofsolitude.exe
@@ -9659,6 +9663,7 @@ win64/shta.exe
 win64/sifu-win64-shipping.exe
 win64/silentbreath-win64-shipping.exe
 win64/silverchains-win64-shipping.exe
+win64/simulatorgame-win64-shipping.exe
 win64/simulatorita-win64-shipping.exe
 win64/siren-win64-shipping.exe
 win64/sixdays-win64-shipping.exe
