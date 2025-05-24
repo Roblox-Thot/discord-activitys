@@ -2734,6 +2734,7 @@ Fairy Fencer F
 Fairy Fencer F Advent Dark Force
 Fake Lay
 Fall Guys
+Fall of the stick knights
 Fallen Aces
 Fallen Aces Demo
 Fallen Earth
@@ -9018,6 +9019,7 @@ WarThunder
 Warbox
 Warcraft III
 Warface
+Warfare Legacy Collection
 Warfork
 Warframe
 Warframe Dev
@@ -9028,6 +9030,7 @@ Wargame: Red Dragon
 Wargroove
 Warhammer 40,000: Armageddon
 Warhammer 40,000: Boltgun
+Warhammer 40,000: Boltgun - Words of Vengeance
 Warhammer 40,000: Chaos Gate - Daemonhunters
 Warhammer 40,000: Darktide
 Warhammer 40,000: Dawn of War - Dark Crusade
@@ -9506,6 +9509,7 @@ screamdown
 shapez - Demo
 shapez 2
 shapez.io
+shutterbuds
 stein.world
 surviv.io - 2D Battle Royale
 tModLoader
