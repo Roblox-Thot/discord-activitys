@@ -1019,6 +1019,7 @@ borderlands/borderlands.exe
 borderlands2.exe
 borderlands3.exe
 borderlandspresequel.exe
+bore blasters/boreblasters.exe
 boreal blade/borealblade_64bit.exe
 boringmangame.exe
 boris and the dark survival/boris and the dark survival.exe
@@ -1085,6 +1086,7 @@ brokeprotocol.exe
 brotato/brotato.exe
 brotatodemo/brotatodemo.exe
 brothers.exe
+broventure the wild co-op/broventure.exe
 brutal orchestra/brutalorchestra.exe
 brutallegend.exe
 btd5-win.exe
@@ -3398,6 +3400,7 @@ h1z1/h1z1_be.exe
 h3vr.exe
 h5_game.exe
 hackgu/hackgu.exe
+hackhub free trial/hackhub.exe
 hacknet.exe
 hacktag/hacktag.exe
 hadean tactics/hadeantactics.exe
@@ -8260,6 +8263,7 @@ ultimatechickenhorse.exe
 ultra fight da ! kyanta 2/game.exe
 ultrakill demo/ultrakill.exe
 ultrakill/ultrakill.exe
+ultros/ultros.exe
 umineko chiru/umineko5to8.exe
 umineko/umineko1to4.exe
 umurangigeneration/umurangi generation.exe
@@ -8675,6 +8679,7 @@ win32/p4dftre.dll
 win32/pkhdgame-win32-shipping.exe
 win32/qube.exe
 win32/rattycatty-win32-shipping.exe
+win32/realboxing.exe
 win32/refunct-win32-shipping.exe
 win32/rememberme.exe
 win32/roa.exe
