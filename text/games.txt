@@ -892,6 +892,7 @@ BlazeRush
 Blazing Beaks
 Blazing Chrome
 Blazing Sails
+Bleak Faith: Forsaken
 Bleed 2
 Bless Online
 Bless Unleashed
@@ -5739,6 +5740,7 @@ PIGGY: Hunt
 PILGRIM
 PIPE
 PLANES ATTACK
+PLATiNA :: LAB
 PLAY'A VR Video Player
 PLAYERUNKNOWN'S BATTLEGROUNDS
 PNGTuber Plus
@@ -8394,6 +8396,7 @@ Timelie
 Timespinner
 Tin Can
 Tina Chiquitina asalta la mazmorra del dragón: una aventura única
+Tinkerlands
 Tinkerlands: A Shipwrecked Adventure
 Tinkertown
 Tint 'n Ink
