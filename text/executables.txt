@@ -544,6 +544,7 @@ automobilista 2 demo/ams2demoavx.exe
 automobilista 2/ams2avx.exe
 autonauts/autonauts.exe
 autopsy simulator/autopsy simulator.exe
+autorogue/autorogue.exe
 ava.exe
 avalonlords.app
 avalonlords.exe
@@ -1412,6 +1413,7 @@ clickteam fusion 2.5 free edition/mmf2u.exe
 clickteam fusion 2.5/mmf2u.exe
 clicktoeleven/clicktoeleven.exe
 clickyland/clickyland.exe
+client/cryofall_client.exe
 client/dwarfheim.exe
 client/edenrising.exe
 client/infinite_lagrange_gb.exe
@@ -2640,6 +2642,7 @@ f1 2021/f1_2021_dx12.exe
 f1 22/f1_22.exe
 f1 23/f1_23.exe
 f1 24/f1_24.exe
+f1 25/f1_25.exe
 f1 race stars/f1racestars.exe
 f12013/f1_2013.exe
 f1_2015.exe
@@ -4555,6 +4558,7 @@ madguns/madguns.exe
 madison/madison.exe
 madmachines.exe
 madmax.exe
+madness cubed/build.exe
 madness project nexus 2/madness project nexus.exe
 madness project nexus demo/madness project nexus demo.exe
 madout2_bigcityonline/game.exe
@@ -6288,6 +6292,7 @@ rock 'n' roll defense/rock 'n' roll defense.exe
 rock life/rocklife.exe
 rock star life simulator early access/rock star life simulator.exe
 rocket bot royale/rocketbotroyale.exe
+rocket rats/rocket rats.exe
 rocket valley tycoon/rocketvalleytycoon.exe
 rocketbirds_hardboiled/game.exe
 rocketleague.exe
@@ -6800,6 +6805,7 @@ slay the princess demo/slaytheprincessdemo.exe
 slay the princess/slaytheprincess.exe
 slay together/slaytogether.exe
 slayaway camp/slayawaycamp.exe
+slayer-playground.app
 slaythespire.exe
 sledders/sledders.exe
 sleepingdogs/hkship.exe

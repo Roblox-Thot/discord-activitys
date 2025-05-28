@@ -1688,6 +1688,7 @@ Crustacean Nations
 Cry of Fear
 Crying Suns
 Crying Suns Demo
+CryoFall
 Crypt
 Crypt Custodian
 Crypt of the NecroDancer
@@ -2634,6 +2635,7 @@ F1 Race Stars
 F1® 22
 F1® 23
 F1® 24
+F1® 25
 F1® Manager 2022
 F1® Manager 2023
 F1® Manager 2024
@@ -4749,6 +4751,7 @@ Madden NFL 22
 Madden NFL 23
 Madden NFL 24
 Made in Abyss: Binary Star Falling into Darkness
+Madness Cubed
 Madrun
 Maelstrom
 Maestro
@@ -6513,6 +6516,7 @@ RockShot
 Rocket Arena
 Rocket Bot Royale
 Rocket League
+Rocket Rats
 Rocket Valley Tycoon
 Rocketbirds: Hardboiled Chicken
 Rockfest
@@ -8728,6 +8732,7 @@ UNO Demo
 UNRAVEL™ two
 UNSIGHTED
 URBO: Dream One
+UV Slayer Playground
 UberStrike
 Udonge in Interspecies Cave
 Ultimate Admiral: Age of Sail
@@ -9583,6 +9588,7 @@ yahtzee girl
 ウツロマユ - Hollow Cocoon - 体験版
 ウーマンコミュニケーション
 オクトパストラベラー II
+オートローグ
 ガンダムブレイカー4
 クジラゲームオンライン
 ゲーム発展国++
