@@ -1282,6 +1282,7 @@ cattails/cattails.exe
 cattle and crops/cattleandcrops.exe
 catto pew pew!/catto pew pew!.exe
 catwifhat/catwifhat.exe
+cauldron/cauldron.exe
 cave crawler/cavecrawler.exe
 cave crawlers/cave crawlers.exe
 cave digger/cavedigger.exe
@@ -4513,6 +4514,7 @@ luma island/luma island.exe
 lumberjacked!/lumberjacked.exe
 lumberjacks dynasty/lumberjacksdynasty.exe
 lumencraft/lumencraft.exe
+lumines remastered/lumines-remastered.exe
 lumini_win64.exe
 lunacid - tears of the moon/game.exe
 lunacid/lunacid.exe
@@ -5976,6 +5978,7 @@ pyre.exe
 pyrite heart.exe
 pyroworks/pyroworks v1.0.0.exe
 q remastered/q.exe
+qop/qop.exe
 quackdzilla pool cleaning simulator/quackdzilla pool cleaning simulator.exe
 quake 3 arena/quake3.exe
 quake 4/quake4.exe
@@ -8440,6 +8443,7 @@ visualboyadvance.exe
 viveeyesettings/vivesettings.exe
 vivid knight/vividknight.exe
 vividstasis/vividstasis.exe
+vixen wars/vixenwars.exe
 vngame.exe
 voiceattack demo/voiceattack.exe
 voiceattack/voiceattack.exe
@@ -8479,6 +8483,7 @@ vvvvvv.exe
 vvvvvv/vvvvvv.exe
 wa.exe
 waifu closet/waifu closet.exe
+waifu shop/waifu shop.exe
 waifu/waifu.exe
 waifufighterfist/boxingwaifu.exe
 wait! life is beautiful! prologue/wait! life is beautiful!.exe

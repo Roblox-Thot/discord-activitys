@@ -1301,6 +1301,7 @@ Cattails
 Cattails: Wildwood Story
 Catto Pew Pew!
 Catwifhat
+Cauldron
 Cave Crawler
 Cave Crawlers
 Cave Digger
@@ -4388,6 +4389,7 @@ LOST EGG 2: Be together
 LOST EGG 3: The Final
 LOST EPIC
 LUFTRAUSERS
+LUMINES REMASTERED
 LYNE
 La-Mulana
 Lab Rags
@@ -8950,6 +8952,7 @@ Visions of Mana
 Visual Novel Maker
 VisualBoyAdvance
 Vivaland: Dream House
+Vixen Wars
 Voice of Cards: The Isle Dragon Roars
 Voice of Cards: The Isle Dragon Roars Demo
 VoiceAttack
@@ -9014,6 +9017,7 @@ Waifu - Kawaii Idler & Clicker
 Waifu Closet
 Waifu Fighter
 Waifu Secret
+Waifu Shop
 Wait! Life is Beautiful! Prologue
 Wakaru ver. beta
 Walkabout Mini Golf
@@ -9522,6 +9526,7 @@ pemsa
 pla_toon
 projectM Music Visualizer
 pureya
+qop
 rFactor
 rFactor 2
 resident evil 4 / biohazard 4
