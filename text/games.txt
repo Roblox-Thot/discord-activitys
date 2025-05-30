@@ -487,7 +487,7 @@ Asheron's Call
 Ashes of Creation Apocalypse
 Ashes of the Singularity: Escalation
 Asleep - Ato 1
-Asphalt 9: Legends
+Asphalt Legends Unite
 Assassin's Creed
 Assassin's Creed Brotherhood
 Assassin's Creed Chronicles China
@@ -2391,6 +2391,7 @@ EDGE
 EGG
 EGG RAIDERS
 ELDEN RING
+ELDEN RING NIGHTREIGN
 ELDERBORN
 ELEX
 ELEX II
@@ -3412,6 +3413,7 @@ Guild Wars 2
 Guild of Dungeoneering
 Guilt Free
 Guilty Gear X2 #Reload
+Guilty as Sock!
 Guitar Hero III: Legends of Rock
 Guitar Hero World Tour
 Gum Ball Run
@@ -4557,6 +4559,7 @@ Loddlenaut
 Lofi Ping Pong
 Lonely Mountains: Downhill
 Lonely Mountains: Downhill Demo
+Lonely Mountains: Snow Riders
 Long Live Santa!
 Long Live The Queen
 Longshot [Dev]
@@ -4984,6 +4987,7 @@ Might & Magic: Heroes VI
 Might and Magic - Heroes V
 Mighty No. 9
 Mighty Party
+Mika and The Witch's Mountain
 MilMo
 Milfy City - Final Edition
 Military Conflict: Vietnam
@@ -7817,6 +7821,7 @@ TaleSpire - Guest Edition
 Talented
 Tales And Tactics
 Tales Beyond The Tomb - Pineville Night Stalker
+Tales Of Glory
 Tales Runner
 Tales from Candlekeep: Tomb of Annihilation
 Tales from the Borderlands
@@ -8705,6 +8710,7 @@ Two Point Hospital
 Two Point Museum
 Two Worlds II
 Two Worlds: Epic Edition
+Typer Shark! Deluxe
 Typing Incremental
 Tyranny
 TyranoBuilder Visual Novel Studio

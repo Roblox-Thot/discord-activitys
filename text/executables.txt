@@ -3093,6 +3093,7 @@ game/eldenring.exe
 game/farlonesails.exe
 game/game_win.exe
 game/how 2 escape.exe
+game/nightreign.exe
 game/performance_test.exe
 game/rebuild3.exe
 game/settings.exe
@@ -3360,6 +3361,7 @@ guild3.exe
 guildii.exe
 guildii.exe
 guilt free/guilt free.exe
+guilty as sock!/standalonewindows64.exe
 guilty gear x2 #reload/ggx2.exe
 guilty gear xrd -revelator-/binaries/win32/bootggxrd.exe
 guiltygear/guiltygear.exe
@@ -4416,6 +4418,7 @@ lizardwomen/lizardwomen.exe
 llblaze.exe
 llblaze/llblaze.exe
 lms.exe
+lmsr/lmsr_windows64_steam.exe
 loading screen simulator/lss.exe
 loadout.exe
 lobotomycorp/lobotomycorp.exe
@@ -4806,6 +4809,7 @@ might & magic heroes vi.exe
 might and magic clash of heroes/clashofheroes.exe
 might and magic heroes vi/might & magic heroes vi.exe
 mighty party/mighty_party.exe
+mika/mika.exe
 milfs of sunville season 2/milfsofsunville2.exe
 milfs of sunville/milfsofsunville.exe
 milfs/milfsplaza.exe
@@ -7459,6 +7463,7 @@ tales beyond the tomb - pineville night stalker/tales beyond the tomb - pinevill
 tales from candlekeep/talescandlekeep.exe
 tales from the borderlands/borderlands.exe
 tales of berseria.exe
+tales of glory/talesofglory.exe
 tales of graces f remastered/tales of graces f remastered.exe
 tales of symphonia/tos.exe
 tales of the black forest/game.exe
@@ -8239,6 +8244,7 @@ two worlds ii/twoworlds2_dx10.exe
 twwse.exe
 ty the tasmanian tiger 2/ty2.exe
 ty the tasmanian tiger/ty.exe
+typer shark deluxe/popcapgame1.exe
 typer-incremental-win32-x64/typer-incremental.exe
 typing of the dead overkill/hotd_ng.exe
 tyranny.exe
