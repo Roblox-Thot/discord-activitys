@@ -60,6 +60,7 @@
 64bit/niche.exe
 64bit/nolimits2app.exe
 64bit/nolimits2stm.exe
+64bit/obs64.exe
 7 billion humans/7 billion humans.exe
 7 days to end with you/seven days to end with you.exe
 7daystodie.exe
@@ -4535,6 +4536,7 @@ lust from beyond/lust from beyond.exe
 lust goddess/adult_wars.exe
 lust theory season 2/lusttheory2.exe
 lust theory/lusttheorys1.exe
+lyca/lyca.exe
 lycans/lycans.exe
 lyne.exe
 m.e.a.t. veterans/meat - veterans.exe
@@ -4844,6 +4846,7 @@ minerva/hl2.exe
 minesweeper/minesweeper.exe
 minesweepertetris/minesweepertetris.exe
 mini airways prologue/miniairways.exe
+mini airways/miniairways.exe
 mini battlegrounds/crazyshooter.exe
 mini golf arena/mini golf arena.exe
 mini guns/miniguns.exe
@@ -4870,6 +4873,7 @@ mirth melody/mirth melody.exe
 mirthwood/mirthwood.exe
 misao/game.exe
 miscreated.exe
+miscrits/miscrits.exe
 mise.exe
 misec.exe
 misha's incident/nw.exe
@@ -5671,6 +5675,7 @@ pesticidenotrequired/pesticide not required.exe
 pet idle/pet idle.exe
 pet shop simulator prologue/pet shop.exe
 pets hotel prologue/pets hotel.exe
+pets hotel/pets hotel.exe
 pewdiepie legend of the brofist/pewdiepielegendofthebrofist.exe
 pga tour 2k21/golf.exe
 pga tour 2k23/pgatour2k23.exe
@@ -8879,6 +8884,7 @@ win64/captured-win64-shipping.exe
 win64/capybaraspa-win64-shipping.exe
 win64/caravansandwitch-win64-shipping.exe
 win64/cardealersim-win64-shipping.exe
+win64/cardealersimulator-win64-shipping.exe
 win64/carnal_instinct-win64-shipping.exe
 win64/carrumble-win64-shipping.exe
 win64/carteltycoon-win64-shipping.exe
@@ -9055,6 +9061,7 @@ win64/escapefromschool-win64-shipping.exe
 win64/escapememoirs1-win64-shipping.exe
 win64/escapememoirsms-win64-shipping.exe
 win64/escapememoirsqss-win64-shipping.exe
+win64/escapememoirssh-win64-shipping.exe
 win64/eternalstrandssteam-win64-shipping.exe
 win64/etherealestate.exe
 win64/eville-win64-shipping.exe
@@ -9336,6 +9343,7 @@ win64/lop-win64-shipping.exe
 win64/lostark.exe
 win64/lostember-win64-shipping.exe
 win64/lowlightcombat-win64-shipping.exe
+win64/lushfoilsim-win64-shipping.exe
 win64/luto-win64-shipping.exe
 win64/madeinabyss-win64-shipping.exe
 win64/maelstromv2-win64-shipping.exe

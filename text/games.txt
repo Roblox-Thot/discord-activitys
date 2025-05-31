@@ -1206,6 +1206,7 @@ Captain Tsubasa - Rise of New Champions
 Captain of Industry
 Capybara Spa
 Capybara: The story of Sisyphus
+Car Dealer Simulator
 Car Dealer Simulator: Prologue - Early Days
 Car Dealership Simulator
 Car Detailing Simulator
@@ -2537,6 +2538,7 @@ Escape From School
 Escape Memoirs: Mansion Heist
 Escape Memoirs: Mini Stories
 Escape Memoirs: Questionable Side Stories
+Escape Memoirs: Safe House
 Escape Room - The Sick Colleague
 Escape Simulator
 Escape Simulator Demo
@@ -4647,6 +4649,7 @@ Lunch Lady
 Lunistice
 Lurk in the Dark : Prologue
 LurkBait Twitch Fishing
+Lushfoil Photography Sim
 Lust Academy
 Lust Academy Season 3
 Lust Epidemic
@@ -4658,6 +4661,7 @@ Lust from Beyond
 Lust from Beyond: Prologue
 Lust from Beyond: Scarlet
 Luto Demo
+Lyca
 Lycans
 M.A.R.S.
 M.A.S.S. Builder
@@ -5018,6 +5022,7 @@ Minecraft: Story Mode - Season Two
 Mineirinho Director's Cut
 Miner Ultra Adventures
 Minesweeper
+Mini Airways
 Mini Airways: Prologue
 Mini Battlegrounds
 Mini Golf Arena
@@ -5048,6 +5053,7 @@ Mirthwood
 MisBits
 Misao: Definitive Edition
 Miscreated
+Miscrits: World of Creatures
 Misha's incident
 Miska's Cave
 Miss Neko
@@ -5508,6 +5514,7 @@ Nunholy
 Nyan Cat: Lost In Space
 O2Jam
 OBEY
+OBS Studio
 OBSCURA
 OCTOPATH TRAVELER
 OH MY GOD, LOOK AT THIS KNIGHT
@@ -5887,6 +5894,7 @@ Pesterquest
 Pesticide Not Required
 Pet Shop Simulator: Prologue
 Pet idle
+Pets Hotel
 Pets Hotel: Prologue
 Pew Dew Redemption
 PewDiePie: Legend of the Brofist
