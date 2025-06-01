@@ -220,6 +220,7 @@ Adventure Time: Pirates of the Enchiridion
 AdventureQuest 3D
 Aegis Defenders
 Aeon Rivals
+Aeon's End
 Aeons Echo
 Aero Tales Online: The World - Anime MMORPG
 Aerofly FS 2 Flight Simulator
@@ -1350,6 +1351,7 @@ Chicken Farm 2K17
 Chicken Invaders 2
 Chicken Invaders 5
 Chicken Invaders Universe
+Chicken Police
 Chicken Shoot Gold
 Chicory: A Colorful Tale
 Child of Light
@@ -2930,6 +2932,7 @@ Fling to the Finish Demo
 Flinthook
 Flintlock: The Siege of Dawn
 FlipWitch - Forbidden Sex Hex
+Flipper Frenzy
 Floating Point
 Florence
 Florensia
@@ -3088,6 +3091,7 @@ Furry Aim Trainer
 Furry Arena [18+]
 Furry Feet
 Furry Shades of Gay
+Furry Shades of Gay 2: A Shade Gayer
 Furry Shades of Gay 3: Still Gayer
 FurryFury
 Fury Unleashed
@@ -4307,6 +4311,7 @@ Kiosk
 KitHack Model Club
 Kitaria Fables
 Kitaria Fables Demo
+Kitchen Wars: Appetiser
 Kitty Ball
 Kitty Powers' Matchmaker
 Kiwi Clicker
@@ -4383,6 +4388,7 @@ LEWDAPOCALYPSE Demo
 LIGHTNING RETURNS: FINAL FANTASY XIII
 LIMBO
 LISA
+LISC
 LOCKDOWN Protocol
 LOEK
 LOLLIPOP CHAINSAW RePOP
@@ -7305,6 +7311,7 @@ Space Pirates and Zombies 2
 Space Rangers HD: A War Apart
 Space Trash Scavenger
 Space Travel Idle
+Space Warlord Organ Trading Simulator
 SpaceBourne 2
 SpaceChem
 SpaceEngine
@@ -7727,6 +7734,7 @@ Swords 'n Magic and Stuff
 Swords and Sandals 2 Redux
 Swords and Sandals Classic Collection
 Swords and Sandals Immortals
+Swords and Soldiers 2 Shawarmageddon
 Swords of Gurrah
 Swords of Legends Online
 Swordsman VR
@@ -8444,6 +8452,7 @@ To The Core
 To The Rescue!
 To the Moon
 ToS Gamepad Tester
+Toaster Arena
 Tobacco Shop Simulator: Prologue
 ToeJam & Earl: Back in the Groove
 Tofas Sahin: Online Car Driving
