@@ -3074,6 +3074,7 @@ Fruit Postal Service
 Fruit Salad
 Fruitbus
 Fruity Smoothie
+Fuel Harvest Together
 Fujiwara Bittersweet
 Full Metal Furies
 Full Mojo Rampage
@@ -4492,6 +4493,7 @@ Let's School Homeroom
 Lethal Company
 Lethal League
 Lethal League Blaze
+Level Devil
 Level Unknown: Backrooms Demo
 Levelhead
 Lewd Gym
@@ -6528,6 +6530,7 @@ Robot Roller-Derby Disco Dodgeball
 Robot Rumble 2
 Rock 'N' Roll Defense
 Rock Life: The Rock Simulator
+Rock Simulator 2
 Rock Star Life Simulator
 Rock of Ages
 Rock of Ages 2

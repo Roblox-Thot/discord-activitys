@@ -3040,6 +3040,7 @@ fsw2.exe
 fsx.exe
 ftk.exe
 ftlgame.exe
+fuel harvest together/fuel harvest together.exe
 full metal furies/brawler2d.exe
 full spectrum warrior/launcher.exe
 full throttle remastered/throttle.exe
@@ -4366,6 +4367,7 @@ lethalleague.app
 lethalleague.exe
 letsplayoinkgames/letsplayoinkgames.exe
 letthemcome.exe
+level devil/level devil.exe
 levelhead/levelhead.exe
 lewd gym/game.exe
 lewdapocalypse demo/lewdapocalypse demo.exe
@@ -9643,6 +9645,7 @@ win64/robobuild-win64-shipping.exe
 win64/robocop-win64-shipping.exe
 win64/roboquest-win64-shipping.exe
 win64/robotwolf-win64-shipping.exe
+win64/rocksimulator2-win64-shipping.exe
 win64/rogue_operatives.exe
 win64/roguecompany.exe
 win64/rogueheist-win64-shipping.exe
