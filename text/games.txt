@@ -816,6 +816,7 @@ Beyond: Two Souls Demo
 Bhop PRO
 Big Ambitions
 Big Bang Empire
+Big Helmet Heroes
 Big Pharma
 Bigscreen Beta
 Biker Garage: Mechanic Simulator
@@ -1430,6 +1431,7 @@ Classic Marathon
 Classic Marathon 2
 Classic Racers
 Classic Sudoku
+Classified: France '44
 Classroom Aquatic Demo
 Clatter
 Cleaner Company: Prologue
@@ -4111,6 +4113,7 @@ J.A.W.S
 JBMod
 JDM: Rise of the Scorpion
 JOY OF PROGRAMMING - Software Engineering Simulator
+JR東日本トレインシミュレータ
 JUMP FORCE
 JUMP KING QUEST
 Jackpot Poker by PokerStars
@@ -5029,6 +5032,7 @@ Minecraft: Story Mode
 Minecraft: Story Mode - Season Two
 Mineirinho Director's Cut
 Miner Ultra Adventures
+Miners Settlement
 Minesweeper
 Mini Airways
 Mini Airways: Prologue
@@ -5414,6 +5418,7 @@ Nextbots In The Backrooms
 Nexus: The Jupiter Incident
 Ni no Kuni™ II: Revenant Kingdom
 NiGHTS into Dreams...
+Nice Day for Fishing
 Nice Jumper
 Niche - a genetics survival game
 Nickelodeon All-Star Brawl 2
@@ -5522,7 +5527,6 @@ Nunholy
 Nyan Cat: Lost In Space
 O2Jam
 OBEY
-OBS Studio
 OBSCURA
 OCTOPATH TRAVELER
 OH MY GOD, LOOK AT THIS KNIGHT
@@ -7607,6 +7611,7 @@ Summer with Mia Season 1
 Summerland
 Summer~Life in the Countryside~
 Summoners War
+Sumo
 Sun Haven
 Sundered
 Sunderfolk
