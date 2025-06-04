@@ -120,6 +120,7 @@ a shelter full of cats/shelter.exe
 a short hike/ashorthike.exe
 a sky full of stars/advhd.exe
 a space for the unbound/a space for the unbound.exe
+a story about farting/a story about farting.exe
 a study in steampunk choice by gaslight.app
 a taste of the past/a taste of the past.exe
 a tower full of cats/tower.exe
@@ -963,6 +964,7 @@ bloodbowldeathzone/bbdz.exe
 bloodlinechampions.exe
 bloodragedigitaledition/bloodrage.exe
 bloodrayne terminal cut/rayne1.exe
+bloodshed/bloodshed.exe
 bloodstained curse of the moon 2/game.exe
 bloodstainedrotn-win64-shipping.exe
 bloodtypers/blood typers.exe
@@ -3557,6 +3559,7 @@ hellpoint the thespian feast/hellpoint.exe
 hellpoint/hellpoint.exe
 hellseed_demo/hellseed_demo.exe
 hellsign/hellsign.exe
+hellslave/hellslave.exe
 hellsweepervr/hellsweepervr.exe
 helltaker/helltaker.exe
 helmet heroes/helmet heroes.exe
@@ -5314,6 +5317,7 @@ nobu16/nobu16.exe
 nocaseunsolved/nocaseunsolved.exe
 nocturnals/nocturnals.exe
 nodebuster/nodebuster.exe
+noflash/noflash.exe
 noheroeshere/nhh_build.exe
 noita/noita.exe
 nomad idle/nomadidle.exe
@@ -8014,6 +8018,7 @@ tiny heroes 2/tiny heroes 2.exe
 tiny pasture/tinypasture.exe
 tiny rogues/tiny rogues.exe
 tiny tactics/tiny tactics.exe
+tiny terry's turbo trip/tiny terry's turbo trip.exe
 tiny town vr/tiny town vr.exe
 tinybunny/tinybunny.exe
 tinycombatarena/arena.exe

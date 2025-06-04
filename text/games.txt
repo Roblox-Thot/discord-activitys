@@ -110,6 +110,7 @@ A Shelter Full of Cats
 A Short Hike
 A Sky Full of Stars
 A Space for the Unbound
+A Story About Farting
 A Story About My Uncle
 A Study in Steampunk: Choice by Gaslight
 A Taste of the Past
@@ -928,6 +929,7 @@ Blood: One Unit Whole Blood
 BloodRayne: Terminal Cut
 Bloodbath Kavkaz
 Bloodline Champions
+Bloodshed
 Bloodstained: Curse of the Moon
 Bloodstained: Curse of the Moon 2
 Bloodstained: Ritual of the Night
@@ -3638,6 +3640,7 @@ Hello Neighbor
 Hello Neighbor Alpha 2
 Hellpoint
 Hellpoint: The Thespian Feast
+Hellslave
 Hellsplit: Arena
 Hellsweeper VR
 Helltaker
@@ -5475,6 +5478,7 @@ No Time To Explain Remastered
 No Time to Relax
 No Umbrellas Allowed
 No one lives under the lighthouse
+NoFlash
 NoLimits 2 Roller Coaster Simulation
 NoLimits 2 Roller Coaster Simulation Demo
 Noble Fates
@@ -8444,6 +8448,7 @@ Tiny Pasture
 Tiny Rogues
 Tiny Survivors
 Tiny Tactics
+Tiny Terry's Turbo Trip
 Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure
 Tiny Tina's Wonderlands
 Tiny Town VR
