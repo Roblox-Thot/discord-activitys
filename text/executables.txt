@@ -4821,6 +4821,7 @@ midnight murder club demo/midnightmurderclub.exe
 midnight paradise/midnightparadise.exe
 midnight ride/midnight ride.exe
 might & magic heroes vi.exe
+might & magic x - legacy/might and magic x legacy.exe
 might and magic clash of heroes/clashofheroes.exe
 might and magic heroes vi/might & magic heroes vi.exe
 mighty party/mighty_party.exe
