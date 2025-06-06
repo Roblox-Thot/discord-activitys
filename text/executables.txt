@@ -2304,6 +2304,7 @@ drunkn bar fight on halloween/dbfh.exe
 drunkn bar fight/dbf.exe
 ds.exe
 dubdash.exe
+duck detective the ghost of glamping/duck detective - the ghost of glamping.exe
 duck detective the secret salami/duck detective - the secret salami.exe
 duck paradox/duck paradox.exe
 duck simulator 2/duck simulator 2.exe
@@ -2821,6 +2822,7 @@ fifa16.exe
 fifa17.exe
 fifa18.exe
 fifa19/fifa19.exe
+fight angelse/fightangelse.exe
 fight crab/fightcrab.exe
 fight knight/fightknight.exe
 fight of animals/foa.exe
@@ -5682,6 +5684,7 @@ pennysbigbreakaway/pennysbigbreakaway.exe
 pentiment/pentiment.exe
 penumbra black plague/oalinst.exe
 people playground/people playground.exe
+pepper grinder/peppergrinder.exe
 per aspera/per aspera.exe
 peripeteia/peripeteia.exe
 perpetuum.exe
@@ -8526,6 +8529,7 @@ walkingdead101.exe
 walkingdead4.exe
 wall world/wallworld.exe
 wall-e/gamesetup.exe
+wallpaper_play/wallpaperplay.exe
 waltz of the wizard/waltzofthewizard.exe
 wantedraccoon/wantedraccoon.exe
 war dust/wardust.exe
