@@ -406,6 +406,7 @@ Antihero
 Antimatter Dimensions
 Antonblast
 Antonblast Demo
+Anvil Empires - Massive Battle Stress Test
 Anvil Saga
 Aooni
 Aperture Desk Job
@@ -2324,6 +2325,7 @@ Duke Nukem 3D: Megaton Edition
 Duke Nukem Forever
 Dumb Castle
 Dummynation
+Dune: Awakening
 Dune: Awakening - Character Creator & Benchmark Mode
 Dune: Imperium
 Dune: Spice Wars
