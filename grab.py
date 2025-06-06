@@ -3,7 +3,7 @@ import http.client, json
 with open("json/detectable.json",'r+') as file:
     conn = http.client.HTTPSConnection("discord.com")
 
-    conn.request("GET", "/api/v9/applications/detectable")
+    conn.request("GET", "/api/v10/applications/detectable")
 
     res = conn.getresponse()
     data = res.read()
