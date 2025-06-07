@@ -897,6 +897,7 @@ blackdesert64.exe
 blackguards 2.exe
 blackguards.exe
 blackhole/bh.exe
+blackjack 21 blackjackist/blackjack.exe
 blackjack championship/blackjack championship.exe
 blackjack&waifus_win64/blackjack&waifus.exe
 blacklist_dx11_game.exe
@@ -5401,6 +5402,7 @@ odd realm/oddrealm.exe
 oddworld abes exoddus/exoddus.exe
 oddworld abes oddysee/abewin.exe
 oddworld munchs oddysee/munch.exe
+off demo/off.exe
 off-peak/off-peak steam 2.0.exe
 office space idle profits/officespace.exe
 offroad mechanic simulator prologue - first job/offroad mechanic simulator prologue.exe
@@ -6676,6 +6678,7 @@ shapez.io/shapezio.exe
 shark attack deathmatch 2/shark attack deathmatch 2.exe
 shark simulator/shark_simulator.exe
 sharpshooter3d/sharpshooter3d.exe
+shattered minds/shattered_minds.exe
 shattered pixel dungeon/shattered pixel dungeon.exe
 shatteredskies.exe
 shatteredskies/lms.exe
@@ -7130,6 +7133,7 @@ stardeus/stardeus.exe
 stardew valley.exe
 stardew valley/stardew valley.exe
 starfield/starfield.exe
+starlight revolver demo/halcyondive.exe
 starmancer/starmancer.exe
 starpoint gemini 2/starpointgemini2.exe
 stars end/stars end.exe
@@ -7721,6 +7725,7 @@ the goatman/the goatman.exe
 the good time garden/the good time garden.exe
 the great circle/thegreatcircle.exe
 the greatest penguin heist of all time/penguin heist.exe
+the grey dream/thegreydream.exe
 the guild ii - pirates of the european seas/guildii.exe
 the happyhills homicide/thehappyhillshomicide.exe
 the hardest game ever/the hardest game ever.exe
@@ -9923,6 +9928,7 @@ win64/thisbedwemade-win64-shipping.exe
 win64/thps12.exe
 win64/threshold-win64-shipping.exe
 win64/thunder2305-win64-shipping.exe
+win64/thunderhorseclient-win64-shipping.exe
 win64/titan-win64-shipping.exe
 win64/titanxx-win64-shipping.exe
 win64/tl.exe
@@ -10399,6 +10405,7 @@ yu crossing animals/yu crossing animals.exe
 yu escape  monday/yu.exe
 yu-gi-oh!  master duel/masterduel.exe
 yu-gi-oh! duel links/dlpc.exe
+yu-gi-oh! early days collection/yugioh_early_days_collection.exe
 yu-gi-oh! legacy of the duelist link evolution/yugioh.exe
 yu-gi-oh! legacy of the duelist/yugioh.exe
 yugo the non-game/yugo the non-game.exe

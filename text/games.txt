@@ -863,6 +863,7 @@ BlackShot: Mercenary Warfare FPS
 Black_Faith.
 Blackguards
 Blackguards 2
+Blackjack 21: Blackjackist
 Blackjack Championship
 Blacklight: Retribution
 Blackout Z: Slaughterhouse Edition
@@ -2527,6 +2528,7 @@ Epic Battle Fantasy 5
 Epic Roller Coasters
 Epido
 Epistory - Typing Chronicles
+Equinox: Homecoming
 Eraser
 Erenshor
 EroPhone
@@ -5540,6 +5542,7 @@ O2Jam
 OBEY
 OBSCURA
 OCTOPATH TRAVELER
+OFF Prologue
 OH MY GOD, LOOK AT THIS KNIGHT
 OHV
 OKAMI HD / 大神 絶景版
@@ -7029,6 +7032,7 @@ Shark Simulator
 SharpShooter3D
 Shashingo: Learn Japanese with Photography
 Shattered Lights
+Shattered Minds
 Shattered Pixel Dungeon
 Shattered Skies
 She Sees Red
@@ -7463,6 +7467,7 @@ Stardeus
 Stardeus Demo
 Stardew Valley
 Starfield
+Starlight Re:Volver
 Starmancer
 Starpoint Gemini 2
 Stars End
@@ -8099,6 +8104,7 @@ The Golf Club 2™
 The Good Time Garden
 The Great War: Western Front™
 The Greatest Penguin Heist of All Time
+The Grey Dream
 The Guild 2 Renaissance
 The Guild 3
 The Guild Gold Edition
@@ -9438,6 +9444,7 @@ Yu Crossing Animals
 Yu Escape / Monday
 Yu-Gi-Oh!  Master Duel
 Yu-Gi-Oh! Duel Links
+Yu-Gi-Oh! EARLY DAYS COLLECTION
 Yu-Gi-Oh! Legacy of the Duelist
 Yu-Gi-Oh! Legacy of the Duelist : Link Evolution
 Yugo: the non-game
