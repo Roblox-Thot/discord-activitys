@@ -1746,6 +1746,7 @@ Cute Honey
 Cute Honey 2
 Cyber Hook
 Cyber Hook Demo
+Cyber Knights: Flashpoint
 Cyber Manhunt
 Cyberdimension Neptunia: 4 Goddesses Online
 Cyberpunk 2077
@@ -1976,6 +1977,7 @@ Deep Dungeons of Doom
 Deep Rock Galactic
 Deep Rock Galactic: Survivor
 Deep Sky Derelicts
+Deep Sleep Trilogy
 Deep The Game
 Deepest Sword
 Deeply Dark
@@ -3540,6 +3542,7 @@ Hammerwatch II
 Hammerwatch II Demo
 Hamster
 Hamster Combat
+Hamster Hustle
 Hamster Playground
 Hand Simulator
 Hand Simulator: Horror
@@ -9012,6 +9015,7 @@ VoiceAttack Demo
 Void Bastards
 Void Crew
 Void Stranger
+Void War
 Void Whispers
 Voidigo
 Volcano Princess
@@ -9355,6 +9359,7 @@ Wrecked
 Wreckfest
 Wreckfest 2
 Wrench
+WrestleQuest
 Wrestling Empire
 Wrestling Empire Demo
 Wulverblade
