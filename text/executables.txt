@@ -5646,6 +5646,7 @@ pathofexile2/pathofexileegs.exe
 pathologic 3 quarantine/pathologic3.exe
 pathologic/pathologic.exe
 pathway/pathway.exe
+patrician iii/p3setup.exe
 patrick's parabox demo/patrick's parabox.exe
 patrick's parabox/patrick's parabox.exe
 paunch 2/paunch 2.exe
@@ -6633,6 +6634,7 @@ seum.exe
 sevgilim/sevgilim.exe
 sex & blood vampires/sex & blood vampires.exe
 sex and the furry titty 2/furry titty 2.exe
+sex and the furry titty 3/sex and the furry titty 3.exe
 sex coach hot yoga - prologue/sex coach hot yoga - prologue.exe
 sex desert mad lust/sex desert mad lust.exe
 sex of thrones/sex of thrones.exe
@@ -8171,6 +8173,7 @@ trailer park boys greasy money/game.exe
 trailmakers/trailmakers.exe
 trails in the sky the 3rd/ed6_win3_dx9.exe
 trails of cold steel/ed8.exe
+train driver 2/traindriver2.exe
 train fever/trainfever.exe
 train mechanic simulator 2017/tms.exe
 train station renovation - first job/trainstationrenovation.exe
@@ -10091,6 +10094,7 @@ win_x86/scania_truck_driving_simulator.exe
 win_x86/trucks_n_trailers.exe
 windblown/windblown.exe
 windbound/windboundwindows.exe
+windjammers 2/windjammers2.exe
 windlands 2/windlands2.exe
 windlands/windlands_win_x64.exe
 windowkill/windowkill-vulkan.exe
