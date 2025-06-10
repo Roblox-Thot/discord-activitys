@@ -427,6 +427,7 @@ Ara: History Untold
 Aragami 2
 Arc Apellago
 Arcade Paradise
+Arcade Spirits
 Arcadegeddon
 Arcadius
 Arcana Heart 3 LOVE MAX!!!!!
@@ -3321,6 +3322,7 @@ Golf Galore
 Golf Gang
 Golf It!
 Golf Party
+Golf Peaks
 Golf With Your Friends
 Golfie
 Golfing Over It with Alva Majo
@@ -4211,6 +4213,7 @@ KILL la KILL -IF
 KINGDOM HEARTS -HD 1.5+2.5 ReMIX-
 KINGDOM HEARTS III + Re Mind (DLC)
 Kabounce
+Kabuto Park
 Kaetram
 Kaf village
 Kagura Survivors: Endless Night
@@ -7326,6 +7329,7 @@ South of Midnight
 Soviet Jump Game
 Space Bear
 Space Beast Terror Fright
+Space Calibrator
 Space Commander: War and Trade
 Space Crew
 Space Empires IV Deluxe
@@ -7993,6 +7997,7 @@ The Black Masses
 The Black Masses Demo
 The Black Watchmen
 The Bloodline
+The Boba Teashop
 The Bonerooms
 The Book of Unwritten Tales 2
 The Book of Unwritten Tales: The Critter Chronicles
@@ -8891,6 +8896,7 @@ UpGun
 Uplink
 UpnDown
 Uptasia
+Urban Jungle
 Urban Rivals
 Urbek City Builder
 Urbek City Builder: Prologue
@@ -9103,6 +9109,7 @@ War for the Overworld
 War of Rights
 War on the Sea
 WarThunder
+Warborne Above Ashes (Demo)
 Warbox
 Warcraft III
 Warface
@@ -9256,6 +9263,7 @@ WildStar
 Wildermyth
 Wildfire
 Wildfrost
+Wildgate - Open Beta
 Wildlife Park 2
 Wildmender
 Will Glow the Wisp

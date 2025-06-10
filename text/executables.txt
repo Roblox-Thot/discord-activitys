@@ -1,6 +1,7 @@
 -arcane raise-/game.exe
 .autorun/autorun.exe
 /haloinfinite.exe
+01spacecalibrator/spacecalibrator.exe
 10 minutes till dawn/minutestilldawn.exe
 10 second ninja x/10snx.exe
 100 aliens cats/100 aliens cats.exe
@@ -3261,6 +3262,7 @@ goldrushthegame.exe
 golf defied/golf defied.exe
 golf galore/golf galore.exe
 golf gang/golf gang.exe
+golf peaks/golf peaks.exe
 golf with your friends.exe
 golfaround/golfaround.exe
 golfie/golfie.exe
@@ -4102,6 +4104,7 @@ justfishing.exe
 justice_league_vr_the_complete_experience-1.0.0-htcvive-release.exe
 justice_league_vr_the_complete_experience-1.0.1-htcvive-release.exe
 jwe.exe
+kabuto park/kabutopark.exe
 kadomon/kadomon hyper auto battlers.exe
 kaerimichi/kaerimichi.exe
 kag.exe
@@ -7919,6 +7922,7 @@ the_settlers/the_settlers.exe
 thea 2 the shattering/thea2.exe
 thea the awakening/thea.exe
 theblu/theblu.exe
+thebobateashop/the boba teashop.exe
 thebridge/the bridge.exe
 thebureau.exe
 thecatlady/thecatlady.exe
@@ -8391,6 +8395,7 @@ unworthy/unworthy.exe
 updater/sansar.exe
 uplink.exe
 uptasia/uptasiaapp.exe
+urban jungle/urbanjungle.exe
 urban rivals/urban rivals.exe
 urbek prologue/urbek.exe
 urbek/urbek.exe
@@ -8553,6 +8558,7 @@ war selection/glyphengine.exe
 war trigger 3/war trigger 3.exe
 war-win64-shipping.exe
 war3.exe
+warborne/warborne.exe
 warcraft iii.app
 warcraft iii.exe
 warcraft iii/frozen throne.exe
@@ -9460,6 +9466,7 @@ win64/mythforce-win64-shipping.exe
 win64/naruto-win64-shipping.exe
 win64/nbaplaygrounds-win64-shipping.exe
 win64/nbaplaygrounds2-win64-shipping.exe
+win64/nebulaclient-win64-shipping.exe
 win64/nekopara.exe
 win64/nether.exe
 win64/newgreedland-win64-shipping.exe
@@ -10101,6 +10108,7 @@ windowkill/windowkill-vulkan.exe
 windows-64/vangers.exe
 windows-i686/actinglessons.exe
 windows-i686/angels with scaly wings.exe
+windows-i686/arcadespirits.exe
 windows-i686/brokendreamers.exe
 windows-i686/carpe diem.exe
 windows-i686/cinderellaphenomenon.exe
