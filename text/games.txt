@@ -3126,6 +3126,7 @@ GOD EATER 2 Rage Burst
 GOD EATER 3
 GOD EATER RESURRECTION
 GORN
+GORN 2
 GPRO
 GRANDIA HD Remaster
 GRANDMA
@@ -7226,6 +7227,7 @@ Smile For Me
 Smilemo
 Smithworks
 Smushi Come Home
+Snacko
 Snail Simulator
 Snake Force
 Snake Pass
@@ -8929,6 +8931,7 @@ VR HOT
 VR Kanojo
 VR Secretary
 VRC PRO
+VRCFaceTracking
 VRChat
 VRMark
 VRoid Clothing Maker
@@ -9051,6 +9054,7 @@ WEBFISHING
 WGT Golf
 WHAT THE CAR?
 WHAT THE GOLF?
+WHAT THE PAK?!
 WILD HEARTS™
 WITCH ON THE HOLY NIGHT
 WORLD OF FINAL FANTASY
