@@ -4975,6 +4975,7 @@ monopoly plus/monopoly.exe
 monopoly poker/monopoly poker.exe
 monster camp demo/monstercampdemo.exe
 monster cards/monstercards.exe
+monster care simulator/monster care simulator.exe
 monster crown/monster crown.exe
 monster girl 1,000/game.exe
 monster hunter rise sunbreak demo/mhrisesunbreakdemo.exe
@@ -5778,6 +5779,7 @@ pizza frenzy/popcapgame1.exe
 pizza possum/pizzapossum.exe
 pizza tower/pizzatower.exe
 pla_toon-win64-shipping.exe
+placid plastic desktop/placid plastic desktop.exe
 placid plastic duck simulator/placid plastic duck simulator.exe
 plagueincevolved.exe
 plane mechanic simulator/pms_build.exe
@@ -5823,6 +5825,7 @@ pocket bravery demo/bravery.exe
 pocket mirror - goldenertraum/game.exe
 pocket waifu pet/pocketwaifu.exe
 pocket waifu/pw_steam.exe
+poco/poco.exe
 poe/pathofexile.exe
 pogostuck/pogostuck.exe
 poi.exe
@@ -9715,6 +9718,7 @@ win64/saofd.exe
 win64/sapphire_safari-win64-shipping.exe
 win64/sas-win64-shipping.exe
 win64/sauna-win64-shipping.exe
+win64/sb-win64-shipping.exe
 win64/sb2-win64-shipping.exe
 win64/scarletnexus-win64-shipping.exe
 win64/scavenger-win64-shipping.exe
@@ -10312,6 +10316,9 @@ wuppo/wuppo.exe
 wurm online/wurmlauncher64.exe
 wurmlauncher64.exe
 wuthering waves game/client/binaries/win64/client-win64-shipping.exe
+wuthering waves.app
+wuthering waves.exe
+wutheringwaves.app
 ww3-win64-shipping.exe
 wwe 2k19/wwe2k19_x64.exe
 wwe 2k22/wwe2k22_x64.exe

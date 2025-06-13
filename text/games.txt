@@ -5128,6 +5128,7 @@ Mondealy: Day One
 Monkey Island™ 2 Special Edition: LeChuck's Revenge™
 Monolight
 Monopoly Plus
+Monster Care Simulator
 Monster Crown
 Monster Energy Supercross - The Official Videogame
 Monster Energy Supercross - The Official Videogame 2
@@ -5998,6 +5999,7 @@ Pizza Connection 3
 Pizza Frenzy
 Pizza Possum
 Pizza Tower
+Placid Plastic Desktop
 Placid Plastic Duck Simulator
 Plague Inc: Evolved
 Plane Mechanic Simulator
@@ -6039,6 +6041,7 @@ Pocket Bravery Demo
 Pocket Mirror ~ GoldenerTraum
 Pocket Waifu
 Pocket Waifu: Desktop Pet
+Poco
 Pogo Rogue
 Pogostuck: Rage With Your Friends
 Poi
@@ -7512,6 +7515,7 @@ Steel Ocean
 Steel Rats
 Steelrising
 Steep
+Stellar Blade™
 Stellar Impact
 Stellar Initiative
 Stellaris
