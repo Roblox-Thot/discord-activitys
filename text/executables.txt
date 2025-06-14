@@ -145,6 +145,7 @@ ac3sp.exe
 ac4bfmp.exe
 ac4bfsp.exe
 academiaschoolsimulator/academia64.exe
+academy love saga tennis angels ex/tennis angels ex.exe
 acbmp.exe
 acbsp.exe
 acc.exe
@@ -2637,6 +2638,7 @@ exocolonist/exocolonist.exe
 exoprimal(betatest)/exoprimal_beta.exe
 expeditions viking/expeditions viking.exe
 expendabros.exe
+exploding kittens 2/explodingkittens.exe
 exploratombe/tombrumble.exe
 extremely powerful capybaras training grounds/extremely_powerful_capybaras.exe
 eye.exe
@@ -9158,6 +9160,7 @@ win64/fmf-win64-shipping.exe
 win64/fmf2-win64-shipping.exe
 win64/fna-win64-shipping.exe
 win64/fnaf9-win64-shipping.exe
+win64/fnaf_sotm-win64-shipping.exe
 win64/fobia-win64-shipping.exe
 win64/folklorehunter-win64-shipping.exe
 win64/foreverskies-win64-shipping.exe
@@ -9689,6 +9692,7 @@ win64/robobuild-win64-shipping.exe
 win64/robocop-win64-shipping.exe
 win64/roboquest-win64-shipping.exe
 win64/robotwolf-win64-shipping.exe
+win64/rocksimulator-win64-shipping.exe
 win64/rocksimulator2-win64-shipping.exe
 win64/rogue_operatives.exe
 win64/roguecompany.exe

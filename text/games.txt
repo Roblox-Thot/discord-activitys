@@ -192,6 +192,7 @@ Absolver
 Abyss
 Abyss The Forgotten Past: Prologue
 Academia : School Simulator
+Academy Love Saga: Tennis Angels EX
 Acceleration of SUGURI 2
 Accident
 Accident: The Pilot
@@ -2631,6 +2632,7 @@ Expedition Agartha
 Expeditions: A MudRunner Game
 Expeditions: Rome
 Expeditions: Viking
+Exploding Kittens® 2
 Explore Fushimi Inari
 Extremely Powerful Capybaras
 Extremely Powerful Capybaras: Training Grounds
@@ -2923,6 +2925,7 @@ Five Nights at Freddy's 3
 Five Nights at Freddy's 4
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
+Five Nights at Freddy's: Secret of the Mimic
 Five Nights at Freddy's: Security Breach
 Five Nights at Freddy's: Sister Location
 Five nights at Floppa
@@ -6560,6 +6563,7 @@ Robot Roller-Derby Disco Dodgeball
 Robot Rumble 2
 Rock 'N' Roll Defense
 Rock Life: The Rock Simulator
+Rock Simulator
 Rock Simulator 2
 Rock Star Life Simulator
 Rock of Ages
