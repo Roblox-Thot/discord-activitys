@@ -1190,6 +1190,7 @@ call to exist/call to exist.exe
 call_to_arms.exe
 callofcthulhu.exe
 caloriemate liquid for game creators/caloriemate liquid for game creators.exe
+camper van make it home/campervanmakeithome.exe
 camping simulator the squad/camping_simulator_thesquad.exe
 canvas of kings/canvasofkings.exe
 canvas the gallery game/canvasthegallery.exe
@@ -3078,6 +3079,7 @@ future fragments/future_fragments.exe
 future soldier dx11.exe
 future soldier.exe
 futurewars.exe
+g-force/gforce.exe
 g01/binaries/win64/g01client-win64-shipping.exe
 gacha girls united/gacha girls unite.exe
 gachi heroes/nw.exe
@@ -4645,6 +4647,7 @@ maniaplanet.exe
 maniaplanet_tmstadium/maniaplanet.exe
 manifold garden/manifoldgarden.exe
 mannequin/mannequin.exe
+manosaba_demo/manosaba.exe
 mansions of madness/mansions of madness.exe
 manual samuel/manual samuel.exe
 mapleroyals.exe
@@ -4891,6 +4894,7 @@ mining mechs/mining mechs.exe
 minionmasters.exe
 minit/minit.exe
 minoria/minoria.exe
+minutescape/minutescape.exe
 miraclevn/miraclevn.exe
 mirror maker/mirror maker.exe
 mirror/game.exe
@@ -5340,6 +5344,7 @@ nomad idle/nomadidle.exe
 nomad survival/nomad survival.exe
 nomad.exe
 nomnomgalaxy/nomnomgalaxy.exe
+none shall intrude/nsi.exe
 nonogram - master's legacy/nonogram - master's legacy.exe
 nonvr/the break in.exe
 norco/norco.exe
@@ -6923,6 +6928,7 @@ soda dungeon 2/sodadungeon2.exe
 soda dungeon/dungeon.exe
 software inc/software inc.exe
 sokobond/sokobond.exe
+sol cesto/solcesto.exe
 solar 2/solar2.exe
 soldat/soldat.exe
 soldierfront2/dfubg.exe
@@ -9433,6 +9439,7 @@ win64/miasma-win64-shipping.exe
 win64/mid-win64-shipping.exe
 win64/midnightghosthunt-win64-shipping.exe
 win64/midnightsuns-win64-shipping.exe
+win64/mindseye-win64-shipping.exe
 win64/mining-win64-shipping.exe
 win64/miniroyale.exe
 win64/mir4s.exe
@@ -9818,6 +9825,7 @@ win64/splitfiction.exe
 win64/spookystation-win64-shipping.exe
 win64/sprawl-win64-shipping.exe
 win64/sps-win64-shipping.exe
+win64/spyfall-win64-shipping.exe
 win64/spyro-win64-shipping.exe
 win64/sqcclient-win64-shipping.exe
 win64/sqcgame.exe
@@ -9906,6 +9914,7 @@ win64/the90sshow.exe
 win64/the_citadel-win64-shipping.exe
 win64/the_enjenir-win64-shipping.exe
 win64/the_purge_dilemma-win64-shipping.exe
+win64/thealters-win64-shipping.exe
 win64/theanomalyproject.exe
 win64/theascent-win64-shipping.exe
 win64/thebackroom-win64-shipping.exe
