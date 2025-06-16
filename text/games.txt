@@ -422,6 +422,7 @@ Apotheon
 Apotheon Arena
 AppGameKit Classic
 April 24th
+Aquarist
 Aquarium Designer
 Aquatico Demo
 Ara: History Untold
@@ -1307,6 +1308,7 @@ Cats and Seek
 Cats and Seek : Kyoto
 Cats and Seek: Dino Park
 Cats and Seek: Toge Land
+Cats in Time
 Cattails
 Cattails: Wildwood Story
 Catto Pew Pew!
@@ -2038,6 +2040,7 @@ Desktop Farm
 Desktop Garage Kit
 Desktop Kanojo
 Desktop Mate
+Desktop Survivors 98
 Desktop+
 Desolate
 Desperados - Wanted Dead or Alive
@@ -2115,6 +2118,7 @@ Dinosaur Fossil Hunter: Prologue
 Dinosaur Hunt
 Dinosaurs A Prehistoric Adventure
 Diplomacy is Not an Option
+Diplomacy is Not an Option: Shareware
 Dirge
 Dirty Bomb
 Dirty League
@@ -7034,6 +7038,7 @@ Shadows of Doubt
 Shadows: Awakening
 Shadows: Heretic Kingdoms
 Shadowverse
+Shadowverse: Worlds Beyond
 Shady Knight
 Shady Knight Demo
 Shady Part of Me
@@ -9799,6 +9804,7 @@ yahtzee girl
 首都高バトル
 魔法少女ノ魔女裁判 死遊体験版
 麻雀一番街 - オンライン対戦麻雀ゲーム
+귀귀살전
 기적의 분식집
 던전앤파이터
 러브 딜리버리

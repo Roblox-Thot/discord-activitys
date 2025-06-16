@@ -408,6 +408,7 @@ application/curio.exe
 apps/sc3u.exe
 aq3d.exe
 aqtion/q2pro.exe
+aquarist/aquarist.exe
 aquarium designer/aquarium designer.exe
 aquarium/game.exe
 aquatico demo/aquatico.exe
@@ -1282,6 +1283,7 @@ cats hidden in christmas/cats hidden in christmas.exe
 cats hidden in italy/cats hidden in italy.exe
 cats hidden in jingle jam/cats hidden in jingle jam.exe
 cats hidden in paris/cats hidden in paris.exe
+cats in time/catsintime.exe
 cats organized neatly/cats organized neatly.exe
 cats/cats.exe
 cattails wildwood story/cattails - wildwood story.exe
@@ -2013,6 +2015,7 @@ desktop garage kit/desktop garage kit.exe
 desktop kanojo/desktopkanojo.exe
 desktop mate/desktopmate.exe
 desktop ricardo/desktopricardo.exe
+desktop survivors 98/ds98.exe
 desktopplus/desktopplus.exe
 desolate/binaries/win64/sh-win64-shipping.exe
 desperados iii demo/desperados iii.exe
@@ -2087,6 +2090,7 @@ dinosaur fossil hunter prologue/dinosaur fossil hunter.exe
 dinosaur hunt africa contract/dinosaurhunterwin.exe
 dinosaurs a prehistoric adventure/dapa.exe
 dinoscape/dinoscape.exe
+diplomacy is not an option shareware/diplomacy is not an option shareware.exe
 diplomacy is not an option/diplomacy is not an option.exe
 dirt 5/dirt5.exe
 dirt rally 2.0/dirtrally2.exe
@@ -6681,6 +6685,7 @@ shadows awakening/shadows.exe
 shadows of doubt/shadows of doubt.exe
 shadows over loathing/shadows over loathing.exe
 shadowverse.exe
+shadowversewb/shadowversewb.exe
 shadowwarrior2.exe
 shady knight demo/shady knight demo.exe
 shady knight/shady knight.exe
@@ -8699,6 +8704,7 @@ whitesilence-win64-shipping.exe
 who needs a hero/who needs a hero.exe
 who wants to be a millionaire/wwtbam.exe
 who's lila/whoslila.exe
+who's next/whosnext.exe
 whosyourdaddy.exe
 widgetinc/widgetinc.exe
 wild animal racing/wild animal racing.exe
