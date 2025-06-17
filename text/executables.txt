@@ -286,6 +286,7 @@ alienbreed2assault.exe
 alina of the arena/alina of the arena.exe
 all is dust/allisdust.exe
 all quiet in the trenches/all quiet in the trenches.exe
+all will fall demo/all will fall.exe
 all-in-one sports vr/allinonesports.exe
 allegiance.exe
 almost home now/almosthomenow.exe
@@ -1088,6 +1089,7 @@ broken edge/broken edge.exe
 broken ground/brokenground.exe
 broken reality/brokenreality.exe
 broken sword shadow of the templars/bs1dc.exe
+broken_arrow/brokenarrow.exe
 brokenage.exe
 brokenheartsisland/brokenheartsisland.exe
 brokeprotocol.exe
@@ -3588,6 +3590,7 @@ hentai - world war ii/hentai ww2.exe
 hentai 3018/hentai.exe
 hentai arena  battle royale/hentai arena.exe
 hentai asmodeus/hentai asmodeus.exe
+hentai bad girls/hentai bad girls.exe
 hentai beach/nw.exe
 hentai crush/hentai crush.exe
 hentai furry 2/hentai furry 2.exe
@@ -5083,6 +5086,7 @@ mro-win64-shipping.exe
 mrprepper/mrprepper.exe
 mst/metal slug tactics.exe
 mtga.exe
+mudborne/mudborne.exe
 muddy heights 2/muddy heights 2.exe
 mudlet.exe
 mudrunner.exe
@@ -5418,6 +5422,7 @@ occupy mars the game/occupymars.exe
 octodad dadliest catch/octodaddadliestcatch.exe
 octogeddon/octogeddon.exe
 odd realm/oddrealm.exe
+oddremedy/oddremedy.exe
 oddworld abes exoddus/exoddus.exe
 oddworld abes oddysee/abewin.exe
 oddworld munchs oddysee/munch.exe
@@ -5691,6 +5696,7 @@ pcsx2-r5875.exe
 pcsx2.exe
 pctomb5.exe
 peacedeath/peacedeath.exe
+peak/peak.exe
 peaks of yore/peaks of yore.exe
 peaky blinders mastermind/peakyblinders.exe
 peeping dorm manager/peeping dorm manager.exe
@@ -9721,6 +9727,7 @@ win64/rsdragonwilds-win64-shipping.exe
 win64/rsg-win64-shipping.exe
 win64/rtstest-win64-shipping.exe
 win64/runnerproject-win64-shipping.exe
+win64/runtimeclient-win64-shipping.exe
 win64/sabotaj.exe
 win64/sackboy-win64-shipping.exe
 win64/saloonsimulator-win64-shipping.exe

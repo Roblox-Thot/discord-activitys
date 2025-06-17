@@ -310,6 +310,7 @@ Aliens: Fireteam Elite
 Alina of the Arena
 All Is Dust
 All Quiet in the Trenches
+All Will Fall - Open Beta
 All-In-One Sports VR
 Alliance of Valiant Arms
 Allods Online
@@ -1051,6 +1052,7 @@ Brilliant Bob
 Bro Falls: Ultimate Showdown
 Broforce
 Broken Age
+Broken Arrow
 Broken Edge
 Broken Ground
 Broken Hearts Island
@@ -3671,6 +3673,7 @@ Hentai - Area 51
 Hentai 3018
 Hentai Arena | Battle Royale
 Hentai Asmodeus
+Hentai Bad Girls
 Hentai Beach
 Hentai Crush
 Hentai Furry
@@ -5234,6 +5237,7 @@ Mr. Prepper Demo
 Mr. Prepper: Prologue
 Mr.Mine
 Mr.President!
+Mudborne
 Muddy Heights 2
 Mudlet
 Mugen Souls
@@ -5614,6 +5618,7 @@ Octarina
 Octodad: Dadliest Catch
 Octogeddon
 Odd Realm
+Odd Remedy
 Oddsparks: An Automation Adventure
 Oddworld: Abe's Exoddus
 Oddworld: Abe's Oddysee
@@ -5787,6 +5792,7 @@ PAYDAY 3
 PAYDAY: The Heist
 PC Building Simulator
 PCSX2
+PEAK
 PGA TOUR 2K21
 PGA TOUR 2K23
 PGA TOUR 2K25
@@ -6281,6 +6287,7 @@ RED HOT VENGEANCE
 REFLEXIA Prototype ver.
 REGEN
 REKA
+REMATCH
 RENNSPORT
 RESIDENT EVIL 2 / BIOHAZARD RE:2 "1-Shot Demo"
 RESIDENT EVIL 7 biohazard / BIOHAZARD 7 resident evil
@@ -8525,8 +8532,8 @@ Tom Clancy's Ghost Recon
 Tom Clancy's Ghost Recon Future Soldier
 Tom Clancy's Ghost Recon Wildlands
 Tom Clancy's Rainbow Six 3
-Tom Clancy's Rainbow Six Siege
 Tom Clancy's Rainbow Six Siege - Test Server
+Tom Clancy's Rainbow Six Siege X
 Tom Clancy's Rainbow Six Vegas
 Tom Clancy's Rainbow Six Vegas II
 Tom Clancy's Splinter Cell
