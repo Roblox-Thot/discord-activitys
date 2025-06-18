@@ -1269,6 +1269,7 @@ Cash Cleaner Simulator
 Casino Simulator
 Cassette Beasts
 Cast & Spell
+Cast n Chill
 Castle Break
 Castle Clicker
 Castle Crashers
@@ -1938,6 +1939,7 @@ Dead by Daylight
 Dead or School
 DeadCore
 DeadPoly
+Deadliest Catch: The Game
 Deadlight: Director's Cut
 Deadlink
 Deadlock
@@ -3095,6 +3097,7 @@ Fruit Mountain
 Fruit Ninja VR
 Fruit Postal Service
 Fruit Salad
+Fruit Stand Fortune
 Fruitbus
 Fruity Smoothie
 Fuel Harvest Together
@@ -4218,6 +4221,7 @@ KARAKARA
 KARDS - The WWII Card Game
 KEO
 KHOLAT
+KIBORG
 KIBORG: Arena
 KIDS
 KILL KNIGHT

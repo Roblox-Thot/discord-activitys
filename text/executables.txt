@@ -1248,6 +1248,7 @@ carx street/carx street.exe
 case animatronics/case.exe
 casino simulator/casino simulator.exe
 cassette beasts/cassettebeasts.exe
+cast n chill/castnchill.exe
 castle break/castlebreak_.exe
 castle clicker/castleclicker.exe
 castle flipper/castle flipper.exe
@@ -1894,6 +1895,7 @@ dead space.exe
 dead state/zrpg.exe
 deadage.exe
 deadbolt/deadbolt_game.exe
+deadbydaylight-egs-shipping.exe
 deadbydaylight-win64-shipping.exe
 deadbydaylight.exe
 deadcells.exe
@@ -1903,6 +1905,7 @@ deadfrontier2.exe
 deadislandgame.exe
 deadislandgame_x86_rwdi.exe
 deadislandriptidegame.exe
+deadliest catch the game/deadliestcatch.exe
 deadly days/deadly days.exe
 deadly30.exe
 deadmaze.exe
@@ -2339,6 +2342,7 @@ dumb castle/dumb castle.exe
 dummynation/dummynation.exe
 dundefgame.exe
 dune imperium/duneimperium.exe
+duneawakening/dunesandbox.exe
 dungeon alchemist/dungeon alchemist.exe
 dungeon defenders 2/dundef2/binaries/win32/dundefgame.exe
 dungeon defenders 2/dundef2/binaries/win32/dungeondefenders.exe
@@ -3050,6 +3054,7 @@ frozen synapse/frozensynapse.exe
 fruit mountain/fruitmountain.exe
 fruit postal service/fruitpostalservice.exe
 fruit salad/fruitsalad.exe
+fruit stand fortune/fruit stand fortune.exe
 fruitbus/fruitbus.exe
 fruitninjavr/fruitninja.exe
 fruity smoothie/fruitysmoothie.exe
@@ -4314,6 +4319,7 @@ launcher/bethesda.net_launcher.exe
 launcher/df_launcher.exe
 launcher/df_launcher_global.exe
 launcher/eg2.exe
+launcher/funcomlauncher.exe
 launcher/ntw3 v9.5.exe
 launcher/sir.exe
 launcher/sniperelite5.exe
@@ -9097,6 +9103,7 @@ win64/druglordtycoon-win64-shipping.exe
 win64/drunkdriver-win64-shipping.exe
 win64/dsbt-win64-shipping.exe
 win64/dunesandbox-win64-shipping.exe
+win64/dunesandbox-win64-test.exe
 win64/dunesandbox_be.exe
 win64/dungeonborne.exe
 win64/dungeoncrawler.exe
@@ -9370,6 +9377,7 @@ win64/kena-win64-shipping.exe
 win64/kgame-win64-shipping.exe
 win64/kholat-win64-shipping.exe
 win64/kibbikeeper-win64-shipping.exe
+win64/kiborg-win64-shipping.exe
 win64/kiborgarena-win64-shipping.exe
 win64/kingdom hearts iii.exe
 win64/kingofretail-win64-shipping.exe
