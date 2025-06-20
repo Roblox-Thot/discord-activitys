@@ -879,6 +879,7 @@ Blacktop Hoops
 Blackwake
 Blade & Sorcery
 Blade & Soul
+Blade & Soul NEO
 Blade Assault
 Blade Strangers
 Blade of God X
@@ -2470,6 +2471,7 @@ Egg Surprise
 Egypt: Old Kingdom
 Einar
 Eiyuden Chronicle: Hundred Heroes
+Eiyuden Chronicle: Rising
 El Paso, Elsewhere
 Eldest Souls
 Eldritch
@@ -2684,6 +2686,7 @@ FATE: Reawakened
 FATE: The Cursed King
 FATE: The Traitor Soul
 FATE: Undiscovered Realms
+FBC: Firebreak
 FCEUX 2.2.3
 FEAR OF FAITH
 FEMINAZI: The Triggering
@@ -3284,6 +3287,7 @@ Gigantic
 Gigantic: Rampage Edition
 Girl and Goblin
 Girls Free
+Girls! Girls! Girls!?
 GizmoVR Video Player
 Gladiabots
 Gladiator Guild Manager
@@ -4303,6 +4307,7 @@ Killing Time
 Kind Words
 Kindergarten
 Kindergarten 2
+Kindergarten 3
 Kindred Spirits on the Roof
 King Arthur's Gold
 King Arthur: Knight's Tale
@@ -5876,6 +5881,7 @@ Papers, Please
 Paradigm
 Paradise Cleaning!
 Paradise Killer
+Paradox Soul
 Paranautical Activity: Deluxe Atonement Edition
 Paranormal Activity: The Lost Soul
 Paranormal Cleanup
@@ -7008,6 +7014,7 @@ Serious Sam HD: The Second Encounter
 Serious Sam VR: The First Encounter
 Serious Sam VR: The Last Hope
 Serious Sam: Siberian Mayhem
+ServiceIT: You can do IT
 Session
 Settlement Survival
 Seven: Enhanced Edition

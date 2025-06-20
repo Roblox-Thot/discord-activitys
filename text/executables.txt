@@ -2459,6 +2459,7 @@ egg raiders/eggraiders.exe
 egg surprise/egg surprise.exe
 egg/egg.exe
 egypt old kingdom/egypt old kingdom.exe
+eiyuden chronicle rising/eiyuden chronicle rising.exe
 eiyuden chronicle/eiyudenchronicle.exe
 el paso, elsewhere/el paso elsewhere.exe
 elderborn/elderborn.exe
@@ -2779,6 +2780,7 @@ fatesamurairemnant/fatesamurairemnant.exe
 fateseeker/fateseeker.exe
 fausts alptraum/game.exe
 fayburrow/fayburrow.exe
+fbcfirebreak/fbcfirebreak.exe
 fc3_blooddragon_d3d11_b.exe
 fceux.exe
 fcprimal.exe
@@ -3224,6 +3226,7 @@ gibbous - a cthulhu adventure/gibbous - a cthulhu adventure.exe
 gibz/gibz.exe
 girl and goblin/girl and goblin.exe
 girls free/girls free.exe
+girls! girls! girls!/girls! girls! girls!.exe
 girls' frontline 2 exilium/gf2_exilium.exe
 gizmovr video player/gizmovr.exe
 gladiabots/gladiabots.exe
@@ -4188,6 +4191,7 @@ killingfloor.exe
 killstreak.tv/killstreak.tv.exe
 kind words/kind words.exe
 kindergarten 2/kindergarten2.exe
+kindergarten 3/kindergarten3.exe
 kindergarten/kindergarten.exe
 kindredspirits.exe
 king arthur knight's tale/ka_kt.exe
@@ -5636,6 +5640,7 @@ paperhead ep0/play paperhead.exe
 papersplease.exe
 paradigm/paradigm.exe
 paradise cleaning!/cleaner.exe
+paradox soul/paradox soul.exe
 paranauticalactivity/paranautical activity.exe
 paranoia place/paranoia place.exe
 paranormasight/paranormasight.exe
@@ -8924,6 +8929,7 @@ win64/bloom&rage.exe
 win64/blueclient-win64-shipping.exe
 win64/bluecode-win64-shipping.exe
 win64/bmibenchmark-win64-shipping.exe
+win64/bnsr.exe
 win64/bob-win64-shipping.exe
 win64/bobb-win64-shipping.exe
 win64/boc-win64-shipping.exe
@@ -9913,6 +9919,7 @@ win64/sw64-win64-shipping.exe
 win64/swatcommander-win64-shipping.exe
 win64/swayzegame.exe
 win64/sycamore-win64-shipping.exe
+win64/symulatorit-win64-shipping.exe
 win64/synced.exe
 win64/systemreshock-win64-shipping.exe
 win64/tabletopbase-win64-shipping.exe
