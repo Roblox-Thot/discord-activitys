@@ -1673,6 +1673,7 @@ Cricket 24
 Crime Boss: Rockay City
 Crime Scene Cleaner
 Crime Scene Cleaner: Prologue
+Crime Simulator
 Crime Simulator (DEMO)
 Crime Simulator: Prologue
 Crimson Snow
@@ -1934,6 +1935,7 @@ Dead Rising 2: Off the Record
 Dead Rising 3
 Dead Rising 4
 Dead Rising Deluxe Remaster
+Dead Seater
 Dead Signal
 Dead Space 2
 Dead Space™
@@ -2434,6 +2436,7 @@ ENCHAIN Demo
 ENDER LILIES
 ENDER MAGNOLIA: Bloom in the Mist
 ENDLESS™ Dungeon
+ENSCROLL
 ENSLAVED™: Odyssey to the West™ Premium Edition
 ESCAPE FROM BOYKISSER
 ESEA
@@ -4660,6 +4663,7 @@ LostWinds
 Lots of Cats in Every Moment
 Loud Run
 Love & Sex: Second Base
+Love Curse: Find Your Soulmate
 Love Esquire
 Love Letter
 Love Sucks: Night One
@@ -6755,6 +6759,7 @@ SIMULACRA 2
 SIMULACRA: Pipe Dreams
 SINNER
 SKALD: Against the Black Priory
+SKETCHY MASSAGE
 SKIBIDI GYATROOMS
 SKYBOX VR Video Player
 SKYE
