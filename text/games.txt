@@ -3843,6 +3843,7 @@ Horse Farm
 Horse Riding Tales
 Hoshizora no Memoria -Wish upon a Shooting Star-
 Hospital 666
+Hot Brass
 Hot Dogs, Horseshoes & Hand Grenades
 Hot Lava
 Hotel Renovator
@@ -4369,6 +4370,7 @@ Knight Online
 Knight's Path: The Tournament
 Knightfall: A Daring Journey
 Knightly Passions
+Knights in Tight Spaces
 Knights of Honor
 Knights of Honor II: Sovereign
 Knights of Pen and Paper +1
@@ -5192,6 +5194,7 @@ Monument Valley 2
 Moon Hunters
 Moonbase Alpha
 Moonbreaker
+Moonglow Bay
 Moonlighter
 Moonring
 Moons of Madness
@@ -7677,6 +7680,7 @@ Suicide Guy
 Suicide Guy: Sleepin' Deeply
 Suicide Squad: Kill the Justice League
 Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars
+Suit for Hire
 Summer Clover
 Summer Memories
 Summer Nightmare
@@ -8665,6 +8669,7 @@ Tower Princess: Knight's Trial
 Tower Tactics: Liberation
 Tower Unite
 Tower Wars
+Tower Wizard
 Tower and Sword of Succubus
 Tower of Babel: Survivors of Chaos (Demo)
 Tower of Fantasy
@@ -9622,6 +9627,7 @@ eWorlds
 fault - milestone one
 fin-dev
 gogh: Focus with Your Avatar
+hack_me
 hexceed
 how do you Do It?
 iDigging
