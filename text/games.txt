@@ -185,6 +185,7 @@ Aaero
 Abalyte
 Abandon Ship
 Abiotic Factor
+Above Snakes
 Above Snakes: Prologue
 Absconding Zatwor
 Absolute Drift
@@ -2676,6 +2677,7 @@ F1® 25
 F1® Manager 2022
 F1® Manager 2023
 F1® Manager 2024
+FACEMINER
 FAIRY TAIL
 FAIRY TAIL: DUNGEONS
 FAITH
@@ -2797,6 +2799,7 @@ Fallout Tactics
 Fallout: New Vegas
 False Front
 Family Breeding
+Family Crush
 Family Man
 Fangs
 Fantastic Haven: Prologue
@@ -4893,6 +4896,7 @@ Mars Horizon
 Martha Is Dead
 Martial Arts Brutality
 Martial Law
+Marvel Contest of Champions
 Marvel Heroes 2015
 Marvel Heroes 2016
 Marvel Puzzle Quest
@@ -9729,6 +9733,7 @@ yahtzee girl
 コイカツ / Koikatsu Party
 シロナガス島への帰還 -Return to Shironagasu Island-
 スーパーロボット大戦V
+ソフィーのアトリエ ～不思議な本の錬金術士～ DX
 ソードアート・オンライン フラクチュアード デイドリーム
 ダンジョン崩し
 ドキドキAI尋問ゲーム 完全版

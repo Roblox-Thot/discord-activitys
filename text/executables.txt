@@ -133,6 +133,7 @@ abalyte/abalyte.exe
 abandon ship/abandonship.exe
 abi-dos/abi-dos.exe
 above snakes prologue/above snakes.exe
+above snakes/above snakes.exe
 absconding zatwor/absconding zatwor.exe
 absolute drift/absolutedrift.exe
 absolver-win64-shipping.exe
@@ -514,6 +515,7 @@ atdeadofnight/atdeadofnight.exe
 atelier ryza 2/atelier_ryza_2.exe
 atelier ryza 3/atelier_ryza_3.exe
 atelier ryza/atelier_ryza.exe
+atelier sophie dx/atelier_sophie_dx.exe
 atelier sophie the alchemist of the mysterious book/a17config.exe
 atelier yumia demo/atelier_yumia.exe
 atelier yumia/atelier_yumia.exe
@@ -2686,6 +2688,7 @@ fable anniversary.exe
 fable.exe
 fablecraft/fablecraft.exe
 fabledom/fabledom.exe
+faceminer/faceminer.exe
 faces of war/facesofwar.exe
 facetheabyss/facetheabyss.exe
 factorio.exe
@@ -2728,6 +2731,7 @@ falloutshelter.exe
 falloutw.exe
 false front/falsefront.exe
 family breeding/familybreeding.exe
+family crush/fc.exe
 family man/familyman.exe
 fantastic haven prologue/fantastic haven.exe
 fantasy girl/fantasy girl.exe
@@ -5995,6 +5999,7 @@ project rtd/rtd.exe
 project torque/projecttorque.exe
 project warlock arctic attack/pw_aa_x64.exe
 project warlock/pw_x64.exe
+project waterfront submission/champions.exe
 project winter demo/projectwinter.exe
 project winter/projectwinter.exe
 project zero deaths/project zero deaths.exe
