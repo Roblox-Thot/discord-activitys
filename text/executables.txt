@@ -3563,6 +3563,7 @@ heartbound/heartbound.exe
 hearthstone.app
 hearthstone.exe
 heartofcrownonline/heartofcrown.exe
+heartofthemachine/heartofthemachine.exe
 hearts of iron iv/hoi4.exe
 heat/heat.exe
 heat_signature.exe
@@ -5110,6 +5111,7 @@ mr.president!/mr.prez.exe
 mro-win64-shipping.exe
 mrprepper/mrprepper.exe
 mst/metal slug tactics.exe
+mtga.app
 mtga.exe
 mudborne/mudborne.exe
 muddy heights 2/muddy heights 2.exe
@@ -7380,6 +7382,7 @@ super fancy pants adventure/sfpa.exe
 super fantasy kingdom demo/super fantasy kingdom.exe
 super friends party/superfriendsparty.exe
 super jigsaw puzzle generations/super jigsaw puzzle generations.exe
+super lesbian animal rpg/game.exe
 super meat boy forever/supermeatboyforever.exe
 super mega baseball 2/supermegabaseball.exe
 super mega baseball 4/supermegabaseball.exe
@@ -8048,6 +8051,7 @@ thomaswasalone.exe
 those games 2/those games 2.exe
 those games/those games.exe
 thrillville07.exe
+thrive heavy lies the crown/thrive hltc.exe
 thrive/thrive.exe
 thronebreaker.exe
 thronefall demo/thronefall.exe
@@ -8958,6 +8962,7 @@ win64/borderlands2vr.exe
 win64/borderlandsgoty.exe
 win64/boston-win64-shipping.exe
 win64/bpmgame-win64-shipping.exe
+win64/br-win64-shipping.exe
 win64/bravely_default_ii-win64-shipping.exe
 win64/bravohotelclient-win64-shipping.protected.exe
 win64/breakaleg-win64-shipping.exe
