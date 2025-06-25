@@ -1,6 +1,5 @@
 -arcane raise-/game.exe
 .autorun/autorun.exe
-/haloinfinite.exe
 01spacecalibrator/spacecalibrator.exe
 10 minutes till dawn/minutestilldawn.exe
 10 second ninja x/10snx.exe
@@ -844,10 +843,12 @@ bin64/gujianol.exe
 bin64/lichdombattlemage.exe
 bin64/newworld.exe
 bin64/tinyandbig.exe
+bin64release/game.exe
 bin_ship/daoriginsconfig.exe
 bin_ship/daupdater.exe
 bin_x86/nyancat.exe
 bina1/testapp.exe
+binaries/ava_be.exe
 binaries/biahh.exe
 binaries/borderlands.exe
 binaries/ck3.exe
@@ -3133,6 +3134,7 @@ game/echocalypse.exe
 game/eldenring.exe
 game/farlonesails.exe
 game/game_win.exe
+game/haloinfinite.exe
 game/how 2 escape.exe
 game/nightreign.exe
 game/performance_test.exe
@@ -3477,6 +3479,7 @@ half_life_caged/hl.exe
 halfdead.exe
 halls of torment prelude/hallsoftorment_demo.exe
 halls of torment/hallsoftorment.exe
+halo infinite/haloinfinite.exe
 halo spartan assault/halospartanassault.exe
 halo trial/halo.exe
 halo.exe
@@ -3669,6 +3672,7 @@ hexologic/hexologic.exe
 hextechmayhem/hextechmayhem.exe
 hidden cats the last of cats/hidden cats the last of cats.exe
 hidden deep/hdeep.exe
+hidden dino cats/hidden dino cats.exe
 hidden folks.exe
 hidden robo cats/hidden robo cats.exe
 hidden through time 2/htt2.exe
@@ -4579,6 +4583,7 @@ lumberjacks dynasty/lumberjacksdynasty.exe
 lumencraft/lumencraft.exe
 lumines remastered/lumines-remastered.exe
 lumini_win64.exe
+luna's fishing garden/fishinggarden.exe
 lunacid - tears of the moon/game.exe
 lunacid/lunacid.exe
 lunar's chosen/lunarschosen.exe
@@ -4765,6 +4770,7 @@ medieval kingdom wars/mkw.exe
 medieval shopkeeper simulator/medieval shopkeeper simulator.exe
 medieval2.exe
 medievalengineers.exe
+meenhancededition/metroexodus.exe
 meet my teacher/meet my teacher.exe
 mega city police prelude/mega city police prelude.exe
 mega man 11/game.exe
@@ -4831,6 +4837,7 @@ metin2/metin2client.exe
 metro 2033 redux/metro.exe
 metro 2033 redux/metro.exe
 metro exodus enhanced edition/metroexodus.exe
+metro exodus/metroexodus.exe
 metro last light redux/metro.exe
 metro simulator 2/metrosimulator2.exe
 metro2033.exe
@@ -7471,7 +7478,6 @@ swiftkit-rs.exe
 swine hd remaster/swinehd.exe
 swing dunk/swing dunk.exe
 swkotor.exe
-swkotor.exe
 swkotor2.exe
 sword art online alicization lycoris/sao_al.exe
 sword art online lost song/saols.exe
@@ -8991,6 +8997,7 @@ win64/capybaraspa-win64-shipping.exe
 win64/caravansandwitch-win64-shipping.exe
 win64/cardealersim-win64-shipping.exe
 win64/cardealersimulator-win64-shipping.exe
+win64/cardshopsim-win64-shipping.exe
 win64/carnal_instinct-win64-shipping.exe
 win64/carrumble-win64-shipping.exe
 win64/carteltycoon-win64-shipping.exe
@@ -9591,6 +9598,7 @@ win64/ouroboros-win64-shipping.exe
 win64/outlast2.exe
 win64/outofammo-win64-shipping.exe
 win64/outofore-win64-shipping.exe
+win64/outworldstation-win64-shipping.exe
 win64/overdrift-win64-shipping.exe
 win64/overlook-win64-shipping.exe
 win64/override-win64-shipping.exe
@@ -9611,6 +9619,7 @@ win64/panicore-win64-shipping.exe
 win64/par-win64-shipping.exe
 win64/paradisekiller-win64-shipping.exe
 win64/paralogue-win64-shipping.exe
+win64/parcel-win64-shipping.exe
 win64/parkbeyond-win64-shipping.exe
 win64/partisans-win64-shipping.exe
 win64/pathless-win64-shipping.exe

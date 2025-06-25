@@ -180,6 +180,7 @@ ATOM RPG
 ATOM RPG Trudograd
 ATOMEGA
 ATRI -My Dear Moments-
+AVA: Dog Tag
 AVICII Invector
 Aaero
 Abalyte
@@ -1246,6 +1247,7 @@ Caravanners: Co-op Open World Camping
 Carcassonne - Tiles & Tactics
 Card Hunter
 Card Shark
+Card Shop Simulator Multiplayer
 CardLife
 Cardboard Town
 Cardfight!! Vanguard Dear Days
@@ -3748,6 +3750,7 @@ Hexologic
 Hextech Mayhem: A League of Legends Story™
 Hi-Fi RUSH
 Hidden Deep
+Hidden Dino Cats
 Hidden Folks
 Hidden Lands
 Hidden Robo Cats
@@ -4705,6 +4708,7 @@ Lumberjack's Dynasty
 Lumberjacked
 Lumencraft
 Lumini
+Luna's Fishing Garden
 Lunacid
 Lunacid - Tears of the Moon
 Lunar's Chosen
@@ -5780,6 +5784,7 @@ Outpost
 Outpost Zero
 Outpost: Infinity Siege
 Outward
+Outworld Station
 Over 9000 Zombies!
 OverDrift Festival
 Overclocked
@@ -5900,6 +5905,7 @@ Paranormal Activity: The Lost Soul
 Paranormal Cleanup
 ParanormalHK
 Paratopic
+Parcel Simulator
 Park Beyond
 Parkasaurus
 Parking Garage Rally Circuit
@@ -6819,7 +6825,6 @@ STAR WARS™ Republic Commando™
 STAR WARS™ Starfighter™
 STAR WARS™: Bounty Hunter™
 STAR WARS™: Dark Forces Remaster
-STAR WARS™: Knights of the Old Republic™
 STAR WARS™: Rogue Squadron 3D
 STAR WARS™: Shadows of the Empire
 STAR WARS™: Squadrons
