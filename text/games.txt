@@ -3586,6 +3586,7 @@ Hand of the Gods
 Handshakes
 Handy Dandy
 Handy Harry's Haunted House Services
+Handyman Fantasy
 Handyman Legend
 Hanyo
 Hanz Puppetguns
@@ -4631,6 +4632,7 @@ Long Live Santa!
 Long Live The Queen
 Longshot [Dev]
 Look Outside
+Looking For Cats In a Badly Drawn City
 Looking For Cats In a Badly Drawn Forest
 Looking Up I See Only A Ceiling
 Loop Hero
@@ -8890,6 +8892,7 @@ Ultimate Zombie Defense
 Ultra Fight Da Kyanta 2
 Ultra Street Fighter IV
 Ultros
+Umamusume: Pretty Derby
 Umineko When They Cry - Answer Arcs
 Umineko When They Cry - Question Arcs
 Umurangi Generation
@@ -9733,6 +9736,7 @@ yahtzee girl
 イナズマイレブン 英雄たちのヴィクトリーロード 全世界ベータテスト体験版 “世界に刻め！イナズママーク”
 ウツロマユ - Hollow Cocoon -
 ウツロマユ - Hollow Cocoon - 体験版
+ウマ娘 プリティーダービー
 ウーマンコミュニケーション
 オクトパストラベラー II
 オートローグ

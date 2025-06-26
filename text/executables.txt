@@ -3503,6 +3503,7 @@ hand simulator.exe
 handshakes/handshakes.exe
 handy harry's haunted house services/handy harry's haunted house services.exe
 handydandywindows/handydandyhandy2020.exe
+handyman fantasy/handymanfantasy.exe
 handyman legend/handyman legend.exe
 hans/hans.exe
 hanyo/hanyo.exe
@@ -4501,6 +4502,7 @@ lonestar/lonestar.exe
 long live santa.exe
 longlivethequeen.exe
 look outside/game.exe
+looking for cats in a badly drawn city/looking for cats in a badly drawn city.exe
 looking for cats in a badly drawn forest/looking for cats in a badly drawn forest.exe
 looking up i see only a ceiling/luisoac.exe
 loop hero demo/loophero_demo.exe
@@ -8388,6 +8390,8 @@ ultra fight da ! kyanta 2/game.exe
 ultrakill demo/ultrakill.exe
 ultrakill/ultrakill.exe
 ultros/ultros.exe
+umamusumeprettyderby/umamusumeprettyderby.exe
+umamusumeprettyderby_jpn/umamusumeprettyderby_jpn.exe
 umineko chiru/umineko5to8.exe
 umineko/umineko1to4.exe
 umurangigeneration/umurangi generation.exe
