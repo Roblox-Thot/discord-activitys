@@ -379,6 +379,7 @@ Angels with Scaly Wings
 Anger Foot
 Anger Foot Demo
 Angry Angry Shark
+Angry Birds VR: Isle of Pigs
 Angry Video Game Nerd Adventures
 Angvik
 Animal Jam
@@ -1309,6 +1310,7 @@ Catan Universe
 Catherine Classic
 Catlateral Damage
 Cats
+Cats Hidden in Bali
 Cats Hidden in Christmas
 Cats Hidden in Italy
 Cats Hidden in Jingle Jam
@@ -5977,6 +5979,7 @@ Persona 4 Arena Ultimax
 Persona 4 Golden
 Persona 5 Royal
 Persona 5 Tactica
+Persona5: The Phantom X
 Perspective
 Pesterquest
 Pesticide Not Required
@@ -6156,6 +6159,7 @@ Prehistoric Kingdom
 Prehistoric Kingdom Demo
 Prepar3D
 Preserve
+Presidents Tower Defense
 Press Any Button
 Press X to Not Die
 Pretty Angel
@@ -7134,6 +7138,7 @@ Shiny The Firefly
 Ship Graveyard Simulator 2: Prologue
 Ship Simulator Extremes
 Ship of Fools
+Ship, Inc.
 Shipping Manager
 Ships At Sea
 Shipwrecked 64
@@ -7763,6 +7768,7 @@ SuperSmash
 SuperTux
 Superbrothers: Sword & Sworcery EP
 Supercar Collection Simulator
+Supercar Collection Simulator: Prologue
 SupercupOnline
 Superfighters Deluxe
 Superflight
@@ -9827,6 +9833,7 @@ yahtzee girl
 東方虹龍洞 ～ Unconnected Marketeers. Demo
 東方鬼形獣 〜 Wily Beast and Weakest Creature.
 極品采花郎
+機動戦士ガンダムSEED BATTLE DESTINY REMASTERED
 死寂（DeathlyStillness）
 永遠消失的幻想鄉 ～ The Disappearing of Gensokyo
 沙威玛传奇 - Shawarma Legend

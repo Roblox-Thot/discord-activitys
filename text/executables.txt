@@ -344,6 +344,7 @@ angel legion/angellegion.exe
 angel wings/angelstory.exe
 anger foot demo/anger foot.exe
 anger foot/anger foot.exe
+angry birds vr isle of pigs/angry-birds-vr-isle-of-pigs.exe
 angry video game nerd adventures/avgn.exe
 angvik/nw.exe
 animal jam - play wild!/play wild.exe
@@ -1287,6 +1288,7 @@ cats and seek  kyoto/cats and seek  kyoto.exe
 cats and seek at dino park/cats and seek at dino park.exe
 cats and seek toge land/cats and seek togeland.exe
 cats and seek/cats and seek.exe
+cats hidden in bali/cats hidden in bali.exe
 cats hidden in christmas/cats hidden in christmas.exe
 cats hidden in italy/cats hidden in italy.exe
 cats hidden in jingle jam/cats hidden in jingle jam.exe
@@ -5721,6 +5723,7 @@ pbbg_win32.exe
 pc building simulator/pcbs.exe
 pc/chicory.exe
 pc/mafia ii definitive edition.exe
+pc/p5x.exe
 pc/roadcraft - retail.exe
 pc/wandersong.exe
 pc/warhammer 40000 space marine 2 - retail.exe
@@ -5946,6 +5949,7 @@ prepar3d.exe
 prerequisites/install_webmdshow.exe
 prerequisites/opencodecs_0.85.17777.exe
 preserve/preserve.exe
+presidents tower defense/presidents tower defense.exe
 press any button/pab.exe
 press x to not die/press x to not die.exe
 prettyangel/prettyangel.exe
@@ -6771,6 +6775,7 @@ shinkansen 0/shinkansen0.exe
 shinobi warfare/shinobi warfare.exe
 shinobi/shinobi.exe
 shiny the firefly/shiny.exe
+ship inc/ship inc.exe
 ship of fools/shipoffools.exe
 ship simulator extremes/splash.exe
 ship/hades2.exe
@@ -7408,6 +7413,7 @@ super sus/super sus.exe
 super totally ultimate dad showdown/studs.exe
 super treasure arena.exe
 superbernieworld/superbernieworld.exe
+supercar collection simulator prologue/supercar collection simulator prologue.exe
 supercarcollectionsimulator/supercar collection simulator.exe
 supercratebox/supercratebox.exe
 supercuponline/supercuponline.exe
@@ -9809,6 +9815,7 @@ win64/sdgundamba-win64-shipping.exe
 win64/sealracing-win64-shipping.exe
 win64/seaplane-win64-shipping.exe
 win64/secretshop.exe
+win64/seed battle destiny remastered.exe
 win64/sengokudynasty-win64-shipping.exe
 win64/seniorproject-win64-shipping.exe
 win64/september_7th-win64-shipping.exe
