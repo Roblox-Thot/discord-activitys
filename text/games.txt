@@ -415,6 +415,7 @@ Antonblast
 Antonblast Demo
 Anvil Empires - Massive Battle Stress Test
 Anvil Saga
+Aokana - Four Rhythms Across the Blue
 Aooni
 Aperture Desk Job
 Aperture Hand Lab
@@ -1165,6 +1166,7 @@ CULTIC Demo
 CUSTOM ORDER MAID 3D2 It's a Night Magic
 CYGNI: All Guns Blazing
 Cabal 2
+Cabernet
 Cadria Item Shop
 Caesar 3
 Cafe Owner Simulator
@@ -2932,6 +2934,7 @@ First Class Escape: The Train of Thought
 First Class Trouble
 First Cut: Samurai Duel
 First Date : Late To Date
+First Strike
 Fish Game
 Fish Idle 2: Underwater Mystery
 Fish Tycoon 2: Virtual Aquarium
@@ -4936,6 +4939,7 @@ Masters of Anima
 Material Girl
 Maurice: In The Predator's Nest
 Max Gentlemen Sexy Business!
+Max Manos
 Max Payne
 Max Payne 2: The Fall of Max Payne
 Max Payne 3
@@ -5383,6 +5387,7 @@ NEKOPARA Vol. 3
 NEKOPARA Vol. 4
 NEO AQUARIUM - The King of Crustaceans -
 NEO Scavenger
+NEO: The World Ends with You
 NEOTOKYO°
 NEOVERSE
 NERTS! Online
@@ -6316,6 +6321,7 @@ RAGE
 RAGE 2
 RAID: Shadow Legends
 RAID: World War II
+RAIDOU Remastered: The Mystery of the Soulless Army
 RAILGRADE
 RAILROADS Online!
 RATSHAKER
@@ -6957,6 +6963,7 @@ Scene Investigators Demo
 Schedule I
 Scheming Through The Zombie Apocalypse: The Beginning
 Scholar's Mate - First Move
+School 666
 School Labyrinth
 School of Dragons: How to Train Your Dragon
 SchoolBoy Runaway
@@ -6996,6 +7003,7 @@ Seasons After Fall
 Second Chance
 Second Extinction™
 Second Galaxy
+Secret Agent Wizard Boy and the International Crime Syndicate
 Secret Files 3
 Secret Neighbor
 Secret Neighbor Beta
@@ -8539,6 +8547,7 @@ Tinkerlands
 Tinkerlands: A Shipwrecked Adventure
 Tinkertown
 Tint 'n Ink
+Tiny Aquarium
 Tiny Bunny
 Tiny Bunny: Prologue
 Tiny Combat Arena

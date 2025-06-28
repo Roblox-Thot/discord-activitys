@@ -387,6 +387,7 @@ aoede_s.exe
 aoede_s.exe
 aogame.exe
 aok hd.exe
+aokana/aokana.exe
 aom_release_final.exe
 aomx.exe
 aooni/aooni.exe
@@ -1161,6 +1162,7 @@ c9/c9.exe
 cabal.exe
 cabal2main.exe
 cabalmain.exe
+cabernet/cabernet.exe
 cadria item shop/cadria.exe
 cafe owner simulator prologue/cafe owner simulator.exe
 cafe owner simulator/cafe owner simulator.exe
@@ -2898,6 +2900,7 @@ firework/game.exe
 fireworks mania/fireworks mania.exe
 first cut samurai duel/firstcutv2.exe
 first date/first date.exe
+firststrikefinalhour/firststrikeclassic.exe
 fish tycoon 2 virtual aquarium/virtual fish tycoon.exe
 fishards/fishards.exe
 fishidle 2/game.exe
@@ -4739,6 +4742,7 @@ masters of anima.exe
 material girl/game.exe
 maurice in the predators nest/maurice.exe
 max gentlemen sexy business!/business.exe
+max manos/max manos.exe
 max payne 2 the fall of max payne/maxpayne2.exe
 max payne/maxpayne.exe
 maximum action/maximum action.exe
@@ -5270,6 +5274,7 @@ nekopara_vol0.exe
 nekopara_vol1.exe
 nemesis perspective/nemesis perspective.exe
 neo cab/neo cab.exe
+neo the world ends with you/neo the world ends with you.exe
 neoaquarium.exe
 neocronclient.exe
 neon abyss demo/neonabyss.exe
@@ -6134,6 +6139,7 @@ ragnarok the lost memories/the lost memories.exe
 ragnarok/ragnarok.exe
 raid world war ii/raid_win64_d3d9_release.exe
 raidland/raidland.exe
+raidou tmotsa/raidou tmotsa.exe
 rail route/rail route.exe
 railroad corporation/railroadcorporationsteam.exe
 railroad tycoon 2 platinum/rt2_plat.exe
@@ -8103,6 +8109,7 @@ tinkerlands a shipwrecked adventure/tinkerlands.exe
 tinkerlands/tinkerlands.exe
 tinkertown/tinkertown.exe
 tint 'n ink/tint n ink.exe
+tiny aquarium/tiny aquarium.exe
 tiny glade/tiny-glade.exe
 tiny heroes 2/tiny heroes 2.exe
 tiny pasture/tinypasture.exe
@@ -9805,6 +9812,7 @@ win64/sb2-win64-shipping.exe
 win64/scarletnexus-win64-shipping.exe
 win64/scavenger-win64-shipping.exe
 win64/scholarsmate-win64-shipping.exe
+win64/school666-win64-shipping.exe
 win64/scorn-win64-shipping.exe
 win64/scp_blackout-win64-shipping.exe
 win64/scpexperiences-win64-shipping.exe
@@ -10160,6 +10168,7 @@ win64/witchofthefernisland-win64-shipping.exe
 win64/witchshunt-win64-shipping.exe
 win64/wizards-win64-shipping.exe
 win64/wol2-win64-shipping.exe
+win64/wonderfulwizard-win64-shipping.exe
 win64/wonderlands.exe
 win64/worldofgoo.exe
 win64/wraphousesimulator-win64-shipping.exe
