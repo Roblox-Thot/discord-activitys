@@ -892,6 +892,7 @@ bit blaster xl/bitblasterxl.exe
 bit heroes.exe
 bit.trip runner/runner.exe
 bitburner/bitburner.exe
+bitcraft online/bitcraft.exe
 bits & bops demo/bits & bops.exe
 bittriprunner2/runner2.exe
 black book prologue/black book.exe
@@ -7258,6 +7259,7 @@ stein.world/stein.world.exe
 steins;gate/game.exe
 steinsgate.exe
 stellar initiative/stellar initiative.exe
+stellar settlers/stellar settlers.exe
 stellarimpact.exe
 stellaris.exe
 stephen's sausage roll/sausage.exe
@@ -9299,6 +9301,7 @@ win64/golfpartyproject.exe
 win64/goofy-win64-shipping.exe
 win64/gopota.exe
 win64/gord-win64-shipping.exe
+win64/goricuddlycarnage-win64-shipping.exe
 win64/gothamknights.exe
 win64/gothicremake.exe
 win64/granny-win64-shipping.exe
