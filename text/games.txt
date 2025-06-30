@@ -2298,6 +2298,7 @@ Dreamscaper: Prologue
 Drift Experience Japan
 Drift GEAR Racing Free
 Drift Horizon Online
+Drift King
 Drift King Demo
 Drift Of The Hill
 Drift Streets Japan
@@ -3657,6 +3658,7 @@ Heartwood Online
 Heat
 Heat Signature
 Heave Ho
+Heaven Will Be Mine
 Heaven's Vault
 Heavenly Bodies
 Heavy Bullets
@@ -4255,6 +4257,7 @@ KILL KNIGHT
 KILL la KILL -IF
 KINGDOM HEARTS -HD 1.5+2.5 ReMIX-
 KINGDOM HEARTS III + Re Mind (DLC)
+KUUKIYOMI: Consider It
 Kabounce
 Kabuto Park
 Kaetram
@@ -5782,6 +5785,7 @@ Out of the Park Baseball 22
 Out of the Park Baseball 23
 Out of the Park Baseball 24
 Out of the Park Baseball 25
+Out of the Park Baseball 26
 OutDrive
 Outbreak Island: Pendulum
 Outcast - A New Beginning
@@ -6673,6 +6677,7 @@ RollerCoaster Tycoon: Deluxe
 RollerCoaster Tycoon® 3: Complete Edition
 Rollerdrome
 Rolling Line
+Roman Triumph: Survival City Builder
 Romance Club
 Romans: Age of Caesar
 Rome: Total War
@@ -7869,6 +7874,7 @@ Synergy Dedicated Server
 Synth Riders
 Syrian Warfare
 System Shock 2
+System Shock 2: 25th Anniversary Remaster
 System Shock Demo
 System Shock: Enhanced Edition
 Szachy dla debili
@@ -9600,6 +9606,7 @@ Zombie Carnage 2
 Zombie Defense
 Zombie Driver HD
 Zombie Estate 2
+Zombie Graveyard Simulator - Prologue
 Zombie Gunship Survival
 Zombie Kill of the Week - Reborn
 Zombie Night Terror

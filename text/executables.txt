@@ -2301,6 +2301,7 @@ dredge/dredge.exe
 drift gear/drift gear.exe
 drift horizon online/drift horizon.exe
 drift king demo/driftking demo.exe
+drift king/driftking.exe
 drift of the hill/drift of the hill.exe
 drift streets japan windows/drift streets japan.exe
 drift21/drift21.exe
@@ -3578,6 +3579,7 @@ hearts of iron iv/hoi4.exe
 heat/heat.exe
 heat_signature.exe
 heave ho/heaveho.exe
+heaven will be mine/heavenwillbemine.exe
 heaven's vault/heaven's vault.exe
 heavenburnsred/heavenburnsred.exe
 heavenly bodies/heavenly bodies.exe
@@ -4300,6 +4302,7 @@ kuboom/build.exe
 kuf crusader/kuf2main.exe
 kukoro stream chat games/kukoro stream chat games.exe
 kunitsu-gami path of the goddess/kunitsugami.exe
+kuukiyomi/kuukiyomi.exe
 kuukiyomi_online/kyonline.exe
 kyle is famous/kyle is famous.exe
 kynseed/kynseed.exe
@@ -5598,6 +5601,7 @@ out of the park baseball 22/ootp22_x64.exe
 out of the park baseball 23/ootp23_x64.exe
 out of the park baseball 24/ootp24.exe
 out of the park baseball 25/ootp25.exe
+out of the park baseball 26/ootp26.exe
 out-windows/mafiaonline.exe
 outbrk/outbrk.exe
 outcast - a new beginning/o2.exe
@@ -6443,6 +6447,7 @@ rollercoaster tycoon world/rollercoaster tycoon world.exe
 rollerdrome/rollerdrome.exe
 rolling line/rollingline.exe
 rollscape/rollscape.exe
+roman triumph/roman triumph survival city builder.exe
 romance club/romance club.exe
 romance of the three kingdoms 13/san13pk_kr.exe
 romance_of_the_three_kingdoms_14/san14pk_ko.exe
@@ -7524,6 +7529,7 @@ synthetik 2/synthetik2.exe
 synthetik arena/synthetik arena.exe
 synthetik.exe
 synthriders/synthriders.exe
+system shock 2 remastered/hathor_shipping_playfab_steam_x64.exe
 system shock.exe
 system shock2.exe
 system/conviction_game.exe
@@ -10573,6 +10579,7 @@ zombidle.exe
 zombidle.exe
 zombie defense/zombiedefense.exe
 zombie estate 2/zombie estate 2.exe
+zombie graveyard simulator - prologue/zombie graveyard simulator prologue.exe
 zombie gunship survival/zgi_steam_win_x64.exe
 zombie kill of the week - reborn/reborn.exe
 zombie night terror/znt.exe
