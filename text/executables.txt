@@ -546,6 +546,7 @@ aura kingdom/launcher.exe
 aurelia/aurelia.exe
 aurora hills chapter 1/aurora hills chapter 1.exe
 auto chess/acphoenix.exe
+auto clicker/autoclicker.exe
 autobahn police simulator 2/highwaypatrol2.exe
 autobahn police simulator/highwaypatrol2015.exe
 autoforge/autoforge.exe
@@ -5541,6 +5542,7 @@ onward.exe
 onward/onward.exe
 ooblets/ooblets.exe
 ootp18.exe
+open at nine/openatnine.exe
 open mod early access prototype/open mod.exe
 open world game the open world game/owgtowg.exe
 opencanvas 7/oc7.exe
@@ -6071,6 +6073,7 @@ punch club.exe
 punkbuster/pbsvc_bc2.exe
 puppet master the game/puppet master the game.exe
 pure pool/mantisconfig.exe
+pure sniper/pure sniper.exe
 purefarming/purefarming.exe
 pureya/pureya.exe
 purple place/purple place.exe
@@ -9652,6 +9655,7 @@ win64/pathless-win64-shipping.exe
 win64/pathoftheabyss-win64-shipping.exe
 win64/patiti-win64-shipping.exe
 win64/payday3client-win64-shipping.exe
+win64/pcm-win64-shipping.exe
 win64/peasantswar18-win64-shipping.exe
 win64/peekaboo-win64-shipping.exe
 win64/peepo_island-win64-shipping.exe

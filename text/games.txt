@@ -562,6 +562,7 @@ Aura Kingdom
 Aurelia
 Aurora Hills: Chapter 1
 Auto Chess
+Auto Clicker
 Auto Sale Life: Fresh Start
 AutoForge
 Autobahn Police Simulator
@@ -5727,6 +5728,7 @@ Onmyoji
 Onset
 Onward
 Ooblets
+Open At Nine
 Open Mod
 Open World Game: the Open World Game
 OpenITG
@@ -6211,6 +6213,7 @@ Pro Cycling Manager 2021
 Pro Cycling Manager 2022
 Pro Cycling Manager 2023
 Pro Cycling Manager 2024
+Pro Cycling Manager 25
 Pro Evolution Soccer 2016 myClub
 Pro Evolution Soccer 2017
 Pro Soccer Online
@@ -6283,6 +6286,7 @@ Puppet Master: The Game
 Pure Farming 2018
 Pure Pool
 Pure Rock Crawling
+Pure Sniper
 Purple Place - Classic Games
 Purrfect Date
 Purrgatory
