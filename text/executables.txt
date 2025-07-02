@@ -1023,6 +1023,7 @@ boneworks/boneworks.exe
 bongocat/bongocat.exe
 boobs 'em up/boobs em up.exe
 boobs saga/boobs saga.exe
+boobs/boobs.exe
 boodunnit/boodunnit!.exe
 book of hours/bh.exe
 boomerang fu/boomerang fu.exe
@@ -2670,6 +2671,7 @@ exploding kittens 2/explodingkittens.exe
 exploratombe/tombrumble.exe
 extremely powerful capybaras training grounds/extremely_powerful_capybaras.exe
 eye.exe
+eyes - the horror game/eyes.exe
 ez2on reboot r/ez2on.exe
 ezquake-gl.exe
 ezquake.exe
@@ -5774,6 +5776,7 @@ perspective/perspective.exe
 pesticidenotrequired/pesticide not required.exe
 pet idle/pet idle.exe
 pet shop simulator prologue/pet shop.exe
+pet shop simulator/pet shop.exe
 pets hotel prologue/pets hotel.exe
 pets hotel/pets hotel.exe
 pewdiepie legend of the brofist/pewdiepielegendofthebrofist.exe
@@ -7030,6 +7033,7 @@ sons of valhalla demo/sov.exe
 sons of valhalla/sov.exe
 sopwith vr/sopwithvr.exe
 sorcery!/sorcery!.exe
+sorry we're closed/sorry we're closed.exe
 sos ops/sos ops.exe
 sos-win64-shipping.exe
 sotgame.exe
@@ -7428,6 +7432,7 @@ super star/game.exe
 super sus/super sus.exe
 super totally ultimate dad showdown/studs.exe
 super treasure arena.exe
+super woden gp 2/super woden gp 2.exe
 superbernieworld/superbernieworld.exe
 supercar collection simulator prologue/supercar collection simulator prologue.exe
 supercarcollectionsimulator/supercar collection simulator.exe
@@ -9856,6 +9861,7 @@ win64/sherlock.exe
 win64/sherwoodextreme-win64-shipping.exe
 win64/shieldwall-win64-shipping.exe
 win64/shinessgame.exe
+win64/shinigami-win64-shipping.exe
 win64/shipgraveyard2-win64-shipping.exe
 win64/shivers-win64-shipping.exe
 win64/shooter-win64-shipping.exe
