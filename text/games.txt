@@ -1055,6 +1055,7 @@ Bridge Constructor Stunts
 Bridge Constructor: The Walking Dead
 Brief Karate Foolish
 Brigador: Up-Armored Edition
+Bright Lord
 Bright Memory
 Bright Memory Infinite Ray Tracing Benchmark
 Bright Memory: Infinite
@@ -6024,6 +6025,7 @@ Phoenix Point: Year One Edition
 Phoenix Wright: Ace Attorney Trilogy
 Pic-Me!
 Picayune Dreams
+Pick Me Pick Me
 PickCrafter
 Pickle Clicker
 Picross Touch
@@ -8469,6 +8471,7 @@ The Void Rains Upon Her Heart
 The WILDS
 The Walking Dead
 The Walking Dead: A New Frontier
+The Walking Dead: Destinies
 The Walking Dead: Michonne
 The Walking Dead: No Man's Land
 The Walking Dead: Saints & Sinners
@@ -9010,6 +9013,7 @@ Use Your Words
 Used Cars Simulator
 Uurnog Uurnlimited
 V Rising
+V-LOVER!
 V-Rally 4
 VA-11 HALL-A
 VAIL
