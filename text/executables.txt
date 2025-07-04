@@ -2102,6 +2102,7 @@ digimon survive/digimonsurvive.exe
 digimon world next order/digimon world next order.exe
 digseum/digseum.exe
 diner bros/diner bros.exe
+diner dash hometown hero/diner dash - hometown hero.exe
 dinkum/dinkum.exe
 dinner with an owl/dwao.exe
 dinodday.exe
@@ -8961,6 +8962,7 @@ win64/bearproto-win64-shipping.exe
 win64/beastsofbermuda.exe
 win64/beataroundthebush-win64-shipping.exe
 win64/beatboxers.exe
+win64/beathazard3-win64-shipping.exe
 win64/beatshooter-win64-shipping.exe
 win64/bebee-win64-shipping.exe
 win64/beer_factory-win64-shipping.exe

@@ -782,6 +782,7 @@ Beat Boxers
 Beat Cop
 Beat Hazard
 Beat Hazard 2
+Beat Hazard 3
 Beat Me! - Puppetonia Tournament
 Beat Saber
 Beavers Be Dammed
@@ -2130,6 +2131,7 @@ Digimon World: Next Order
 Digseum
 DimensionsVS
 Diner Bros
+Diner Dash: Hometown Hero
 Dinkum
 Dinner with an Owl
 Dino D-Day
