@@ -361,6 +361,7 @@ Among the Sleep Demo
 Amor peludo
 Amor peludo 2
 Amorous
+Ampersat
 An Ankou
 An Arcade Full of Cats
 Anarchy Online
@@ -965,6 +966,7 @@ Bloons TD 6
 Bloons TD Battles
 Bloons TD Battles 2
 Bloons TD5
+Blue Archive
 Blue Fire
 Blue Prince
 Blueprint Tycoon
@@ -3769,6 +3771,7 @@ Hidden Deep
 Hidden Dino Cats
 Hidden Folks
 Hidden Lands
+Hidden Realm of the Enchantress
 Hidden Robo Cats
 Hidden Through Time
 Hidden Through Time 2: Myths & Magic
@@ -6040,6 +6043,7 @@ Pillars of Eternity
 Pillars of Eternity II: Deadfire
 Pinball Arcade
 Pinball FX
+Pinball FX2
 Pinball FX3
 Pinball M
 Pincremental
@@ -7336,6 +7340,7 @@ Sniper Elite 4
 Sniper Elite 5
 Sniper Elite V2
 Sniper Elite V2 Remastered
+Sniper Elite VR
 Sniper Elite: Nazi Zombie Army
 Sniper Elite: Resistance
 Sniper Fury
@@ -9888,6 +9893,7 @@ yahtzee girl
 近畿霊務局
 違う冬のぼくら
 違う冬のぼくら Friend's Pass
+違う星のぼくら
 違う星のぼくら　特別体験版
 鈴蘭の剣：この平和な世界のために
 闇鍋人狼
