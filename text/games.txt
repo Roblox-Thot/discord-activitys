@@ -2172,6 +2172,7 @@ Disgaea PC
 Dishonored
 Dishonored 2
 Dishonored®: Death of the Outsider™
+Dishwashing Simulator
 Disney Dreamlight Valley
 Disney Dreamlight Valley - Avatar Designer Tool
 Disney Epic Mickey 2
@@ -4174,6 +4175,7 @@ It Steals
 It Takes Two
 It gets so lonely here
 It's Only Money
+Ithya: Magic Studies
 IvAc
 I’m not a Monster
 J-Jump Arena
@@ -5441,6 +5443,7 @@ Natural Selection 2
 Naval Action
 NavalArt
 Nebuchadnezzar
+Nebulock
 Necesse
 NecroBouncer: Prologue
 NecroVisioN
