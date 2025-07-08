@@ -509,6 +509,7 @@ astral party/astralparty.exe
 astrea/astrea.exe
 astro-win64-shipping.exe
 astronautsgame-win64-shipping.exe
+astronomics/astronomics.exe
 at home alone final/game.exe
 at home alone/game.exe
 atari vault/atarivault.exe
@@ -547,7 +548,6 @@ aura kingdom/launcher.exe
 aurelia/aurelia.exe
 aurora hills chapter 1/aurora hills chapter 1.exe
 auto chess/acphoenix.exe
-auto clicker/autoclicker.exe
 autobahn police simulator 2/highwaypatrol2.exe
 autobahn police simulator/highwaypatrol2015.exe
 autoforge/autoforge.exe
@@ -4256,6 +4256,7 @@ kingdom two crowns/kingdomtwocrowns.exe
 kingdom wars 2 definitive edition/kw2de.exe
 kingdom.exe
 kingdomcomedeliverance/bin/win64/kingdomcome.exe
+kingdoms deck/kingdoms deck.exe
 kingdoms of amalur re-reckoning/koa.exe
 kingdoms/kingdoms.exe
 kingdomsandcastles.exe
@@ -5969,6 +5970,7 @@ powerwash simulator/powerwashsimulator.exe
 ppssppwindows.exe
 ppssppwindows64.exe
 praey for the gods/praey for the gods.exe
+prehistoric hunt/prehistoric_hunt.exe
 prehistoric kingdom demo/prehistoric kingdom.exe
 prehistoric kingdom/prehistoric kingdom.exe
 prepar3d.exe
@@ -6625,6 +6627,7 @@ scanner sombre/scanner sombre.exe
 scarlet maiden/scarletmaiden.exe
 scarlet tower/the scarlet tower.exe
 scarlethollow/scarlethollow.exe
+scary teacher 3d/scary teacher 3d.exe
 scauage/scauage.exe
 scene investigators demo/scene investigators (demo).exe
 scene investigators/scene investigators.exe
@@ -8435,6 +8438,7 @@ ultros/ultros.exe
 umamusumeprettyderby/umamusumeprettyderby.exe
 umamusumeprettyderby_jpn/umamusumeprettyderby_jpn.exe
 umineko chiru/umineko5to8.exe
+umineko golden fantasia/ougon.exe
 umineko/umineko1to4.exe
 umurangigeneration/umurangi generation.exe
 unbeatable [white label]/unbeatable [white label].exe
@@ -10589,6 +10593,7 @@ zero grounds/zero grounds.exe
 zero hour/zero hour.exe
 zero idle/zeroidle.exe
 zero sievert/zero sievert.exe
+zeroranger/zeroranger.exe
 zet zillions/zet zillions.exe
 zetria/zetria.exe
 zetria_demo/zetria.exe

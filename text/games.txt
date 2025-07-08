@@ -534,6 +534,7 @@ Astral Ascent
 Astrea: Six-Sided Oracles
 Astro Colony
 Astrometica: Prologue
+Astronomics
 At Dead Of Night
 At Home Alone
 At Home Alone Final
@@ -563,7 +564,6 @@ Aura Kingdom
 Aurelia
 Aurora Hills: Chapter 1
 Auto Chess
-Auto Clicker
 Auto Sale Life: Fresh Start
 AutoForge
 Autobahn Police Simulator
@@ -4374,6 +4374,7 @@ Kingdom Two Crowns
 Kingdom Under Fire: The Crusaders
 Kingdom Wars
 Kingdom Wars 2: Definitive Edition
+Kingdom's Deck
 Kingdom: Classic
 Kingdom: New Lands
 Kingdoms
@@ -6183,6 +6184,7 @@ PowerWash Simulator
 Praey for the Gods
 Predator: Hunting Grounds
 Predecessor
+Prehistoric Hunt
 Prehistoric Kingdom
 Prehistoric Kingdom Demo
 Prepar3D
@@ -6982,6 +6984,7 @@ Scarlet Hollow
 Scarlet Maiden
 Scarlet Tower
 Scars Above
+Scary Teacher 3D
 Scauage
 Scavengers
 Scene Investigators
@@ -8943,6 +8946,7 @@ Ultros
 Umamusume: Pretty Derby
 Umineko When They Cry - Answer Arcs
 Umineko When They Cry - Question Arcs
+Umineko: Golden Fantasia
 Umurangi Generation
 UnMetal
 UnReal World
@@ -9613,6 +9617,7 @@ Zero Grounds
 Zero Hour
 Zero IDLE
 Zero-K
+ZeroRanger
 Zet Zillions
 Zetria
 Zetria Demo
