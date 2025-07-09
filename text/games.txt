@@ -1380,6 +1380,7 @@ Chess2
 Chex Quest HD
 Chicken Farm 2K17
 Chicken Invaders 2
+Chicken Invaders 3
 Chicken Invaders 5
 Chicken Invaders Universe
 Chicken Police
@@ -3089,6 +3090,7 @@ Fran Bow
 Fray Fight
 Fraymakers
 Freddy Fazbear's Pizzeria Simulator
+Free Solitaire
 Free to Play
 FreeStyle 2: Street Basketball
 Freedom Planet
@@ -4704,6 +4706,7 @@ Love Letter
 Love Sucks: Night One
 Love Vibe: Aria
 Love Wish 2
+Love n Life: Lucky Teacher
 Love wish
 Love x Debut
 Love, Money, Rock'n'Roll

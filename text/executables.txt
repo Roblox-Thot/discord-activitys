@@ -1355,6 +1355,7 @@ chess/chess.exe
 chess2.app
 chicken farm 2k17/cfs_2k17_v2.exe
 chicken invaders 2/ci2rm.exe
+chicken invaders 3/ci3.exe
 chicken invaders 5/ci5.exe
 chicken invaders universe/ciu.exe
 chicken police/chicken_police.exe
@@ -3051,6 +3052,7 @@ freddy fazbear's pizzeria simulator/pizzeria simulator.exe
 free to play/ftp.exe
 freedom planet/fp.exe
 freeman guerrilla warfare.exe
+freesolitaire_win64/freesolitaire.exe
 freestyle2.exe
 freestyle2/changebin.exe
 freestylefootball r/fsefootball.exe
@@ -4569,6 +4571,7 @@ loud run/loud run.exe
 love & sex second base/losesb.exe
 love esquire/love esquire.exe
 love letter/loveletter_release.exe
+love n life lucky teacher/lucky teacher.exe
 love puzzle 2/waifu secret.exe
 love stories ft/sex and the furry titty.exe
 love stories/love stories.exe
