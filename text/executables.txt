@@ -2526,6 +2526,7 @@ encased/encased.exe
 enchain demo/enchain.exe
 enclave/enclave.exe
 enderal/enderal launcher.exe
+endless atc/endless atc.exe
 endless dungeon/endless dungeon.exe
 endless monday dreams and deadlines/endlessmondaydnd.exe
 endless sky/endlesssky.exe
@@ -4994,6 +4995,7 @@ mistover demo/mistover demo.exe
 mistsurv-win64-shipping.exe
 mitosis.exe
 mitoza/mitoza.exe
+mitsurugi kamui hikae/mitsurugi.exe
 mixcraft 8 home studio/mixcraft8.exe
 mizi no!/mizi-no.exe
 mk10.exe
@@ -7386,6 +7388,7 @@ subsurface circular/subsurface circular.exe
 subterrain/subterrain.exe
 subterranauts/subterranauts.exe
 subterror/subterror.exe
+succubus/game.exe
 suchart creative space/suchart.exe
 suchart/suchart.exe
 sucker for love date to die for/datetodieforpb.exe
@@ -7864,6 +7867,7 @@ the incredible adventures of van helsing ii/vanhelsing_x64.exe
 the incredible adventures of van helsing iii/vanhelsing_x64.exe
 the incredible adventures of van helsing/vanhelsing_x64.exe
 the invisible hand/the invisible hand.exe
+the iron oath/the iron oath.exe
 the jackbox megapicker/the jackbox megapicker.exe
 the jackbox naughty pack/the jackbox naughty pack.exe
 the jackbox party pack 10/the jackbox party pack 10.exe
