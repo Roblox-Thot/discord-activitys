@@ -3236,6 +3236,7 @@ GameMaker Studio 2 Desktop
 GameMaker: Studio
 Gamecraft
 Gamer Girls [18+]: eSports SEX
+Gaming Cafe Simulator
 Gang Beasts
 Gangs of Space
 Garage Flipper: Prologue
@@ -4957,6 +4958,7 @@ Master Levels for DOOM II
 Master Reboot
 Master of Orion
 Master of Orion 2
+Masterplan Tycoon
 Masterplan Tycoon: Foundations
 Masters of Anima
 Material Girl
@@ -6785,6 +6787,7 @@ SCP : Secret Files
 SCP022
 SCP: 5K - Alpha Testing
 SCP: Blackout
+SCP: CB Multiplayer Reborn
 SCP: Containment Breach Remastered
 SCP: Escape Together
 SCP: Fragmented Minds
@@ -7325,6 +7328,7 @@ Slipways
 Slopecrashers Demo
 Slow and Steady
 Smack Studio
+Small Spaces
 Small World
 Smalland: Survive the Wilds
 Smart Factory Tycoon: Beginnings
@@ -8357,6 +8361,7 @@ The Mortuary Assistant Demo
 The Mr. Rabbit Magic Show
 The Murder of Sonic the Hedgehog
 The NOexistenceN of you AND me
+The New Flesh
 The Night of the Rabbit
 The Odyssey of the Mammoth
 The Oracle Land
@@ -8613,6 +8618,7 @@ Titan Quest Anniversary Edition
 Titan Souls
 Titanfall 2
 Titanfall™
+To Pixelia
 To The Core
 To The Rescue!
 To the Moon
@@ -8924,6 +8930,7 @@ UNO
 UNO Demo
 UNRAVEL™ two
 UNSIGHTED
+URBO
 URBO: Dream One
 UV Slayer Playground
 UberStrike
