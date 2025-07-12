@@ -590,6 +590,7 @@ backpack hero/backpack hero.exe
 backtobed/backtobed.exe
 backup/tanki online.exe
 backyard baseball 97/baseball.exe
+backyard soccer 98/soccer.exe
 bacon may die/bacon.exe
 bad dream fever/bad dream fever.exe
 bad end theater/badendtheater.exe
@@ -1050,6 +1051,7 @@ born again/born again.exe
 boson x/bosonx.exe
 botanicula/botanicula.exe
 bouboum/bouboum.exe
+boukensyachan_steam/boukensyachan_syokusyuslg.exe
 bound by flame/boundbyflame.exe
 boundless.exe
 bounty below/bountybelow.exe
@@ -2919,6 +2921,7 @@ fish tycoon 2 virtual aquarium/virtual fish tycoon.exe
 fishards/fishards.exe
 fishidle 2/game.exe
 fishing adventure/fishing adventure.exe
+fishing grind/fishing grind.exe
 fishingplanet.exe
 fistful of frags/sdk/hl2.exe
 fitforce/fitforce.exe
@@ -6925,6 +6928,7 @@ skill legends royale/skilllegendsroyale.exe
 skill/dfubg.exe
 skill/dfufg.exe
 skilltree.exe
+skin deep/skindeep.exe
 skuf fishing/skuffishing.exe
 skul/skul.exe
 skull and bones (open beta)/skullandbones.exe
