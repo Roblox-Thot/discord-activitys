@@ -1272,6 +1272,7 @@ castle break/castlebreak_.exe
 castle clicker/castleclicker.exe
 castle flipper/castle flipper.exe
 castle in the clouds/game_s.exe
+castle of alchemists/castle of alchemists.exe
 castle of illusion/coi.exe
 castlecrashers/castle.exe
 castlecrashersdemo/castle.exe
@@ -2290,6 +2291,7 @@ dragons&titans/dnt.exe
 dragonsin/dragonsin.exe
 drakensang online/thinclient.exe
 dramatical murder/dmmd_en_steam.exe
+drapline/drapline.exe
 draw & guess/draw&guess.exe
 draw a stickman epic 2/epic2.exe
 draw slasher/draw slasher.exe
@@ -3695,6 +3697,7 @@ hexen 2/glh2.exe
 hexen/base/dosbox.exe
 hexologic/hexologic.exe
 hextechmayhem/hextechmayhem.exe
+hidden and dangerous 2/setup.exe
 hidden cats the last of cats/hidden cats the last of cats.exe
 hidden deep/hdeep.exe
 hidden dino cats/hidden dino cats.exe
@@ -5210,6 +5213,7 @@ my sticker book/my sticker book.exe
 my time at sandrock demo/sandrock.exe
 my time at sandrock/sandrock.exe
 mycatgirlmaidcomplete-1.0-pc/mycatgirlmaidcomplete.exe
+mycopunk/mycopunk.exe
 mydockfinder/dock_64.exe
 myeyesdeceive/med.exe
 myfreezoo/myfreezoo.exe
@@ -6348,6 +6352,7 @@ return to shironagasu island/shironagasu.exe
 reus.app
 reus.exe
 reus2/reus 2.exe
+revengeongolddiggers/revengeongolddiggers.exe
 reventure/reventure.exe
 reverse 1999/reverse1999.exe
 revita/revita.exe
@@ -6979,6 +6984,7 @@ sludge life 2/sludgelife2.exe
 sludge life the big mud sessions/sludgelife2demo.exe
 sludge life/sludgelife.exe
 slw.exe
+small saga/smallsaga.exe
 smallworld2/smallworld.exe
 smart game booster for steam/sgbmain.exe
 smartphone tycoon/smartphone tycoon.exe
@@ -8595,6 +8601,7 @@ victoria2.exe
 victory/victory.exe
 video editor moviemator - movie maker/moviemator.exe
 videohorrorsociety/videohorrorsociety.exe
+vietnamwar/vietnam war.exe
 viewfinder demo/viewfinder_demo.exe
 viewfinder/viewfinder.exe
 vigil the longest night/vigil.exe
@@ -9688,6 +9695,7 @@ win64/pandemic.exe
 win64/panelkiproject-win64-shipping.exe
 win64/panicore-win64-shipping.exe
 win64/par-win64-shipping.exe
+win64/paradiddle-win64-shipping.exe
 win64/paradisekiller-win64-shipping.exe
 win64/paralogue-win64-shipping.exe
 win64/parcel-win64-shipping.exe
@@ -10102,6 +10110,7 @@ win64/thinwick-win64-shipping.exe
 win64/thirdpersonbp-win64-shipping.exe
 win64/thisbedwemade-win64-shipping.exe
 win64/thps12.exe
+win64/thps34.exe
 win64/threshold-win64-shipping.exe
 win64/thunder2305-win64-shipping.exe
 win64/thunderhorseclient-win64-shipping.exe

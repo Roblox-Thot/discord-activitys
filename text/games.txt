@@ -1293,6 +1293,7 @@ Castle Clicker
 Castle Crashers
 Castle Crashers Demo
 Castle Flipper
+Castle Of Alchemists
 Castle Rock Beach, West Australia
 Castle in the Clouds
 Castle of Illusion
@@ -1860,6 +1861,7 @@ DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition DEMO
 DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition
 DRAGON QUEST® XI: Echoes of an Elusive Age™
 DRAMAtical Murder
+DRAPLINE
 DREDGE
 DREDGE: CHAPTER ONE
 DSX
@@ -3775,6 +3777,7 @@ Hexguardian
 Hexologic
 Hextech Mayhem: A League of Legends Story™
 Hi-Fi RUSH
+Hidden & Dangerous 2: Courage Under Fire
 Hidden Deep
 Hidden Dino Cats
 Hidden Folks
@@ -5365,6 +5368,7 @@ My Time at Sandrock Demo
 My dream setup
 My dream setup Demo
 MyDockFinder
+Mycopunk
 Myrmidon
 Myst
 Myst: Masterpiece Edition
@@ -5936,6 +5940,7 @@ Papa's Freezeria Deluxe
 Papa's Pizzeria Deluxe
 Paper Lily - Chapter 1
 Papers, Please
+Paradiddle
 Paradigm
 Paradise Cleaning!
 Paradise Killer
@@ -7331,6 +7336,7 @@ Slipways
 Slopecrashers Demo
 Slow and Steady
 Smack Studio
+Small Saga
 Small Spaces
 Small World
 Smalland: Survive the Wilds
@@ -8669,6 +8675,7 @@ Tony Hawk's Pro Skater HD
 Tony Hawk's Underground
 Tony Hawk's Underground 2
 Tony Hawk's™ Pro Skater™ 1 + 2
+Tony Hawk's™ Pro Skater™ 3 + 4
 Tools Up!
 Tools Up! Demo
 Toontown Rewritten
@@ -9131,6 +9138,7 @@ Victoria I
 Victoria II
 Victory: The Age of Racing
 Video Horror Society
+Vietnam War
 Viewfinder
 Viewfinder Demo
 Vigil: The Longest Night
@@ -9886,6 +9894,7 @@ yahtzee girl
 完蛋！我被美女包围了！
 巫兎 - KANNAGI USAGI -
 幻塔
+情感反诈模拟器
 战姬军团
 抓到冒險者醬了！～Live2D觸手模擬器～
 救国のスネジンカ:Sentinel Girls2
