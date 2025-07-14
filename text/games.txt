@@ -656,6 +656,7 @@ Backrooms Rec.
 Backrooms Society
 Backrooms: Escape Together
 Backrooms: Found Footage
+Backyard Baseball '01
 Backyard Baseball '97
 Backyard Soccer '98
 Bacon May Die
@@ -1865,6 +1866,7 @@ DRAPLINE
 DREDGE
 DREDGE: CHAPTER ONE
 DSX
+DUCKSIDE
 DUSK
 DYNASTY WARRIORS 7: Xtreme Legends Definitive Edition
 DYNASTY WARRIORS 8: Xtreme Legends Complete Edition
@@ -5862,6 +5864,7 @@ PANICORE
 PANZER BALL
 PAPERHEAD EP0
 PARANOIA PLACE
+PATAPON 1+2 REPLAY
 PAYDAY 2
 PAYDAY 3
 PAYDAY: The Heist
@@ -6694,6 +6697,7 @@ Rogue Heroes: Ruins of Tasos Demo
 Rogue Legacy
 Rogue Legacy 2
 Rogue Lords
+Rogue Masters
 Rogue Operatives
 Rogue Reaper
 Rogue System
@@ -9390,6 +9394,7 @@ Where Dragon Spirits 龙魂在哪里
 Where the Water Tastes Like Wine
 While We Wait Here
 Whirligig
+Whispers of a Machine
 White Day: A Labyrinth Named School
 White Knuckle
 White Noise 2

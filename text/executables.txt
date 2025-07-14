@@ -589,6 +589,7 @@ backpack hero demo/backpack hero.exe
 backpack hero/backpack hero.exe
 backtobed/backtobed.exe
 backup/tanki online.exe
+backyard baseball 2001/baseball 2001.exe
 backyard baseball 97/baseball.exe
 backyard soccer 98/soccer.exe
 bacon may die/bacon.exe
@@ -2355,6 +2356,7 @@ duckgame.exe
 ducks can drive/ducks can drive.exe
 duckseason/duckseason.exe
 duckseasonpc/duckseasonpc.exe
+duckside/ducksideclient_be.exe
 dude simulator 2/dudesimulator2.exe
 dude simulator 3/dudesimulator3.exe
 dude simulator 4/dudesimulator4.exe
@@ -5722,6 +5724,7 @@ party quiz/party quiz.exe
 pas/pas.exe
 passpartout 2 the lost artist/passpartout2.exe
 passpartout.exe
+patapon12_replay/patapon12_replay.exe
 patch quest/patch quest.exe
 patch/tos.exe
 patch/updater_downloader.exe
@@ -6461,6 +6464,7 @@ rogue genesia/rogue genesia.exe
 rogue heroes ruins of tasos demo/rogue heroes.exe
 rogue heroes/rogue heroes.exe
 rogue legacy 2/rogue legacy 2.exe
+rogue masters/rogue masters.exe
 rogue reaper/roguereaper.exe
 rogue tower/rogue tower.exe
 rogue/rogue.exe
@@ -8815,6 +8819,7 @@ when the past was around/when past was around.exe
 where dragon spirits/where dragon spirits.exe
 where the water tastes like wine/wtwtlw_64.exe
 whirligig/whirligig.exe
+whispers of a machine/whispers.exe
 white day a labyrinth named school/whiteday.exe
 white knuckle/white knuckle.exe
 white noise 2/whitenoise2.exe
