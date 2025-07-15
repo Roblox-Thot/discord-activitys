@@ -1251,6 +1251,7 @@ cards and castles 2/c2.exe
 cards!/cards!.exe
 cargocommander.app
 cargocommander.exe
+caribbean crashers/cc.exe
 carrier command 2/carrier_command.exe
 carrier deck/autorun.exe
 carrier.exe
@@ -1694,7 +1695,6 @@ crime simulator/crime simulator.exe
 crimesight/crimesight.exe
 crimsonland.exe
 crimzon clover/crimzonclover_wi.exe
-crisis in the kremlin/crisisinthekremlin.exe
 critter clicker/critter clicker.exe
 critter cove/critter cove.exe
 critterchronicles.exe
@@ -2317,6 +2317,7 @@ drift gear/drift gear.exe
 drift horizon online/drift horizon.exe
 drift king demo/driftking demo.exe
 drift king/driftking.exe
+drift legends 2/drift legends 2.exe
 drift of the hill/drift of the hill.exe
 drift streets japan windows/drift streets japan.exe
 drift21/drift21.exe
@@ -3056,6 +3057,7 @@ fragsurf/fragsurf.exe
 fraim/fraim.exe
 frame of mind/frame of mind.exe
 fran bow.exe
+frankie's funclub/frankie's funclub.exe
 fraymakers/fraymakers.exe
 freddy fazbear's pizzeria simulator/pizzeria simulator.exe
 free to play/ftp.exe
@@ -3233,6 +3235,7 @@ geometry wars 3 - dimensions/gw3.exe
 geometry wars/geometrywars.exe
 geometrydash.exe
 gestalt/gestalt.exe
+get off my lawn/goml.exe
 get to the orange door demo/get to the orange door.exe
 get to the orange door/get to the orange door.exe
 get to work/get to work.exe
@@ -3812,6 +3815,7 @@ horse riding tales/horseridingtales.exe
 horsefarm/horsefarm.exe
 hoshimemo.exe
 hot brass/hot brass.exe
+hot therapy/hot therapy.exe
 hotlava.exe
 hotline miami 2 wrong number digital comic/hlm2comics.exe
 hotlinemiami.exe
@@ -7121,6 +7125,7 @@ spacemarine.exe
 spaceplan/spaceplan.exe
 spaceship looter/spaceship_looter.exe
 spark & kling/spark & kling.exe
+spark the electric jester 2/sparktwo.exe
 spark the electric jester 3/spark the electric jester 3.exe
 spark the electric jester/spark the electric jester.exe
 sparrowhime/game.exe
@@ -9751,6 +9756,7 @@ win64/potionomics-win64-shipping.exe
 win64/predecessorclient-win64-shipping.exe
 win64/priest_simulator-win64-shipping.exe
 win64/primalcarnagegame.exe
+win64/primehorrorii-win64-shipping.exe
 win64/proa34-win64-shipping.exe
 win64/project-win64-shipping.exe
 win64/project.exe
