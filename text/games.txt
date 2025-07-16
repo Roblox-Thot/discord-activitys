@@ -5610,6 +5610,7 @@ Nordhold: Origins
 Nordic Ashes
 Norland
 Norland: Story Generating Strategy Demo
+Northern Journey
 Northgard
 NosTale
 Nosferatu: The Wrath of Malachi
@@ -6927,6 +6928,7 @@ SUPERHOT VR
 SUPERHOT: MIND CONTROL DELETE
 SUPERVIVE
 SURV1V3
+SWAT
 SWAT 3: Tactical Game of the Year Edition
 SWAT 4
 SWAT Commander: Prologue
@@ -7025,6 +7027,7 @@ SchoolBoy Runaway
 Sclash
 Scoot
 ScooterFlow
+Scope X
 Scorch
 Scorn
 Scott Pilgrim vs The World
@@ -7268,6 +7271,7 @@ SimRail - The Railway Simulator
 SimRail - The Railway Simulator: Prologue
 Simmiland
 Simple Fish Adventure
+Simple Sight - Crosshair Overlay
 SimplePlanes
 Simply Chess
 Simson Tuningwerkstatt 3D
@@ -7726,6 +7730,7 @@ Stronghold 3
 Stronghold Crusader 2
 Stronghold Crusader Extreme HD
 Stronghold Crusader HD
+Stronghold Crusader: Definitive Edition
 Stronghold HD
 Stronghold Kingdoms
 Stronghold Legends

@@ -6662,6 +6662,7 @@ schoolboy runaway/schoolboy runaway.exe
 sclash/sclash.exe
 scoot/scoot.exe
 scooterflow/scooterflow.exe
+scope x/scopex.exe
 scorch/scorch_final.exe
 scott pilgrim vs the world/scott.exe
 scourgebringer/scourgebringer.exe
@@ -6902,6 +6903,7 @@ simcity 4.exe
 simcity.exe
 simmiland/simmiland.exe
 simple fish adventure/simple fish adventure.exe
+simple sight - crosshair overlay/simple-sight-client.exe
 simpleplanes.exe
 simplerockets2/simplerockets2.exe
 simpsons.exe
@@ -7380,6 +7382,7 @@ strikeforce kitty/strikeforce kitty.exe
 strinova.exe
 strongblade/roe.exe
 stronghold 2/stronghold2.exe
+stronghold crusader definitive edition/stronghold crusader definitive edition.exe
 stronghold crusader extreme/stronghold crusader.exe
 stronghold crusader extreme/stronghold_crusader_extreme.exe
 stronghold crusader.exe
@@ -7538,6 +7541,7 @@ swarm/swarm.exe
 swarmlake/swarmlake.exe
 swarmz/swarmz.exe
 swat 3 tactical game of the year edition/swat.exe
+swat/swat.exe
 swat4.exe
 swat4x.exe
 sweaw.exe
@@ -9939,6 +9943,7 @@ win64/siren-win64-shipping.exe
 win64/sixdays-win64-shipping.exe
 win64/sjgame-win64-shipping.exe
 win64/skiesclient.exe
+win64/skog-win64-shipping.exe
 win64/skoofsimulator.exe
 win64/skynoon-win64-shipping.exe
 win64/slapthefly-win64-shipping.exe
