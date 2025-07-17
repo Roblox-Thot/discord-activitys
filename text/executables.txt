@@ -4304,6 +4304,7 @@ knights of honor ii/sovereign.exe
 knights of honor/koh.exe
 knights of pen and paper/knightspp.exe
 knock on the coffin lid/knock.exe
+knock'em out/knockemout.exe
 knock-knock/knock.exe
 knockout city/knockoutcity.exe
 knockoutcity/knockoutcity.exe
@@ -6145,6 +6146,7 @@ quatro!/quatro!.exe
 quaver/quaver.exe
 qubegame.exe
 quern - undying thoughts/quern.exe
+quickerflak/quickerflak.exe
 quickie a love hotel story/quickie a love hotel story.exe
 quickie fantasy adventure/quickie fantasy adventure.exe
 quilts_and_cats_of_calico/quilts_and_cats_of_calico.exe
@@ -8416,6 +8418,7 @@ turbo overkill/turbo overkill.exe
 turbo pug dx/turbopugdx.exe
 turbo pug/game.exe
 turbodismount/turbodismount.exe
+turbodismount2/turbodismount2.exe
 turing complete/turing complete.exe
 turmoil_pc_full.exe
 turnip boy commits tax evasion/turnip boy commits tax evasion.exe

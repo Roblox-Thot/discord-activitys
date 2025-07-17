@@ -4424,6 +4424,7 @@ Knights of Honor II: Sovereign
 Knights of Pen and Paper +1
 Knights of Pen and Paper 2
 Knock on the Coffin Lid
+Knock'Em Out
 Knock-knock
 Knockout City™
 Knowledge, or know Lady
@@ -6346,6 +6347,7 @@ Q.U.B.E.
 Q.U.B.E. 10th Anniversary
 Q.U.B.E. 2
 Q.U.B.E: Director's Cut
+QUICKERFLAK
 Quackdzilla: Pool Cleaning Simulator
 Quake 4
 Quake Champions
@@ -8903,6 +8905,7 @@ Tumblestone
 Tunche: Arena
 Tunguska: The Visitation - Enhanced Edition
 Turbo Dismount
+Turbo Dismount 2
 Turbo Golf Racing
 Turbo Overkill
 Turbo Overkill Demo
