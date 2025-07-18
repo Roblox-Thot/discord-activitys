@@ -4215,6 +4215,7 @@ Jar Wars
 Jazzpunk: Director's Cut
 Jected - Rivals
 Jelly Brawl: Classic
+JellyCar Worlds
 Jerma's Big Adventure
 Jesus Christ RPG Trilogy
 Jet Island
@@ -4872,6 +4873,7 @@ Madden NFL 23
 Madden NFL 24
 Made in Abyss: Binary Star Falling into Darkness
 Madness Cubed
+Madoka Magica Magia Exedra
 Madrun
 Maelstrom
 Maestro
@@ -6216,6 +6218,7 @@ Prepar3D
 Preserve
 Presidents Tower Defense
 Press Any Button
+Press Ctrl
 Press X to Not Die
 Pretty Angel
 Pretty Neko

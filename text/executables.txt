@@ -4673,6 +4673,7 @@ madmax.exe
 madness cubed/build.exe
 madness project nexus 2/madness project nexus.exe
 madness project nexus demo/madness project nexus demo.exe
+madokaexedra/madokaexedra.exe
 madout2_bigcityonline/game.exe
 madrun/madrun.exe
 mafia - definitive edition/mafiadefinitiveedition.exe
@@ -6001,6 +6002,7 @@ prerequisites/opencodecs_0.85.17777.exe
 preserve/preserve.exe
 presidents tower defense/presidents tower defense.exe
 press any button/pab.exe
+press ctrl/press ctrl.exe
 press x to not die/press x to not die.exe
 prettyangel/prettyangel.exe
 prettyneko/prettyneko.exe
@@ -10350,6 +10352,7 @@ windows/godus.exe
 windows/hemingway.exe
 windows/idleherotd.exe
 windows/jazzpunk.exe
+windows/jellycar worlds.exe
 windows/minishoot.exe
 windows/monstertd.exe
 windows/my name is mayo.exe
