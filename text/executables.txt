@@ -3154,6 +3154,7 @@ game dev tycoon/nw.exe
 game guru/gameguru.exe
 game of thrones winter is coming/gotpc.exe
 game of thrones/thrones.exe
+game store simulator/game store simulator.exe
 game/anomalyzone.exe
 game/armoredcore6.exe
 game/client/eso.exe
@@ -3368,6 +3369,7 @@ grand theft auto v/gta5.exe
 grand theft auto v/gta5_be.exe
 grand theft auto v/ragepluginhook.exe
 grand theft auto vice city/testapp.exe
+grandchase.exe
 grandchase/grandchase.exe
 grandia hd remaster/grandia.exe
 grandia2.exe
@@ -9374,6 +9376,7 @@ win64/gmod.exe
 win64/goat2-win64-shipping.exe
 win64/goatofduty-win64-shipping.exe
 win64/goatsim_ue4-win64-shipping.exe
+win64/godumas-win64-shipping.exe
 win64/golfpartyproject.exe
 win64/goofy-win64-shipping.exe
 win64/gopota.exe
@@ -9691,6 +9694,7 @@ win64/orebound-win64-shipping.exe
 win64/oregon-win64-shipping.exe
 win64/orvillefangame-win64-shipping.exe
 win64/osclient.exe
+win64/otter-win64-shipping.exe
 win64/ouroboros-win64-shipping.exe
 win64/outlast2.exe
 win64/outofammo-win64-shipping.exe
@@ -10212,6 +10216,7 @@ win64/unspoken-win64-shipping.exe
 win64/upanddown-win64-shipping.exe
 win64/upgun-win64-shipping.exe
 win64/urg-win64-shipping.exe
+win64/utd-win64-shipping.exe
 win64/uthg-win64-shipping.exe
 win64/vail-win64-shipping.exe
 win64/valakas_story-win64-shipping.exe
@@ -10445,6 +10450,7 @@ wooden battles/wooden battles.exe
 wooloop/wooloop.exe
 worbital/worbital.exe
 word factori/word factori.exe
+word play/word play.exe
 wordle/wordle.exe
 working sakuya/otutome_sakuya.exe
 workspace fantasy/workspace fantasy.exe

@@ -3236,6 +3236,7 @@ Game Dev Studio
 Game Dev Tycoon
 Game Master Engine
 Game Royale 2 - The Secret of Jannis Island
+Game Store Simulator
 Game of Thrones - A Telltale Games Series
 Game of Thrones Winter is Coming
 Game of Thrones: Kingsroad
@@ -3368,6 +3369,7 @@ Godot Engine
 Gods Will Be Watching
 Godsbane Idle
 Godsworn
+Godumas
 Godus
 Going Medieval
 Going Under
@@ -8120,6 +8122,7 @@ Tetris® Ultimate
 Texas Hold'em Poker: Pokerist
 Thank Goodness You're Here!
 Tharsis
+That One Otter Game
 That's not my Neighbor
 The Adventure Pals
 The Age of Decadence
@@ -9028,6 +9031,7 @@ Unity of Command II
 Universe Sandbox
 Universe Sandbox Legacy
 Unknown 9: Awakening
+Unknown Tapes
 Unleash
 Unnamed Space Idle
 UnnyWorld
@@ -9502,6 +9506,7 @@ WooLoop
 Wooden Battles
 Worbital
 Word Factori
+Word Play
 Wordle
 Working Sakuya
 Workplace Fantasy
