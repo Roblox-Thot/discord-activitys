@@ -125,6 +125,7 @@ a study in steampunk choice by gaslight.app
 a taste of the past/a taste of the past.exe
 a tower full of cats/tower.exe
 a webbing journey demo/a webbing journey.exe
+a webbing journey/a webbing journey.exe
 a witchy life story/witchy life story.exe
 aaero/aaero.exe
 aagame.exe
@@ -2202,6 +2203,7 @@ dofus.exe
 dog brew/dog brew.exe
 dogs organized neatly/dogs organized neatly.exe
 dogsledsaga/dogsledsaga.exe
+dogwalk/dogwalk.exe
 doka 2/doka2.exe
 dokapon kingdom connect/dkkstm.exe
 dokapon ~sword of fury~/dokapon! sword of fury.exe
@@ -2789,6 +2791,7 @@ farmer against potatoes idle/farmer against potatoes idle.exe
 farmer's dynasty/farmersdynasty.exe
 farmer's life prologue/farmerslife.exe
 farmer's life/farmerslife.exe
+farming and supermarket simulator/farming and supermarket simulator.exe
 farming simulator 2011/game.exe
 farming simulator 2013/farmingsimulator2013game.exe
 farmingfever/farmingfever.exe
@@ -4088,6 +4091,7 @@ isle of arrows/isle of arrows.exe
 isle of ewe/isle of ewe.exe
 isle of jura/isleofjura.exe
 isles of limbo/islesoflimbo.exe
+islets/islets.exe
 iso racer/streetracer.exe
 isonzo/isonzo.exe
 istrolid/istrolid.exe
@@ -4497,6 +4501,7 @@ lingo/lingo.exe
 liquor store simulator prologue/liquor store simulator.exe
 lisa.exe
 lisc/lisc.exe
+little fighter 2 remastered/lf2.exe
 little goody two shoes/lgts.exe
 little inferno beta/little inferno.exe
 little kitty, big city demo/little kitty, big city.exe
@@ -8470,6 +8475,7 @@ ultimate marvel vs. capcom 3/umvc3.exe
 ultimate sudoku collection/ultimatesudoku.exe
 ultimate tag/ultimate tag.exe
 ultimate tic-tac-toe/ultimtictactoe.exe
+ultimate zombie defense 2/ultimate zombie defense 2_64.exe
 ultimate zombie defense/ultimatezombiedefense_64.exe
 ultimatechickenhorse.exe
 ultra fight da ! kyanta 2/game.exe

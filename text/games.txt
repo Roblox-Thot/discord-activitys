@@ -118,6 +118,7 @@ A Technician's Nightmare
 A Tower Full of Cats
 A Walk in the Woods
 A Way Out
+A Webbing Journey
 A Webbing Journey Demo
 A.R.D. Alien Removal Division
 A.W.O.L.
@@ -1834,6 +1835,7 @@ DJMAX RESPECT V
 DK Online
 DLC Quest
 DNF DUEL
+DOGWALK
 DOKA 2 KISHKI EDITION
 DOKAPON! Sword of Fury
 DON'T FACE UP
@@ -2866,6 +2868,7 @@ Farmer Against Potatoes Idle
 Farmer's Dynasty
 Farmer's Life
 Farmer's Life: Prologue
+Farming & Supermarket Simulator
 Farming Fever: Cooking Games
 Farming Simulator 15
 Farming Simulator 17
@@ -4186,6 +4189,7 @@ Isle of Arrows
 Isle of Ewe
 Isle of Jura
 Isles of Limbo
+Islets
 Iso Racer
 Isonzo
 Istrolid
@@ -4643,6 +4647,7 @@ Lingo
 Liquidators
 Liquor Store Simulator: Prologue
 Little Big Workshop
+Little Fighter 2 Remastered
 Little Goody Two Shoes
 Little Inferno
 Little Kitty, Big City
@@ -8989,6 +8994,7 @@ Ultimate Sudoku Collection
 Ultimate Tag
 Ultimate Tic-Tac-Toe
 Ultimate Zombie Defense
+Ultimate Zombie Defense 2
 Ultra Fight Da Kyanta 2
 Ultra Street Fighter IV
 Ultros
