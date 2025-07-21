@@ -2939,6 +2939,7 @@ five nights at floppa/fivenightsatfloppa.exe
 five nights at freddy's 3/fivenightsatfreddys3.exe
 five nights at freddy's into the pit/five nights at freddy's into the pit.exe
 five nights at freddy's sister location/sisterlocation.exe
+five nights at roner's remastered/five nights at roner's remastered.exe
 fivenightsatfreddys.exe
 fivenightsatfreddys2.exe
 fivenightsatfreddys4/fivenightsatfreddys4.exe
@@ -2947,6 +2948,7 @@ flag clicker/flaggenspiel.exe
 flamebreak.exe
 flash party/flashparty.exe
 flashing lights/flashinglights.exe
+flat heroes/flatheroes.exe
 flatout 3/flatout.exe
 flatout 4 total insanity/flatout.exe
 flatout/flatout.exe
@@ -3590,6 +3592,7 @@ hbdie the nonce 2/hbdie the nonce 2.exe
 hc3/game.exe
 hd poker/hd poker.exe
 hd3/hd3.exe
+he is coming/he is coming.exe
 he needs his medicine/nw.exe
 head goal/headgoal.exe
 headbangers rhythm royale/headbangers.exe
@@ -4370,6 +4373,7 @@ last call bbs/last call bbs.exe
 last cloudia/lastcloudia.exe
 last epoch/last epoch.exe
 last hero of nostalgaia/tlhon.exe
+last report/lastreport.exe
 last train outta' wormtown demo/last train out of wormtown.exe
 last train outta' wormtown/last train out of wormtown.exe
 lastcloudiatc/lastcloudia.exe
@@ -6673,6 +6677,7 @@ schoolboy runaway/schoolboy runaway.exe
 sclash/sclash.exe
 scoot/scoot.exe
 scooterflow/scooterflow.exe
+scootx/scootx.exe
 scope x/scopex.exe
 scorch/scorch_final.exe
 scott pilgrim vs the world/scott.exe
@@ -9743,6 +9748,7 @@ win64/penguin-win64-shipping.exe
 win64/perfectheist2-win64-shipping.exe
 win64/perfectvermin-win64-shipping.exe
 win64/pewdewredemption-win64-shipping.exe
+win64/pgty-win64-shipping.exe
 win64/phantomabyss-win64-shipping.exe
 win64/phantomgalaxiesclient-win64-shipping.exe
 win64/pilgrim-win64-shipping.exe

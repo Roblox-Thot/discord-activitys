@@ -1866,6 +1866,7 @@ DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition
 DRAGON QUEST® XI: Echoes of an Elusive Age™
 DRAMAtical Murder
 DRAPLINE
+DREADZONE
 DREDGE
 DREDGE: CHAPTER ONE
 DSX
@@ -2982,12 +2983,14 @@ Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
 Five Nights at Freddy's: Security Breach
 Five Nights at Freddy's: Sister Location
+Five Nights at Roner's: Remastered
 Five nights at Floppa
 Flag Clicker
 Flamebreak
 Flash Flash Revolution
 Flash Party
 Flashing Lights
+Flat Heroes
 FlatOut
 FlatOut 2
 FlatOut 4: Total Insanity
@@ -3668,6 +3671,7 @@ Havoc
 Havocado
 Haydee 2
 He Needs His Medicine
+He is Coming
 HeXen II
 HeXen: Beyond Heretic
 Head Goal: Soccer Online
@@ -4535,6 +4539,7 @@ Last Epoch
 Last Evil
 Last Man Standing
 Last Oasis
+Last Report
 Last Tide
 Last Train Home
 Last Train Outta' Wormtown
@@ -7038,6 +7043,7 @@ School of Dragons: How to Train Your Dragon
 SchoolBoy Runaway
 Sclash
 Scoot
+ScootX
 ScooterFlow
 Scope X
 Scorch
