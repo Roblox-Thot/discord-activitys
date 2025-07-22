@@ -2884,6 +2884,7 @@ fight angelse/fightangelse.exe
 fight crab/fightcrab.exe
 fight knight/fightknight.exe
 fight of animals/foa.exe
+fighting fantasy classics/fighting fantasy classics.exe
 fightnrage/fight_n_rage.exe
 fights in tight spaces (prologue)/fightsintightspaces.exe
 fights in tight spaces/fightsintightspaces.exe
@@ -4738,6 +4739,7 @@ maniaplanet_tmstadium/maniaplanet.exe
 manifold garden/manifoldgarden.exe
 mannequin/mannequin.exe
 manosaba_demo/manosaba.exe
+manosaba_game/manosaba.exe
 mansions of madness/mansions of madness.exe
 manual samuel/manual samuel.exe
 mapleroyals.exe
@@ -5994,6 +5996,7 @@ potion craft/potion craft.exe
 potion explosion/potionexplosion.exe
 potion permit demo/potion permit.exe
 potion permit/potion permit.exe
+potion tycoon/potion tycoon.exe
 povestka/povestka.exe
 powder/powder.exe
 power & revolution 2019 edition/_start.exe
