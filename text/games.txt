@@ -4643,6 +4643,7 @@ Lil' Guardsman
 Lily's Well
 Limb From Limb
 Limbus Company
+LiminalCore
 Limit Ragnarok Online
 Line War
 Line of Sight
@@ -8865,6 +8866,7 @@ Tray Racers!
 Treason
 Treasure Hunter Claire
 Treasure Hunter Simulator
+Treasure Hunters: Prologue
 Treasure of Nadia
 Tree Simulator 2022
 Tree of Savior (English Ver.)
@@ -9498,6 +9500,7 @@ Wizard101
 Wizardry 8
 Wizardry Variants Daphne
 Wizardry: Proving Grounds of the Mad Overlord
+Wizordum
 Wo Long: Fallen Dynasty
 Wobbledogs
 Wobbly Life
