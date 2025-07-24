@@ -1109,6 +1109,7 @@ Bulletstorm: Full Clip Edition
 Bully: Scholarship Edition
 Bulwark: Falconeer Chronicles
 Bum Simulator
+Bum: Revenge Prologue
 Bunker Builder Simulator: Prologue
 Bunny Hop League
 Buoyancy
@@ -5513,6 +5514,7 @@ Nemesis Perspective
 Neo Cab
 Neocron Evolution
 Neon Abyss
+Neon Abyss 2
 Neon Abyss Demo
 Neon Beats
 Neon Boost
@@ -6306,6 +6308,7 @@ Project Playtime
 Project Psycho
 Project QT
 Project Rhombus
+Project Silverfish
 Project Torque
 Project Unknown
 Project Warlock
@@ -7887,6 +7890,7 @@ Supreme Commander
 Supreme Commander 2
 Supreme Commander: Forged Alliance
 Supreme Ruler Ultimate
+SurfsUp
 Surgeon Simulator
 Surgeon Simulator 2
 Surgeon Simulator VR: Meet The Medic
@@ -8339,6 +8343,7 @@ The Jackbox Party Starter
 The Jackbox Survey Scramble
 The Karaoke | ヒトカラ
 The Killing Antidote
+The King is Watching
 The Kite
 The LEGO® Movie - Videogame
 The LEGO® Movie 2 - Videogame
@@ -9457,7 +9462,7 @@ WildStar
 Wildermyth
 Wildfire
 Wildfrost
-Wildgate - Open Beta
+Wildgate
 Wildlife Park 2
 Wildmender
 Will Glow the Wisp

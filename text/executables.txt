@@ -5329,6 +5329,7 @@ neo cab/neo cab.exe
 neo the world ends with you/neo the world ends with you.exe
 neoaquarium.exe
 neocronclient.exe
+neon abyss 2/neonabyss2.exe
 neon abyss demo/neonabyss.exe
 neon abyss/neonabyss.exe
 neon beats/neon beats.exe
@@ -7528,6 +7529,7 @@ supremacy 1914/supremacy 1914.exe
 supremecommander.exe
 supremecommander2.exe
 supremerulerultimate.exe
+surfsup/surfsup.exe
 surgeon simulator 2/surgeon simulator 2.exe
 surgeon simulator 2013/ss2013.exe
 surgeon simulator experience reality/sser.exe
@@ -7927,6 +7929,7 @@ the jackbox party pack 9/the jackbox party pack 9.exe
 the jackbox party starter/the jackbox party starter.exe
 the jackbox survey scramble/the jackbox survey scramble.exe
 the karaoke/karaoke.exe
+the king is watching/the king is watching.exe
 the king of fighters '97 global match/kof97.exe
 the king of fighters xiv/kofxiv.exe
 the king of fighters'98 ultimate match/kingoffighters98um_x64.exe
@@ -9092,6 +9095,7 @@ win64/brookhavengame-win64-shipping.exe
 win64/brothers-win64-shipping.exe
 win64/buckshot-win64-shipping.exe
 win64/budgetbackrooms.exe
+win64/bumrevenge-win64-shipping.exe
 win64/bumsim-win64-shipping.exe
 win64/burningdaylight.exe
 win64/bussimulator18-win64-shipping.exe
@@ -9962,6 +9966,7 @@ win64/sifu-win64-shipping.exe
 win64/silclient-win64-shipping.exe
 win64/silentbreath-win64-shipping.exe
 win64/silverchains-win64-shipping.exe
+win64/silverfish-win64-shipping.exe
 win64/simulatorgame-win64-shipping.exe
 win64/simulatorita-win64-shipping.exe
 win64/siren-win64-shipping.exe
