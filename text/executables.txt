@@ -737,6 +737,7 @@ beneath the surface/beneath the surface.exe
 benefitship/benefitship.exe
 bepinex.splashscreen/bepinex.splashscreen.gui.exe
 berserk and the band of the hawk/berserk.exe
+berserkordie/berserkordie.exe
 besetup/setup_battleyearma2.exe
 besetup/setup_battleyearmagold.exe
 besiege.exe
@@ -974,6 +975,7 @@ blocksport.exe
 blockstorm/blockstorm.exe
 blockstory/block story.exe
 blocksworld/blocksworld.exe
+blood bar tycoon/bloodbartycoon.exe
 blood bowl chaos edition/bb_chaos.exe
 blood bowl legendary edition/bb_le.exe
 blood west/blood west.exe
@@ -2890,6 +2892,7 @@ fightnrage/fight_n_rage.exe
 fights in tight spaces (prologue)/fightsintightspaces.exe
 fights in tight spaces/fightsintightspaces.exe
 figment/figment.exe
+fill up the hole/fill up the hole.exe
 fim speedway grand prix 2015/fimsgp15.exe
 final doom/base/dosbox.exe
 final exam/final_exam.exe
@@ -4698,6 +4701,7 @@ mafia/game.exe
 mafia2.exe
 mafia3.exe
 mage and monsters/mageandmonsters.exe
+mage arena/magearena.exe
 mage kanade's futanari dungeon quest/mage kanades futanari dungeon quest.exe
 magequit/magequit.exe
 mages of mystralia/build.exe
@@ -5728,6 +5732,7 @@ papersplease.exe
 paradigm/paradigm.exe
 paradise cleaning!/cleaner.exe
 paradox soul/paradox soul.exe
+parallel experiment/parallel experiment.exe
 paranauticalactivity/paranautical activity.exe
 paranoia place/paranoia place.exe
 paranormasight/paranormasight.exe
@@ -10670,6 +10675,7 @@ zelter/zelter.exe
 zenge/zenge.exe
 zenith mmo/unityclient@windows.exe
 zenlesszonezero game/zenlesszonezero.exe
+zenoclash/zenoclash.exe
 zenzizenzic/zenzizenzic.exe
 zero escape/zero escape.exe
 zero grounds/zero grounds.exe
