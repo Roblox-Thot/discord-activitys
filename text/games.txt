@@ -230,6 +230,7 @@ Aeons Echo
 Aero Tales Online: The World - Anime MMORPG
 Aerofly FS 2 Flight Simulator
 After Hours
+After Inc: Revival
 After The Fall
 After the Inferno
 AfterHours
@@ -7225,6 +7226,7 @@ Sherwood Extreme
 Shhh!
 Shieldwall
 Shift Happens
+Shiftall VR Manager
 Shin Megami Tensei III Nocturne HD Remaster
 Shin Megami Tensei V: Vengeance
 Shiness: The Lightning Kingdom
@@ -7551,6 +7553,7 @@ Spellbook Demonslayers Prologue
 Spellbreak
 Spellcaster University
 Spellcraft
+Spellmasons
 Spellsworn
 Spelunky
 Spelunky 2

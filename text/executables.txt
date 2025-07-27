@@ -199,6 +199,7 @@ aero tales online the world/aero tales online the world.exe
 af2/afcgame.exe
 afop/afop.exe
 after hours/after hours.exe
+after inc/after inc. revival.exe
 after the fall/afterthefall.exe
 after the inferno/aftertheinferno.exe
 afterhours/after hours.exe
@@ -6854,6 +6855,7 @@ shenzhen io/shenzhen.exe
 sherlock holmes versus jack the ripper/game.exe
 shhh!/shhh!.exe
 shift happens/shift happens.exe
+shiftallvrmanager/vrmanager.exe
 shiningresonancerefrain/game.exe
 shinkansen 0/shinkansen0.exe
 shinobi warfare/shinobi warfare.exe
@@ -7184,6 +7186,7 @@ spellcraft-staging/game/run/tap.exe
 spellforce conquest of eo/sfcoe.exe
 spellforce.exe
 spellforce2.exe
+spellmasons/spellmasons.exe
 spellrogue/spellrogue.exe
 spellslingers/spellslingers.exe
 spellsworn-win64-test.exe
