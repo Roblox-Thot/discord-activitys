@@ -8967,6 +8967,7 @@ win64/aitdprologue-win64-shipping.exe
 win64/aliensdarkdescentgamesteam-win64-shipping.exe
 win64/aloneinthedark-win64-shipping.exe
 win64/altf4_f-win64-shipping.exe
+win64/amber_alert-win64-shipping.exe
 win64/amenti-win64-shipping.exe
 win64/amidevil-win64-shipping.exe
 win64/anacrusis-win64-shipping.exe
@@ -9406,6 +9407,7 @@ win64/goatofduty-win64-shipping.exe
 win64/goatsim_ue4-win64-shipping.exe
 win64/godumas-win64-shipping.exe
 win64/golfpartyproject.exe
+win64/gonefishing-win64-shipping.exe
 win64/goofy-win64-shipping.exe
 win64/gopota.exe
 win64/gord-win64-shipping.exe
@@ -9450,6 +9452,7 @@ win64/helloneighborreborn.exe
 win64/hellpie-win64-shipping.exe
 win64/hellsplit_arena-win64-shipping.exe
 win64/hemingway-win64-shipping.exe
+win64/heroesofvalor-win64-shipping.exe
 win64/herosjourney-win64-shipping.exe
 win64/hi-fi-rush.exe
 win64/hia-win64-shipping.exe
