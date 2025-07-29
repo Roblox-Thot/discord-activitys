@@ -510,6 +510,7 @@ astra knights of veda/astra.exe
 astral ascent/astral ascent.exe
 astral party/astralparty.exe
 astrea/astrea.exe
+astro prospector/astro prospector.exe
 astro-win64-shipping.exe
 astronautsgame-win64-shipping.exe
 astronomics/astronomics.exe
@@ -6049,6 +6050,7 @@ princess remedy/remedy_gm7.exe
 prismata/prismata.exe
 prison architect.exe
 prison boss vr/prisonbossvr64.exe
+prison escape simulator dig out/prison escape simulator.exe
 prison life 2/prison life 2.exe
 prison life/prison life.exe
 prison simulator demo/prison simulator.exe
@@ -10047,6 +10049,7 @@ win64/stationtostation-win64-shipping.exe
 win64/stayclose-win64-shipping.exe
 win64/steam_unpossess-win64-shipping.exe
 win64/steelrats-win64-shipping.exe
+win64/stigmaclient-win64-shipping.exe
 win64/stillwakesthedeep.exe
 win64/storagehunter-win64-shipping.exe
 win64/storewars-win64-shipping.exe
