@@ -1169,6 +1169,7 @@ business tour/businesstour.exe
 businesstour.exe
 bustafellows/bustafellows.exe
 bustybiz/bustybiz.exe
+butcher's creek/butcher's creek.exe
 butcher/butcher.exe
 buttknight/buttknight.exe
 button pusher/button pusher.exe
@@ -2633,6 +2634,7 @@ eu4.exe
 eufloria hd/eufloriahd.exe
 europa1400gold.exe
 europa1400gold_tl.exe
+european ship simulator/ess.exe
 eurotrucks.exe
 eurotrucks2.exe
 ev3 - drag racing/ev3.exe
@@ -5984,6 +5986,7 @@ pool nation/pool.exe
 pool panic/poolpanic.exe
 poolians.exe
 pools/pools.exe
+popucom/popucom.exe
 populationone/populationone.exe
 popup dungeon/popup dungeon.exe
 porcelain_tales/porcelain_tales.exe
@@ -6388,6 +6391,7 @@ return to shironagasu island/shironagasu.exe
 reus.app
 reus.exe
 reus2/reus 2.exe
+reveil/reveil.exe
 revengeongolddiggers/revengeongolddiggers.exe
 reventure/reventure.exe
 reverse 1999/reverse1999.exe
@@ -9960,6 +9964,7 @@ win64/sexwithstalin-win64-shipping.exe
 win64/shadowbringer-win64-shipping.exe
 win64/shadowburglar_unreal-win64-shipping.exe
 win64/shadowcorridor2-win64-shipping.exe
+win64/sharksandminnows-win64-shipping.exe
 win64/shashingo-win64-shipping.exe
 win64/shco.exe
 win64/shepherdoflight-win64-shipping.exe
@@ -10081,6 +10086,7 @@ win64/supernatural-win64-shipping.exe
 win64/supernormal-win64-shipping.exe
 win64/superraftboatvr-win64-shipping.exe
 win64/supersmash-win64-shipping.exe
+win64/supersoccer-win64-shipping.exe
 win64/supervive-win64-shipping.exe
 win64/supraland-win64-shipping.exe
 win64/supralandsiu-win64-shipping.exe
@@ -10431,6 +10437,7 @@ wingdk/avowed-wingdk-shipping.exe
 wingdk/oblivionremastered-wingdk-shipping.exe
 wingdk/palworld-wingdk-shipping.exe
 wingdk/sandfall-wingdk-shipping.exe
+wingrts/grounded2-wingrts-shipping.exe
 wings of vi.exe
 wingspan/wingspan.exe
 winkeltje/shopkeeper.exe

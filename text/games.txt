@@ -1138,6 +1138,7 @@ Bus Simulator 21
 Bus World
 Business Tour - Online Multiplayer Board Game
 BustyBiz
+Butcher's Creek
 ButtKnight
 Bō: Path of the Teal Lotus
 C9
@@ -2649,6 +2650,7 @@ Euro Truck Simulator 2
 Europa Universalis II
 Europa Universalis III
 Europa Universalis IV
+European Ship Simulator
 Evacuation
 Evenicle
 Event[0]
@@ -3041,6 +3043,7 @@ Food Delivery Simulator
 Food Fighter Clicker Games
 Football Club Management 2023
 Football Coach: College Dynasty
+Football Heroes League
 Football Life Simulator
 Football Manager 2014
 Football Manager 2015
@@ -3497,6 +3500,7 @@ Grocery Store Simulator: Prologue
 Groove Coaster
 Grotesque Tactics: Evil Heroes
 Grounded
+Grounded 2
 Grow Defense
 Grow Home
 Grow Up
@@ -5927,6 +5931,7 @@ PLAY'A VR Video Player
 PLAYERUNKNOWN'S BATTLEGROUNDS
 PNGTuber Plus
 POLYGON
+POPUCOM
 POPULATION: ONE
 POSTAL
 POSTAL 2
@@ -6426,6 +6431,7 @@ RENNSPORT
 RESIDENT EVIL 2 / BIOHAZARD RE:2 "1-Shot Demo"
 RESIDENT EVIL 7 biohazard / BIOHAZARD 7 resident evil
 RESIDENT EVIL RESISTANCE
+REVEIL
 RHYTHM SPROUT
 RIDE 3
 RIDE 4
@@ -7206,6 +7212,7 @@ ShapeHero Factory / シェイプヒーローファクトリー
 Shardbound
 Shark Attack Deathmatch 2
 Shark Simulator
+Sharks and Minnows
 SharpShooter3D
 Shashingo: Learn Japanese with Photography
 Shattered Lights
