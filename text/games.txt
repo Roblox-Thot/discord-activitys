@@ -701,6 +701,7 @@ Bandle Tale: A League of Legends Story
 Bang-On Balls: Chronicles
 Banished
 Banishers: Ghosts of New Eden
+Banker Simulator: Prologue
 Banner Saga 3
 Banners of Ruin
 Banzai Escape 2 Subterranean
@@ -1218,6 +1219,7 @@ Call of Duty®: Black Ops Cold War
 Call of Duty®: MWIII
 Call of Duty®: Modern Warfare®
 Call of Duty®: Modern Warfare® II
+Call of Duty®: Modern Warfare® III
 Call of Duty®: WWII
 Call of Juarez
 Call of Juarez - Gunslinger
@@ -3917,6 +3919,7 @@ Hot Brass
 Hot Dogs, Horseshoes & Hand Grenades
 Hot Lava
 Hot Therapy
+Hotel Architect
 Hotel Renovator
 Hotline Miami
 Hotline Miami 2: Wrong Number
@@ -8086,6 +8089,7 @@ Tales of Vesperia: Definitive Edition
 Tales of Yore
 Tales of Zestiria
 Tales of the Black Forest
+Tales of the Shire: A The Lord of The Rings™ Game
 Talisman: Digital Edition
 Talvisota - Winter War
 Tamer Vale
@@ -8140,6 +8144,7 @@ Tempo
 Temtem
 Temtem: Swarm
 Terminator: Resistance
+Terminull Brigade™
 Terminus: Zombie Survivors
 Terra Firma
 Terra Invicta
@@ -8972,6 +8977,7 @@ Turtle Champs
 Tvö
 Twelve Minutes
 Twilight Struggle
+Twilight Survivors
 Twin Mirror
 Twin Sector
 Two Point Campus

@@ -625,6 +625,7 @@ banana shooter/banana shooter.exe
 banana/banana.exe
 bandle tale/bandle tale.exe
 banished/application-steam-x64.exe
+banker simulator prologue/banker simulator prologue.exe
 bannersofruin/bannersofruin.exe
 banzai escape 2 subterranean/banzai escape 2 subterranean.exe
 bapbap/bapbap.exe
@@ -1206,6 +1207,7 @@ call of duty hq/cod.exe
 call of duty hq/cod22/cod22-cod.exe
 call of duty hq/sp22/sp22-cod.exe
 call of duty modern warfare 2 campaign remastered/mw2cr.exe
+call of duty modern warfare iii/cod23-cod.exe
 call of duty modern warfare remastered/h1_sp64_ship.exe
 call of duty modern warfare remastered/h2m-mod.exe
 call of duty modern warfare/modernwarfare.exe
@@ -8312,6 +8314,7 @@ totally reliable delivery service/totally reliable delivery service.exe
 totallyaccuratebattlegrounds.exe
 totemori_win64/totemori_win64.exe
 tothecore/tothecore.exe
+tots/tots.exe
 touchstarved demo/touchstarved.exe
 touge shakai/touge shakai.exe
 touhou artificial dream in arcadia/adia.exe
@@ -9483,6 +9486,7 @@ win64/horrorwaiwai-win64-shipping.exe
 win64/horsegame-win64-shipping.exe
 win64/hospital666-win64-shipping.exe
 win64/hotel_renovator-win64-shipping.exe
+win64/hotelarchitect-win64-shipping.exe
 win64/hotwheels-win64-shipping.exe
 win64/houseofashestrial-win64-shipping.exe
 win64/hsho-win64-shipping.exe
@@ -9913,6 +9917,7 @@ win64/romancing saga 2 rots-win64.exe
 win64/ronin-win64-shipping.exe
 win64/rooftopsandalleys-win64-shipping.exe
 win64/rose-win64-shipping.exe
+win64/rouge-win64-shipping.exe
 win64/rpgame-win64-shipping.exe
 win64/rr-win64-shipping.exe
 win64/rsdragonwilds-win64-shipping.exe
@@ -10236,6 +10241,7 @@ win64/turtlechamps-win64-shipping.exe
 win64/twa-win64-shipping.exe
 win64/twd-win64-shipping.exe
 win64/twds-win64-shipping.exe
+win64/twilightsurvivors-win64-shipping.exe
 win64/twinstick-win64-shipping.exe
 win64/typhonhunter.exe
 win64/u01-win64-shipping.exe
