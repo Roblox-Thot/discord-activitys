@@ -3378,8 +3378,6 @@ granblue fantasy relink/granblue_fantasy_relink.exe
 grand ages medieval/grandagesmedieval.exe
 grand ages rome/rome.exe
 grand tactician the civil war (1861-1865)/the civil war (1861-1865).exe
-grand theft auto v enhanced/gta5_enhanced.exe
-grand theft auto v enhanced/gta5_enhanced_be.exe
 grand theft auto v/fivem.exe
 grand theft auto v/gta5.exe
 grand theft auto v/gta5_be.exe
@@ -5506,6 +5504,7 @@ nuclear last darkness/nucleares.exe
 nuclear option/nuclearoption.exe
 nuclearthrone.exe
 nunholy/nunholy.exe
+nwn2 enhanced edition/nwn2.exe
 o2jam/o2jam.exe
 oasis/oasis.exe
 obamamaze/obama maze.exe
@@ -7442,7 +7441,6 @@ submerge-win64-shipping.exe
 subnautica.exe
 subnauticazero.exe
 subnauticazero/subnauticazero.exe
-subprocess/fivem_dumpserver
 subprocess/fivem_gtaprocess.exe
 substance 3d painter 2022/adobe substance 3d painter.exe
 substance 3d painter 2024/adobe substance 3d painter.exe
@@ -7921,6 +7919,7 @@ the hong kong massacre/thkm.exe
 the horus heresy legions/horusheresylegions.exe
 the house in fata morgana/fata.exe
 the house of da vinci 2/thodv2.exe
+the house of da vinci 3/the house of da vinci 3.exe
 the house of da vinci/the house of da vinci.exe
 the house of the dead remake/the house of the dead remake.exe
 the hundred line -last defense academy- demo ver/hundred_line_demo.exe
@@ -8397,6 +8396,7 @@ trayracers/trayracers.exe
 treason/hl2.exe
 treasure hunter claire/game.exe
 treasure of nadia/game.exe
+treasurechestclicker/treasurechestclicker.exe
 tree simulator 2022/tree simulator 2022.exe
 trendpoker 3d free online poker/trendpoker.exe
 trgame.exe
@@ -8962,6 +8962,7 @@ win64/abyss-win64-shipping.exe
 win64/abzugame-win64-shipping.exe
 win64/ac2-win64-shipping.exe
 win64/ac40_simulator-win64-shipping.exe
+win64/achillessurvivorgame.exe
 win64/acleaninghorror-win64-shipping.exe
 win64/ado-win64-shipping.exe
 win64/advancedgame-win64-shipping.exe
@@ -9817,6 +9818,7 @@ win64/proa34-win64-shipping.exe
 win64/project-win64-shipping.exe
 win64/project.exe
 win64/project8.exe
+win64/project_a-win64-shipping.exe
 win64/project_f-win64-shipping.exe
 win64/project_flames-win64-shipping.exe
 win64/project_k-win64-shipping.exe
@@ -9902,6 +9904,7 @@ win64/rivals2-win64-shipping.exe
 win64/riven-win64-shipping.exe
 win64/rldb-win64-shipping.exe
 win64/roa3-win64-shipping.exe
+win64/roadfood-win64-shipping.exe
 win64/robinhoodfull-win64-shipping.exe
 win64/robobuild-win64-shipping.exe
 win64/robocop-win64-shipping.exe

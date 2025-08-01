@@ -208,6 +208,7 @@ Aces and Adventures
 Achievement Clicker
 Achievement printer
 Achilles: Legends Untold
+Achilles: Survivor
 Acro FS
 Across the Obelisk
 Act of Aggression
@@ -1877,6 +1878,7 @@ DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition
 DRAGON QUEST® XI: Echoes of an Elusive Age™
 DRAMAtical Murder
 DRAPLINE
+DREAD FLATS
 DREADZONE
 DREDGE
 DREDGE: CHAPTER ONE
@@ -2417,6 +2419,7 @@ Dungeonborne
 Dungeonland
 Dungeonmans
 Dungeons & Degenerate Gamblers
+Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition
 Dungeons & Dragons Online®
 Dungeons & Dragons: Chronicles of Mystara
 Dungeons & Dragons: Dark Alliance
@@ -3453,7 +3456,7 @@ Grand Tactician: The Civil War (1861-1865)
 Grand Theft Auto III
 Grand Theft Auto IV
 Grand Theft Auto San Andreas
-Grand Theft Auto V
+Grand Theft Auto V Legacy
 Grand Theft Auto: Episodes from Liberty City
 Grand Theft Auto: Vice City
 GrandChase
@@ -6701,6 +6704,7 @@ River City Girls 2
 River City Ransom: Underground
 Road 96
 Road 96: Mile 0
+Road Food Simulator: Prologue
 Road Redemption
 Road to Vostok Demo
 RoadCraft
@@ -8340,6 +8344,7 @@ The Horus Heresy: Legions
 The House in Fata Morgana
 The House of Da Vinci
 The House of Da Vinci 2
+The House of Da Vinci 3
 The Hundred Line -Last Defense Academy-
 The Hundred Line -Last Defense Academy- Demo Ver.
 The I of the Dragon
@@ -8897,6 +8902,7 @@ Trash Patrol - Academic Version
 Travellers Rest
 Tray Racers!
 Treason
+Treasure Chest Clicker
 Treasure Hunter Claire
 Treasure Hunter Simulator
 Treasure Hunters: Prologue
