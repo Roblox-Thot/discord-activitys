@@ -2238,6 +2238,7 @@ dontstarve.exe
 dontstarve_steam.exe
 donut county/donutcounty.exe
 doodle date/doodle_date.exe
+doodle empires/doodle empires.exe
 doodle god blitz/doodlegod.exe
 doodle god/doodlegod.exe
 doom 2/base/dosbox.exe
@@ -2645,6 +2646,7 @@ evelauncher.exe
 evenicle/evenicle.exe
 event[0]/event0.exe
 ever forward prologue/everforward.exe
+everafter falls/game.exe
 everdell/everdell.exe
 everdream valley/everdream valley.exe
 evergarden/evergarden.exe
@@ -4233,6 +4235,7 @@ kawaii neko girls/kawaii neko girls.exe
 kebab chefs!/kebab chefs! - restaurant simulator.exe
 kebab simulator prologue/kebab simulator.exe
 keep driving/keepdriving.exe
+keep on mining!/keep on mining!.exe
 keeperrl/keeper.exe
 kelvin/fahrenheit.exe
 kenshi/kenshi_x64.exe
@@ -4513,6 +4516,7 @@ lineageii.exe
 lines x free/lines x free.exe
 lingo/lingo.exe
 liquor store simulator prologue/liquor store simulator.exe
+liquor store simulator/liquor store simulator.exe
 lisa.exe
 lisc/lisc.exe
 little fighter 2 remastered/lf2.exe
@@ -5717,6 +5721,7 @@ paintball war.exe
 paintballx/simple hostile.exe
 paintersguild/paintersguild.exe
 paintthetownred.exe
+pairadice/pairadice.exe
 palace-of-cards/palace.exe
 paladins.exe
 paladinseac.exe
@@ -6132,6 +6137,7 @@ pubglite/launcher.exe
 pubglite/launcher_updater.exe
 pubglite/pubg lite.exe
 public bounce/public bounce.exe
+publish/warcana.exe
 puck/puck.exe
 pulsarlostcolony/pulsar_lostcolony.exe
 pumping simulator 2/pumping simulator 2.exe
@@ -7679,6 +7685,7 @@ tales from the borderlands/borderlands.exe
 tales of berseria.exe
 tales of glory/talesofglory.exe
 tales of graces f remastered/tales of graces f remastered.exe
+tales of seikyu/tales of seikyu.exe
 tales of symphonia/tos.exe
 tales of the black forest/game.exe
 tales of vesperia definitive edition/tov_de.exe
@@ -8299,6 +8306,7 @@ total miner/studioforge.totalminer.exe
 total tank simulator demo/totaltanksim.exe
 total tank simulator/totaltanksim.exe
 total war battles kingdom/twb_kingdom.exe
+total war pharaoh dynasties/pharaoh.exe
 total war rome remastered/total war rome remastered.exe
 total war saga thrones of britannia/thrones.exe
 total war shogun 2/modmanager.exe
@@ -9198,6 +9206,7 @@ win64/cv2_baseclient_shipping.exe
 win64/cyberdimensionneptunia4goddessesonline-win64-shipping.exe
 win64/cygni-win64-shipping.exe
 win64/dakar18game-win64-shipping.exe
+win64/dakar2game-win64-shipping.exe
 win64/darkalliance-win64-shipping.exe
 win64/darkfracture-win64-shipping.exe
 win64/darkhours-win64-shipping.exe
@@ -10213,6 +10222,7 @@ win64/towers-win64-shipping.exe
 win64/toyfactory-win64-shipping.exe
 win64/toysworkshop-win64-shipping.exe
 win64/toytinkersimulator-win64-shipping.exe
+win64/tq2-win64-shipping.exe
 win64/traderlifesimulator-win64-shipping.exe
 win64/trailout-win64-shipping.exe
 win64/train-win64-shipping.exe
@@ -10364,6 +10374,7 @@ windows-i686/angels with scaly wings.exe
 windows-i686/arcadespirits.exe
 windows-i686/brokendreamers.exe
 windows-i686/carpe diem.exe
+windows-i686/cbtwithyuukakazami.exe
 windows-i686/cinderellaphenomenon.exe
 windows-i686/coming-out-on-top.exe
 windows-i686/cookingcompanionsappetizeredition.exe
