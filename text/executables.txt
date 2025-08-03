@@ -1983,6 +1983,7 @@ deceit.exe
 deceiveinc/deceiveinc.exe
 decent icons 2/decenticons.exe
 decent icons/decenticonswpf.exe
+ded/game.exe
 deduction/deduction.exe
 deducto2/deducto2.exe
 deeeer simulator/deeeer simulator.exe
@@ -2035,6 +2036,7 @@ demul.exe
 denizen/denizen.exe
 deovr video player/deovr.exe
 depersonalization/depersonalization-release.exe
+deployment/deployment.exe
 deponia doomsday/deponia4.exe
 deponia.exe
 deponia.exe
@@ -2280,6 +2282,7 @@ dr langeskov the tiger and the terribly cursed emerald a whirlwind heist/drlange
 dr livesey giga based edition/dr livesey rom and death edition.exe
 dr2_us.exe
 dr3d/dr3d_streets2.exe
+dracomaton/dracomaton.exe
 dragon age the veilguard character creator/dragon age the veilguard ea.exe
 dragon age the veilguard/dragon age the veilguard.exe
 dragon ball the breakers/start_game.exe
@@ -2747,6 +2750,7 @@ fairy tail/fairy_tail.exe
 fairyfencer.exe
 faith/faith.exe
 fake lay/fakelay.exe
+falcon 4.0/falcon4.exe
 fall of the stick knights/fall of stick knights.exe
 fallen aces demo/fallen aces demo.exe
 fallen aces/fallen aces.exe
@@ -4101,6 +4105,7 @@ isekai front line/isekai frontline.exe
 isekai quest/isekai quest.exe
 isis simulator/isis.exe
 island saver/moneybox.exe
+islanders new shores/islanders new shores.exe
 islanders/islanders.exe
 isle of arrows/isle of arrows.exe
 isle of ewe/isle of ewe.exe
@@ -4309,6 +4314,7 @@ kink.inc/kink inc steam.exe
 kiosk/kiosk.exe
 kitaria fables demo/kitaria fables demo.exe
 kitaria fables/kitaria fables.exe
+kitchen wars/kitchen wars.exe
 kitchenwarsappetizer/kitchen wars.exe
 kiteretsu/kiteretsu.exe
 kithack model club/kithack model club.exe

@@ -1827,6 +1827,7 @@ DEATHGARDEN
 DEATHLOOP
 DEATHVERSE: LET IT DIE
 DEATHWATCHERS
+DED
 DEEEER Simulator: Your Average Everyday Deer Game
 DEEMO -Reborn-
 DEEP SPACE CACHE
@@ -1837,6 +1838,7 @@ DEEP SPACE WAIFU: NEKOMIMI
 DEEP SPACE WAIFU: WORLD
 DELTARUNE
 DELTARUNE (Chapter 1 & 2 DEMO)
+DEPLOYMENT
 DEVOUR
 DICEOMANCER
 DIRT 5
@@ -1867,6 +1869,7 @@ DPET : Desktop Pet Engine
 DPS IDLE
 DPS IDLE 2
 DR LIVESEY ROM AND DEATH EDITION
+DRACOMATON
 DRAGON BALL FighterZ
 DRAGON BALL XENOVERSE
 DRAGON BALL XENOVERSE 2
@@ -2830,6 +2833,7 @@ Fahrenheit: Indigo Prophecy Remastered
 Fairy Fencer F
 Fairy Fencer F Advent Dark Force
 Fake Lay
+Falcon 4.0
 Fall Guys
 Fall of the stick knights
 Fallen Aces
@@ -4044,6 +4048,7 @@ ISEKAI FRONTLINE
 ISEKAI QUEST
 ISIS Simulator
 ISLANDERS
+ISLANDERS: New Shores
 IXION
 Ib
 Icarus
@@ -4447,6 +4452,7 @@ Kiosk
 KitHack Model Club
 Kitaria Fables
 Kitaria Fables Demo
+Kitchen Wars
 Kitchen Wars: Appetiser
 Kitty Ball
 Kitty Powers' Matchmaker
