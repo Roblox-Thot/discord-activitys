@@ -391,6 +391,7 @@ Angvik
 Animal Jam
 Animal Revolt Battle Simulator
 Animal Shelter
+Animal Shelter 2
 Animal Shelter 2: Prologue
 Animal Shelter: Prologue
 Animal Super Squad
@@ -987,6 +988,7 @@ BoardLand
 Bob Was Hungry
 BodyRecords
 Bodycam
+Bogos Binted
 Boid
 Bomb Bots Arena
 Bomb Rush Cyberfunk
@@ -1939,6 +1941,7 @@ Darwin Project
 Darwin Project
 Darwinia
 Darza's Dominion
+Date Banger
 Date Everything!
 Dating Simulator
 Dauntless
@@ -2069,6 +2072,7 @@ Demolish & Build 2017
 Demolish & Build 2018
 Demolish & Build 3: Excavator Playground
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles
+Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
 DemonCrawl
 Demonologist
 DemonsAreCrazy
@@ -5046,6 +5050,7 @@ Mecha BREAK
 Mecha Knights: Nightmare
 Mecha Simultactics Alpha
 Mechabellum
+Mecharashi
 Medal of Honor™: Above and Beyond
 Medieval Blacksmith
 Medieval Dynasty
@@ -5500,6 +5505,7 @@ NOT A HERO
 NSFW Solitaire
 NSFW Studio
 NTR'd By Clumsiness
+NUKITASHI
 Naheulbeuk's Dungeon Master
 Naiad Demo
 Nancy Drew: Curse of Blackmoor Manor
@@ -6977,6 +6983,7 @@ STORY OF SEASONS: Pioneers of Olive Town
 STRAFE
 STRAFTAT
 STRANGER OF PARADISE FINAL FANTASY ORIGIN
+STRIDE
 SULFUR
 SUMMERHOUSE
 SUPER CHICKEN JUMPER
@@ -8852,6 +8859,7 @@ Tower Unite
 Tower Wars
 Tower Wizard
 Tower and Sword of Succubus
+Tower of Babel: Survivors of Chaos
 Tower of Babel: Survivors of Chaos (Demo)
 Tower of Fantasy
 Tower of Time
