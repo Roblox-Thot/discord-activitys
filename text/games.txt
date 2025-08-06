@@ -86,6 +86,7 @@ A Dance of Fire and Ice
 A Date with Death
 A Day Out
 A Difficult Game About Climbing
+A Few Quick Matches
 A Fisherman's Tale
 A Game About
 A Game About Digging A Hole
@@ -1149,6 +1150,7 @@ C9
 CABAL Online
 CAPTURED
 CARRION
+CARRION Sneak Peek
 CARRUMBLE
 CASE 2: Animatronics Survival
 CASE: Animatronics
@@ -1488,6 +1490,7 @@ Clatter
 Cleaner Company: Prologue
 Click Click Dig: Prologue
 Click Mage
+Click and Conquer
 Click to Eleven
 Clicker Guardians
 Clicker Guild
@@ -2112,6 +2115,7 @@ Destined to Die
 Destiny 2
 Destroyer: The U-Boat Hunter
 Desynced
+Detective Grimoire
 Detention
 Detroit: Become Human
 Detroit: Become Human Demo
@@ -3250,7 +3254,7 @@ GUN
 GUN GODZ
 GUNDAM EVOLUTION
 GUNS UP!
-GWENT: The Witcher Card Game 
+GWENT: The Witcher Card Game
 GYLT
 Gacha Girls United
 Gachi Heroes
@@ -4324,6 +4328,7 @@ Justice League VR: The Complete Experience
 KALPA: Cosmic Symphony
 KARAKARA
 KARDS - The WWII Card Game
+KARMA: The Dark World
 KEO
 KHOLAT
 KIBORG
@@ -6737,6 +6742,7 @@ Robin Hood - Sherwood Builders - Bandit's Trail
 Robin Morningwood Adventure
 Roblox
 RoboCop: Rogue City
+RoboCop: Rogue City - Unfinished Business
 RoboSquare
 Robocraft
 Robocraft 2
@@ -8852,6 +8858,7 @@ Touhou Luna Nights
 Touhou Mystia's Izakaya
 Touhou Puppet Dance Performance
 Touhou Sky Arena
+Touhou: Scarlet Curiosity
 Tourist Bus Simulator
 Tower 57
 Tower Dominion

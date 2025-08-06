@@ -102,6 +102,7 @@ a castle full of cats/castle.exe
 a dance of fire and ice/a dance of fire and ice.exe
 a date with death/adatewithdeath.exe
 a difficult game about climbing/a difficult game about climbing.exe
+a few quick matches/a few quick matches.exe
 a game about/agameabout.exe
 a game of thrones the board game/agameofthronestheboardgame.exe
 a good snowman is hard to build/snowman.exe
@@ -1265,6 +1266,7 @@ caribbean crashers/cc.exe
 carrier command 2/carrier_command.exe
 carrier deck/autorun.exe
 carrier.exe
+carrion demo/carrion.exe
 carrion/carrion.exe
 cars 2/game-cars.exe
 cars mater-national/cars_mater.exe
@@ -1451,6 +1453,7 @@ classroom aquatic demo/game.exe
 clatter/clatter.exe
 cleaner/cleaner-btd6.exe
 cleaning simulator/freshstart.exe
+click and conquer/click and conquer.exe
 click click dig prologue/click click dig prologue.exe
 click mage/clickmage.exe
 click to ten/click to ten.exe
@@ -1821,7 +1824,7 @@ dark forces/dosbox/dosbox.exe
 dark messiah might and magic multi-player/mm.exe
 dark messiah might and magic single player/mm.exe
 dark roll free kick challenge/dark roll free kick challenge.exe
-dark souls prepare to die edition/data/darksouls.exe 
+dark souls prepare to die edition/data/darksouls.exe
 dark souls remastered/darksoulsitemrandomizer.exe
 dark souls remastered/enemyrandomizer.exe
 darkest hour.exe
@@ -2072,6 +2075,7 @@ destined to die/destinedtodie.exe
 destined/destined.exe
 destiny2.exe
 destroyer the u-boat hunter/destroyer the u-boat hunter.exe
+detective grimoire/detective grimoire.exe
 detention/detention.exe
 detroit become human demo/detroitbecomehuman.exe
 detroit become human/detroitbecomehuman.exe
@@ -6206,6 +6210,7 @@ qwant/nsuns1.exe
 qwant2/nsuns2.exe
 r.u.s.e/ruse.exe
 r3air.exe
+r5apex_dx12.exe
 r6vegas2_game.exe
 r6vegas_game.exe
 ra3ep1.exe
@@ -8201,7 +8206,7 @@ thronebreaker.exe
 thronefall demo/thronefall.exe
 thronefall/thronefall.exe
 throneoflies.exe
-throneoflies.x86 
+throneoflies.x86
 through the ages/throughtheages_steam.exe
 through the darkest of times/ttdot.exe
 through the woods/through the woods.exe
@@ -8342,6 +8347,7 @@ touhou big big battle/touhou big big battle.exe
 touhou fantasia/touhoufantasia.exe
 touhou luna nights/touhou_luna_nights.exe
 touhou mystia izakaya/touhou mystia izakaya.exe
+touhouscarletcuriosity/scarletcuriosity.exe
 tower 3d pro/tower3d.exe
 tower 57/tower57.exe
 tower and sword succubus/succubus_sword.exe
@@ -9573,6 +9579,7 @@ win64/kagura_survivors-win64-shipping.exe
 win64/kani-win64-shipping.exe
 win64/kao-win64-shipping.exe
 win64/kards-win64-shipping.exe
+win64/karmau54-win64-shipping.exe
 win64/karnagevr-win64-shipping.exe
 win64/kartdrift-win64-shipping.exe
 win64/kayak_vr-win64-shipping.exe
@@ -9933,6 +9940,7 @@ win64/roadfood-win64-shipping.exe
 win64/robinhoodfull-win64-shipping.exe
 win64/robobuild-win64-shipping.exe
 win64/robocop-win64-shipping.exe
+win64/robocopunfinishedbusiness-win64-shipping.exe
 win64/roboquest-win64-shipping.exe
 win64/robotwolf-win64-shipping.exe
 win64/rocksimulator-win64-shipping.exe
@@ -10472,6 +10480,7 @@ windows_content/streamer life simulator.exe
 windscape.exe
 windward/windward.exe
 wingdk/avowed-wingdk-shipping.exe
+wingdk/grounded2-wingdk-shipping.exe
 wingdk/oblivionremastered-wingdk-shipping.exe
 wingdk/palworld-wingdk-shipping.exe
 wingdk/sandfall-wingdk-shipping.exe
