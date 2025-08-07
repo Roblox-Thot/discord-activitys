@@ -765,6 +765,7 @@ Battlefield 2142
 Battlefield 3
 Battlefield 4
 Battlefield: Bad Company 2
+Battlefield™ 6 Open Beta
 Battlefield™ Hardline
 Battlefield™ V
 Battlefleet Gothic: Armada
@@ -1252,6 +1253,7 @@ Captain Bones: Prologue
 Captain Starshot
 Captain Tsubasa - Rise of New Champions
 Captain of Industry
+Capuchin
 Capybara Spa
 Capybara: The story of Sisyphus
 Car Dealer Simulator
@@ -2793,6 +2795,7 @@ FINAL FANTASY XVI
 FINAL FANTASY® XI: Ultimate Collection Seekers Edition NA
 FINAL SPIN
 FIND ALL
+FIND ALL 2: Middle Ages
 FIND ALL 4: Magic
 FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FNaF World
@@ -5986,6 +5989,7 @@ PWND
 Pacific Drive
 Pacifish
 Pacify
+Paddle Paddle Paddle
 Pagan Online
 Painkiller Hell & Damnation
 Painkiller: Black Edition
@@ -9558,6 +9562,7 @@ Winter Memories
 Winter Resort Simulator
 Winter Resort Simulator 2
 Winter Survival: Prologue
+Wires And Whiskers
 Wish
 Witch Hunt
 Witch It
