@@ -1685,6 +1685,7 @@ Crash Bandicoot™ 4: It’s About Time
 Crash Bandicoot™ N. Sane Trilogy
 Crash Drive 2
 Crash Wheels
+CrashMetal Cyberpunk
 Crashday Redline Edition
 Crashlands
 Crashphalt
@@ -3257,6 +3258,7 @@ GUN
 GUN GODZ
 GUNDAM EVOLUTION
 GUNS UP!
+GUNTOUCHABLES
 GWENT: The Witcher Card Game
 GYLT
 Gacha Girls United
@@ -4945,6 +4947,7 @@ Mafia II: Definitive Edition
 Mafia III
 Mafia III: Definitive Edition
 Mafia: Definitive Edition
+Mafia: The Old Country
 Mage Arena
 Mage Kanade's Futanari Dungeon Quest
 Mage and Monsters
@@ -5505,6 +5508,7 @@ NIGHT-RUNNERS PROLOGUE
 NIMBY Rails
 NIMRODS
 NINJA GAIDEN 2 Black
+NINJA GAIDEN: Ragebound
 NITE Team 4
 NKO DICE
 NO STRANGERS
@@ -9512,6 +9516,7 @@ When the Darkness comes
 Where Dragon Spirits 龙魂在哪里
 Where the Water Tastes Like Wine
 While We Wait Here
+Whimsical Artefacts
 Whirligig
 Whispers of a Machine
 White Day: A Labyrinth Named School
