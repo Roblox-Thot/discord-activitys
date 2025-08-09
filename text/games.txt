@@ -2507,6 +2507,7 @@ EVE Online
 EVERSPACE™
 EXAPUNKS
 EXOPRIMAL Open Beta Test
+EZ-Crosshair
 EZ2ON REBOOT : R
 Earn to Die 2
 Earth 2150 Trilogy
@@ -5167,6 +5168,7 @@ Midnight Heist
 Midnight Murder Club Crossplay Beta
 Midnight Paradise
 Midnight Ride
+Midori no Kaori
 Might & Magic Heroes VI
 Might & Magic Heroes VII
 Might & Magic X - Legacy
@@ -8720,6 +8722,7 @@ Tinkerlands: A Shipwrecked Adventure
 Tinkertown
 Tint 'n Ink
 Tiny Aquarium
+Tiny Bookshop
 Tiny Bunny
 Tiny Bunny: Prologue
 Tiny Combat Arena
@@ -9843,6 +9846,7 @@ a new life.
 art of rally
 click to ten
 clickyland
+cyberpunkdreams
 de Blob
 de Blob 2
 dotAGE
@@ -9890,6 +9894,7 @@ rFactor
 rFactor 2
 resident evil 4 / biohazard 4
 s&box
+s.p.l.i.t
 sZone-Online
 scram
 screamdown

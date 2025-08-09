@@ -1799,6 +1799,7 @@ cyber hook/cyberhook.exe
 cyber knights flashpoint/cyberknights.exe
 cybermanhunt/cybermanhunt.exe
 cyberpunk2077.exe
+cyberpunkdreams/cyberpunkdreams.exe
 cycle idle rpg/cycle idle rpg.exe
 cypher/cypher.exe
 cyphers.exe
@@ -2715,6 +2716,7 @@ exploratombe/tombrumble.exe
 extremely powerful capybaras training grounds/extremely_powerful_capybaras.exe
 eye.exe
 eyes - the horror game/eyes.exe
+ez-crosshair/ez-crosshair.exe
 ez2on reboot r/ez2on.exe
 ezquake-gl.exe
 ezquake.exe
@@ -2744,6 +2746,7 @@ fabledom/fabledom.exe
 faceminer/faceminer.exe
 faces of war/facesofwar.exe
 facetheabyss/facetheabyss.exe
+factorio.app
 factorio.exe
 factory outlet simulator prologue/factory outlet simulator prologue.exe
 factory outlet simulator/factory outlet simulator.exe
@@ -4966,6 +4969,7 @@ midnight heist/midnight heist.exe
 midnight murder club demo/midnightmurderclub.exe
 midnight paradise/midnightparadise.exe
 midnight ride/midnight ride.exe
+midori no kaori/midori no kaori.exe
 might & magic heroes vi.exe
 might & magic x - legacy/might and magic x legacy.exe
 might and magic clash of heroes/clashofheroes.exe
@@ -7256,6 +7260,7 @@ splendor/splendor.exe
 splintercell.exe
 splintercell3.exe
 split or steal/split or steal.exe
+split_windows/split.exe
 splitgate 2 playtest/launcher.exe
 splitgate 2/launcher.exe
 splitsecond/splitsecond.exe
@@ -8247,6 +8252,7 @@ tinkerlands/tinkerlands.exe
 tinkertown/tinkertown.exe
 tint 'n ink/tint n ink.exe
 tiny aquarium/tiny aquarium.exe
+tiny bookshop/tiny bookshop.exe
 tiny glade/tiny-glade.exe
 tiny heroes 2/tiny heroes 2.exe
 tiny pasture/tinypasture.exe
