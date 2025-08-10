@@ -2180,6 +2180,7 @@ disgaea rpg/disgaea rpg.exe
 dishonored.exe
 dishonored2.exe
 dishonored_deathoftheoutsider/dishonored_do.exe
+disillusion/game.exe
 disney dreamlight valley - avatar designer demo/disneydreamlightvalley_demo_steam.exe
 disney dreamlight valley/ddv.exe
 disney epic mickey 2/dem2.exe
@@ -3714,6 +3715,7 @@ hentaiminesweeper/hentai minesweeper.exe
 her new memory/hernewmemory.exe
 her story/herstory.exe
 here comes niko/here comes niko!.exe
+heretic + hexen/heretic.exe
 heretic shadow of the serpent riders/base/dosbox.exe
 heretic's fork/heretics fork.exe
 hero zero/hero zero.exe
@@ -4844,6 +4846,7 @@ mdc/mdc.exe
 mds/mds.exe
 mds_demo_win/mds_demo.exe
 meadow/meadow.exe
+mean beans/mean beans.exe
 mech engineer/mech_engineer.exe
 mecha knights nightmare alpha/mecha knights.exe
 mechabellum/mechabellum.exe
@@ -5115,6 +5118,7 @@ monolight/monolights.exe
 monolisk/monolisk.exe
 monopoly plus/monopoly.exe
 monopoly poker/monopoly poker.exe
+monopoly/monopoly.exe
 monster camp demo/monstercampdemo.exe
 monster cards/monstercards.exe
 monster care simulator/monster care simulator.exe
@@ -5819,6 +5823,7 @@ patrick's parabox/patrick's parabox.exe
 paunch 2/paunch 2.exe
 paunch/paunch.exe
 pavlov-win64-shipping.exe
+pawn planet first sales/pawn planet first sales.exe
 pawnbarian/pawnbarian.exe
 paxdei/paxdei.exe
 payday 2/payday2_win32_release_vr.exe
@@ -6687,6 +6692,7 @@ sanabi/snb.exe
 sanctuaryrpg - black edition/sanctuaryrpg.exe
 sanctumgame-win32-shipping.exe
 sandbox/sandbox.exe
+sandboxels/sandboxels.exe
 sands/sands.exe
 sandstorm/insurgencyeac.exe
 sandstorm_beta/insurgencyeac.exe
@@ -8127,6 +8133,7 @@ the walking dead michonne/walkingdeadmichonne.exe
 the walking dead no man's land/the walking dead no man's land.exe
 the walking dead the final season demo/walkingdead4demo.exe
 the walking dead the telltale definitive series/wdc.exe
+the walking fish 2 final frontier/twf2.exe
 the walking zombie 2/the walking zombie 2.exe
 the watchers/thewatchers.exe
 the way of life/thewayoflifedemowindows.exe

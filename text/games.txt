@@ -2214,6 +2214,7 @@ Dishonored
 Dishonored 2
 Dishonored®: Death of the Outsider™
 Dishwashing Simulator
+Disillusion
 Disney Dreamlight Valley
 Disney Dreamlight Valley - Avatar Designer Tool
 Disney Epic Mickey 2
@@ -3811,6 +3812,7 @@ Her Lie I Tried To Believe
 Her New Memory
 Her Story
 Here Comes Niko!
+Heretic + Hexen
 Heretic's Fork
 Heretic: Shadow of the Serpent Riders
 Hero Siege
@@ -4888,6 +4890,7 @@ MOLEK-SYNTEZ
 MOMO.EXE
 MONMUSU
 MONOLISK
+MONOPOLY 2024
 MONOPOLY Poker
 MONSTER CARDS
 MONSTER HUNTER RISE
@@ -5056,6 +5059,7 @@ McOsu
 McPixel
 McPixel 3
 Meadow
+Mean Beans
 Mech Engineer
 MechWarrior 5: Mercenaries
 MechWarrior Online
@@ -6077,6 +6081,7 @@ Patrick's Parabox Demo
 Paunch
 Paunch 2
 Pavlov VR
+Pawn Planet: First Sales
 Pawnbarian
 Pax Dei
 Peace, Death!
@@ -7078,6 +7083,7 @@ Samurai Shampoo
 SanctuaryRPG: Black Edition
 Sanctum 2
 Sand:box
+Sandboxels
 Sands
 Sands of Salzaar
 Sandtrix
@@ -8631,6 +8637,7 @@ The Walking Dead: Season Two
 The Walking Dead: The Final Season
 The Walking Dead: The Final Season Demo
 The Walking Dead: The Telltale Definitive Series
+The Walking Fish 2: Final Frontier
 The Wandering Village
 The Watchers
 The Watson-Scott Test
