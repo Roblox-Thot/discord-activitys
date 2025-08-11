@@ -646,6 +646,7 @@ BRAVELY DEFAULT II
 BREAK ARTS II
 BREATHE
 BROKE PROTOCOL: Online City RPG
+BRUTALISTICK VR
 BUSTAFELLOWS
 BUTCHER
 Baba Is You
@@ -1194,6 +1195,7 @@ CUSTOM ORDER MAID 3D2 It's a Night Magic
 CYGNI: All Guns Blazing
 Cabal 2
 Cabernet
+Cabin Crew Life Simulator
 Cadria Item Shop
 Caesar 3
 Cafe Owner Simulator
@@ -1591,6 +1593,7 @@ Commandos 2: Men of Courage
 Commandos 3: Destination Berlin
 Commandos: Behind Enemy Lines
 Commandos: Beyond the Call of Duty
+Commandos: Origins
 Company of Heroes
 Company of Heroes 2
 Company of Heroes 3
@@ -2718,6 +2721,7 @@ Expeditions: Rome
 Expeditions: Viking
 Exploding Kittens® 2
 Explore Fushimi Inari
+Exposed Livestream
 Extremely Powerful Capybaras
 Extremely Powerful Capybaras: Training Grounds
 Eyes: The Horror Game
@@ -4235,6 +4239,8 @@ IronWolf VR
 IronWolf: Free Non-VR Edition
 Ironsight
 Ironsight
+Is This Game Trying To Kill Me?
+Is This Seat Taken?
 Island Saver
 Islands of Insight
 Islands of Nyne: Battle Royale
@@ -4987,6 +4993,7 @@ Make Good Choices
 Make It Rain: Love of Money
 Make Way
 Make Your Kingdom: Prologue
+MakeRoom
 MakerKing
 Malum
 Man of the House
@@ -5267,6 +5274,7 @@ Mixcraft 8 Home Studio
 Mizi NO!
 Mob Factory
 Mob Factory Demo
+Mobile Dungeon
 Mod and Play
 Model Builder
 Modern Combat 5
@@ -8175,6 +8183,7 @@ Tavern Talk
 Tavern Tycoon
 Taxi Life: A City Driving Simulator
 Tcheco in the Castle of Lucio
+Tchia
 Team Fortress 2
 Team Sonic Racing™
 Teamfight Manager
@@ -8902,6 +8911,7 @@ Town of Sins
 Townscaper
 Townsmen
 Townsmen - A Kingdom Rebuilt
+Toy Shire
 Toy Shire: Room One
 Toy Soldiers
 Toy Soldiers: Complete
@@ -9116,6 +9126,7 @@ Uncrashed : FPV Drone Simulator
 Undawn
 Undead Horde
 Undecember
+Under Contract
 Under The Waves
 UnderMine
 Underground Blossom

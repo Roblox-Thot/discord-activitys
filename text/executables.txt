@@ -1128,6 +1128,7 @@ brotatodemo/brotatodemo.exe
 brothers.exe
 broventure the wild co-op/broventure.exe
 brutal orchestra/brutalorchestra.exe
+brutalistick vr/brutalistickvr.exe
 brutallegend.exe
 btd5-win.exe
 btdadventuretime.exe
@@ -1187,6 +1188,7 @@ cabal.exe
 cabal2main.exe
 cabalmain.exe
 cabernet/cabernet.exe
+cabincrewlifesimulator/cabincrewlifesimulator.exe
 cadria item shop/cadria.exe
 cafe owner simulator prologue/cafe owner simulator.exe
 cafe owner simulator/cafe owner simulator.exe
@@ -2714,6 +2716,7 @@ expeditions viking/expeditions viking.exe
 expendabros.exe
 exploding kittens 2/explodingkittens.exe
 exploratombe/tombrumble.exe
+exposed livestream/game.exe
 extremely powerful capybaras training grounds/extremely_powerful_capybaras.exe
 eye.exe
 eyes - the horror game/eyes.exe
@@ -4114,6 +4117,8 @@ ironsight_wpg/ironsight.exe
 ironsnout.exe
 ironwolf free non-vr edition/iw.exe
 ironwolf/iw.exe
+is this game trying to kill me/isthisgametryingtokillme.exe
+is this seat taken/is this seat taken.exe
 isaac-ng.exe
 isaac.app
 isaac.exe
@@ -4768,6 +4773,7 @@ make it rain love of money/loveofmoney.exe
 make way/make way.exe
 make your kingdom prologue/make your kingdom.exe
 makerking/makerking.exe
+makeroom/makeroom.exe
 man of the house/man of the house.exe
 mana spark/manaspark.exe
 mandagon/mandagon.exe
@@ -5083,6 +5089,7 @@ mniy/nw.exe
 moastray/moastray.exe
 mob factory windows demo/mobfarm.exe
 mob factory windows/mobfarm.exe
+mobile dungeon/mobiledungeon.exe
 mobilesuitgundambattleoperation2/msgbo2.exe
 mobiusff.exe
 mod manager/mod manager.exe
@@ -8394,6 +8401,7 @@ townsmen - a kingdom rebuilt/townsmenrebuilt.exe
 townsmen.exe
 toxikk.exe
 toy shire room one/toy shire room one.exe
+toy shire/toy shire.exe
 toy soldiers complete/game.exe
 toy soldiers/gamesw.exe
 toy story 3/game-ts3.exe
@@ -8572,6 +8580,7 @@ unbeatable/unbeatable [white label].exe
 unboxing the cryptic killer/unboxingthecryptickiller.exe
 uncharted legacy of thieves collection/u4.exe
 undead horde/undeadhorde.exe
+under contract/under contract.exe
 under night in-birth exe late/uniel.exe
 under night in-birth exe late[st]/unist.exe
 under night in-birth ii sys celes/uni2.exe
@@ -9225,6 +9234,7 @@ win64/codevein-win64-shipping.exe
 win64/colonyshipgame-win64-shipping.exe
 win64/combots-win64-shipping.exe
 win64/commandergame-win64-shipping.exe
+win64/commandos-win64-shipping.exe
 win64/contain-win64-shipping.exe
 win64/contractors_ue4_22_steam-win64-shipping.exe
 win64/contractville-win64-shipping.exe
@@ -9900,6 +9910,7 @@ win64/projectvenue-win64-shipping.exe
 win64/projectwingman-win64-shipping.exe
 win64/projectworker-win64-shipping.exe
 win64/projectx-win64-shipping.exe
+win64/projetcaillou-win64-shipping.exe
 win64/prometheus-win64-shipping.exe
 win64/prominence-win64-shipping.exe
 win64/propagationvr-win64-shipping.exe
