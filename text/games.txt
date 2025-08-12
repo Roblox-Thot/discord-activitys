@@ -934,6 +934,7 @@ Bless Online
 Bless Unleashed
 Blightbound
 Blind Trust
+Bling Bling Bankruptcy
 Blitzkrieg Anthology
 Blobby Volley 2
 Block N Load
@@ -1148,6 +1149,7 @@ BustyBiz
 Butcher's Creek
 ButtKnight
 Bō: Path of the Teal Lotus
+C.A.S.T.
 C9
 CABAL Online
 CAPTURED
@@ -2602,6 +2604,7 @@ Engine Evolution 2021
 Engine Evolution 2022
 Engine Evolution 2023
 Enigma do Medo
+Enigmatis: The Ghosts of Maple Creek
 Enlisted
 Enotria: The Last Song
 Enshrouded
@@ -4809,6 +4812,7 @@ Lovecraft's Untold Stories
 Lovely Planet
 Lovers in a Dangerous Spacetime
 Lovers of Aether
+Lovey-Dovey Lockdown
 Low Light Combat
 Low Magic Age
 Lucid Dream
@@ -6236,6 +6240,7 @@ Pleh!
 Plokoth
 Plug & Play
 Plunder Panic
+Plutocracy
 PngTuber Maker
 PockeDate! - Pocket Dating Simulator
 Pocket Bravery Demo
@@ -6870,6 +6875,7 @@ Russian Roulette: One Life
 Russian roulette
 Rust
 Rustangelo
+Rusted Moss
 Rusted Warfare - RTS
 Rustissimo
 Rustler

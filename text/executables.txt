@@ -970,6 +970,7 @@ bleed 2/bleed2.exe
 bless online/binaries/win64/bless.exe
 blightbound/blightbound.exe
 blind trust/blindtrust.exe
+bling bling bankruptcy/blingbling.exe
 blitzkrieg/game.exe
 blobby.exe
 blockade3d/main.exe
@@ -1287,6 +1288,7 @@ case animatronics/case.exe
 casino simulator/casino simulator.exe
 cassette beasts/cassettebeasts.exe
 cast n chill/castnchill.exe
+cast/cast.exe
 castle break/castlebreak_.exe
 castle clicker/castleclicker.exe
 castle flipper/castle flipper.exe
@@ -1614,6 +1616,7 @@ contagion.exe
 containers/containers.exe
 content warning/content warning.exe
 content/minecraft.exe
+content/seaofthieves.exe
 content/vampiresurvivors.exe
 contra anniversary collection/game.exe
 contra operation galuga/contraog.exe
@@ -2584,6 +2587,7 @@ engine evolution 2022/engine evolution.exe
 engine evolution 2023/engine evolution.exe
 engine evolution/engine evolution.exe
 enigma of fear/enigma.exe
+enigmatis the ghosts of maple creek/enigmatis_theghostsofmaplecreek.exe
 enscroll/enscroll.exe
 enshrouded/enshrouded.exe
 enter the gungeon/etg.exe
@@ -5182,6 +5186,7 @@ mosa lina/mosa lina.exe
 mosaique neko waifus 2/mosaique neko waifus 2.exe
 mosaique neko waifus 3/mosaique neko waifus 3.exe
 mosaique neko waifus 4/mosaique neko waifus 4.exe
+mose/rusted_moss.exe
 mother russia bleeds/mother russia bleeds.exe
 motherless - season 1/steam.motherless.exe
 motogp15/motogp15x64.exe
@@ -5995,6 +6000,7 @@ pleh!/pleh!.exe
 plokoth/plokoth.exe
 plug & play/pnp.exe
 plunder panic/plunder panic.exe
+plutocracy/plutocracy.exe
 pmc/datacachepreprocessor.exe
 pngtuber maker/pngtuber maker.exe
 pngtuber plus/pngtuber 1.4 steam.exe
@@ -6847,6 +6853,7 @@ sex and the furry titty 3/sex and the furry titty 3.exe
 sex coach hot yoga - prologue/sex coach hot yoga - prologue.exe
 sex desert mad lust/sex desert mad lust.exe
 sex of thrones/sex of thrones.exe
+sex room/game.exe
 sex simulator/sex simulator.exe
 sexbot/sexbot.exe
 sexts/sexts.exe
@@ -10094,6 +10101,7 @@ win64/solarlandclient-win64-shipping.exe
 win64/sonder-win64-shipping.exe
 win64/songofhorror-win64-shipping.exe
 win64/songofnunu-win64-shipping.exe
+win64/sotgame.exe
 win64/soulslinger-win64-shipping.exe
 win64/soulstice.exe
 win64/southofmidnight.exe
@@ -10519,6 +10527,7 @@ wingdk/grounded2-wingdk-shipping.exe
 wingdk/oblivionremastered-wingdk-shipping.exe
 wingdk/palworld-wingdk-shipping.exe
 wingdk/sandfall-wingdk-shipping.exe
+wingdk/sotgame.exe
 wingrts/grounded2-wingrts-shipping.exe
 wings of vi.exe
 wingspan/wingspan.exe
