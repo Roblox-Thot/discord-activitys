@@ -2340,6 +2340,7 @@ Dread Delusion
 Dread Hunger
 Dread Templar
 DreadOut
+Dreadline: Net Quota
 Dreadnought
 Dream Car Builder
 Dream Daddy: A Dad Dating Simulator
@@ -9545,6 +9546,7 @@ Where the Water Tastes Like Wine
 While We Wait Here
 Whimsical Artefacts
 Whirligig
+Whisper Mountain Outbreak Friend's Pass
 Whispers of a Machine
 White Day: A Labyrinth Named School
 White Knuckle

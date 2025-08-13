@@ -2335,6 +2335,7 @@ drawing from memory/drawing from memory.exe
 drdr/drdr.exe
 dread templar/dreadtemplar.exe
 dreadgame-win64-shipping.exe
+dreadline net quota/dreadline.exe
 dreadout/dreadout.exe
 dream car builder/dcr3d_x64.exe
 dream daddy/ddadds.exe
@@ -8937,6 +8938,7 @@ where dragon spirits/where dragon spirits.exe
 where the water tastes like wine/wtwtlw_64.exe
 whimsical artefacts/whimsical artefacts.exe
 whirligig/whirligig.exe
+whisper mountain outbreak demo/whisper mountain outbreak.exe
 whispers of a machine/whispers.exe
 white day a labyrinth named school/whiteday.exe
 white knuckle/white knuckle.exe
