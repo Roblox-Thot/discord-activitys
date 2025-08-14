@@ -195,6 +195,7 @@ Absolute Drift
 Absolver
 Abyss
 Abyss The Forgotten Past: Prologue
+Abyssus
 Academia : School Simulator
 Academy Love Saga: Tennis Angels EX
 Acceleration of SUGURI 2
@@ -2299,6 +2300,7 @@ Dota 2
 Dota Underlords
 Double Action: Boogaloo
 Double Cheeseburger, Medium Fries
+Double Dragon Gaiden: Rise of the Dragons
 Double Dragon Neon
 Double Shoulders
 Downtown Drift
@@ -4475,6 +4477,7 @@ Kingspray Graffiti
 Kingsway
 KinitoPET
 Kink.Inc
+Kinky Cats
 Kinoko
 Kiosk
 KitHack Model Club
