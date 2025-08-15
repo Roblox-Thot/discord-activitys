@@ -2436,6 +2436,7 @@ Dungeon Royale
 Dungeon Siege
 Dungeon Siege 2
 Dungeon Siege III
+Dungeon Stalkers
 Dungeon Tycoon
 Dungeon Tycoon: Prologue
 Dungeon Vixens: A Tale of Temptation
@@ -8264,6 +8265,7 @@ The Bard's Tale Trilogy
 The Basement Collection
 The Bathhouse | 地獄銭湯 Restored Ver.
 The Battle of Polytopia
+The Bazaar
 The Beginner's Guide
 The Big Catch: Tacklebox
 The Binding of Isaac
@@ -9437,6 +9439,7 @@ Warhammer 40,000: Boltgun - Words of Vengeance
 Warhammer 40,000: Chaos Gate - Daemonhunters
 Warhammer 40,000: Darktide
 Warhammer 40,000: Dawn of War - Dark Crusade
+Warhammer 40,000: Dawn of War - Definitive Edition
 Warhammer 40,000: Dawn of War - Game of the Year Edition
 Warhammer 40,000: Dawn of War - Soulstorm
 Warhammer 40,000: Dawn of War II - Anniversary Edition
