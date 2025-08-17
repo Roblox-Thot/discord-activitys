@@ -737,6 +737,7 @@ beltmatic/beltmatic.exe
 benchmarks/benchmark_output.exe
 bendy and the dark revival/bendy and the dark revival.exe
 bendy and the ink machine demo/bendy and the ink machine - demo.exe
+bendy lone wolf/bendy - lone wolf.exe
 bendy secrets of the machine/bendy secrets of the machine.exe
 beneath oresa/beneath-oresa.exe
 beneath the surface/beneath the surface.exe
