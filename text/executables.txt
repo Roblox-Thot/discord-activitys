@@ -5587,6 +5587,7 @@ oddworld abes oddysee/abewin.exe
 oddworld munchs oddysee/munch.exe
 off demo/off.exe
 off-peak/off-peak steam 2.0.exe
+off/off.exe
 office space idle profits/officespace.exe
 offroad mechanic simulator prologue - first job/offroad mechanic simulator prologue.exe
 offspring fling.exe
@@ -7394,6 +7395,7 @@ staxel.steamlauncher.exe
 stay out of the house/stay out of the house.exe
 steam/gears5.exe
 steam/gearstactics.exe
+steam/jsp.exe
 steam/steamapps/common/black squad/binaries/win32/steamlauncher.exe
 steambirds alliance open beta/steambirds.exe
 steambirds alliance/steambirds.exe
