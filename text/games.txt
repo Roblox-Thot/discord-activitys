@@ -626,6 +626,7 @@ BIOMUTANT
 BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien
 BIT.TRIP RUNNER
 BLACK CLOVER: QUARTET KNIGHTS
+BLACK SOULS
 BLACK STIGMA
 BLACKHOLE
 BLACKJACK and WAIFUS
@@ -7785,6 +7786,7 @@ Steven Universe: Save the Light
 Stewart The Fox
 Stick Arena
 Stick Fight: The Game
+Stick It to the Stickman
 Stick It to the Stickman Demo
 Stick RPG 2
 Stickman Trenches
@@ -8325,6 +8327,7 @@ The Dark Pictures Anthology: House of Ashes - Friend's Pass
 The Dark Pictures Anthology: Man of Medan
 The Dark Pictures Anthology: The Devil in Me
 The Dark Pictures Anthology: The Devil in Me - Friend's Pass
+The Dark Queen of Mortholme
 The Darkness II
 The Darkside Detective
 The Day Before
@@ -9301,6 +9304,7 @@ Video Horror Society
 Vietnam War
 Viewfinder
 Viewfinder Demo
+Vigil
 Vigil: The Longest Night
 Vigor
 Viking Frontiers: Prologue

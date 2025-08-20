@@ -919,6 +919,7 @@ black mesa/bms.exe
 black rose/black rose.exe
 black skylands origins/blackskylands.exe
 black skylands/blackskylands.exe
+black souls/game.exe
 blackdesert/blackdesertpatcher32.pae
 blackdesert32.exe
 blackdesert64.exe
@@ -7426,6 +7427,7 @@ steven universe save the light/save the light.exe
 stg football/football.exe
 stick arena/stickarena.exe
 stick it to the stickman demo/stick it to the stickman.exe
+stick it to the stickman/stick it to the stickman.exe
 stick rpg 2/stick rpg 2 director's cut.exe
 stickfight.exe
 stickman trench wars demo/stickman trenches.exe
@@ -7934,6 +7936,7 @@ the crew 2/thecrew2.exe
 the crew motorfest/thecrewmotorfest_be.exe
 the crooked man/game.exe
 the curious expedition/the curious expedition.exe
+the dark queen of mortholme/the dark queen of mortholme.exe
 the darkside detective/thedarksidedetective.exe
 the darwin project/darwin.exe
 the deed/game.exe
@@ -8734,6 +8737,7 @@ vietnamwar/vietnam war.exe
 viewfinder demo/viewfinder_demo.exe
 viewfinder/viewfinder.exe
 vigil the longest night/vigil.exe
+vigil/vigil.exe
 vigor/vigor.exe
 viking battle for asgard/viking.exe
 viking frontiers prologue/viking frontiers.exe
