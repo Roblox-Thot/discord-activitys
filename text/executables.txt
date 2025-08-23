@@ -8950,6 +8950,7 @@ where the water tastes like wine/wtwtlw_64.exe
 whimsical artefacts/whimsical artefacts.exe
 whirligig/whirligig.exe
 whisper mountain outbreak demo/whisper mountain outbreak.exe
+whisper mountain outbreak/whisper mountain outbreak.exe
 whispers of a machine/whispers.exe
 white day a labyrinth named school/whiteday.exe
 white knuckle/white knuckle.exe
@@ -10380,6 +10381,7 @@ win64/vikingoyunu-win64-shipping.exe
 win64/visionsofmana-win64-shipping.exe
 win64/vivalanddreamhouse-win64-shipping.exe
 win64/vladik_brutal-win64-shipping.exe
+win64/voidbreaker-win64-shipping.exe
 win64/voin-win64-shipping.exe
 win64/vr3_part1.exe
 win64/vrflush.exe

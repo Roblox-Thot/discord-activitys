@@ -9231,6 +9231,7 @@ VERGE:Lost chapter
 VHS
 VIVE Console for SteamVR
 VLADiK BRUTAL
+VOID/BREAKER
 VOIN
 VPet
 VR Benchmark Kanojo
@@ -9558,6 +9559,7 @@ Where the Water Tastes Like Wine
 While We Wait Here
 Whimsical Artefacts
 Whirligig
+Whisper Mountain Outbreak
 Whisper Mountain Outbreak Friend's Pass
 Whispers of a Machine
 White Day: A Labyrinth Named School
