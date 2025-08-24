@@ -1370,6 +1370,7 @@ chasm/chasm.exe
 cheaters cheetah/cheaterscheetah.exe
 check it out!/check it out!.exe
 cheeky chooks/cheekychooks.exe
+cheese rolling/cheeserolling.exe
 cheesegamebuild/cheese game.exe
 chef life  a restaurant simulator/chef life  a restaurant simulator.exe
 chef rpg/chef rpg.exe
@@ -2178,6 +2179,7 @@ disco dodgeball.exe
 disco elysium/disco.exe
 disco simulator prologue/disco simulator.exe
 discord bot maker/discord bot maker.exe
+discounty/discounty.exe
 disfigure/disfigure.exe
 disgaea 2 pc/disgaea2.exe
 disgaea 4 complete+/disgaea4pc.exe
@@ -4588,6 +4590,7 @@ lms.exe
 lmsr/lmsr_windows64_steam.exe
 loading screen simulator/lss.exe
 loadout.exe
+loan shark/loan shark.exe
 lobotomycorp/lobotomycorp.exe
 locked in mind/escape room.exe
 locksquest.exe

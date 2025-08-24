@@ -1399,6 +1399,7 @@ Cheaters Cheetah
 Check it Out!
 Cheeky Chooks
 Cheese Game
+Cheese Rolling
 Chef
 Chef Life: A Restaurant Simulator
 Chef RPG
@@ -2212,6 +2213,7 @@ Disciples: Liberation Demo
 Disco Elysium
 Disco Simulator: Prologue
 Discord Bot Maker
+Discounty
 Disfigure
 Disgaea 2 PC
 Disgaea 4 Complete+
@@ -4745,6 +4747,7 @@ Livelock
 Lively Chair Simulator
 Loading Screen Simulator
 Loadout
+Loan Shark
 Lobotomy Corporation
 Lock's Quest
 Locked In Mind
