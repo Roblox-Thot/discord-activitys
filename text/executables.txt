@@ -882,6 +882,7 @@ binaries/twfc.exe
 binaries/vermintide2.exe
 binaries/victoria3.exe
 binaries_dx12/vermintide2_dx12.exe
+binaries_x64/gowde-steam.exe
 binary domain/binarydomainconfiguration.exe
 binary/secret_of_mana.exe
 binding_of_isaac.exe
@@ -9724,6 +9725,7 @@ win64/metalbringer-win64-shipping.exe
 win64/metaleden-win64-shipping.exe
 win64/metalheadsgame-win64-shipping.exe
 win64/mg3-win64-shipping.exe
+win64/mgsdelta-win64-shipping.exe
 win64/mhoj.exe
 win64/mhur.exe
 win64/miasma-win64-shipping.exe
