@@ -7896,6 +7896,7 @@ th17/th17.exe
 th18/th18.exe
 th18tr/th18.exe
 th19/th19.exe
+th20/th20.exe
 thank goodness you're here!/thank goodness you're here!.exe
 tharsis/tharsis.exe
 that's not my neighbor/that's not my neighbor (steam).exe
@@ -8891,6 +8892,7 @@ watch_dogs.exe
 watchdogs2.exe
 waterdeep/waterdeep.exe
 watermelon game/watermelon game.exe
+waterpark simulator/waterparksimulator.exe
 watsonscott/watsonscott.exe
 wauies/wauies.exe
 waveland.exe
