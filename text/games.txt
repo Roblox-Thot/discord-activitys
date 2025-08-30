@@ -1985,6 +1985,7 @@ Dead Effect 2 VR
 Dead Estate
 Dead Estate Demo
 Dead Frontier 2
+Dead In Bermuda
 Dead In Vinland
 Dead Island 2
 Dead Island Definitive Edition
@@ -3951,6 +3952,7 @@ Horizon Chase Turbo
 Horizon Chase Turbo Demo
 Horizon Forbidden West™ Complete Edition
 Horizon Source
+Horizon Walker
 Horizon Zero Dawn
 Horizon Zero Dawn™ Remastered
 Horny Villa
@@ -5512,6 +5514,7 @@ NBA 2K22
 NBA 2K23
 NBA 2K24
 NBA 2K25
+NBA 2K26
 NBA Playgrounds
 NEBULOUS: Fleet Command
 NEEDY STREAMER OVERLOAD
@@ -6234,6 +6237,7 @@ Planet of Lana
 Planet of Lana Demo
 PlanetSide 2
 Planetary Annihilation: TITANS
+Planetary Life
 Planetbase
 Planets Under Attack
 Plant Therapy
@@ -10085,6 +10089,7 @@ yahtzee girl
 抓到冒險者醬了！～Live2D觸手模擬器～
 救国のスネジンカ:Sentinel Girls2
 日本事故物件監視協会 -Japan Stigmatized Property-
+星の翼
 暖雪 Warm Snow
 最後的克勞迪亞
 未解決事件は終わらせないといけないから

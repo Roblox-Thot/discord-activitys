@@ -1937,6 +1937,7 @@ dead effect 2 vr/deadeffect2.exe
 dead effect 2/deadeffect2.exe
 dead estate demo/dead estate.exe
 dead estate/dead estate.exe
+dead in bermuda/dead in bermuda.exe
 dead in vinland/dead in vinland.exe
 dead island epidemic/dead island epidemic - crib.exe
 dead island retro revenge/deadislandretrorevenge.exe
@@ -3863,6 +3864,7 @@ horizon chase turbo demo/horizonchase.exe
 horizon chase/horizonchase.exe
 horizon forbidden west complete edition/horizonforbiddenwest.exe
 horizon source/gameclient.exe
+horizon walker/horizonwalker.exe
 horizon zero dawn remastered/horizonzerodawnremastered.exe
 horizon zero dawn/horizonzerodawn.exe
 horizon/gameclient.exe
@@ -5347,6 +5349,7 @@ nba 2k22/nba2k22.exe
 nba 2k23/nba2k23.exe
 nba 2k24/nba2k24.exe
 nba 2k25/nba2k25.exe
+nba 2k26/nba2k26.exe
 nba2k14/nba2k14.exe
 nba2k15/nba2k15.exe
 nba2k17.exe
@@ -5985,6 +5988,7 @@ planet of lana demo/planet of lana.exe
 planet of lana/planet of lana.exe
 planet s/plans.exe
 planet zoo/planetzoo.exe
+planetary life/planetarylife.exe
 planetbase.exe
 planetcoaster.exe
 planetnomads.exe
@@ -7391,6 +7395,7 @@ starwarsbattlefrontii.exe
 starwarsg.exe
 starwarsjedifallenorder.exe
 starwhal/starwhal.exe
+starwings/xzyplay.exe
 stash/stash.exe
 stateofdecay.exe
 stationeers/rocketstation.exe
