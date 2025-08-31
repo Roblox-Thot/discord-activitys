@@ -442,6 +442,7 @@ argentum.exe
 argobattleye.exe
 arizona sunshine 2/arizonasunshine2.exe
 arizonasunshine.exe
+ark recode/ark recode.exe
 arkhamvr.exe
 arma 2 operation arrowhead/arma2oa.exe
 arma 2/arma2.exe
@@ -565,6 +566,7 @@ autonauts/autonauts.exe
 autopsy simulator/autopsy simulator.exe
 autorogue/autorogue.exe
 ava.exe
+avakin life/avakinlife.exe
 avalonlords.app
 avalonlords.exe
 avgame-win64-shipping.exe
@@ -7459,6 +7461,7 @@ stormworks/stormworks.exe
 stormworks/stormworks64.exe
 story of seasons a wonderful life/story of seasons a wonderful life.exe
 story of seasons friends of mineral town/story of seasons friends of mineral town.exe
+story of seasons grand bazaar/sosgrandbazaar.exe
 story of seasons pioneers of olive town/story of seasons pioneers of olive town.exe
 storyteller/storyteller.exe
 stowaway/stowaway.exe
@@ -9933,6 +9936,7 @@ win64/projectcoop-win64-shipping.exe
 win64/projectcoral-win64-shipping.exe
 win64/projecthermes-win64-shipping.exe
 win64/projecthonorclient.exe
+win64/projectlsasteam-win64-shipping.exe
 win64/projectnimble.exe
 win64/projectnow-win64-shipping.exe
 win64/projectnowhere-win64-shipping.exe
@@ -10204,6 +10208,7 @@ win64/supersoccer-win64-shipping.exe
 win64/supervive-win64-shipping.exe
 win64/supraland-win64-shipping.exe
 win64/supralandsiu-win64-shipping.exe
+win64/supraworld-win64-shipping.exe
 win64/surf-win64-shipping.exe
 win64/surroundead-win64-shipping.exe
 win64/surrounded.exe
@@ -10215,6 +10220,7 @@ win64/sw3.exe
 win64/sw64-win64-shipping.exe
 win64/swatcommander-win64-shipping.exe
 win64/swayzegame.exe
+win64/swordofthesea-win64-shipping.exe
 win64/sycamore-win64-shipping.exe
 win64/symulatorit-win64-shipping.exe
 win64/synced.exe
