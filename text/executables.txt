@@ -6940,6 +6940,7 @@ shiningresonancerefrain/game.exe
 shinkansen 0/shinkansen0.exe
 shinobi warfare/shinobi warfare.exe
 shinobi/shinobi.exe
+shinobi_aov/shinobi_aov.exe
 shiny the firefly/shiny.exe
 ship inc/ship inc.exe
 ship of fools/shipoffools.exe
@@ -7321,6 +7322,7 @@ squirrel stapler/squirrel stapler.exe
 sr2_pc.exe
 srhk.exe
 srw30/srw30.exe
+srwy/super robot wars y.exe
 ss2/ss2.exe
 ss6.3/ss_setup.exe
 ssf2.exe
