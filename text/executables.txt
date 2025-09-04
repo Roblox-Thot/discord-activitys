@@ -4366,6 +4366,7 @@ klonoa/klonoa.exe
 knight club/knight club +.exe
 knight online/knightonline.exe
 knightfall/knightfall.exe
+knightica/knightica.exe
 knightly passions/knightly_passions.exe
 knights in tight spaces/knightsintightspaces.exe
 knights of honor ii/sovereign.exe
@@ -5827,6 +5828,7 @@ patch/tos.exe
 patch/updater_downloader.exe
 patchwork/pxw.exe
 path of achra/pathofachra.exe
+path of exile 2 taiwan/pathofexilesteam.exe
 path of exile 2/pathofexile.exe
 path of exile 2/pathofexile_x64.exe
 path of exile 2/pathofexile_x64steam.exe
@@ -7085,6 +7087,7 @@ slay the princess/slaytheprincess.exe
 slay together/slaytogether.exe
 slayaway camp/slayawaycamp.exe
 slayer-playground.app
+slayer-playground.exe
 slaythespire.exe
 sledders/sledders.exe
 sleepingdogs/hkship.exe
