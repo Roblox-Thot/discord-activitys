@@ -3827,6 +3827,7 @@ holdfast naw.exe
 hole dweller/holedweller.exe
 hollow cocoon demo/hollow cocoon demo.exe
 hollow cocoon/hollow cocoon.exe
+hollow knight silksong/hollow knight silksong.exe
 hollow survivors prologue/hollow survivors.exe
 hollow_knight.exe
 hollowbody/hollowbody.exe
@@ -9267,6 +9268,7 @@ win64/clay_3-win64-shipping.exe
 win64/clay_4-win64-shipping.exe
 win64/clay_6-win64-shipping.exe
 win64/clay_7-win64-shipping.exe
+win64/clay_8-win64-shipping.exe
 win64/cleaner-win64-shipping.exe
 win64/clearing-win64-shipping.exe
 win64/clickold-win64-shipping.exe
@@ -9561,6 +9563,7 @@ win64/headsnatchers-win64-shipping.exe
 win64/helios-win64-shipping.exe
 win64/hellblade2-win64-shipping.exe
 win64/hellbladegamevr-win64-shipping.exe
+win64/hellisus-win64-shipping.exe
 win64/helloguest-win64-shipping.exe
 win64/helloneighbor-win64-shipping.exe
 win64/helloneighborreborn.exe
