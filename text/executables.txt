@@ -5753,6 +5753,7 @@ overcrowd/overcrowd.exe
 overdungeon/windows-64bit.exe
 overgrowth.exe
 overload/overload.exe
+overlooting/overlooting.exe
 overlord/overlord.exe
 overwatch.exe
 ovrdrop/ovrdrop.exe
