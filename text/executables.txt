@@ -7350,6 +7350,7 @@ standable full body estimation/standable.exe
 star chef 2 cooking game/star chef 2.exe
 star chef cooking & restaurant game/star chef.exe
 star conflict/game.exe
+star garden the trial/star garden the trial.exe
 star ocean - the last hope - 4k & full hd remaster/staroceanthelasthope.exe
 star ocean the second story r/so2r.exe
 star of providence/star of providence.exe
