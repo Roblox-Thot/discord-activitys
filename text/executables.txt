@@ -609,7 +609,6 @@ badlandscrew/badlandscrew.exe
 badnorth.exe
 baf/datacachepreprocessor.exe
 bakery magnate/bakery magnate.exe
-bakkesmod/plugininstaller.exe
 bakso simulator/bakso simulator.exe
 balancity/nw.exe
 balatro/balatro.exe
@@ -9496,6 +9495,7 @@ win64/frostpunk2betashipping-win64-shipping.exe
 win64/frostrunner-win64-shipping.exe
 win64/frozenheim-win64-shipping.exe
 win64/fs-win64-shipping.exe
+win64/funguys-win64-shipping.exe
 win64/furnishmaster-win64-shipping.exe
 win64/furryaimtrainer-win64-shipping.exe
 win64/fuser-win64-shipping.exe
