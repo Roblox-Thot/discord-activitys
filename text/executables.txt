@@ -8558,6 +8558,7 @@ turmoil_pc_full.exe
 turnip boy commits tax evasion/turnip boy commits tax evasion.exe
 turnip boy robs a bank/turnip boy robs a bank.exe
 turnsignal/turnsignal.exe
+turretgirls/turretgirls.exe
 tvo/tvo.exe
 twelve minutes/12m.exe
 twilight struggle/twilightstruggle.exe
@@ -8900,6 +8901,7 @@ warstone td/warstone.exe
 wartales/wartales.exe
 warudo/warudo.exe
 warzone2100.exe
+wasd/wasd.exe
 wasted/wasted.exe
 wasteland 3/wl3.exe
 watch_dogs.exe

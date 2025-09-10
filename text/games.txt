@@ -9384,6 +9384,7 @@ WARNO
 WARRIORS OROCHI 4 - 無双OROCHI３
 WARRIORS: Abyss
 WARSAW
+WASD : 토리의 모험
 WASTED
 WAVESHAPER
 WE ARE FOOTBALL
@@ -10035,6 +10036,7 @@ yahtzee girl
 スーパーロボット大戦Y
 ソフィーのアトリエ ～不思議な本の錬金術士～ DX
 ソードアート・オンライン フラクチュアード デイドリーム
+タレットと少女
 ダンジョン崩し
 ドキドキAI尋問ゲーム 完全版
 ドラゴンクエストIII　そして伝説へ…
