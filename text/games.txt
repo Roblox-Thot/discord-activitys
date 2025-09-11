@@ -1029,6 +1029,7 @@ Borderlands
 Borderlands 2
 Borderlands 2 VR
 Borderlands 3
+Borderlands 4
 Borderlands GOTY Enhanced
 Borderlands: The Pre-Sequel
 Boreal Blade
@@ -1512,6 +1513,7 @@ Clicker Heroes 2
 Clickteam Fusion 2.5
 Clickteam Fusion 2.5 Free Edition
 Climb
+Climb The Backrooms
 Climber Animals: Together
 Climber: Sky is the Limit - Free Trial
 Climbey
@@ -1892,6 +1894,7 @@ DPS IDLE 2
 DR LIVESEY ROM AND DEATH EDITION
 DRACOMATON
 DRAGON BALL FighterZ
+DRAGON BALL GEKISHIN SQUADRA
 DRAGON BALL XENOVERSE
 DRAGON BALL XENOVERSE 2
 DRAGON BALL: Sparking! ZERO
@@ -3011,6 +3014,7 @@ Fireboy & Watergirl: Elements
 Fireboy & Watergirl: Fairy Tales
 Firefall
 Firefighting Simulator - The Squad
+Firefighting Simulator: Ignite
 Firestone Idle RPG
 Firewatch
 Firework
