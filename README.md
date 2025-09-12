@@ -13,8 +13,3 @@ Grabs the detected games from Discord's API `api/v9/applications/detectable` and
 ## File types
 - [json/executables.json](json/executables.json) and [text/executables.text](text/executables.txt) contains a list of the executable names
 - [json/games.json](json/games.json) and [text/games.text](text/games.txt) contains a list of the game names
-
-## TODO:
-- [x] ~~Make a list of new games added~~ (Printed in the ran action)
-- [x] ~~Don't commit if nothing has changed~~
-- [x] ~~Find a way to have workflow not error if no files were changed~~
