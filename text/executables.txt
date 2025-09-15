@@ -2142,6 +2142,7 @@ dig or die/digordie.exe
 digger/digger.exe
 digimon masters online - steam/gdmo.exe
 digimon masters online - steam/updatemanager.exe
+digimon story time stranger demo/digimon story time stranger.exe
 digimon survive/digimonsurvive.exe
 digimon world next order/digimon world next order.exe
 digseum/digseum.exe
@@ -2891,6 +2892,7 @@ feel the snow/feelthesnow.exe
 fell seal/fell seal.exe
 felvidek/game.exe
 femboy aim trainer/femboy aim trainer.exe
+femboy futa house/femboy futa house.exe
 femdom waifu/femdomwaifu.exe
 feminazi the triggering/feminazi.exe
 fenris-win64-shipping.exe
@@ -5643,6 +5645,7 @@ one deck dungeon/onedeckdungeon.exe
 one finger death punch 2/one finger death punch 2.exe
 one finger death punch.exe
 one hand clapping/one hand clapping.exe
+one military camp/one military camp.exe
 one night, hot springs/onsengame.exe
 one piece bounty rush/bountyrush.exe
 one piece burning blood/opbb.exe
