@@ -9212,6 +9212,7 @@ win64/boltgun-win64-shipping.exe
 win64/boltgunwov-win64-shipping.exe
 win64/boogeyman-win64-shipping.exe
 win64/borderlands2vr.exe
+win64/borderlands4.exe
 win64/borderlandsgoty.exe
 win64/boston-win64-shipping.exe
 win64/bpmgame-win64-shipping.exe
