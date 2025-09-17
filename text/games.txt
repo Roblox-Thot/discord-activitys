@@ -5710,6 +5710,7 @@ No Time To Explain Remastered
 No Time to Relax
 No Umbrellas Allowed
 No one lives under the lighthouse
+No, I'm not a Human
 NoFlash
 NoLimits 2 Roller Coaster Simulation
 NoLimits 2 Roller Coaster Simulation Demo
@@ -9700,6 +9701,7 @@ World Boss
 World War 3
 World War Armies
 World War II Online
+World War Legion
 World War Z: Aftermath
 World of Goo
 World of Guns: Gun Disassembly

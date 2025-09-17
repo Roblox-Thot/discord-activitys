@@ -5508,6 +5508,7 @@ no strangers/nostrangers.exe
 no time to explain remastered/notimetoexplain.exe
 no time to relax/no time to relax.exe
 no umbrellas allowed/no umbrellas allowed.exe
+no, i'm not a human/noimnotahuman.exe
 no-skin/no-skin_ver1.exe
 noble fates/noble fates.exe
 nobody saves the world/nstw_x64.exe
@@ -10662,6 +10663,7 @@ world of talesworth/worldoftalesworth.exe
 world of tennis roaring 20s/worldoftennis.exe
 world of warcraft.app
 world war armies/worldwararmies.exe
+world war legion/worldwarlegion.exe
 world's dawn/game.exe
 worldbox/worldbox.exe
 worldless/worldless.exe
