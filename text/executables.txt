@@ -41,6 +41,8 @@
 20minutetilldawn/minutestilldawn.exe
 20xx.exe
 270  two seventy us election/270.exe
+2xko/live/lion/binaries/win64/lion-win64-shipping.exe
+2xko/live/lion/binaries/win64/lion.exe
 30xx/30xx.exe
 35mm/35mm.exe
 360 no scope arena/360noscopearena.exe
@@ -4510,6 +4512,7 @@ lego marvel super heroes/legomarvel.exe
 lego star wars - the skywalker saga/legostarwarsskywalkersaga_dx11.exe
 lego star wars iii - the clone wars/legoclonewars.exe
 lego the incredibles/lego the incredibles_dx11.exe
+lego voyagers/lego voyagers.exe
 lego2kdrive/lego2kdrive.exe
 lego_worlds_dx11.exe
 legobatman.exe
@@ -10487,6 +10490,7 @@ win64_shipping_client/bannerlord.exe
 win64_shipping_client/taleworlds.mountandblade.launcher.exe
 win64_steam/gravitycircuit.exe
 win64mastermastersteampgo/kingdomcome.exe
+win_x64/eurotrucks2.exe
 win_x64/huntgame.exe
 win_x64/pandemicexpress.exe
 win_x64/sgwcontracts.exe
