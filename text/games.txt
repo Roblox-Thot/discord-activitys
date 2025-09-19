@@ -2487,6 +2487,7 @@ Dwerve: Prologue
 Dying Light
 Dying Light 2
 Dying Light: Bad Blood
+Dying Light: The Beast
 Dynast.io
 Dynasty Warriors 8 Empires
 Dyson Sphere Program
@@ -4421,6 +4422,7 @@ Keep Digging
 Keep Driving
 Keep Talking and Nobody Explodes
 Keep on Mining!
+Keeper's Toll
 KeeperRL
 Keepers of the Trees
 Ken Follett's The Pillars of the Earth
@@ -9387,6 +9389,7 @@ Volzerk : Monsters and Lands Unknown
 Voodoo Garden
 Vox Machinae
 Voxel Tycoon
+Voyagers of Nera
 Vカツ / V-Katsu
 WAKFU
 WALL E

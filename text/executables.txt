@@ -4285,6 +4285,7 @@ kebab chefs!/kebab chefs! - restaurant simulator.exe
 kebab simulator prologue/kebab simulator.exe
 keep driving/keepdriving.exe
 keep on mining!/keep on mining!.exe
+keeper's toll/keeper's toll.exe
 keeperrl/keeper.exe
 kelvin/fahrenheit.exe
 kenshi/kenshi_x64.exe
@@ -9206,6 +9207,7 @@ win64/blueclient-win64-shipping.exe
 win64/bluecode-win64-shipping.exe
 win64/bmibenchmark-win64-shipping.exe
 win64/bnsr.exe
+win64/boatgamelistenserver-win64-shipping.exe
 win64/bob-win64-shipping.exe
 win64/bobb-win64-shipping.exe
 win64/boc-win64-shipping.exe
@@ -10746,6 +10748,7 @@ x64/bosclient.exe
 x64/brighter shores.exe
 x64/call_to_arms_ed.exe
 x64/cyberpunk2077.exe
+x64/dyinglightgame_thebeast_x64_rwdi.exe
 x64/dyinglightgame_x64_rwdi.exe
 x64/farmingsimulator2019game.exe
 x64/farmingsimulator2022game.exe
