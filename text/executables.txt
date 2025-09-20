@@ -1516,6 +1516,7 @@ cms2018.exe
 cmw.exe
 cnc3ep1.exe
 cncremastered/clientg.exe
+coal llc/coal llc.exe
 coal mining simulator prologue/coal mining simulator.exe
 cobalt core/cobaltcore.exe
 cockhead/cockhead.exe
@@ -4224,6 +4225,7 @@ judgment/judgment.exe
 juice galaxy/juice galaxy.exe
 jump king quest/jkq.exe
 jump king/jumpking.exe
+jumpspace/jump space.exe
 junkyard truck/junkyardtruck.exe
 jupiter hell/jh.exe
 jurassic world evolution 2/jwe2.exe
@@ -4907,6 +4909,7 @@ mega man 11/game.exe
 mega man x legacy collection 2/rxc2.exe
 mega man x legacy collection/rxc1.exe
 mega_man_x_dive_offline/game.exe
+megabonk/megabonk.exe
 megacraft hentai edition/megacraft hentai edition.exe
 megadimension neptunia vii/neptuniavii.exe
 megaloot prelude/megaloot.exe
@@ -6322,6 +6325,7 @@ rampage_knights.exe
 randal's monday/randals.exe
 rappelz/sframe.exe
 rapture rejects/rr-windows-client.exe
+ratatan/game.exe
 ratchet & clank - rift apart/riftapart.exe
 ratopia/ratopia.exe
 ratropolis/ratropolis.exe
@@ -7073,6 +7077,7 @@ skuf fishing/skuffishing.exe
 skul/skul.exe
 skull and bones (open beta)/skullandbones.exe
 skull and bones/skullandbones.exe
+skull hotel/skull hotel.exe
 skullgirls.exe
 sky children of the light/sky.exe
 sky force reloaded/sky force reloaded.exe
@@ -8480,6 +8485,7 @@ train station renovation demo/trainstationrenovation.exe
 train station renovation/tsr_steam.exe
 train valley 2/trainvalley2.exe
 train valley/train-valley.exe
+trainatic/trainatic.exe
 trainz a new era/tane.exe
 trainz railroad simulator 2019/trs19.exe
 trainz railroad simulator 2022/trs22.exe
@@ -10356,6 +10362,7 @@ win64/touristbussimulator.exe
 win64/towergame-win64-shipping.exe
 win64/towerprincess-win64-shipping.exe
 win64/towers-win64-shipping.exe
+win64/towntocity-win64-shipping.exe
 win64/toyfactory-win64-shipping.exe
 win64/toysworkshop-win64-shipping.exe
 win64/toytinkersimulator-win64-shipping.exe

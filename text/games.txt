@@ -1537,6 +1537,7 @@ Club Soccer Director 2021
 Clue/Cluedo
 Clue/Cluedo: The Classic Mystery Game
 Clustertruck
+Coal LLC
 Coal Mining Simulator: Prologue
 Cobalt Core
 Cockroach Simulator
@@ -4341,6 +4342,7 @@ Judgment: Apocalypse Survival Simulation
 Juice Galaxy
 Jujutsu Kaisen Cursed Clash
 Jump King
+Jump Space
 Junkyard Truck
 Juno: New Origins
 Jupiter Hell
@@ -5132,6 +5134,7 @@ Mega Man X Legacy Collection
 Mega Man X Legacy Collection 2
 Mega Man Zero/ZX Legacy Collection
 MegaTagmension Blanc + Neptune VS Zombies
+Megabonk
 Megacraft Hentai Edition
 Megadimension Neptunia VII
 Megaloot
@@ -6609,6 +6612,7 @@ Ranch Simulator
 Randal's Monday
 Rappelz
 Rapture Rejects
+Ratatan
 Ratchet & Clank: Rift Apart
 Ratopia
 Ratropolis
@@ -7460,6 +7464,7 @@ Skill Legends Royale
 Skilltree Saga
 Skin Deep
 Skul: The Hero Slayer
+Skull Hotel
 Skull and Bones
 Skullgirls
 Sky Force Reloaded
@@ -8962,6 +8967,7 @@ Tower! Simulator 3
 Tower!3D Pro
 TowerFall Ascension
 Towerborne
+Town To City
 Town of Salem
 Town of Salem 2
 Town of Sins
@@ -8996,6 +9002,7 @@ Train Station Renovation - First Job
 Train Station Renovation Demo
 Train Valley
 Train Valley 2
+Trainatic
 Trainz Railroad Simulator 2019
 Trainz Railroad Simulator 2022
 Trainz Simulator 12
