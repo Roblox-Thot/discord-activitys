@@ -2543,6 +2543,7 @@ Earthfall
 Eastshade
 Eastside Hockey Manager
 Eastward
+Easy Delivery Co.
 Easy Pose
 Easy Red 2
 Echo Point Nova
@@ -3436,6 +3437,7 @@ GoNNER
 Goat Simulator
 Goat Simulator 3
 Goat Simulator: Remastered
+Goblin Cleanup
 Goblin Gearshop
 God Awe-full Clicker
 God Mode
@@ -4759,6 +4761,7 @@ Little Misfortune Demo
 Little Nightmares
 Little Nightmares II
 Little Nightmares II Demo
+Little Nightmares III - Демо-версия
 Little Witch Academia: Chamber of Time
 Little Witch Nobeta
 Little Witch Nobeta Demo
@@ -7744,6 +7747,7 @@ Squirrel with a Gun
 Squirreled Away
 Squishy the Suicidal Pig
 Stacklands
+Staffer Case:超能力推理アドベンチャー
 Stampede: Racing Royale
 Standable: Full Body Estimation
 Star Birds
