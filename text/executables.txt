@@ -107,6 +107,7 @@ a difficult game about climbing/a difficult game about climbing.exe
 a few quick matches/a few quick matches.exe
 a game about/agameabout.exe
 a game of thrones the board game/agameofthronestheboardgame.exe
+a gentlemen's dispute/a gentlemen's dispute.exe
 a good snowman is hard to build/snowman.exe
 a legionary's life/legionary.exe
 a little to the left/a little to the left.exe
@@ -578,6 +579,7 @@ avicii - invector/avicii invector.exe
 avp3.exe
 avp_dx11.exe
 awaria/awaria.exe
+away/away.exe
 awesomenauts.exe
 awkward dimensions redux/awkward dimensions redux.exe
 awol/awol.exe
@@ -1122,6 +1124,7 @@ brightlord/brightlord.exe
 brilliant bob/brilliantbob.exe
 bro falls ultimate showdown/run.exe
 broforce_beta.exe
+broilers/broilers.exe
 broken edge/broken edge.exe
 broken ground/brokenground.exe
 broken reality/brokenreality.exe

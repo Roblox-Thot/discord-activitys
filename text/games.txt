@@ -92,6 +92,7 @@ A Fisherman's Tale
 A Game About
 A Game About Digging A Hole
 A Game of Thrones: The Board Game
+A Gentlemen's Dispute
 A Good Snowman Is Hard To Build
 A Hat in Time
 A Kiss For The Petals - Remembering How We Met
@@ -596,6 +597,7 @@ Aviators
 Avorion
 Avowed
 Awaria
+Away
 Awesomenauts
 Awkward Dimensions Redux
 Axiom
@@ -1092,6 +1094,7 @@ Brighter Shores
 Brilliant Bob
 Bro Falls: Ultimate Showdown
 Broforce
+Broilers
 Broken Age
 Broken Arrow
 Broken Edge
