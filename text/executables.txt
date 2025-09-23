@@ -8264,6 +8264,7 @@ theroomtwo/theroomtwo.exe
 thesecretworld.exe
 thesecretworlddx11.exe
 thespacegame.exe
+thespikecross/thespike-cross.exe
 thesurge.exe
 thewalkingdead2.exe
 thewilds/the wilds.exe
@@ -8991,6 +8992,7 @@ what the golf/what the golf.exe
 what'sunderyourblanket!/game.exe
 whatthebox/whatthebox.exe
 whatthedub/whatthedub.exe
+wheelchair wizards/wizards.exe
 when ski lifts go wrong/when ski lifts go wrong.exe
 when the darkness comes/whenthedarknesscomes.exe
 when the past was around/when past was around.exe
