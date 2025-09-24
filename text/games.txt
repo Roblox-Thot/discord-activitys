@@ -2526,6 +2526,7 @@ ENCHAIN Demo
 ENDER LILIES
 ENDER MAGNOLIA: Bloom in the Mist
 ENDLESS™ Dungeon
+ENDLESS™ Legend 2
 ENSCROLL
 ENSLAVED™: Odyssey to the West™ Premium Edition
 ESCAPE FROM BOYKISSER
@@ -6994,6 +6995,7 @@ SIGNALIS Demo
 SIGame
 SILENT BREATH
 SILENT HILL 2
+SILENT HILL f
 SIMULACRA
 SIMULACRA 2
 SIMULACRA: Pipe Dreams
@@ -7601,6 +7603,7 @@ Sonic Generations Demo
 Sonic Lost World
 Sonic Mania
 Sonic Origins
+Sonic Racing: CrossWorlds
 Sonic Superstars
 Sonic and SEGA All Stars Racing
 Sono
@@ -8121,6 +8124,7 @@ TEKKEN 8
 TELEFORUM
 TERA
 TEST TEST TEST
+TETR.IO
 TEVI
 TGV Voyages Train Simulator
 THE BUTTON
