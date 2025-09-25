@@ -659,6 +659,7 @@ BUSTAFELLOWS
 BUTCHER
 Baba Is You
 Babble Royale
+Baby Steps
 Back 4 Blood
 Back to Bed
 Back to the Dawn
@@ -1585,6 +1586,7 @@ Combots
 Come Home
 Come with Me
 Comedy Night
+Comet
 Coming Out on Top
 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™
 Command & Conquer: Red Alert™, Counterstrike™ and The Aftermath™
@@ -4392,6 +4394,7 @@ KINGDOM HEARTS III + Re Mind (DLC)
 KUUKIYOMI: Consider It
 Kabounce
 Kabuto Park
+Kaelaverse: Pemascape
 Kaetram
 Kaf village
 Kagura Survivors: Endless Night
@@ -4952,6 +4955,7 @@ MONSTER HUNTER RISE: SUNBREAK DEMO
 MONSTER HUNTER: WORLD
 MORDHAU
 MOTHERGUNSHIP
+MR QA
 MTGArena
 MU Legend
 MURDERED: SOUL SUSPECT™
@@ -10051,6 +10055,7 @@ yahtzee girl
 Скуф на рыбалке
 いっき団結
 いもむし
+おにぎり屋さんシミュレーター
 たこパ サバイバル
 ぷよぷよ™テトリス® ２
 ほりほりドリル
