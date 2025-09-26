@@ -200,6 +200,7 @@ aeon's end/aeonsend.exe
 aeons echo/aeons_echo.exe
 aer.exe
 aero tales online the world/aero tales online the world.exe
+aethermancer/aethermancer.exe
 af2/afcgame.exe
 afop/afop.exe
 after hours/after hours.exe
@@ -1567,6 +1568,7 @@ coloring game the little city/game.exe
 coloring game/game.exe
 coloringpixels.exe
 colt canyon/coltcanyon.exe
+com.supercell.clashroyale.exe
 com3d2inm/com3d2.exe
 coma/bad dream coma.exe
 combat arms reloaded/engine.exe
@@ -1806,7 +1808,6 @@ cuphead.exe
 cureocity/cureocity.exe
 curious expedition 2/ce2.exe
 curiouscases/curiouscases.exe
-current/client/client.exe
 curse of the dead gods/curse of the dead gods.exe
 cursed to golf/cursed to golf.exe
 cursorblade/cursorblade_1.0.exe
@@ -2674,6 +2675,7 @@ eternal winter/arctico.exe
 eternights demo/eternights.exe
 eternights/eternights.exe
 eternium/mageandminions.exe
+eterspire/eterspire.exe
 ethancarter-win64-shipping.exe
 eu3.exe
 eu3game.exe
@@ -3432,6 +3434,8 @@ granblue fantasy relink/granblue_fantasy_relink.exe
 grand ages medieval/grandagesmedieval.exe
 grand ages rome/rome.exe
 grand tactician the civil war (1861-1865)/the civil war (1861-1865).exe
+grand theft auto v enhanced/gta5_enhanced.exe
+grand theft auto v enhanced/gta5_enhanced_be.exe
 grand theft auto v/fivem.exe
 grand theft auto v/gta5.exe
 grand theft auto v/gta5_be.exe
@@ -7175,6 +7179,7 @@ sniperghostwarrior2.exe
 snk vs capcom svc chaos/svc chaos.exe
 snkrx/snkrx.exe
 snowbreak/game/binaries/win64/game.exe
+snowbreak/game/game/binaries/win64/game.exe
 snowdrop escape/hl2.exe
 snowtopia/snowtopia.exe
 snufkin - melody of moominvalley/snufkin.exe
@@ -8901,10 +8906,12 @@ warhammer 40,000 - eternal crusade/eternalcrusadeclient.exe
 warhammer 40,000 inquisitor - martyr/warhammer.exe
 warhammer 40,000 regicide/warhammer 40k regicide.exe
 warhammer 40,000 rogue trader/wh40krt.exe
+warhammer 40,000 space marine 2 demo/start_protected_game.exe
 warhammer 40,000 space marine/bssndrpt.exe
 warhammer 40000 armageddon/autorun.exe
 warhammer 40000 gladius - relics of war/autorun.exe
 warhammer 40000 sanctus reach/autorun.exe
+warhammer 40000 space marine 2.exe
 warhammer 40k warpforge/warpforge.exe
 warhammer age of sigmar - realms of ruin/warhammer age of sigmar - realms of ruin.exe
 warhammer chaos & conquest/warhammer.exe
@@ -9257,6 +9264,7 @@ win64/brightmemory_ep1-win64-shipping.exe
 win64/brightmemoryinfinite-win64-shipping.exe
 win64/brookhavengame-win64-shipping.exe
 win64/brothers-win64-shipping.exe
+win64/bsh.exe
 win64/buckshot-win64-shipping.exe
 win64/budgetbackrooms.exe
 win64/bulletyeeters-win64-shipping.exe
