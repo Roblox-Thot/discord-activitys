@@ -1506,6 +1506,7 @@ cloud meadow/cloud meadow.exe
 cloudbuilt.exe
 cloudpunk/cloudpunk.exe
 cloudsandsheep2.exe
+cloverpit/cloverpit.exe
 clown house/clownhouse.exe
 clownfield 2042/clownfield 2042.exe
 clragexe.exe
@@ -1580,8 +1581,6 @@ combatarms.exe
 come home/comehome.exe
 come with me/comewithme.exe
 comedy night.exe
-comet.app
-comet/application/comet.exe
 command & conquer generals - zero hour/game.dat
 command & conquer red alert 3 demo/ra3demo.exe
 command & conquer red alert ii/game.exe
@@ -2499,6 +2498,9 @@ ea sports fc 24/fc24.exe
 ea sports fc 24/fc24_trial.exe
 ea sports fc 25/fc25.exe
 ea sports fc 25/fc25_trial.exe
+ea sports fc 26/fc26.exe
+ea sports fc 26/fc26_showcase.exe
+ea sports fc 26/fc26_trial.exe
 eagle/eagle.exe
 earn to die 2/earntodie_2.exe
 earth 2150 eftbp/setup.exe
@@ -7514,6 +7516,7 @@ stranded alien dawn/strandedsteam.exe
 stranded sails - prologue/strandedsailsprologue.exe
 stranded_deep_x64.exe
 strange horticulture/strange horticulture.exe
+strangeantiquities/strange antiquities.exe
 stranger of paradise final fantasy origin/sopffo.exe
 stranger.exe
 stray cats in cozy town/stray.exe

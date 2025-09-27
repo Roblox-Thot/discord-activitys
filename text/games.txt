@@ -1538,6 +1538,7 @@ Cloud Meadow
 Cloudbuilt
 Cloudpunk
 Clouds & Sheep 2
+CloverPit
 Clown House (Palyaço Evi)
 Clownfield 2042
 Club Soccer Director 2021
@@ -1589,7 +1590,6 @@ Combots
 Come Home
 Come with Me
 Comedy Night
-Comet
 Coming Out on Top
 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™
 Command & Conquer: Red Alert™, Counterstrike™ and The Aftermath™
@@ -2506,6 +2506,7 @@ E.T.E
 E.Y.E: Divine Cybermancy
 EA SPORTS FC 24
 EA SPORTS FC 25
+EA SPORTS FC 26
 EARTH DEFENSE FORCE 4.1  The Shadow of New Despair
 EARTH DEFENSE FORCE 5
 EARTH DEFENSE FORCE 6
@@ -3522,6 +3523,7 @@ Grand Tactician: The Civil War (1861-1865)
 Grand Theft Auto III
 Grand Theft Auto IV
 Grand Theft Auto San Andreas
+Grand Theft Auto V Enhanced
 Grand Theft Auto V Legacy
 Grand Theft Auto: Episodes from Liberty City
 Grand Theft Auto: Vice City
@@ -7874,6 +7876,7 @@ Stowaway
 Stranded Deep
 Stranded Sails - Prologue
 Stranded: Alien Dawn
+Strange Antiquities
 Strange Brigade
 Strange Creatures
 Strange Horticulture
