@@ -1688,6 +1688,7 @@ countersnipe/countersnipe.exe
 cover fire/cover fire.exe
 cozy caravan/cozycaravan.exe
 cozy grove/cozygrove.exe
+cozy organizer/cozy organizer.exe
 cpucores/cpucores.exe
 crab game/crab game.exe
 crabchampions-win64-shipping.exe
@@ -9368,6 +9369,7 @@ win64/dcgame-win64-shipping.exe
 win64/dd_mnm-win64-shipping.exe
 win64/ddeception-win64-shipping.exe
 win64/dds-win64-shipping.exe
+win64/ddsurvivors-win64-shipping.exe
 win64/deadisland-win64-shipping.exe
 win64/deadlink-win64-shipping.exe
 win64/deadpoly-win64-shipping.exe

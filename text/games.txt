@@ -1699,6 +1699,7 @@ Countersnipe
 Cover Fire
 Cozy Caravan
 Cozy Grove
+Cozy Organizer
 Crab Champions
 Crab Game
 Craft The World
@@ -2032,6 +2033,7 @@ Deadlink
 Deadlock
 Deadly 30
 Deadly Days
+Deadly Days: Roadtrip
 Deadpool
 Deadside
 Deadswitch 3
