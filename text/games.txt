@@ -4835,6 +4835,7 @@ Lost Lullabies: The Orphanage Chronicles
 Lost Planet 3
 Lost Planet: Extreme Condition
 Lost Records: Bloom & Rage
+Lost Rift
 Lost Ruins
 Lost Saga North America
 Lost Skies
@@ -5846,6 +5847,7 @@ Ocean World: Eden Crafters Prologue
 Octarina
 Octodad: Dadliest Catch
 Octogeddon
+Octopath Traveler II
 Odd Realm
 Odd Remedy
 Oddsparks: An Automation Adventure
@@ -7743,6 +7745,7 @@ SpongeBob SquarePants: The Cosmic Shake
 Spooky Station
 Spooky's Jump Scare Mansion
 Spooky's Jump Scare Mansion: HD Renovation
+SpookyMilkLife
 SpookyMilkLife Demo
 Spore
 SportsBar VR
@@ -10076,7 +10079,6 @@ yahtzee girl
 ウツロマユ - Hollow Cocoon - 体験版
 ウマ娘 プリティーダービー
 ウーマンコミュニケーション
-オクトパストラベラー II
 オートローグ
 ガンダムブレイカー4
 クジラゲームオンライン

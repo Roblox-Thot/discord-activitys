@@ -7346,6 +7346,7 @@ splitsecond/splitsecond.exe
 spooky's house of jump scares/spooky.exe
 spooky's jump scare mansion hd renovation/spookyunity.exe
 spookymilklife demo/spooky milk life demo.exe
+spookymilklife/spooky milk life.exe
 sporeapp.exe
 sprintvector-win64-shipping.exe
 sprocket/sprocket.exe
@@ -10468,6 +10469,7 @@ win64/vein.exe
 win64/vgdfinal-win64-shipping.exe
 win64/vhs_project-win64-shipping.exe
 win64/vicecity.exe
+win64/victoriaclient-win64-shipping.exe
 win64/vikingoyunu-win64-shipping.exe
 win64/visionsofmana-win64-shipping.exe
 win64/vivalanddreamhouse-win64-shipping.exe
