@@ -2963,6 +2963,7 @@ final fantasy ffx&ffx-2 hd remaster/ffx.exe
 final fantasy ii pr/final fantasy ii.exe
 final fantasy iv pr/final fantasy iv.exe
 final fantasy pr/final fantasy.exe
+final fantasy tactics - the ivalice chronicles/fft_enhanced.exe
 final fantasy xiv.app
 final fantasy xv playable demo/ffxv_s.exe
 final fantasy xvi demo/ffxvi_demo.exe
