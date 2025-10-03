@@ -2156,6 +2156,7 @@ digger/digger.exe
 digimon masters online - steam/gdmo.exe
 digimon masters online - steam/updatemanager.exe
 digimon story time stranger demo/digimon story time stranger.exe
+digimon story time stranger/digimon story time stranger.exe
 digimon survive/digimonsurvive.exe
 digimon world next order/digimon world next order.exe
 digseum/digseum.exe
