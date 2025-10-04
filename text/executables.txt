@@ -1531,6 +1531,7 @@ cockroach_simulator/cs.exe
 cockwork industries/cockwork industries.exe
 cocoon/universe.exe
 cod23/cod23-cod.exe
+cod25-cod.exe
 cod2mp_s.exe
 cod2sp_s.exe
 codename cure/cure.exe
@@ -9007,6 +9008,7 @@ west of dead/westofdead.exe
 west of loathing.exe
 west sweety/west sweety.exe
 westerado/westeradodb.exe
+westview academy/westviewacademy.exe
 wet girl/wetgirl.exe
 wetherevolution/we.therevolution_x86_64.exe
 weyrdlets/weyrdlets.exe
@@ -9284,6 +9286,7 @@ win64/burningdaylight.exe
 win64/bussimulator18-win64-shipping.exe
 win64/bussimulator21-win64-shipping.exe
 win64/cabinfactory-win64-shipping.exe
+win64/call_to_arms_pe-win64-shipping.exe
 win64/callofkarenunreal-win64-shipping.exe
 win64/campervansimulator-win64-shipping.exe
 win64/cantescapethebackrooms-win64-shipping.exe
