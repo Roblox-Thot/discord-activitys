@@ -4536,6 +4536,7 @@ lego indiana jones the original adventures/legoindy.exe
 lego lord of the rings/legolotr.exe
 lego marvel super heroes 2/legomarvel2_dx11.exe
 lego marvel super heroes/legomarvel.exe
+lego party/lego party.exe
 lego star wars - the skywalker saga/legostarwarsskywalkersaga_dx11.exe
 lego star wars iii - the clone wars/legoclonewars.exe
 lego the incredibles/lego the incredibles_dx11.exe
@@ -10932,6 +10933,7 @@ zombie gunship survival/zgi_steam_win_x64.exe
 zombie kill of the week - reborn/reborn.exe
 zombie night terror/znt.exe
 zombie panic source/zps.exe
+zomborg/zomborg.exe
 zombotron/zombotron.exe
 zompiercer/zompiercer.exe
 zoneue4-win64-shipping.exe

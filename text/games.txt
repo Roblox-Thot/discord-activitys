@@ -4598,6 +4598,7 @@ LEGO® Jurassic World
 LEGO® MARVEL Super Heroes
 LEGO® MARVEL Super Heroes 2
 LEGO® MARVEL's Avengers
+LEGO® Party!
 LEGO® STAR WARS™: The Force Awakens
 LEGO® Star Wars™ III: The Clone Wars™
 LEGO® Star Wars™: The Complete Saga
@@ -9934,6 +9935,7 @@ Zombie Survival
 Zombies Beyond Me
 Zombies Monsters Robots
 Zombieville USA 3D
+Zomborg
 Zombotron
 Zompiercer
 Zoo 2: Animal Park
