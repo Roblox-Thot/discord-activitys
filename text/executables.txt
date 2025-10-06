@@ -3998,6 +3998,7 @@ icommissionedsomebees0/icommissionedsomebees0.exe
 iconoclasts/iconoclasts.exe
 icons combat arena/icons.exe
 idle big devil/dmw.exe
+idle boss rush/idle boss rush.exe
 idle bouncer/nw.exe
 idle cave miner/idle cave miner.exe
 idle clans/idle clans.exe
@@ -8692,6 +8693,7 @@ undress tournament/undress tournament.exe
 undying.exe
 unearned bounty/unearnedbounty.exe
 unepic/unepic.exe
+unfair flips/unfair flips.exe
 unheard/unheard.exe
 unholy heights/unholyheights.exe
 uni/uni2.exe
@@ -10506,6 +10508,7 @@ win64/whatneverwas-win64-shipping.exe
 win64/whatthefoggame.exe
 win64/while_we_wait_here-win64-shipping.exe
 win64/whodoor-win64-shipping.exe
+win64/wickedisland-win64-shipping.exe
 win64/wildlifec-win64-shipping.exe
 win64/wiregame.exe
 win64/witches_x_warlocks-win64-shipping.exe

@@ -4099,6 +4099,7 @@ I'm on Observation Duty 6
 I'm on Observation Duty 7
 I, Zombie
 ICEY
+IDLE BOSS RUSH
 IKEA VR Experience
 IKEA VR Pancake Kitchen
 IL-2 Sturmovik: 1946
@@ -9239,6 +9240,7 @@ Undisputed
 Undress Tournament
 Unearned Bounty
 Unepic
+Unfair Flips
 Unforgiving - A Northern Hymn
 Unfortunate Spacemen
 Unheard
@@ -9659,6 +9661,7 @@ Who Wants To Be A Millionaire
 Who's Lila?
 Who's Your Daddy
 Who's at the door?
+Wicked Island
 Widget Inc.
 Wild Animal Racing
 Wild Assault
