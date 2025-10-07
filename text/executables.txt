@@ -356,6 +356,7 @@ anger foot/anger foot.exe
 angry birds vr isle of pigs/angry-birds-vr-isle-of-pigs.exe
 angry video game nerd adventures/avgn.exe
 angvik/nw.exe
+animaengine/animaenginekivi.exe
 animal jam - play wild!/play wild.exe
 animal revolt battle simulator/animal revolt battle simulator.exe
 animal shelter 2 prologue/animal shelter 2 prologue.exe
@@ -4184,6 +4185,7 @@ iso racer/streetracer.exe
 isonzo/isonzo.exe
 istrolid/istrolid.exe
 it gets so lonely here/itgetssolonelyhere.exe
+it has my face/it has my face.exe
 it lurks below/ilb.exe
 it steals/it steals.exe
 ithya magic studies/magic studies.exe
@@ -4377,6 +4379,7 @@ kingdoms/kingdoms.exe
 kingdomsandcastles.exe
 kingmaker.exe
 kingoffighters2002um.exe
+kingofmeat-release.exe
 kings bounty armored princess/kb.exe
 kings bounty crossworlds/kb.exe
 kingspray graffiti/kingspray.exe
@@ -4461,6 +4464,7 @@ lanoire.exe
 lapidary/lapidary.exe
 lara croft and the temple of osiris/lc2.exe
 lara croft go/lara croft go.exe
+larilauncher.exe
 lasers/lasers.exe
 last call bbs/last call bbs.exe
 last cloudia/lastcloudia.exe
