@@ -1790,7 +1790,7 @@ csdgogbuild.exe
 csdsteambuild.exe
 csgo.exe
 csgo_linux64
-csgo_osx64
+csgo_osx64.app
 cssecretsanta/cave story's secret santa.exe
 cthulhu saves the world/cstw.exe
 cube escape collection/cubeescapecollection.exe
@@ -8742,6 +8742,7 @@ unturned_be.exe
 unworthy/unworthy.exe
 updater/sansar.exe
 uplink.exe
+upload labs/upload labs.exe
 uptasia/uptasiaapp.exe
 urban jungle/urbanjungle.exe
 urban rivals/urban rivals.exe
