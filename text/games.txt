@@ -2061,6 +2061,7 @@ Death's Door
 Death's Gambit
 DeathComing
 DeathSprint 66
+Deathground
 Deathless
 Deathless. The Hero Quest
 Deathsmiles
@@ -3162,6 +3163,7 @@ Forklift Racer
 Formata
 Formula Bwoah
 Formula Evolution 2024
+Formula Legends
 Forsaken Frontiers
 Forsaken Remastered
 Forspoken

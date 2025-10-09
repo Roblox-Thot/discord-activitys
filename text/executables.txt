@@ -10405,6 +10405,7 @@ win64/toiletchronicles-win64-shipping.exe
 win64/tokyoxtremeracer-win64-shipping.exe
 win64/tom-win64-shipping.exe
 win64/torchlight_infinite.exe
+win64/tornado-win64-shipping.exe
 win64/totalconflictresistance-win64-shipping.exe
 win64/totclient-win64-shipping.exe
 win64/touristbussimulator.exe
