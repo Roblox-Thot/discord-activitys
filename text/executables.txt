@@ -1025,8 +1025,10 @@ bloons td battles/battles-win.exe
 bloonstd6.exe
 bloonstd6/bloonstd6.exe
 blue prince/blue prince.exe
+blue protocol star resonance/blue protocol star resonance.exe
 bluearchive/bluearchive.exe
 blueprint tycoon/blueprinttycoon.exe
+blueprotocolstarresolw5ks/bpsr_epic.exe
 blushblush/blushblush.exe
 bmx streets/bmx streets.exe
 bns/bin64/client.exe
@@ -1088,6 +1090,8 @@ boxes/boxes lost fragments.exe
 boxing school/boxingschool.exe
 boxvr/boxvr.exe
 boyfriend dungeon/boyfrienddungeon.exe
+bpsr.exe
+bpsr/bpsr_steam.exe
 braid anniversary edition/braid64_d3d11_final.exe
 braid.exe
 brain show/brain show.exe
@@ -1584,8 +1588,6 @@ combatarms.exe
 come home/comehome.exe
 come with me/comewithme.exe
 comedy night.exe
-comet.app
-comet/application/comet.exe
 command & conquer generals - zero hour/game.dat
 command & conquer red alert 3 demo/ra3demo.exe
 command & conquer red alert ii/game.exe
@@ -7994,6 +7996,7 @@ the brew barons/the brew barons.exe
 the bunny graveyard/game.exe
 the button/the button.exe
 the case of the golden idol/game.exe
+the censor/thecensor.exe
 the children of clay/thechildrenofclay.exe
 the choice of life middle ages/the choice of life - middle ages.exe
 the classrooms/the classrooms.exe
@@ -8132,6 +8135,7 @@ the lust city/thelustcity.exe
 the mageseeker/the mageseeker.exe
 the magician's research/the magicians research.exe
 the messenger/themessenger.exe
+the midnight walkers demo/projectmw/binaries/win64/projectmw-win64-shipping.exe
 the mortuary assistant/the mortuary assistant demo.exe
 the mortuary assistant/the mortuary assistant.exe
 the mr. rabbit magic show/themrrabbitmagicshow.exe
@@ -9921,6 +9925,7 @@ win64/onset-win64-shipping.exe
 win64/oos-win64-shipping.exe
 win64/openvrbenchmark.exe
 win64/operationairsoft.exe
+win64/orca-win64-shipping.exe
 win64/orebound-win64-shipping.exe
 win64/oregon-win64-shipping.exe
 win64/orvillefangame-win64-shipping.exe

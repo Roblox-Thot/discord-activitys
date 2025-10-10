@@ -999,6 +999,7 @@ Bloons TD5
 Blue Archive
 Blue Fire
 Blue Prince
+Blue Protocol: Star Resonance
 Blueprint Tycoon
 Blush Blush
 BoardLand
@@ -1593,7 +1594,6 @@ Combots
 Come Home
 Come with Me
 Comedy Night
-Comet
 Coming Out on Top
 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™
 Command & Conquer: Red Alert™, Counterstrike™ and The Aftermath™
@@ -7247,6 +7247,7 @@ Sea of Stars Demo
 Sea of Survivors
 Sea of Thieves
 Seablip
+Seafarer: The Ship Sim
 Seasons After Fall
 Second Chance
 Second Extinction™
@@ -8383,6 +8384,7 @@ The Casting of Frank Stone
 The Cat Lady
 The Cave
 The Cenozoic Era
+The Censor DX Edition
 The Children of Clay
 The Citadel
 The Classrooms
@@ -8595,6 +8597,7 @@ The Mean Greens - Plastic Warfare
 The Messenger
 The Metronomicon: Slay The Dance Floor
 The Midnight Walk
+The Midnight Walkers
 The Misfits
 The Monster Inside
 The Mortuary Assistant
