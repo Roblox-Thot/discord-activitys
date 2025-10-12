@@ -6034,6 +6034,7 @@ P.A.S.
 PAC-MAN 256
 PAC-MAN Championship Edition DX+
 PAC-MAN MUSEUM+
+PAC-MAN WORLD 2 Re-PAC
 PAC-MAN WORLD Re-PAC
 PAC-MAN™ CHAMPIONSHIP EDITION 2
 PANICORE
@@ -8057,6 +8058,7 @@ SupercupOnline
 Superfighters Deluxe
 Superflight
 Superfly
+Superhero Simulator
 Superhot
 Superliminal
 Supermarket Simulator
