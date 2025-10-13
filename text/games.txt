@@ -7369,6 +7369,7 @@ Shark Simulator
 Sharks and Minnows
 SharpShooter3D
 Shashingo: Learn Japanese with Photography
+ShatterRush Open Pre-Alpha
 Shattered Lights
 Shattered Minds
 Shattered Pixel Dungeon
