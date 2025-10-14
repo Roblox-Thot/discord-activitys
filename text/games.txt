@@ -2770,6 +2770,7 @@ Explore Fushimi Inari
 Exposed Livestream
 Extremely Powerful Capybaras
 Extremely Powerful Capybaras: Training Grounds
+Eyes of Hellfire
 Eyes: The Horror Game
 Ezbench
 F*CK STALIN
@@ -3160,6 +3161,7 @@ Forever Skies
 Forged Battalion
 Forgive Me Father
 Forgive Me Father 2
+Forgotten Seas
 Forgotton Anne
 Fork Road
 Forkdrift
@@ -4814,6 +4816,7 @@ Lofi Ping Pong
 Lonely Mountains: Downhill
 Lonely Mountains: Downhill Demo
 Lonely Mountains: Snow Riders
+Long Drive North: кооперативный автосимулятор — демоверсия
 Long Live Santa!
 Long Live The Queen
 Longshot [Dev]
@@ -5071,6 +5074,7 @@ Make Way
 Make Your Kingdom: Prologue
 MakeRoom
 MakerKing
+Mall Simulator 2025: Prologue
 Malum
 Man of the House
 Mana Spark
@@ -5722,6 +5726,7 @@ Nightmare Kart
 Nightmare of Decay
 Nimbatus - Drone Creator
 Nimbatus - The Space Drone Constructor
+Nin Online
 Nine Parchments
 Nine Sols
 Nine Sols Demo

@@ -3096,6 +3096,7 @@ foregone/foregone.exe
 forewarned/forewarned.exe
 forgedbattalion/clientg.exe
 forgettabledungeon.exe
+forgottenseas/forgottenseas.exe
 forgotton anne/forgottonanne.exe
 forhonor.exe
 forkdrift/forkdrift.exe
@@ -4653,6 +4654,7 @@ lollipop!/lollipop!.exe
 lonely mountains - downhill/lmd_win_x64.exe
 lonely mountains downhill - demo/lmd_demo_win_x64.exe
 lonestar/lonestar.exe
+long drive north demo/long drive north.exe
 long live santa.exe
 longlivethequeen.exe
 look outside/game.exe
@@ -4835,6 +4837,7 @@ make way/make way.exe
 make your kingdom prologue/make your kingdom.exe
 makerking/makerking.exe
 makeroom/makeroom.exe
+mall simulator 2025 prologue/mall simulator 2025 prologue.exe
 man of the house/man of the house.exe
 mana spark/manaspark.exe
 mandagon/mandagon.exe
@@ -5520,6 +5523,7 @@ nightrun3d2gw/nightrun.exe
 nights into dreams/nights.exe
 nimby rails/nimbyrails.exe
 nimrods/nimrods.exe
+nin online/ninonline.exe
 nine parchments/nineparchments_64bit.exe
 nine sols demo/ninesols.exe
 nine sols/ninesols.exe
@@ -10632,6 +10636,7 @@ windows/bloody painter dating sim.exe
 windows/digdigdrill.exe
 windows/dungeonclawler.exe
 windows/godus.exe
+windows/hellfire.exe
 windows/hemingway.exe
 windows/idleherotd.exe
 windows/jazzpunk.exe
