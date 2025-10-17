@@ -631,6 +631,7 @@ ball at work/ball at work.exe
 ballionaire/ballionaire-windows.exe
 ballisticng/ballisticng.exe
 ballisticoverkill.exe
+ballxpit/balls.exe
 banana hell/banana_hell.exe
 banana shooter/banana shooter.exe
 banana/banana.exe
@@ -3102,6 +3103,7 @@ forhonor.exe
 forkdrift/forkdrift.exe
 formula bwoah/formula bwoah.exe
 formula evolution 2024/engine evolution.exe
+formula legends/asc.exe
 forsaken frontiers/forsaken frontiers.exe
 forspoken demo/forspokendemo.exe
 forspoken/forspoken.exe
@@ -4580,6 +4582,7 @@ levelhead/levelhead.exe
 lewd gym/game.exe
 lewdapocalypse demo/lewdapocalypse demo.exe
 lewdapocalypse/lewdapocalypse.exe
+liar game/liargame.exe
 liar's bar/liar's bar.exe
 library of ruina/libraryofruina.exe
 license/license.exe
@@ -9530,6 +9533,7 @@ win64/fbs-win64-shipping.exe
 win64/fcs-win64-shipping.exe
 win64/fctclient-win64-shipping.exe
 win64/feartherapybf-win64-shipping.exe
+win64/fellowship-win64-shipping.exe
 win64/fera-win64-shipping.exe
 win64/fernbus-win64-shipping.exe
 win64/ff7rebirth_.exe
