@@ -2008,6 +2008,7 @@ Cosmoteer: Starship Architect & Commander
 Cossacks 3
 Cossacks II: Battle for Europe
 Cossacks II: Napoleonic Wars
+Cossacks: Art of War
 Cossacks: Back to War
 Cossacks: European Wars
 Costume Party
@@ -2389,6 +2390,7 @@ Dead Rising 2: Off the Record
 Dead Rising 3
 Dead Rising 4
 Dead Rising Deluxe Remaster
+Dead Season
 Dead Seater
 Dead Signal
 Dead Space 2
@@ -2464,6 +2466,7 @@ Deep Sky Derelicts
 Deep Sleep Trilogy
 Deep Sleep: Labyrinth of the Forsaken
 Deep Snake
+Deep Space Exploitation
 Deep The Game
 Deepest Sword
 Deeply Dark
@@ -2484,6 +2487,7 @@ Deisim
 Delicious! Pretty Girls Mahjong Solitaire
 Deliver At All Costs
 Deliver Us The Moon
+Delivery Guy Simulator
 Delivery Pals
 Delores: A Thimbleweed Park Mini-Adventure
 Delta Force
@@ -3048,6 +3052,7 @@ Echocalypse: The Scarlet Covenant
 Echoed World
 Echoes of Mystralia
 Echoes of the Plum Grove
+Eclipsium
 Eco
 Ecosystem
 Ecosystem Demo
@@ -4018,6 +4023,7 @@ Get Stuffed!
 Get To The Orange Door
 Get To The Orange Door Demo
 Get To Work
+Getting Inside: Hentai Story
 Getting Over It with Bennett Foddy
 Ghost Exile
 Ghost Exorcism INC.
@@ -8820,6 +8826,7 @@ Silent Hunter 3
 Silent Hunter 5: Battle of the Atlantic
 Silent Hunter: Wolves of the Pacific
 Silent Still
+Silent Still 2
 Silent dream
 Silica
 Silly's Gameshow
@@ -10946,6 +10953,7 @@ Unknown 9: Awakening
 Unknown Tapes
 Unleash
 Unlooted
+Unmourned
 Unnamed Space Idle
 UnnyWorld
 Unpacking
