@@ -1252,6 +1252,7 @@ Boson X
 Botanicula
 Botany Manor
 Bouboum
+Bouncemasters
 Bouncy Goat Climb
 Bound By Flame
 Boundary
@@ -4887,6 +4888,7 @@ ISEKAI QUEST
 ISIS Simulator
 ISLANDERS
 ISLANDERS: New Shores
+ISS Simulator
 IT Specialist Simulator
 IXION
 Ib
