@@ -1524,6 +1524,7 @@ Capybara: The story of Sisyphus
 Car Dealer Simulator
 Car Dealer Simulator: Prologue - Early Days
 Car Dealership Simulator
+Car Dealership Simulator 2
 Car Detailing Simulator
 Car Detailing Simulator: Prologue
 Car For Sale Simulator 2023

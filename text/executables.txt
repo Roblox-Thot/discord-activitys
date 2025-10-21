@@ -1264,6 +1264,7 @@ captain of industry/captain of industry.exe
 captainspirit-win64-shipping.exe
 capuchin/capuchin.exe
 capybara the story of sisyphus/capybarastorysishyphus.exe
+car dealership simulator 2/car dealership simulator 2.exe
 car dealership simulator/car dealership simulator.exe
 car detailing simulator prologue/car detailing simulator.exe
 car detailing simulator/car detailing simulator.exe
@@ -3868,6 +3869,7 @@ holdfast naw.exe
 hole dweller/holedweller.exe
 hollow cocoon demo/hollow cocoon demo.exe
 hollow cocoon/hollow cocoon.exe
+hollow knight silksong.app
 hollow knight silksong/hollow knight silksong.exe
 hollow survivors prologue/hollow survivors.exe
 hollow_knight.exe
