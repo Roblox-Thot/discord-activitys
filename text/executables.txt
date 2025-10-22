@@ -1201,6 +1201,7 @@ butcher's creek/butcher's creek.exe
 butcher/butcher.exe
 buttknight/buttknight.exe
 button pusher/button pusher.exe
+bye sweet carole/bye sweet carole.exe
 bz2r/battlezone2.exe
 c09fs-1.0/c09fs.exe
 c09ru-1.0/c09ru.exe
@@ -4024,6 +4025,7 @@ idle fishing/idle fishing.exe
 idle heist/idle heist.exe
 idle monkeylogy/idle monkylogy.exe
 idle pins/idle pins.exe
+idle pixel fantasy/idle pixel fantasy.exe
 idle racing go/idle racing go.exe
 idle research/idle research.exe
 idle skilling/idleskilling.exe
@@ -4269,6 +4271,7 @@ jumpspace/jump space.exe
 junkyard truck/junkyardtruck.exe
 jupiter hell/jh.exe
 jurassic world evolution 2/jwe2.exe
+jurassic world evolution 3/jwe3.exe
 jurassicpark100.exe
 just a game to test your lq/justagame.exe
 just a humble swordsmith/just a humble swordsmith.exe
@@ -5543,6 +5546,7 @@ nine-ball roulette/nine_ball_roulette.exe
 ninja gaiden ragebound/ninja gaiden ragebound.exe
 ninja kiwi archive/ninja kiwi archive.exe
 ninja stealth/ninja stealth.exe
+ninjagaiden4/ninjagaiden4-steam.exe
 nino2.exe
 nioh.exe
 nioh2/nioh2.exe
@@ -9276,6 +9280,7 @@ win64/blairwitch-win64-shipping.exe
 win64/blazingsails-win64.exe
 win64/bless.exe
 win64/blood_spear-win64-shipping.exe
+win64/bloodlines2-win64-shipping.exe
 win64/bloodstainedrotn-win64-shipping.exe
 win64/bloodstrike.exe
 win64/bloodtrailvr-win64-shipping.exe
@@ -10123,6 +10128,7 @@ win64/revolution.exe
 win64/rezz-win64-shipping.exe
 win64/rgame-win64-shipping.exe
 win64/rhome-win64-shipping.exe
+win64/ride-win64-shipping.exe
 win64/ride3-win64-shipping.exe
 win64/ride4-win64-shipping.exe
 win64/ride5-win64-shipping.exe

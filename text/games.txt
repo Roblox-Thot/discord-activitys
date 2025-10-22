@@ -1393,6 +1393,7 @@ Business Tour - Online Multiplayer Board Game
 BustyBiz
 Butcher's Creek
 ButtKnight
+Bye Sweet Carole
 Byte Breakers
 Bō: Path of the Teal Lotus
 C.A.S.T.
@@ -3829,6 +3830,7 @@ Frontier Hunter: Erza's Wheel of Fortune
 Frontline 1942: Сражения Второй мировой войны
 Frontline Crisis
 Frontline Inferno
+Frontlines
 FrostRunner
 Frostpunk
 Frostpunk 2
@@ -4918,6 +4920,7 @@ Idle Monkeylogy
 Idle Monster TD
 Idle Monster TD: Evolved
 Idle Pins
+Idle Pixel Fantasy
 Idle Plant Game
 Idle Racing GO: Car Clicker Tycoon
 Idle Research
@@ -5190,6 +5193,7 @@ Jupiter Hell Classic
 Jurassic Park: The Game
 Jurassic World Evolution
 Jurassic World Evolution 2
+Jurassic World Evolution 3
 Jusant
 Just A Humble Swordsmith
 Just A To the Moon Series: Beach Episode
@@ -6808,6 +6812,7 @@ Nine Sols
 Nine Sols Demo
 Nine to Five
 Nine-Ball Roulette
+Ninja Gaiden 4
 Ninja Kiwi Archive
 Ninja Party
 Ninja Stealth
@@ -7847,6 +7852,7 @@ RUNNING WITH RIFLES
 RUNNING WITH RIFLES Demo
 RUSSIA BATTLEGROUNDS
 RUSSIAPHOBIA
+RV There Yet?
 RWBY: Grimm Eclipse
 RYB
 Rabbit Hole
@@ -11068,6 +11074,7 @@ Vampire Hunters
 Vampire Survivors
 Vampire Therapist
 Vampire: The Masquerade - Bloodlines
+Vampire: The Masquerade - Bloodlines 2
 Vampire: The Masquerade - Coteries of New York
 Vampire: The Masquerade - Justice
 Vampire: The Masquerade - Reckoning of New York
