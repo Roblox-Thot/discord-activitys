@@ -222,6 +222,7 @@ Abandon Ship
 Abiotic Factor
 Above Snakes
 Above Snakes: Prologue
+Abra-Cooking-Dabra
 Absconding Zatwor
 Absolum
 Absolute Drift
@@ -803,6 +804,7 @@ Backbone: Prologue
 Backpack Battles
 Backpack Hero
 Backpack Hero Demo
+Backpack Survivors
 Backroom Company
 Backrooms Break
 Backrooms Cleanup Crew
@@ -2457,6 +2459,7 @@ Deceive Inc.
 Decent Icons
 Decent Icons 2
 Deck of Haunts
+Decks Of The Damned
 Decktamer
 Deconstruction Simulator: Prologue
 Deduce Together
@@ -2686,6 +2689,7 @@ Disney Universe
 Disney's Hercules
 Disney's Princess Enchanted Journey
 Disneyland Adventures
+Dispatch
 Distance
 Distancing
 Distant Worlds 2
@@ -9377,6 +9381,7 @@ Street Fighter™ 6 Demo
 Street Legal Racing: Redline v2.3.1
 Street Racing Syndicate
 Street Sense
+Street Soccer Online
 Streetdog BMX
 Streets Of Kamurocho
 Streets of Rage 4
@@ -9965,6 +9970,7 @@ The Crush House
 The Crust
 The Culling
 The Dark Eye: Chains of Satinav
+The Dark Isle
 The Dark Pictures Anthology: House of Ashes - Friend's Pass
 The Dark Pictures Anthology: Man of Medan
 The Dark Pictures Anthology: The Devil in Me
