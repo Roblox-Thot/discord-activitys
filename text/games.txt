@@ -161,6 +161,7 @@ AFL 23
 AHEGAL
 AI Dungeon
 AI Image Generator
+AI Learns To Drive
 AI Limit
 AI Roguelite
 AI Spelcraft
@@ -356,6 +357,7 @@ Alba: A Wildlife Adventure
 Albion Online
 Alchemist Shop Simulator
 Alchemy Factory
+Alchemy Frogs
 Ale & Tale Tavern
 Ale & Tale Tavern: First Pints
 Ale Abbey
@@ -373,6 +375,7 @@ Alien Swarm
 Alien Swarm: Reactive Drop
 Alien: Isolation
 Alien: Rogue Incursion
+Aliens vs. Ghosts
 Aliens vs. Predator
 Aliens: Dark Descent
 Aliens: Fireteam Elite
@@ -1041,6 +1044,7 @@ Biker Garage: Mechanic Simulator
 Billie Bust Up Demo
 Binary Domain
 Bingle Bingle
+Bio Goddess: Doomsday Begins
 Bio Inc. Redemption
 Bio Prototype
 BioShock 2
@@ -1215,6 +1219,7 @@ Bomber Crew
 Bombergrounds: Battle Royale
 Bombix
 BomjMan
+Bone To Gather
 Bone Voyage
 BoneTown
 Boneless VR
@@ -2990,6 +2995,7 @@ Dying Light: Bad Blood
 Dying Light: The Beast
 Dynast.io
 Dynasty Warriors 8 Empires
+Dynomite Deluxe
 Dyson Sphere Program
 Dystopia
 Dystopika
@@ -3158,6 +3164,7 @@ Engine Evolution 2021
 Engine Evolution 2022
 Engine Evolution 2023
 Enginefall
+Engines Of Destruction
 Enigma do Medo
 Enigmatis: The Ghosts of Maple Creek
 Enishia and the Binding Brand
@@ -3730,6 +3737,7 @@ Football Manager 2022 Demo
 Football Manager 2023
 Football Manager 2023 Demo
 Football Manager 2024
+Football Manager 26
 Football Manager Touch 2018
 Football Referee Simulator
 Football Simulator
@@ -3741,6 +3749,7 @@ For the Queen
 Forbidden Fantasy
 Force of Nature
 Force of Nature 2
+Force of Warships
 Foregone
 Forestrike
 Forever Skies
@@ -4056,6 +4065,7 @@ Ghosts of war
 Ghostwire: Tokyo
 Gibbous - A Cthulhu Adventure
 GigaBash
+Gigantes Ex Machina
 Gigantic
 Gigantic: Rampage Edition
 Girl and Goblin
@@ -4617,6 +4627,7 @@ Hidden Cats in Santa's Realm
 Hidden Cats in Spooky Town
 Hidden Cats: City
 Hidden Cats: Halloween
+Hidden Cats: Snow
 Hidden Cosmo Cats
 Hidden Deep
 Hidden Dino Cats
@@ -4973,6 +4984,7 @@ In Sink
 In Sink: A Co-Op Escape Prologue
 In Sound Mind
 In Stars And Time
+In Woods
 Inari
 Incline
 Increlution
@@ -5897,6 +5909,7 @@ MINDHACK
 MINDNIGHT
 MINERVA: Metastasis
 MIR4
+MISERY
 MISTOVER Demo
 MLB Rivals
 MMORPG Tycoon 2
@@ -5986,6 +5999,7 @@ Magic 2014
 Magic 2015
 Magic Archery
 Magic Duels
+Magic Inn
 Magic Pussy: Chapter 1
 Magic Pussy: Chapter 2
 Magic Rampage
@@ -7509,6 +7523,7 @@ Plantera
 Plantera 2: Golden Acorn
 Plants vs Zombies GW2
 Plants vs. Zombies: Game of the Year
+Plants vs. Zombies™: Replanted
 Plasma
 PlateUp!
 PlateUp! Demo
@@ -7601,6 +7616,7 @@ Power & Revolution 2019 Edition
 Power & Revolution 2023 Edition
 Power Rangers: Battle for the Grid
 PowerWash Simulator
+PowerWash Simulator 2
 Powerstar Golf
 Praey for the Gods
 Predator: Hunting Grounds
@@ -7801,6 +7817,7 @@ R.A.V.E: Real-time Audio Visual Experience
 R.E.P.O.
 R.E.P.O.: Ghost Haul
 R.U.S.E
+RACCOIN: Coin Pusher Roguelike
 RAD
 RAGE
 RAGE 2
@@ -7812,6 +7829,7 @@ RAILROADS Online!
 RAM: Random Access Mayhem
 RATSHAKER
 RC Plane 3
+RCD Racing
 RDS - The Official Drift Videogame
 REAVER Demo
 RED HOT VENGEANCE
@@ -9884,6 +9902,7 @@ The Anacrusis
 The Angry Video Game Nerd: 8-bit
 The Anomaly Project
 The Archotek Project
+The Art of Reflection
 The Ascent
 The August Before
 The August Before: Chapter One
@@ -9907,6 +9926,7 @@ The Bathhouse | 地獄銭湯 Restored Ver.
 The Battle of Polytopia
 The Bazaar
 The Beginner's Guide
+The Best Duck Clicker
 The Bibites: Digital Life
 The Big Catch: Tacklebox
 The Binding of Isaac
@@ -10420,6 +10440,7 @@ This Land Is My Land
 This Means Warp
 This War of Mine
 This game will end in 205 clicks
+This is a Ghost
 This is the Police
 Thomas Was Alone
 Thors Ascension: Nine Realms
@@ -11174,6 +11195,7 @@ Volcano Princess
 Volcanoids
 Volgarr the Viking
 VolleySmash
+Volleyborne: Unbound Horizons
 Volzerk : Monsters and Lands Unknown
 Voodoo Fishin'
 Voodoo Garden
@@ -11462,6 +11484,7 @@ Wildmender
 Will Glow the Wisp
 Will To Live Online
 Will You Snail?
+Will You Wheel?
 Wilmot Works it out
 Wilmot's Warehouse
 Wilson Chronicles - Beta
@@ -11556,6 +11579,7 @@ World Warfare & Economics
 World of Goo
 World of Guns: Gun Disassembly
 World of Outlaws: Dirt Racing
+World of Sea Battle
 World of Shooting
 World of Talesworth: Idle MMO Simulator
 World of Tanks
@@ -11660,6 +11684,7 @@ Yet Another Zombie Defense HD
 Yet Another Zombie Survivors
 Yet Another Zombie Survivors Demo
 Yi Xian: The Cultivation Card Game
+Yield! Fall of Rome
 Ylands
 Ymir
 Yog-Sothoth's Yard

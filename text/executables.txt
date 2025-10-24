@@ -3089,6 +3089,7 @@ football manager 2022/fm.exe
 football manager 2023 demo/fm.exe
 football manager 2023/fm.exe
 football manager 2024/fm.exe
+football manager 26/fm.exe
 football manager touch 2018/fm.exe
 football referee simulator/football referee simulator.exe
 football simulator/football simulator.exe
@@ -6157,6 +6158,7 @@ power & revolution 2019 edition/_start.exe
 power & revolution 2023 edition/_start.exe
 power & revolution/_start.exe
 power rangers battle for the grid/battleforthegrid.exe
+powerwash simulator 2/powerwash simulator 2.exe
 powerwash simulator/powerwashsimulator.exe
 ppssppwindows.exe
 ppssppwindows64.exe
@@ -6299,6 +6301,8 @@ puyopuyotetris/puyopuyotetris.exe
 puyopuyotetris2/puyopuyotetris2.exe
 puzzle together/puzzle together.exe
 puzzline/puzzline.exe
+pvz replanted - pc/replanted.exe
+pvz replanted/replanted.exe
 pw_game.exe
 pyre.exe
 pyrite heart.exe
@@ -9871,6 +9875,7 @@ win64/mindseye-win64-shipping.exe
 win64/mining-win64-shipping.exe
 win64/miniroyale.exe
 win64/mir4s.exe
+win64/misery-win64-shipping.exe
 win64/mistclient-win64-shipping.exe
 win64/mistofthedark.exe
 win64/mk12.exe
@@ -10695,6 +10700,8 @@ windows_content/streamer life simulator.exe
 windscape.exe
 windward/windward.exe
 wingdk/avowed-wingdk-shipping.exe
+wingdk/discovery-d.exe
+wingdk/discovery-e.exe
 wingdk/grounded2-wingdk-shipping.exe
 wingdk/oblivionremastered-wingdk-shipping.exe
 wingdk/palworld-wingdk-shipping.exe
@@ -10766,6 +10773,7 @@ wordle/wordle.exe
 working sakuya/otutome_sakuya.exe
 workspace fantasy/workspace fantasy.exe
 world boss/worldboss.exe
+world of sea battle/worldofseabattleclient.exe
 world of shooting/world of shooting.exe
 world of talesworth/worldoftalesworth.exe
 world of tennis roaring 20s/worldoftennis.exe
