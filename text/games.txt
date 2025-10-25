@@ -7188,6 +7188,7 @@ Overpass 2
 Override
 Overstep
 Overwatch 2
+Ovis Loop
 Owinka Shooter
 Owlboy
 Oxenfree
