@@ -2662,6 +2662,7 @@ escape first/escapefirst.exe
 escape from monkey island/monkey4.exe
 escape from tatris/escapefromtatris.exe
 escape room - the sick colleague/escape room.exe
+escape simulator 2/escape simulator 2.exe
 escape simulator demo/escape simulator.exe
 escape simulator/escape simulator.exe
 escape the ayuwoki/escape the ayuwoki.exe
@@ -4904,6 +4905,7 @@ masseffect3.exe
 masseffectandromeda.exe
 massive chalice/mc.exe
 massive.exe
+master of command/master of command.exe
 master of orion 2/dosbox/dosbox.exe
 master of orion/masteroforion.exe
 master/chronoark.exe
@@ -4996,6 +4998,7 @@ mergecrafter/mergecrafter.exe
 meridian - new world.exe
 meridian 59/meridian.exe
 mermaid vr/mermaidvr.exe
+merry bunny garden/hebereke bunny garden.exe
 meta-ghost prologue/meta ghost.exe
 metaball/metaball.exe
 metal gear rising revengeance.exe
@@ -5078,6 +5081,7 @@ milmo/milmo.exe
 milo and the christmas gift/milo and the christmas gift.exe
 milo and the magpies/miloandthemagpies.exe
 milthm/milthm.exe
+mimesis/mimesis.exe
 mimic logic/mimiclogic.exe
 mimic search/mimic search.exe
 mimpi dreams/mimpidreams.exe
@@ -5652,6 +5656,7 @@ obscure/obscure.exe
 obscure2/obscure2.exe
 observation/observation.exe
 obsideo/obsideo.exe
+occt/occt.exe
 occult/occult.exe
 occupy mars prologue/occupymars-prolog.exe
 occupy mars the game demo/occupymars-prolog.exe
@@ -5704,6 +5709,7 @@ omori/omori.exe
 omsi 2/omsi.exe
 once a porn a time/once a porn a time.exe
 once human/once_human.exe
+onceuponakatamari/onceuponakatamari.exe
 one deck dungeon/onedeckdungeon.exe
 one finger death punch 2/one finger death punch 2.exe
 one finger death punch.exe
@@ -6023,6 +6029,7 @@ pine/pine.exe
 pineapple on pizza/pineapple on pizza.exe
 pineapple/metal slug xx.exe
 pingpongleague/pingpongleague.exe
+pioneergame.exe
 pioneers of pagonia/pioneers of pagonia.exe
 pipe/pipe.exe
 pirate.exe
@@ -6121,6 +6128,7 @@ poly bridge 3/poly bridge 3.exe
 polyball/polyball.exe
 polybridge.exe
 polygon/polygon.exe
+polygonbitbattleroyaledemo/polygonbitbattleroyaledemo.exe
 polygoneer/polygoneer.exe
 ponyisland.exe
 pool cleaning simulator/pool cleaning simulator.exe
@@ -9425,6 +9433,7 @@ win64/dcgame-win64-shipping.exe
 win64/dd_mnm-win64-shipping.exe
 win64/ddeception-win64-shipping.exe
 win64/dds-win64-shipping.exe
+win64/dds_with_exterior-win64-shipping.exe
 win64/ddsurvivors-win64-shipping.exe
 win64/deadisland-win64-shipping.exe
 win64/deadlink-win64-shipping.exe

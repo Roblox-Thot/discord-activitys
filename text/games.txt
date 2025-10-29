@@ -199,6 +199,7 @@ APE OUT
 APICO
 APICO Demo
 AQtion
+ARC Raiders
 ARCADE GAME SERIES: DIG DUG
 ARCADE GAME SERIES: GALAGA
 ARCADE GAME SERIES: PAC-MAN
@@ -418,6 +419,7 @@ Amazing Frog?
 Amber Alert
 Amber Isle
 Ambidextro
+Ambrosia Sky
 Ambulance Life: A Paramedic Simulator
 Amenti
 Amer Fighting
@@ -956,6 +958,7 @@ Bayonetta
 Bazaar Simulator Prologue
 Be Funny Now!
 Be My Horde
+Beach Invasion 1915-Gallipoli
 Beach Invasion 1944
 Beach Invasion 1945: Pacific
 Beacon Pines
@@ -1166,6 +1169,7 @@ Blood Bowl 3
 Blood Bowl: Chaos Edition
 Blood Bowl: Death Zone
 Blood Bowl: Legendary Edition
+Blood Moon Horror
 Blood Rage: Digital Edition
 Blood Spear
 Blood Strike
@@ -1392,6 +1396,7 @@ Bureau of Contacts
 Burg
 Burger
 Burger Bots Inc.
+Burger Shift: Team Rush: Prologue
 Burgie's Cozy Kitchen
 Buried
 Buriedbornes - Dungeon RPG
@@ -3233,6 +3238,7 @@ Escape Memoirs: Safe House
 Escape Protocol: Online
 Escape Room - The Sick Colleague
 Escape Simulator
+Escape Simulator 2
 Escape Simulator Demo
 Escape The Office VR
 Escape from Duckov
@@ -4773,6 +4779,7 @@ Hordes of Hunger
 Horizon Chase Turbo
 Horizon Chase Turbo Demo
 Horizon Forbidden West™ Complete Edition
+Horizon Journey
 Horizon Source
 Horizon Walker
 Horizon Zero Dawn
@@ -5935,6 +5942,7 @@ MICROVOLTS: Recharged
 MILF's Plaza
 MILFs of Sunville
 MILFs of Sunville - Season 2
+MIMESIS
 MINDHACK
 MINDNIGHT
 MINERVA: Metastasis
@@ -6132,6 +6140,7 @@ Massive
 Master Detective Archives: RAIN CODE Plus
 Master Levels for DOOM II
 Master Reboot
+Master of Command
 Master of Orion
 Master of Orion 2
 Masterplan Tycoon
@@ -6971,6 +6980,7 @@ Nyan Cat: Lost In Space
 O2Jam
 OBEY
 OBSCURA
+OCCT
 OCTOPATH TRAVELER
 OFF
 OFF Prologue
@@ -7075,6 +7085,7 @@ Omerta - City of Gangsters
 Omno
 On Your Tail
 Once Human
+Once Upon A KATAMARI
 Once Upon a Galaxy
 Once a Porn a Time
 One BTN Bosses
@@ -7615,6 +7626,7 @@ Poly Bridge 3
 PolyPine
 PolyZ
 Polyball
+Polygon Bit Battle Royale: Free Sample
 Polygon Survival
 Polygoneer
 PomoFarm
@@ -11994,6 +12006,7 @@ you're just imagining it
 おにぎり屋さんシミュレーター
 たこパ サバイバル
 ぷよぷよ™テトリス® ２
+へべれけ ばにーがーでん
 ほりほりドリル
 アイドルマスター スターリットシーズン
 アクアリウムは踊らない
