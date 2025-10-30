@@ -7542,6 +7542,7 @@ PixelJunk™ Shooter Ultimate
 Pixelitos: Spritle Royale
 PixiEditor
 Pizza Connection 3
+Pizza Deathlivery
 Pizza Frenzy
 Pizza Possum
 Pizza Tower
@@ -9203,6 +9204,7 @@ Spark the Electric Jester 3
 Sparky Marky
 Spec Ops: The Line
 Species: Artificial Life, Real Evolution
+Species: Unknown
 Spectral Scream
 Spectre Divide
 SpedV
@@ -10192,6 +10194,7 @@ The Jackbox Megapicker
 The Jackbox Naughty Pack
 The Jackbox Party Pack
 The Jackbox Party Pack 10
+The Jackbox Party Pack 11
 The Jackbox Party Pack 2
 The Jackbox Party Pack 3
 The Jackbox Party Pack 4

@@ -6057,6 +6057,7 @@ pizza connection 3/pizza connection 3.exe
 pizza frenzy/popcapgame1.exe
 pizza possum/pizzapossum.exe
 pizza tower/pizzatower.exe
+pizza-deathlivery/pizza deathlivery.exe
 pla_toon-win64-shipping.exe
 placid plastic desktop/placid plastic desktop.exe
 placid plastic duck simulator/placid plastic duck simulator.exe
@@ -8122,6 +8123,7 @@ the iron oath/the iron oath.exe
 the jackbox megapicker/the jackbox megapicker.exe
 the jackbox naughty pack/the jackbox naughty pack.exe
 the jackbox party pack 10/the jackbox party pack 10.exe
+the jackbox party pack 11/the jackbox party pack 11.exe
 the jackbox party pack 2.exe
 the jackbox party pack 3.exe
 the jackbox party pack 4.exe
@@ -10289,6 +10291,7 @@ win64/spacegaragesteam-win64-shipping.exe
 win64/spacemyths-win64-shipping.exe
 win64/spanky-win64-shipping.exe
 win64/sparkingzero-win64-shipping.exe
+win64/speciesunknown-win64-shipping.exe
 win64/spectreclient-win64-shipping.exe
 win64/spectreclient_be.exe
 win64/speeddemon-win64-shipping.exe
