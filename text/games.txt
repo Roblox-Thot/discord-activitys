@@ -3141,6 +3141,7 @@ Elsword
 Elsword Free-to-Play
 Elven Assassin
 Ember Knights
+Ember and Blade
 Emberbane
 Emberward
 Embr
@@ -6558,6 +6559,7 @@ Mr. Nomad
 Mr. Prepper
 Mr. Prepper Demo
 Mr. Prepper: Prologue
+Mr. Sleepy Man
 Mr.Mine
 Mr.President!
 Mud and Blood
@@ -9415,6 +9417,7 @@ Sticky Business
 Sticky Business Demo
 Still Wakes the Deep
 Stolen Realm
+Stone Simulator
 Stonehearth
 Stonemachia
 Stoneshard
