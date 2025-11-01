@@ -1083,6 +1083,7 @@ Black Book: Prologue
 Black Desert (Россия)
 Black Desert Online
 Black Forest
+Black Gold: Oil Drilling Simulator
 Black Mesa
 Black Mirror
 Black Myth: Wukong
@@ -1747,6 +1748,7 @@ Children of Silentown
 Children of Silentown: Prologue
 Children of the Sun
 Chill Corner
+Chill with You : Lo-Fi Story
 ChillPulse
 ChilloutVR
 Chillquarium
@@ -2915,6 +2917,7 @@ Druidstone: The Secret of the Menhir Forest
 Drums Rock
 Drunk Builder Simulator
 Drunken FC
+Drunken Rogue
 Drunken Wrestlers
 Drunken Wrestlers 2
 Drunkn Bar Fight
@@ -5735,6 +5738,7 @@ Little Kitty, Big City Demo
 Little Misfortune
 Little Misfortune Demo
 Little Nightmares
+Little Nightmares Enhanced Edition
 Little Nightmares II
 Little Nightmares II Demo
 Little Nightmares III - Демо-версия
@@ -9400,6 +9404,7 @@ Stellar Initiative
 Stellar Mess: The Princess Conundrum
 Stellar Settlers
 Stellar Settlers: Space Base Builder
+Stellar Tactics
 Stellaris
 Stephen's Sausage Roll
 Steps of Debauchery
@@ -12038,6 +12043,7 @@ you're just imagining it
 デジモンストーリー タイムストレンジャー 体験版
 ドキドキAI尋問ゲーム 完全版
 ドラゴンクエストIII　そして伝説へ…
+ドラゴンクエストI＆II
 ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅
 ドラゴンクエストＸ　いにしえの竜の伝承　オンライン
 ドラゴンボールZ KAKAROT
