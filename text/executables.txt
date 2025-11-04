@@ -1878,6 +1878,7 @@ darkfallroa/darkfall_roa.exe
 darknessii.exe
 darksburg/darksburg.exe
 darkside/kbdarkside.exe
+darksiders/dsinstaller.exe
 darksiders1.exe
 darksiders2.exe
 darksiders3.exe
@@ -9402,6 +9403,7 @@ win64/colonyshipgame-win64-shipping.exe
 win64/combots-win64-shipping.exe
 win64/commandergame-win64-shipping.exe
 win64/commandos-win64-shipping.exe
+win64/consolegame-win64-shipping.exe
 win64/contain-win64-shipping.exe
 win64/contractors_ue4_22_steam-win64-shipping.exe
 win64/contractville-win64-shipping.exe
