@@ -1586,7 +1586,7 @@ Cards & Tankards
 Cards and Castles 2
 Cards!
 Cargo Commander
-Caribbean Crashers
+Caribbean Legend
 Caribbean Legend: Sandbox
 Carmageddon: Max Damage
 Carnal Instinct
@@ -3291,6 +3291,7 @@ Euro Truck Simulator 2
 Europa Universalis II
 Europa Universalis III
 Europa Universalis IV
+Europa Universalis V
 European Ship Simulator
 Evacuation
 Evenicle
@@ -5471,6 +5472,7 @@ Knock-knock
 Knockout City™
 Knowledge, or know Lady
 KoboldKare
+Kode Zero
 Koi Farm
 Kokoro Kitchen
 Kona
@@ -8774,6 +8776,7 @@ Shadow Burglar
 Shadow Complex Remastered
 Shadow Corridor
 Shadow Corridor 2 雨ノ四葩
+Shadow Fight Arena
 Shadow Gambit: The Cursed Crew
 Shadow Racer
 Shadow Tactics: Blades of the Shogun
@@ -9632,6 +9635,7 @@ SuperSmash
 SuperSorry
 SuperTaxCity
 SuperTux
+Superball
 Superbrothers: Sword & Sworcery EP
 Supercar Collection Simulator
 Supercar Collection Simulator: Prologue
@@ -11636,6 +11640,7 @@ Wolfenstein II: The New Colossus
 Wolfenstein: Enemy Territory
 Wolfenstein: The New Order
 Wolfenstein: The Old Blood
+Wolfenstein: Youngblood
 Wolfpack
 Wolfteam: Reboot
 Wolvesville

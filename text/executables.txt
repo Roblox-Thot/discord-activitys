@@ -883,6 +883,7 @@ binaries/borderlands.exe
 binaries/ck3.exe
 binaries/darktide.exe
 binaries/dp.exe
+binaries/eu5.exe
 binaries/gauntlet.exe
 binaries/grimmgame.exe
 binaries/imperator.exe
@@ -6974,6 +6975,7 @@ sgsc10th/sgsc10th.exe
 sgw3.exe
 sh3.exe
 sh5.exe
+shadow fight arena/sfa.exe
 shadow gambit the cursed crew/shadowgambit_tcc.exe
 shadow tactics.exe
 shadow warrior original/bin/dosbox.exe
@@ -7700,6 +7702,7 @@ super sus/super sus.exe
 super totally ultimate dad showdown/studs.exe
 super treasure arena.exe
 super woden gp 2/super woden gp 2.exe
+superball/superball.exe
 superbernieworld/superbernieworld.exe
 supercar collection simulator prologue/supercar collection simulator prologue.exe
 supercarcollectionsimulator/supercar collection simulator.exe
@@ -10770,6 +10773,7 @@ wolcen.exe
 wolfenstein 3d/dosbox/dosbox.exe
 wolfenstein enemy territory/et.exe
 wolfenstein the old blood/wolfoldblood_x64.exe
+wolfenstein youngblood/youngblood_x64vk.exe
 wolfmp.exe
 wolfneworder_x64.exe
 wolfoldblood_x32.exe
