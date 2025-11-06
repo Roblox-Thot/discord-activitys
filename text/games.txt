@@ -1155,6 +1155,7 @@ Bling Bling Bankruptcy
 Blitzkrieg Anthology
 Blobby Volley 2
 Block N Load
+Block Puzzle Jewels Classic
 Block Sport
 Block Story
 Block'hood
@@ -5977,6 +5978,7 @@ MONSTER HUNTER RISE: SUNBREAK DEMO
 MONSTER HUNTER: WORLD
 MORDHAU
 MOTHERGUNSHIP
+MR DONALD
 MR QA
 MTB: MAVRIX
 MTGArena
@@ -6498,6 +6500,7 @@ Moonlight Peaks
 Moonlighter
 Moonring
 Moons of Madness
+Moonscars
 Moonshire
 Moonstone Island
 Moose Miners
@@ -9141,6 +9144,7 @@ Sonic Lost World
 Sonic Mania
 Sonic Origins
 Sonic Racing: CrossWorlds
+Sonic Rumble
 Sonic Superstars
 Sonic Wings Reunion
 Sonic and SEGA All Stars Racing
@@ -9965,6 +9969,7 @@ Terroro
 Terrors to Unveil: Intrusion
 Terry’s Vegetable Patch
 Teslagrad
+Test
 Test Drive Unlimited Solar Crown
 Tetris
 Tetris for Two

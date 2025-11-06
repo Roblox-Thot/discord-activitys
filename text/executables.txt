@@ -5252,6 +5252,7 @@ moonglow bay/moonglowbay.exe
 moonhunters.exe
 moonlighter.exe
 moonring/moonring.exe
+moonscars/moonscars.exe
 moonstone island/moonstone island.exe
 moose miners/mooseminers.exe
 mor/mor.exe
@@ -7281,6 +7282,7 @@ sonic_x_shadow_generations/sonic_x_shadow_generations.exe
 sonicfrontiers/sonicfrontiers.exe
 sonicgenerations.exe
 sonicmania.exe
+sonicrumble/sonicrumble.exe
 sono/sono.exe
 sons of the forest/sonsoftheforest.exe
 sons of valhalla demo/sov.exe
