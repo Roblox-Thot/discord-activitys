@@ -2367,6 +2367,7 @@ Dark and Light
 DarkStar One
 DarkStory Online
 Darkblade Ascent
+Darkenstein 3D
 Darkest Dungeon
 Darkest Hour: A Hearts of Iron Game
 Darksburg
@@ -3856,6 +3857,7 @@ Freeways
 French Fries Pusher Friends
 Fresh Start Cleaning Simulator
 FreshWomen - Season 1
+FreshWomen - Season 2
 Fretless
 Friday the 13th: Killer Puzzle
 Friday the 13th: The Game
@@ -9908,6 +9910,7 @@ Tasty Planet: Back for Seconds
 Tatari: The Arrival
 Tattletail
 Taur
+Tavern Keeper
 Tavern Manager Simulator
 Tavern Manager Simulator: Prologue
 Tavern Master
@@ -12157,6 +12160,7 @@ you're just imagining it
 蒼の彼方のフォーリズム
 超将棋
 近畿霊務局
+逆水寒
 違う冬のぼくら
 違う冬のぼくら Friend's Pass
 違う星のぼくら
