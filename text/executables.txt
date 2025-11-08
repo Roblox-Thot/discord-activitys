@@ -1173,6 +1173,7 @@ builder simulator/builder simulator.exe
 builders of greece prologue/builders of greece.exe
 buildstuff/hoghunter2021.exe
 bulanci/bulanci.exe
+bulb boy/bulbboy.exe
 bullet heaven 2/bullet heaven 2.exe
 bullet roulette vr/saloon spin.exe
 bully scholarship edition/bully.exe
@@ -1579,6 +1580,7 @@ coloring game 4/game.exe
 coloring game 5/game.exe
 coloring game the little city/game.exe
 coloring game/game.exe
+coloring voxels/coloringvoxels.exe
 coloringpixels.exe
 colt canyon/coltcanyon.exe
 com.supercell.clashroyale.exe
@@ -5726,6 +5728,7 @@ one punch man a hero nobody knows/opm.exe
 one step from eden/osfe.exe
 one way heroics/game.exe
 onebit adventure/onebit adventure.exe
+oneshift/oneshift.exe
 oneshot world machine edition/oneshotmg.exe
 oneshot.exe
 onetrollarmy/ota.exe
@@ -7170,6 +7173,7 @@ skyrimvr/skyrimvr.exe
 slap city.exe
 slapshot/slapshot.exe
 slapshotrebound/slapshot.exe
+slash it 2/slashit2.exe
 slasher's keep/slasherskeep.exe
 slasta_cotm/solasta.exe
 slava ukraini/slava ukraini.exe
@@ -8564,6 +8568,7 @@ tradesmandtd/tradesman.exe
 traha global/trahaglobal_eac.exe
 trailer park boys greasy money/game.exe
 trailmakers/trailmakers.exe
+trails in the sky 1st chapter/sora_1st.exe
 trails in the sky the 3rd/ed6_win3_dx9.exe
 trails of cold steel/ed8.exe
 train driver 2/traindriver2.exe

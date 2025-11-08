@@ -1380,6 +1380,7 @@ Builders of Egypt: Prologue
 Builders of Greece: Prologue
 Building Relationships
 Bulanci
+Bulb Boy
 Bullet Heaven 2
 Bullet Roulette VR
 Bulletstorm
@@ -1925,6 +1926,7 @@ Coloring Game 4
 Coloring Game 5
 Coloring Game: Little City
 Coloring Pixels
+Coloring Voxels
 Colt Canyon
 Combat Arms
 Combat Master
@@ -3910,6 +3912,7 @@ Fun Hospital
 Fun with Ragdolls: The Game
 Fungiman
 Funguys Swarm
+Funko Fusion
 Furcadia
 Furi
 Furi Demake
@@ -7124,6 +7127,7 @@ One-Eyed Likho
 One-armed cook
 One-armed robber
 OneBit Adventure
+OneShift
 OneShot
 OneShot: World Machine Edition
 Onigiri
@@ -7791,6 +7795,7 @@ Project Rhombus
 Project Silverfish
 Project SkyShard
 Project Torque
+Project TurboBlast
 Project Unknown
 Project Warlock
 Project Warlock Arctic Attack
@@ -9020,6 +9025,7 @@ Slap The Fly
 Slappyball
 Slapshot
 Slapshot: Rebound
+Slash It 2
 Slasher's Keep
 Slava Ukraini!
 Slaves of Rome
@@ -10812,6 +10818,7 @@ Tracks - The Train Set Game
 Trailer Park Boys: Greasy Money
 Trailer Park Tycoon: Raccoon Ranch
 Trailmakers
+Trails in the Sky 1st Chapter
 Train Driver 2
 Train Fever
 Train Mechanic Simulator 2017
