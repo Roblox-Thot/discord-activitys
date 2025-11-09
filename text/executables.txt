@@ -4528,6 +4528,7 @@ lcgol.exe
 le mans ultimate/le mans ultimate.exe
 lead and gold gangs of the wild west/lag_win32_public_dev.exe
 leaf blower revolution/game.exe
+leaf it alone/leaf it alone.exe
 leafling online/leafling client.exe
 league of angle-heaven's fury/loa-hf-steam.exe
 league of legends.app
@@ -6953,6 +6954,7 @@ settlers6.exe
 settlers7r.exe
 setup/ue3redist.exe
 seum.exe
+severance/severance.exe
 sevgilim/sevgilim.exe
 sex & blood vampires/sex & blood vampires.exe
 sex and the furry titty 2/furry titty 2.exe
