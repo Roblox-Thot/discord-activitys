@@ -8720,6 +8720,7 @@ ultimate tic-tac-toe/ultimtictactoe.exe
 ultimate zombie defense 2/ultimate zombie defense 2_64.exe
 ultimate zombie defense/ultimatezombiedefense_64.exe
 ultimatechickenhorse.exe
+ultimatetheatersimulator/ultimatetheatersimulator.exe
 ultra fight da ! kyanta 2/game.exe
 ultrakill demo/ultrakill.exe
 ultrakill/ultrakill.exe
@@ -9061,6 +9062,7 @@ weird hat fight/weird hat fight.exe
 welcome to free will/welcometofreewill.exe
 welcome to kowloon/welcome to kowloon.exe
 welcome to the backrooms/welcome to the backrooms.exe
+welcome to the dark place/welcome to the dark place.exe
 welcome to the game ii/wttg2.exe
 welcome to the game/wttg.exe
 weneedtogodeeper.exe
@@ -10568,6 +10570,7 @@ win64/vivalanddreamhouse-win64-shipping.exe
 win64/vladik_brutal-win64-shipping.exe
 win64/voidbreaker-win64-shipping.exe
 win64/voin-win64-shipping.exe
+win64/voyagesteam-win64-shipping.exe
 win64/vr3_part1.exe
 win64/vrflush.exe
 win64/vrpooldemo-win64-shipping.exe

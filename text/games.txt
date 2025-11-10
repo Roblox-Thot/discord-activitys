@@ -1119,6 +1119,7 @@ Blade Chimera
 Blade Strangers
 Blade of God X
 Bladed Fury
+Blades For Hire
 Blades of Time
 Bladesong
 Blair Witch
@@ -5508,6 +5509,7 @@ Kynseed
 Kādomon: Hyper Auto Battlers Prologue
 L.A. Noire
 L.A. Noire - The VR Case Files
+LANESPLIT
 LAPIDARY: Jewel Craft Simulator
 LASER LAB
 LASERS
@@ -10255,6 +10257,7 @@ The Lancaster Leak - Entity Exam
 The Last Alchemist
 The Last Campfire
 The Last Campfire Demo
+The Last Caretaker
 The Last Citadel
 The Last Door - Collector's Edition
 The Last Faith
@@ -11027,6 +11030,7 @@ Ultimate Ragdoll Game
 Ultimate Sheep Raccoon
 Ultimate Sudoku Collection
 Ultimate Tag
+Ultimate Theater Simulator
 Ultimate Tic-Tac-Toe
 Ultimate Zombie Defense
 Ultimate Zombie Defense 2
@@ -11510,6 +11514,7 @@ Weird Hat Fight
 Weird West
 Welcome Back, Commander
 Welcome To The Backrooms
+Welcome To The Dark Place
 Welcome to Dustown
 Welcome to Elderfield
 Welcome to Free Will
