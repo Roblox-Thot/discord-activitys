@@ -2102,6 +2102,7 @@ desert stalker/desertstalker.exe
 desertlegend/desertlegend.exe
 desertsofkharak32.exe
 desertsofkharak64.exe
+desktop defender/desktop defender.exe
 desktop dungeons/desktopdungeons.exe
 desktop farm/desktopfarm.exe
 desktop garage kit/desktop garage kit.exe
