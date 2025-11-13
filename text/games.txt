@@ -3731,6 +3731,7 @@ FlatOut 4: Total Insanity
 FlatOut: Ultimate Carnage
 Flatout 3
 Fleet Command
+Flesh Made Fear
 Flesh Water
 FleshBound
 Flick Shot Rogues
@@ -9665,7 +9666,7 @@ Super Crate Box
 Super Dark Deception Demo
 Super Dirt Racers
 Super Fancy Pants Adventure
-Super Fantasy Kingdom Demo
+Super Fantasy Kingdom
 Super Friends Party
 Super Hexagon
 Super House of Dead Ninjas
@@ -9755,6 +9756,7 @@ Survive on Raft
 Survive the Nights
 Survived By
 Surviving Mars
+Surviving Mars: Relaunched
 Surviving the Abyss
 Survivor World
 Survivors of the Dawn
@@ -10350,6 +10352,7 @@ The Life and Suffering of Sir Brante — Chapter 1&2
 The Light Brigade
 The Little Red Lie
 The Local
+The Lonesome Guild
 The Long Dark
 The Long Drive
 The Long Journey Home
@@ -10386,6 +10389,7 @@ The Nameless: Slay Dragon
 The New Flesh
 The Night of the Rabbit
 The Odyssey of the Mammoth
+The Oily Depths
 The Oracle Land
 The Oregon Trail
 The Orville - Interactive Fan Experience
@@ -10573,6 +10577,7 @@ Thea: The Awakening
 Their Land
 Them Bombs Demo
 Them's Fightin' Herds
+There Are No Ghosts At The Grand
 There Are No Orcs
 There Are Two Chairs
 There Is No Game: Wrong Dimension
