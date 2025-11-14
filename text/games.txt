@@ -663,6 +663,7 @@ Assemble with Care
 Assetto Corsa
 Assetto Corsa Competizione
 Assetto Corsa EVO
+Assetto Corsa Rally
 Astebreed
 Asterix & Obelix XXL
 Asterix & Obelix XXL 2
@@ -6722,6 +6723,7 @@ NARUTO TO BORUTO: SHINOBI STRIKER
 NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS
 NARUTO: Ultimate Ninja STORM
 NASCAR '15 Victory Edition
+NASCAR 25
 NASCAR Heat 3
 NASCAR Heat 4
 NASCAR Heat 5
@@ -7436,6 +7438,7 @@ Party Hard 2
 Party Jousting
 Party Panic
 Party Quiz
+Passant: A Chess Roguelike
 Passed Out: Prologue
 Passing Pineview Forest
 Passpartout 2: The Lost Artist
@@ -8982,6 +8985,7 @@ Sidecar Evolution 2024
 Siege Survival: Gloria Victis
 Siege Survival: Gloria Victis Prologue
 Sifu
+Sigils of Elohim
 Sigma Theory
 Sign of Silence
 Signal Simulator
