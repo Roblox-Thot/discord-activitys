@@ -1233,7 +1233,6 @@ call of duty black ops ii/t6mp.exe
 call of duty black ops iii/boiii.exe
 call of duty ghosts/iw6mp64_ship.exe
 call of duty ghosts/iw6sp64_ship.exe
-call of duty hq/cod.exe
 call of duty hq/cod22/cod22-cod.exe
 call of duty hq/sp22/sp22-cod.exe
 call of duty modern warfare 2 campaign remastered/mw2cr.exe
@@ -1244,8 +1243,6 @@ call of duty modern warfare/modernwarfare.exe
 call of duty vanguard/vanguard.exe
 call of duty wwii/s2_mp64_ship.exe
 call of duty wwii/s2_sp64_ship.exe
-call of duty/_retail_/cod.exe
-call of duty/content/cod.exe
 call of the wild the angler/cotwtheangler_steam.exe
 call of war.exe
 call to exist/call to exist.exe
@@ -4906,6 +4903,7 @@ marvels avengers/avengers.exe
 maschine 2.exe
 mash box/mash box.exe
 mashinky/mashinky.exe
+masks of deception/masks of deception.exe
 mass effect 2/binaries/me2game.exe
 massage parlor/massageshop.exe
 masseffect.exe
@@ -7324,6 +7322,7 @@ sovl/sovl.exe
 sow1 project/symphonyofwar.exe
 sp23/sp23-cod.exe
 sp24/sp24-cod.exe
+sp25-cod.exe
 space bear/spacebear.exe
 space beast terror fright/sbtf_pub.exe
 space commander war and trade/spacecommander.exe
@@ -10600,6 +10599,7 @@ win64/wewentback-win64-shipping.exe
 win64/whatneverwas-win64-shipping.exe
 win64/whatthefoggame.exe
 win64/while_we_wait_here-win64-shipping.exe
+win64/whiskerwood-win64-shipping.exe
 win64/whodoor-win64-shipping.exe
 win64/wickedisland-win64-shipping.exe
 win64/wildlifec-win64-shipping.exe
