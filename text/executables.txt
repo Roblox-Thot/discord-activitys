@@ -2933,6 +2933,7 @@ femboy aim trainer/femboy aim trainer.exe
 femboy futa house/femboy futa house.exe
 femdom waifu/femdomwaifu.exe
 feminazi the triggering/feminazi.exe
+femtazio/femtazio.exe
 fenris-win64-shipping.exe
 fetish locator week one - extended edition/fetishlocator.exe
 fetish locator week three/fetishlocatorweek3.exe
@@ -3322,6 +3323,7 @@ gears5.exe
 gedonia/gedonia.exe
 gemcraft chasing shadows/gemcraft chasing shadows.exe
 gemcraft frostborn wrath/gemcraft frostborn wrath.exe
+gemporium/gemporium.exe
 gems of war/gemsofwar.exe
 generals.exe
 generationzero/generationzero_f.exe
@@ -5837,6 +5839,7 @@ overload/overload.exe
 overlooting/overlooting.exe
 overlord/overlord.exe
 overwatch.exe
+ovr dynamic resolution/ovr-dynamic-resolution.exe
 ovrdrop/ovrdrop.exe
 owinka shooter/owinka shooter.exe
 owlboy.exe
@@ -7561,6 +7564,7 @@ stickman trench wars demo/stickman trenches.exe
 stickman trenches/stickman trenches.exe
 sticky business demo/stickybusiness.exe
 sticky business/stickybusiness.exe
+still there/still there.exe
 stolen realm/stolen realm.exe
 stonehearth.exe
 stoneshard.exe
@@ -9731,6 +9735,7 @@ win64/hll-win64-shipping.exe
 win64/hllepicgamesstore-win64-shipping.exe
 win64/hlvr.exe
 win64/hms_00-win64-shipping.exe
+win64/hnk.exe
 win64/hogwartslegacy.exe
 win64/hole-win64-shipping.exe
 win64/homesweethome2-win64-shipping.exe
