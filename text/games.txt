@@ -96,6 +96,7 @@
 8Bit Fiesta
 9 Days
 9 Kings
+9 Monkeys of Shaolin
 9 Years of Shadows
 9-Bit Armies: A Bit Too Far
 911 Operator
@@ -117,7 +118,9 @@ A Game About Digging A Hole
 A Game of Thrones: The Board Game
 A Gentlemen's Dispute
 A Good Snowman Is Hard To Build
+A Guidebook of Babel
 A Hat in Time
+A Highland Song
 A Kiss For The Petals - Remembering How We Met
 A Legionary's Life
 A Little to the Left
@@ -143,6 +146,7 @@ A Story About My Uncle
 A Study in Steampunk: Choice by Gaslight
 A Taste of the Past
 A Technician's Nightmare
+A Total War Saga: Troy
 A Tower Full of Cats
 A Walk in the Woods
 A Way Out
@@ -233,6 +237,7 @@ Abra-Cooking-Dabra
 Absconding Zatwor
 Absolum
 Absolute Drift
+Absolute Matter
 Absolver
 Abyss
 Abyss School
@@ -290,6 +295,7 @@ After The Fall
 After the Inferno
 AfterHours
 Afterimage
+Afterlove EP
 Afterparty
 Against All Odds
 Against Great Darkness
@@ -298,6 +304,7 @@ Against the Storm Demo
 Agarest: Generations of War
 Agatha Christie - The ABC Murders
 Agatha Christie: Murder on the Orient Express
+Age Of Warbots
 Age of Advent
 Age of Conan
 Age of Conan: Unchained
@@ -350,6 +357,7 @@ Airport X-Ray Simulator
 AirportSim
 AirportSim Demo
 Airscape: The Fall of Gravity
+Airship: Kingdoms Adrift
 Airships: Conquer the Skies
 Airships: Lost Flotilla
 Akane
@@ -357,6 +365,7 @@ Akatori: Сhapter One
 Alaloth: Champions of The Four Kingdoms
 Alan Wake
 Alan Wake's American Nightmare
+Alara Prime
 Alaska Gold Fever
 Alaskan Road Truckers
 Alaskan Road Truckers: Highway Edition
@@ -369,11 +378,13 @@ Ale & Tale Tavern
 Ale & Tale Tavern: First Pints
 Ale Abbey
 Alex Jones: NWO Wars
+Alex Kidd in Miracle World DX
 Alice in the Nightmare Land
 Alice: Madness Returns
 Alicemare
 Alicia
 Alien Breed 2: Assault
+Alien Hominid HD
 Alien Hominid Invasion Demo
 Alien Market Simulator
 Alien Morgue
@@ -405,6 +416,7 @@ Aloft
 Aloft Demo
 Alone in the Dark
 Alone in the Dark Prologue
+Alone in the Dark: The New Nightmare
 Alpaca Stacka
 Alpha League HD
 Alpha Response
@@ -503,6 +515,7 @@ Annihilate The Spance
 Anno 117: Pax Romana
 Anno 1404 - History Edition
 Anno 1404: Venice
+Anno 1602 History Edition
 Anno 1800
 Anno 2205
 Anode Heart
@@ -530,6 +543,7 @@ Antonblast
 Antonblast Demo
 Ants Took My Eyeball
 Ants in Space!
+Anuchard
 Anvil Empires - Massive Battle Stress Test
 Anvil Saga
 Aokana - Four Rhythms Across the Blue
@@ -554,6 +568,7 @@ Aquarium Designer
 Aquatic Store Simulator
 Aquatico Demo
 Ara: History Untold
+Arab Drift Cars
 Aragami 2
 Arc Apellago
 Arcade Archives: Rolling Thunder
@@ -564,6 +579,7 @@ Arcadegeddon
 Arcadius
 Arcana Heart 3 LOVE MAX!!!!!
 Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND
+Arcane Eats
 Arcane Rush
 ArcaniA
 Arcanists
@@ -610,6 +626,7 @@ Armello
 Armikrog
 Armor Age
 Armor Of Heroes
+Armored Core: Master of Arena
 Armored Suit Solgante
 Armored Warfare
 Arms Trade Tycoon Tanks
@@ -630,6 +647,7 @@ Arx Fatalis
 Arzette: The Jewel of Faramore
 As Dusk Falls
 As Far As The Eye
+As Long As You're Here
 As We Descend
 Ascend to ZERO
 Ascension: Deckbuilding Game
@@ -674,7 +692,9 @@ Assetto Corsa Rally
 Astebreed
 Asterix & Obelix XXL
 Asterix & Obelix XXL 2
+Asteroids: Recharged
 Astral Ascent
+Astral Tale: Myth of the Stars
 Astral Throne
 Astrea: Six-Sided Oracles
 Astro Colony
@@ -689,6 +709,8 @@ At Dead Of Night
 At Home Alone
 At Home Alone Final
 At Tony's
+Atari 50: The Anniversary Celebration
+Atari Mania
 Atari Vault
 Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator
 Atelier Ryza: Ever Darkness & the Secret Hideout
@@ -708,6 +730,7 @@ Atomic Exile
 Atomic Heart
 Atomic Picnic
 Atomicrops
+Atre: Dominance Wars
 Attack on Titan / A.O.T. Wings of Freedom
 Attack on Titan 2 - A.O.T.2 - 進撃の巨人２
 Attack on Toys
@@ -738,6 +761,7 @@ Avakin Life
 Avalon Lords: Dawn Rises
 Avatar: Frontiers of Pandora
 Aven Colony
+Avernum 4: Greed and Glory
 Aviary Attorney
 Aviassembly
 Aviators
@@ -796,6 +820,7 @@ BLOCKPOST
 BLOODSTRIKE
 BMX Bastards
 BMX Streets
+BMX Streets: PIPE
 BONELAB
 BONEWORKS
 BOOBS
@@ -863,6 +888,7 @@ BalanCity
 Balatro
 Baldi's Basics Classic Remastered
 Baldi's Basics Plus
+Baldur's Gate & Baldur's Gate II: Enhanced Edition
 Baldur's Gate 3
 Baldur's Gate II: Enhanced Edition
 Baldur's Gate: Dark Alliance
@@ -905,6 +931,7 @@ Base Defense
 Basement
 Bash the Teacher! - Classroom Clicker
 Basketball Grand Slam 2024
+Bassmaster Fishing
 Bastard Bonds
 Bastion
 Bat to the Heavens
@@ -916,8 +943,10 @@ Batman: Arkham Knight
 Batman: Arkham Origins
 Batman: Arkham Origins - Blackgate
 Batman: Arkham VR
+Batman: Return to Arkham - Arkham Asylum
 Batman: The Enemy Within - The Telltale Series
 Batman: The Telltale Series - Episode 1: Realm of Shadows
+Batman: The Telltale Series - The Enemy Within: Episode 1 - The Enigma
 Battle Ball
 Battle Brothers
 Battle Carnival
@@ -928,6 +957,7 @@ Battle Cry of Freedom
 Battle Cry of Freedom Demo
 Battle Grounds III
 Battle Islands
+Battle On! Hero Academy
 Battle RC
 Battle Realms: Zen Edition
 Battle Royale Trainer
@@ -1038,6 +1068,7 @@ Beneath the Surface
 Benefitship
 Bento Blocks
 Berserk B.I.T.S
+Berserk Boy
 Berserk or Die
 Besiege
 Best Served Cold
@@ -1109,6 +1140,7 @@ Black Skylands: Origins
 Black Squad
 Black Survival
 Black The Fall
+Black Widow: Recharged
 BlackShot: Mercenary Warfare FPS
 Black_Faith.
 Blackguards
@@ -1121,6 +1153,7 @@ Blacksad
 Blacksmith Master
 Blacksmith: Ignite the Forge
 Blacksmith: Song of two Kings
+Blackthorn Arena
 Blacktop Hoops
 Blackwake
 Blade & Sorcery
@@ -1151,6 +1184,7 @@ BlazBlue Entropy Effect
 BlazBlue: Calamity Trigger
 BlazBlue: Chronophantasma Extend
 BlazBlue: Continuum Shift Extend
+BlazBlue: Cross Tag Battle - Special Edition
 BlazeRush
 Blazing Beaks
 Blazing Chrome
@@ -1288,9 +1322,11 @@ Boreal Blade
 Boring Man - Online Tactical Stickman Combat
 Boris and the Dark Survival
 Born Again
+Born of Bread
 Boson X
 Botanicula
 Botany Manor
+Botworld Odyssey
 Bouboum
 Bouncemasters
 Bouncy Goat Climb
@@ -1328,6 +1364,7 @@ Break Arcade Games Out
 Break Arts III
 Break a Leg
 Break the Empire
+Breakout: Recharged
 Breakwaters
 Breath of Life
 Breathedge
@@ -1416,6 +1453,7 @@ Burden of Command
 Bureau of Contacts
 Burg
 Burger
+Burger Bistro Story
 Burger Bots Inc.
 Burger Shift: Team Rush: Prologue
 Burgie's Cozy Kitchen
@@ -1440,6 +1478,7 @@ Business Tour - Online Multiplayer Board Game
 BustyBiz
 Butcher's Creek
 ButtKnight
+Buzz Lightyear of Star Command
 Bye Sweet Carole
 Byte Breakers
 Bō: Path of the Teal Lotus
@@ -1576,6 +1615,7 @@ Car Dealership Simulator
 Car Dealership Simulator 2
 Car Detailing Simulator
 Car Detailing Simulator: Prologue
+Car Factory Empire
 Car For Sale Simulator 2023
 Car Manufacture
 Car Manufacture: Prologue
@@ -1600,6 +1640,7 @@ Card Shop Simulator Multiplayer
 Card Survival: Fantasy Forest
 Card-en-Ciel
 CardLife
+Cardaclysm: Shards of the Four
 Cardboard Town
 Cardfight!! Vanguard Dear Days
 Cardfight!! Vanguard Dear Days Demo
@@ -1650,6 +1691,7 @@ CastleStorm
 Castlevania Advance Collection
 Castlevania Anniversary Collection
 Castlevania Dominus Collection
+Castlevania Requiem: Symphony of the Night & Rondo of Blood
 Castlevania: Lords of Shadow - Ultimate Edition
 Castlevania: Lords of Shadow 2
 Castlevania: Lords of Shadow – Mirror of Fate HD
@@ -1669,6 +1711,7 @@ Cat in the Box
 Cataclismo
 Cataclysm: Dark Days Ahead
 Catan Universe
+Catan: Console Edition
 Catherine Classic
 Catlateral Damage
 Cats
@@ -1732,6 +1775,7 @@ Chaos Express
 Chaos Reborn
 Chaos on Deponia
 Charlie Murder
+Charon's Staircase
 Chased by Darkness
 Chasing Tails -A Promise in the Snow-
 Chasing the Unseen
@@ -1801,6 +1845,7 @@ Chronicle: RuneScape Legends
 Chronicles of the Wolf
 Chronicon
 Chrono Ark
+Chrono Cross: The Radical Dreamers Edition
 Chrono Gear: Warden of Time
 Chrono Sword
 ChuSingura46+1 S
@@ -1813,6 +1858,7 @@ Circle Empires
 Circle Empires Rivals
 Circle of Sumo: Online Rumble!
 Circuit Superstars
+Circus Electrique
 Citadel: Forged With Fire
 Citadelum
 Cities in Motion
@@ -1848,6 +1894,7 @@ Clanfolk Demo
 Clank!
 Clap Clap
 Clash Royale
+Clash: Artifacts of Chaos
 Class of '09
 Class of '09: The Flip Side
 Class of '09: The Re-Up
@@ -1907,6 +1954,7 @@ Co-op Kaiju Horror Cooking
 Coal LLC
 Coal Mining Simulator: Prologue
 Cobalt Core
+Cobra Kai 2: Dojos Rising
 Cockroach Simulator
 Cockwork Industries Complete
 Coconut Simulator
@@ -1995,6 +2043,7 @@ Conan Chop Chop
 Conan Exiles
 Conan Unconquered
 Conan the mighty pig
+Concrete Genie
 Concrete Jungle
 Condemned: Criminal Origins
 Coneru: Dimension Girl
@@ -2029,6 +2078,7 @@ Convoy
 Cook, Serve, Delicious!
 Cook, Serve, Delicious! 2!!
 Cook, Serve, Delicious! 3?!
+Cook-Out: A Sandwich Tale
 Cookard
 Cookie Clicker
 Cookie Cutter
@@ -2047,6 +2097,7 @@ Core Keeper
 Core Keeper Demo
 Coreborn: Nations of the Ultracore
 Coreless
+Coreupt
 Coridden
 Corn Kidz 64
 Corner Kitchen Fast Food Simulator
@@ -2058,6 +2109,7 @@ Corpse Party (2021)
 Corpus Edax
 Corruption Town
 Corruption of Champions II
+Corsairs Legacy
 Cortex Command
 Cosmic Dust & Rust
 CosmicBreak
@@ -2084,6 +2136,7 @@ Countersnipe
 Countless Army
 Countryballs: Power Protocol
 Cover Fire
+Cowboy Life Simulator
 Cozy Caravan
 Cozy Grove
 Cozy Keep: Farm, Craft, Manage
@@ -2120,6 +2173,7 @@ Creation Kit
 CreativeDestruction
 Creativerse
 Creature Creator
+Creature Keeper
 Creatures of Aether
 Creatures of Ava
 Creed: Rise to Glory - Championship Edition
@@ -2136,6 +2190,7 @@ Creo God Simulator
 Crescent Tower
 Crestfallen: Medieval Survival
 Cricket 19
+Cricket 22: The Official Game of the Ashes
 Cricket 24
 Crime Boss: Rockay City
 Crime Scene Cleaner
@@ -2145,6 +2200,7 @@ Crime Simulator (DEMO)
 Crime Simulator: Prologue
 Crimes & Punishments: Sherlock Holmes
 Crimson Capes
+Crimson Skies: High Road to Revenge
 Crimson Snow
 Crimsonland
 Crimzon Clover  WORLD IGNITION
@@ -2167,11 +2223,13 @@ CrossFire BR
 Crossing Souls
 Crossout
 Crossroads Inn
+Crossy Road Castle
 Crow Country
 Crow Story
 Crowded. Followed.
 Crowfall
 Crown Trick
+Crown Wars: The Black Prince
 Crown and Adventure
 Crown of Greed
 Crownbound
@@ -2185,6 +2243,7 @@ Crusaders of Light
 Crusaders of the Lost Idols
 Crush Crush
 Crush The Industry
+Crush the Castle: Legacy Collection
 Crustacean Nations
 Cry of Fear
 Crying Suns
@@ -2269,6 +2328,7 @@ DARQ
 DATE A LIVE: Rio Reincarnation
 DAVE THE DIVER
 DAVIGO
+DC Dual Force
 DC Universe Online
 DCL - The Game
 DCS World
@@ -2348,6 +2408,7 @@ DREAD FLATS
 DREADZONE
 DREDGE
 DREDGE: CHAPTER ONE
+DSS 2: War Industry
 DSX
 DUCKSIDE
 DUSK
@@ -2383,6 +2444,7 @@ Dark Deity
 Dark Deity 2
 Dark Devotion
 Dark Elf
+Dark Envoy
 Dark Fracture: Prologue
 Dark Hours: Prologue
 Dark Hunting Ground
@@ -2459,6 +2521,7 @@ Dead Rising 2
 Dead Rising 2: Off the Record
 Dead Rising 3
 Dead Rising 4
+Dead Rising 4: Frank's Big Package
 Dead Rising Deluxe Remaster
 Dead Season
 Dead Seater
@@ -2467,9 +2530,11 @@ Dead Space 2
 Dead Space™
 Dead Space™ 3
 Dead State
+Dead Static Drive
 Dead Take
 Dead by Daylight
 Dead end Exit 8
+Dead or Alive 6: Core Fighters
 Dead or School
 DeadCore
 DeadPoly
@@ -2480,6 +2545,7 @@ Deadlight: Director's Cut
 Deadlink
 Deadlock
 Deadly 30
+Deadly Broadcast
 Deadly Days
 Deadly Days: Roadtrip
 Deadpool
@@ -2497,6 +2563,7 @@ Death Must Die Demo
 Death Rally (Classic)
 Death Ring: Second Impact
 Death Road to Canada
+Death Roads: Tournament
 Death Squared
 Death Trash
 Death Trash Demo
@@ -2504,6 +2571,7 @@ Death and Taxes
 Death and Taxes Demo
 Death end re;Quest
 Death in the Water 2
+Death of the Reprobate
 Death's Door
 Death's Gambit
 DeathComing
@@ -2518,6 +2586,7 @@ Debtors' Club
 Debugger 3.16: Hack'n'Run
 Debugging Hero
 Decay - The Mare
+Decay of Logos
 Deceit
 Deceit 2
 Deceive Inc.
@@ -2539,6 +2608,7 @@ Deep Sleep: Labyrinth of the Forsaken
 Deep Snake
 Deep Space Exploitation
 Deep The Game
+Deepest Chamber: Resurrection
 Deepest Sword
 Deeply Dark
 Deer Hunting Camp
@@ -2613,6 +2683,7 @@ Desktop Mate
 Desktop Survivors 98
 Desktop+
 Desolate
+Despelote
 Desperados - Wanted Dead or Alive
 Desperados III
 Desperados III Demo
@@ -2623,6 +2694,7 @@ Destined
 Destined to Die
 Destiny 2
 Destroyer: The U-Boat Hunter
+Destruction Allstars
 Desynced
 Detective Grimoire
 Detective Worden
@@ -2680,6 +2752,7 @@ Dicey Dungeons
 Dictators:No Peace Countryballs
 Die For The Lich
 Die Young
+Die by the Blade
 Die in the Dungeon
 Die in the Dungeon PROLOGUE
 Die in the Dungeon: Origins
@@ -2785,6 +2858,7 @@ DoDonPachi Resurrection
 Dodge It!
 Dodge It! 2
 Dodgy Deliveries
+Dodo Peak
 Does It Stack?
 Dofus
 Dog Brew
@@ -2810,6 +2884,7 @@ Domina
 Dominatrix Simulator: Threshold
 Dominion
 Dominions 4
+Dominions 5: Warriors of the Faith
 Dominions 6
 Don't Be Afraid - The First Toy
 Don't Bite Me Bro! +
@@ -2839,6 +2914,7 @@ Door Kickers 2
 Door Kickers: Action Squad
 Doors: Paradox
 Doraemon Dorayaki Shop Story
+Dordogne
 Dorfromantik
 DoronkoWanko
 Dot to Dot Puzzles
@@ -2906,6 +2982,7 @@ Dream Cage
 Dream Car Builder
 Dream Daddy: A Dad Dating Simulator
 Dream Eaters.exe
+Dream Engines: Nomad Cities
 Dream Golf VR
 Dream Tactics
 DreamWorld: The Infinite Sandbox MMO
@@ -3035,6 +3112,7 @@ Dungeons & Kingdoms
 Dungeons 2
 Dungeons 3
 Dungeons 4
+Dungeons of Aether
 Dungeons of Blood and Dream
 Dungeons of Dredmor
 Dungeons of Edera
@@ -3124,6 +3202,7 @@ Earth vs Mars
 EarthKart
 Earthfall
 East Trade Tycoon: Inheritance
+Eastern Exorcist
 Eastshade
 Eastside Hockey Manager
 Eastward
@@ -3132,13 +3211,16 @@ Easy Pose
 Easy Red 2
 Echo Point Nova
 Echocalypse: The Scarlet Covenant
+Echochrome
 Echoed World
 Echoes of Mystralia
+Echoes of the End: Enhanced Edition
 Echoes of the Plum Grove
 Eclipsium
 Eco
 Ecosystem
 Ecosystem Demo
+Ed-0: Zombie Uprising
 Eden Crafters
 Eden Rising
 Eden Survivors
@@ -3157,6 +3239,7 @@ Egypt: Old Kingdom
 Einar
 Eiyuden Chronicle: Hundred Heroes
 Eiyuden Chronicle: Rising
+El Dorado: The Golden City Builder
 El Paso, Elsewhere
 Elation For The Wonder Box 6000
 Elder Legacy
@@ -3257,6 +3340,7 @@ Epistory - Typing Chronicles
 Equinox: Homecoming
 Era One
 Eraser
+Ereban: Shadow Legacy
 Erenshor
 Eresys
 EroPhone
@@ -3285,6 +3369,7 @@ Escape Room - The Sick Colleague
 Escape Simulator
 Escape Simulator 2
 Escape Simulator Demo
+Escape The Mad Empire
 Escape The Office VR
 Escape from Duckov
 Escape from Ever After
@@ -3318,6 +3403,7 @@ Eternal Return
 Eternal Return: Black Survival Demo
 Eternal Senia
 Eternal Strands
+Eternal Threads
 Eternal Tombs
 Eternights
 Eternights Demo
@@ -3362,12 +3448,14 @@ Evil Possession
 Evil Tag
 Evil West
 Eville
+EvilvEvil
 Evo\Wave
 Evoland
 Evoland 2
 Evoland Legendary Edition
 Evolve
 Evolve Stage 2
+Ex-Zodiac
 Exanima
 Executive Assault
 Executive Assault 2
@@ -3376,6 +3464,7 @@ Exit the Gungeon
 Exo One
 Exo One: Prologue
 Exo Rally Championship
+ExoCross
 Exoblast
 Exofactory
 Exogate Initiative
@@ -3400,6 +3489,7 @@ F*CK STALIN
 F.E.A.R.
 F.E.A.R. 2: Project Origin
 F.E.A.R. 3
+F.E.A.R. Ultimate Shooter
 F1 2012
 F1 2013
 F1 2014
@@ -3477,6 +3567,7 @@ FINAL SPIN
 FIND ALL
 FIND ALL 2: Middle Ages
 FIND ALL 4: Magic
+FIND ALL: Halloween
 FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FNaF World
 FOOTSIES
@@ -3565,6 +3656,7 @@ Fantasy Girl
 Fantasy Grounds Unity
 Fantasy Grounds Unity Demo
 Fantasy Idle Dungeon
+Fantasy Maiden Wars: Dream Of The Stray Dreamer
 Fantasy Map Simulator
 Fantasy Strike
 Fap Goddess
@@ -3583,6 +3675,7 @@ Far Cry® 3 Blood Dragon
 Far Far West
 FarCry 4
 Faraway Lands: Rise of Yokai
+Farewell North
 Fargone
 Farlands
 Farlight 84
@@ -3592,6 +3685,7 @@ Farm Manager 2018
 Farm Manager 2021
 Farm Manager 2021: Prologue
 Farm Manager World
+Farm Renovator
 Farm Together
 Farm Together 2
 Farm Your Friends
@@ -3612,14 +3706,17 @@ Farming Simulator 25
 Farthest Frontier
 Farworld Pioneers
 Fashion Police Squad
+Fast & Furious: Spy Racers Rise of SH1FT3R
 Fast Food Simulator: Prologue
 Fast and Low
+Fata Deum
 FatalZone
 FatalZone: Outbreak
 Fate Arena (Alpha)
 Fate/EXTELLA
 Fate/EXTELLA LINK
 Fate/Samurai Remnant
+Fate/hollow ataraxia Remastered
 Fate/stay night REMASTERED
 Father's Day
 Fault
@@ -3644,6 +3741,7 @@ Feeding Frenzy 2: Shipwreck Showdown Deluxe
 Feeding Frenzy 2: Shipwreck Showdown Deluxe Demo
 Feel The Snow
 Feign
+Felix the Reaper
 Fell Seal: Arbiter's Mark
 Fellowship
 Felvidek
@@ -3656,10 +3754,12 @@ Fetish Locator Week One - Extended Edition
 Fetish Locator Week Three
 Fetish Locator Week Two
 Feudal Friends
+Few Nights More
 Fibbage XL
 Fictorum
 Fida Puti Samurai
 Field of Glory II
+Field of Glory: Kingdoms
 Fields of Battle
 Fields of Mistria
 Fight Angel Special Edition
@@ -3671,8 +3771,10 @@ Fighting Fantasy Classics
 Fights in Tight Spaces
 Fights in Tight Spaces (Prologue)
 Figment
+Figment 2: Creed Valley
 Figure Shop Simulator
 Fill Up The Hole
+Filthy Animals: Heist Simulator
 Final DOOM
 Final Exam
 Final Factory
@@ -3701,6 +3803,7 @@ Fireboy & Watergirl: Fairy Tales
 Firefall
 Firefighting Simulator - The Squad
 Firefighting Simulator: Ignite
+Fireside Feelings
 Firestone Idle RPG
 Firewatch
 Firework
@@ -3723,6 +3826,7 @@ Fisher Online
 Fishing Adventure
 Fishing Grind
 Fishing Planet
+Fishing Sim World: Pro Tour
 Fishing: Barents Sea
 Fishing: North Atlantic
 Fishlike
@@ -3839,6 +3943,7 @@ Forged Battalion
 Forgive Me Father
 Forgive Me Father 2
 Forgotten Realms: Demon Stone
+Forgotten Realms: The Archives - Collection One
 Forgotten Seas
 Forgotton Anne
 Fork Road
@@ -3860,6 +3965,7 @@ Fortress Forever
 FortressCraft Evolved
 Forts
 Fortune's Run Demo
+Forward: Escape the Fold
 Forza Horizon 3
 Forza Horizon 4
 Forza Horizon 4 Demo
@@ -3879,12 +3985,14 @@ Fractured Mind
 Fractured Online
 Fractured Space
 FragPunk
+Fragments of Dread: False Haven
 Fragsurf
 Frame of Mind
 Fran Bow
 Frankie's FunClub
 Fray Fight
 Fraymakers
+Freaked Fleapit
 Freddi Fish Collection
 Freddy Fazbear's Pizzeria Simulator
 Free For Fall
@@ -3903,6 +4011,7 @@ French Fries Pusher Friends
 Fresh Start Cleaning Simulator
 FreshWomen - Season 1
 FreshWomen - Season 2
+Freshly Frosted
 Fretless
 Friday the 13th: Killer Puzzle
 Friday the 13th: The Game
@@ -3923,6 +4032,7 @@ From The Depths
 From the Shadows
 From the darkness
 Front Lines
+Front Mission 2: Remake
 Frontier
 Frontier Hunter: Erza's Wheel of Fortune
 Frontline 1942: Сражения Второй мировой войны
@@ -4061,11 +4171,13 @@ GameMaker Studio 2 Desktop
 GameMaker: Studio
 GameStonk Simulator
 Gamecraft
+Gamedec: Definitive Edition
 Gamer Girls [18+]: eSports SEX
 Gamer Stop Simulator
 Gamer Stop Simulator : Prologue
 Gaming Cafe Simulator
 Gang Beasts
+Gangs of Sherwood
 Gangs of Space
 Garage Flipper: Prologue
 Garbage Day
@@ -4074,6 +4186,7 @@ Garden Galaxy
 Garden Life: A Cozy Simulator
 Garden Paws
 Garden Story
+Garden Witch Life
 Garfield Kart
 Garfield Kart - Furious Racing
 Garfield Kart 2: All You Can Drift
@@ -4145,6 +4258,7 @@ Ghost in the Shell: Stand Alone Complex - First Assault Online
 Ghost of Tsushima DIRECTOR'S CUT
 Ghost of a Tale
 Ghostbane: Prologue
+Ghostbusters: Rise of the Ghost Lord
 Ghostbusters: Spirits Unleashed Ecto Edition
 Ghostbusters: The Video Game Remastered
 Ghostrunner
@@ -4153,6 +4267,7 @@ Ghosts 'n Goblins Resurrection
 Ghosts Of Tabor
 Ghosts of war
 Ghostwire: Tokyo
+Ghostwire: Tokyo - Prelude
 Gibbous - A Cthulhu Adventure
 GigaBash
 Gigantes Ex Machina
@@ -4263,6 +4378,7 @@ Google Earth VR
 Goonect
 Goose Goose Duck
 Gord
+Gordian Quest
 GoreBox
 Gori: Cuddly Carnage
 Gorilla Soccer
@@ -4276,6 +4392,7 @@ Gothic 1 Remake - Demo (Nyras Prologue)
 Gothic 3
 Gothic 3 Forsaken Gods Enhanced Edition
 Gothic Clicker
+Gothic II: Gold Edition
 Gothic Playable Teaser
 Gourdlets
 Gourdlets Demo
@@ -4291,6 +4408,7 @@ Granblue Fantasy: Relink
 Granblue Fantasy: Versus
 Grand Ages: Medieval
 Grand Ages: Rome
+Grand Slam Tennis
 Grand Tactician: The Civil War (1861-1865)
 Grand Theft Auto III
 Grand Theft Auto IV
@@ -4323,10 +4441,12 @@ Gravity Sketch VR
 Gray Zone Warfare
 Greak: Memories of Azur
 Great God Grove
+Great Houses of Calderia
 Greed Is Good
 Greed of Man
 Greed: Black Border
 GreedFall
+GreedFall 2: The Dying World
 Greedland
 Green Again
 Green Hell
@@ -4340,6 +4460,7 @@ GridIron
 Griftlands
 Grim Clicker
 Grim Dawn
+Grim Dawn: Definitive Edition
 Grim Fandango Remastered
 Grim Legends: The Forsaken Bride
 Grim Nights
@@ -4347,6 +4468,7 @@ Grimhook
 Grimlord
 Grimm
 Grimm's Hollow
+Grimoire Groves
 Grimshire
 Grind Hero: MMORPG
 Grind Survivors
@@ -4387,11 +4509,13 @@ Guitar Hero III: Legends of Rock
 Guitar Hero World Tour
 Gum Ball Run
 Gun Center Simulator
+Gun Club VR
 Gun Devil
 GunZ 2: The Second Duel
 GunboundM
 Gunbrella
 Gunfire Reborn
+Gungrave G.O.R.E
 Gunman And The Witch
 Gunner, HEAT, PC!
 Gunpoint
@@ -4454,6 +4578,7 @@ HSS: Reload
 HUMANKIND™
 HUMANKIND™ Demo
 HYPER DEMON
+HYPER DEMON PVP
 HYPERFIGHT
 Habbo Hotel: Origins
 Hachishaku
@@ -4472,6 +4597,7 @@ Haiku, the Robot
 Hail to the Rainbow
 Hairdresser Simulator
 Hajis
+Hajwala
 Hakuoki: Edo Blossoms
 Hakuoki: Kyoto Winds
 Halcyon 6: Lightspeed Edition
@@ -4541,6 +4667,7 @@ Hardware Store Simulator
 Harem of Gods
 Hark the Ghoul
 Harms Way
+Harold Halibut
 Harry Potter: Quidditch Champions
 Harvest Moon: Light of Hope
 Harvest Moon: The Winds of Anthos
@@ -4558,8 +4685,10 @@ Hatsune Miku: Project DIVA Mega Mix+
 Haunt Chaser
 Haunt the House: Terrortown
 Haunted Gas Station
+Haunted House Renovator
 Haunted Investigation
 Haunted Memories
+Haunted Paws
 Haunted Property
 Haunted Room: 205
 Hauntii
@@ -4580,6 +4709,7 @@ HeXen: Beyond Heretic
 Head Goal: Soccer Online
 Headbangers: Rhythm Royale
 Headliner: NoviNews
+Headquarters: World War II
 Heads Will Roll: Reforged
 Headsnatchers
 Heal & Hurt
@@ -4686,6 +4816,7 @@ Here Comes Niko!
 Heretic + Hexen
 Heretic's Fork
 Heretic: Shadow of the Serpent Riders
+Hero Emblems II
 Hero Siege
 Hero Tale
 Hero Zero
@@ -4719,6 +4850,7 @@ Hi-Fi RUSH
 HiQ Ace Unlimited
 Hidden & Dangerous 2: Courage Under Fire
 Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition
+Hidden Cats 6: After Us
 Hidden Cats in Berlin
 Hidden Cats in New York
 Hidden Cats in Paris
@@ -4850,6 +4982,7 @@ Horizon Source
 Horizon Walker
 Horizon Zero Dawn
 Horizon Zero Dawn™ Remastered
+Horizon's Gate
 Horny Villa
 Horopoppu
 Horror Night
@@ -4872,6 +5005,7 @@ Hotel Business Simulator
 Hotel Galactic
 Hotel Owner Simulator
 Hotel Renovator
+Hotel Transylvania: Scary-Tale Adventures
 Hotline Miami
 Hotline Miami 2: Wrong Number
 Hotline Miami 2: Wrong Number Digital Comic
@@ -4943,9 +5077,11 @@ Hyperdimension Neptunia Re;Birth1
 Hyperdimension Neptunia Re;Birth2 Sisters Generation
 Hyperdimension Neptunia Re;Birth3 V Generation
 Hyperdimension Neptunia U: Action Unleashed
+Hyperviolent
 Hypnosis Knight-Princess
 Hypnosis of Corruption
 Hypnospace Outlaw
+Hyōtenka 30-do no zetsubō
 I Am Alive
 I Am Cat
 I Am Fish
@@ -5015,6 +5151,7 @@ IT Specialist Simulator
 IXION
 Ib
 Icarus
+Ice Age: Scrat's Nutty Adventure
 Ice Lakes
 Ice World
 Icetwine
@@ -5064,6 +5201,7 @@ If On A Winter's Night, Four Travelers
 IfSunSets
 Ikaruga
 Ikenfell
+Ikonei Island: An Earthlock Adventure
 Illarion
 Illusion Carnival
 Illuvium Zero
@@ -5102,12 +5240,14 @@ Incremental Town RPG
 Incubus
 Incursion Red River
 Indiana Jones and the Great Circle
+Indiana Jones and the Staff of Kings
 Indiana Jones® and the Emperor's Tomb™
 Indiana Jones® and the Fate of Atlantis™
 Indigo Park
 Indivisible
 Industries of Titan
 Industry Giant 2
+Industry Giant 4.0
 Industry Idle
 Inertia
 Inertial Drift
@@ -5129,6 +5269,7 @@ Infested Planet
 Infiniclick
 Infinifactory
 Infinite Blue
+Infinite Guitars
 Infinite Lagrange
 Infinite Tournament Paintball
 Infinitode 2
@@ -5141,6 +5282,7 @@ Infliction
 Influent
 InfraSpace
 Initial Drift Online
+Injustice 2: Legendary Edition
 Injustice: Gods Among Us Ultimate Edition
 Injustice™ 2
 Inkborn
@@ -5151,6 +5293,7 @@ Inkwellers
 Inn Tycoon
 Innocence Or Money - Prelude
 Innocence Or Money - V 0.0.3
+Inops
 Insaniquarium! Deluxe
 Insanity Clicker
 Inscryption
@@ -5204,6 +5347,7 @@ Iron Harvest
 Iron League
 Iron Lung
 Iron Marines
+Iron Meat
 Iron Order 1919
 Iron Rebellion
 Iron Saga VS
@@ -5232,6 +5376,7 @@ Isle of Ewe
 Isle of Jura
 Isle of Swaps
 Isles of Limbo
+Isles of Sea and Sky
 Islets
 Islets Defense
 Iso Racer
@@ -5241,6 +5386,7 @@ It Has My Face
 It Lurks Below
 It Steals
 It Takes Two
+It Takes a War
 It gets so lonely here
 It's Only Money
 Ithya: Magic Studies
@@ -5254,6 +5400,7 @@ JOY OF PROGRAMMING - Software Engineering Simulator
 JR東日本トレインシミュレータ
 JUMP FORCE
 JUMP KING QUEST
+Jack & Detective
 Jackpot Poker by PokerStars
 Jacksmith: Weapons and Warriors
 Jade Empire: Special Edition
@@ -5261,6 +5408,7 @@ Jaded
 Jagged Alliance 2 - Wildfire
 Jagged Alliance 3
 Jak II HD
+Jak and Daxter: The Lost Frontier
 Jalopy
 Jamestown
 Jar Wars
@@ -5274,6 +5422,7 @@ Jester: A Foolish Ritual
 Jesus Christ RPG Trilogy
 Jet Island
 Jet Lancer
+Jet Moto
 Jet Moto 2
 Jet Set Radio
 Jianghu Chronicles
@@ -5281,6 +5430,7 @@ Jigoku Kisetsukan: Sense of the Seasons
 Jigs4w3D Puzzle Challenge
 Jigsaw Puzzle Dreams
 Jigsaw Puzzles Infinite
+Jitsu Squad
 Jivana
 JoJo's Bizarre Adventure: All-Star Battle R
 JoJo's Bizarre Adventure: All-Star Battle R Demo version
@@ -5298,6 +5448,7 @@ Journey To The Savage Planet
 Journey of Realm: Dawn Dew
 Journey of a Roach
 Journey to Incrementalia
+Journey to the Savage Planet: Employee of the Month Edition
 JoyRide: Turbo
 Joyspring
 Judge Dredd: Dredd vs Death
@@ -5310,6 +5461,7 @@ Jump King
 Jump Space
 Jumping Flash!
 Jumping Jazz Cats
+Junkyard Simulator
 Junkyard Truck
 Juno: New Origins
 Jupiter Hell
@@ -5383,6 +5535,7 @@ Kao the Kangaroo: Round 2
 Kara no Shojo 2
 Karaoke joisaundo fō streamer
 Karate Survivor
+Kardboard Kings
 KarmaZoo
 Karnage Chronicles
 Karos
@@ -5420,8 +5573,10 @@ Kentucky Route Zero
 Keplerth
 Kerbal Space Program
 Kerbal Space Program 2
+Kerbal Space Program Enhanced Edition
 Kero Blaster
 KeyWe
+Keylocker Turn Based Cyberpunk Action
 Khimera: Destroy All Monster Girls
 Kibbi Keeper
 Kidnapped Girl
@@ -5484,6 +5639,7 @@ Kingdom Come: Deliverance
 Kingdom Come: Deliverance II
 Kingdom Dungeon and Hero
 Kingdom Eighties
+Kingdom Of Drift
 Kingdom Rush
 Kingdom Rush 5: Alliance TD
 Kingdom Rush Frontiers
@@ -5496,6 +5652,7 @@ Kingdom Wars 2: Definitive Edition
 Kingdom's Deck
 Kingdom: Classic
 Kingdom: New Lands
+Kingdom: The Blood
 Kingdoms
 Kingdoms Reborn
 Kingdoms and Castles
@@ -5516,6 +5673,7 @@ Kitaria Fables Demo
 Kitchen Crisis
 Kitchen Wars
 Kitchen Wars: Appetiser
+Kitsune Tails
 Kitty Ball
 Kitty Powers' Matchmaker
 Kiwi Clicker
@@ -5546,12 +5704,14 @@ Kokoro Kitchen
 Kona
 Kona II: Brume
 Kong: Survivor Instinct
+Konosuba: God's Blessing On This Wonderful World! Love For These Clothes Of Desire!
 Kopanito All-Stars Soccer
 Koro-san's Home "WAN!" Derby
 Kota`s New Journey
 KovaaK's
 Kraven Manor
 Kreedz Climbing
+Kriegsfront Tactics
 Krita
 Kritika Online
 Kritika: Zero
@@ -5564,6 +5724,7 @@ Kukoro: Stream chat games
 KuloNiku: Bowl Up!
 Kunitsu-Gami: Path of the Goddess
 KurtzPel
+Kusan: City Of Wolves
 Kyle is Famous
 Kynseed
 Kādomon: Hyper Auto Battlers Prologue
@@ -5736,6 +5897,7 @@ Let's Build a Zoo
 Let's Go! My Harem Farm
 Let's Minesweeper
 Let's Patiti!
+Let's Play! Oink Games
 Let's School
 Let's School Homeroom
 Lethal Company
@@ -5764,6 +5926,7 @@ Life is Feudal: MMO
 Life is Feudal: Your Own
 Life is Strange
 Life is Strange 2
+Life is Strange 2: Episode 1 - Roads
 Life is Strange Remastered
 Life is Strange: Before the Storm
 Life is Strange: Before the Storm - Episode 1: Awake
@@ -5820,6 +5983,7 @@ Little Nightmares Enhanced Edition
 Little Nightmares II
 Little Nightmares II Demo
 Little Nightmares III - Демо-версия
+Little Noah: Scion of Paradise
 Little Problems
 Little Sim World
 Little Witch Academia: Chamber of Time
@@ -5870,6 +6034,7 @@ Lord of the Rings: War in the North
 Lords Mobile
 Lords Of The Fallen
 Lords and Villeins
+Lords of Ravage
 Lords of Ravage: Dread Knights
 Lorelei and the Laser Eyes
 Lorn's Lure
@@ -5926,6 +6091,7 @@ Love n Life: Happy Student
 Love n Life: Lucky Teacher
 Love wish
 Love x Debut
+Love, Ghostie
 Love, Internet, and Murder Magic
 Love, Money, Rock'n'Roll
 Love, Money, Rock'n'Roll Demo
@@ -6133,6 +6299,7 @@ Magic Research 2
 Magic Spellslingers
 Magic: The Gathering - Duels of the Planeswalkers 2013
 Magica Planta Botanica
+Magical Girl Celesphonia
 Magical Girl Konoha
 Magicbook AutoBattler
 Magicite
@@ -6141,6 +6308,7 @@ Magicka 2
 Mago: The Villain's Burger
 Magrunner: Dark Pulse
 Mahjong Soul
+Mahokenshi: The Samurai Deckbuilder	
 Maid Knight Alicia
 Maid Survivors: Little Angels
 Maid of Sker
@@ -6169,6 +6337,7 @@ Man of the House
 Mana Spark
 ManaSoul
 Mandagon
+Mandragora: Whispers of the Witch Tree
 Maneater
 Mango's Fisharium
 Manhunt
@@ -6198,6 +6367,7 @@ Marmot Fight Club
 Mars Attracts
 Mars First Logistics
 Mars Horizon
+Marsupilami: Hoobadventure
 Martha Is Dead
 Martial Arts Brutality
 Martial Law
@@ -6235,6 +6405,7 @@ Masterplan Tycoon
 Masterplan Tycoon: Foundations
 Masters of Anima
 Matchmaking Inc.
+Matchpoint: Tennis Championships
 Material Girl
 Maurice: In The Predator's Nest
 Max Gentlemen Sexy Business!
@@ -6265,6 +6436,7 @@ Mechabellum
 Mecharashi
 Medal of Honor™: Above and Beyond
 MediEvil II
+Medic: Pacific War
 Medieval Blacksmith
 Medieval Crafter: Blacksmith
 Medieval Dynasty
@@ -6316,6 +6488,7 @@ Menace from the Deep
 Mercenary Kings
 Merchant
 Merchant of the Skies
+Merge & Blade
 Merge Maestro
 Merge Nymphs
 MergeCrafter
@@ -6407,6 +6580,7 @@ MilMo
 Milfy City - Final Edition
 Military Conflict: Vietnam
 Military Incremental Complex
+Militsioner
 Milk inside a bag of milk inside a bag of milk
 Milk outside a bag of milk outside a bag of milk
 MilkChoco
@@ -6424,6 +6598,7 @@ Mind Over Magic
 Mind Over Magnet
 Mind Scanners
 Mindlock: The Apartment
+Minds Beneath Us
 Minds Eyes
 Minds of Nations
 MindsEye
@@ -6435,11 +6610,13 @@ MineSweeper Tetris
 Minecraft
 Minecraft Dungeons
 Minecraft Legends
+Minecraft Preview
 Minecraft: Story Mode
 Minecraft: Story Mode - A Telltale Games Series: Season Pass Disc
 Minecraft: Story Mode - Season Two
 Minecraft: Story Mode - Season Two: The Telltale Series - Episode 1: Hero In Residence
 Mineirinho Director's Cut
+Mineko's Night Market
 Miner Ultra Adventures
 Mineral Defense
 Miners Settlement
@@ -6508,6 +6685,7 @@ Mizi NO!
 Mob Factory
 Mob Factory Demo
 Mobile Dungeon
+Mobile Suit Gundam Battle Operation Code Fairy
 Mod and Play
 Model Builder
 Modern Combat 5
@@ -6538,6 +6716,7 @@ Monkey Island™ 2 Special Edition: LeChuck's Revenge™
 Monmusu Girls: Autobattler
 Monolight
 Monomyth
+Monopoly Madness
 Monopoly Plus
 Monster Care Simulator
 Monster Crown
@@ -6553,6 +6732,7 @@ Monster Hunter Stories 2: Wings of Ruin Trial Version
 Monster Hunter Wilds
 Monster Hunter Wilds Benchmark
 Monster Jam Showdown
+Monster Jam Steel Titans
 Monster Mop Up
 Monster Prom
 Monster Prom 2: Monster Camp
@@ -6566,6 +6746,8 @@ Monster Slayers
 Monster Tiles TD
 Monster Train
 Monster Train 2
+Monster Truck Championship
+Monsters Domain
 Monsters are Coming! Rock & Road
 Monstrum
 Monstrum 2
@@ -6602,6 +6784,7 @@ Mortal Kombat X
 Mortal Online 2
 Mortal Royale
 Mortal Shell
+Mortal Shell: Enhanced Edition
 Mortal Sin
 Mosa Lina
 Mosaique Neko Waifus 2
@@ -6615,6 +6798,8 @@ Mother Russia Bleeds
 Mother Simulator
 Motherless - Season 1
 MotionRec
+MotoGP 19
+MotoGP 22
 MotoGP™13
 MotoGP™15
 Motorbike Evolution 2024
@@ -6646,6 +6831,7 @@ Moving Out Demo
 Mr Farmboy
 Mr Shifty
 Mr. Billion
+Mr. Hibbl
 Mr. Hopp's Playhouse
 Mr. Hopp's Playhouse 2
 Mr. Magpie's Harmless Card Game
@@ -6718,6 +6904,7 @@ My Horse: Bonded Spirits - Prologue
 My Little Blacksmith Shop
 My Little Farmies
 My Little Life
+My Little Pony: A Maretime Bay Adventure
 My Little Puppy
 My Little Universe
 My Little Universe Demo
@@ -6747,10 +6934,12 @@ Myst
 Myst: Masterpiece Edition
 Mysterious School
 Mysterium
+Mystic Pillars
 Myth of Empires
 MythForce
 Mythgard
 Mythwrecked: Ambrosia Island
+Mì Changsheng
 Měinǚ, qǐng bié yǐngxiǎng wǒ chéng xiān
 N++
 N0va Desktop
@@ -6765,6 +6954,7 @@ NARUTO TO BORUTO: SHINOBI STRIKER
 NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS
 NARUTO: Ultimate Ninja STORM
 NASCAR '15 Victory Edition
+NASCAR 21: Ignition
 NASCAR 25
 NASCAR Heat 3
 NASCAR Heat 4
@@ -6784,6 +6974,7 @@ NBA 2K24
 NBA 2K25
 NBA 2K26
 NBA JAM: On Fire Edition
+NBA Live 19
 NBA Playgrounds
 NEBULOUS: Fleet Command
 NEEDY STREAMER OVERLOAD
@@ -6809,6 +7000,8 @@ NETHER HEROES
 NEXT JUMP: Shmup Tactics
 NGU IDLE
 NGU INDUSTRIES
+NHL 94 Rewind
+NHRA Championship Drag Racing: Speed for All
 NIGHT-RUNNERS PROLOGUE
 NIJICA
 NIMBY Rails
@@ -6876,8 +7069,10 @@ Nehrim: At Fate's Edge
 Neighbors: Suburban Warfare
 Neighbours From Hell Compilation
 Neighbours back From Hell
+Neko Ghost, Jump!
 Nekojishi
 Nemesis Perspective
+Nemesis: Lockdown
 Neo Cab
 Neo Junk City
 NeoDuel: Backpack Monsters
@@ -6887,6 +7082,7 @@ Neon Abyss 2
 Neon Abyss Demo
 Neon Ascending
 Neon Beats
+Neon Blood
 Neon Boost
 Neon Chrome
 Neon Drive
@@ -6905,6 +7101,7 @@ Neva
 Never Alone (Kisima Ingitchuna)
 Never BreakUp Beta
 Never Grave: The Witch and The Curse
+Never Mourn
 Never Second in Rome
 Never Split the Party
 NeverSynth
@@ -6933,6 +7130,8 @@ Nexus 5X
 Nexus Rumble: The Ultimate Showdown
 Nexus: FPV Drone Carnage
 Nexus: The Jupiter Incident
+Neyyah
+Ni no Kuni II: Revenant Kingdom - Prince's Edition
 Ni no Kuni™ II: Revenant Kingdom
 NiGHTS into Dreams...
 Nice Day for Fishing
@@ -6940,12 +7139,15 @@ Nice Jumper
 Niche - a genetics survival game
 Nickelodeon All-Star Brawl 2
 Nickelodeon Kart Racers 2: Grand Prix
+Nickelodeon Kart Racers 3: Slime Speedway
+Nickelodeon: Kart Racers
 Nicole (otome version)
 Nidhogg
 Nidhogg 2
 NieR Replicant ver.1.22474487139...
 NieR:Automata
 Niffelheim
+Nigate Tale
 Night Bus
 Night Club Simulator: Prolouge
 Night Delivery | 例外配達
@@ -6954,6 +7156,7 @@ Night Run
 Night Swarm
 Night in Riverager
 Night in the Woods
+Night is Coming
 Night of the Dead
 Night of the Full Moon
 NightClub Simulator
@@ -6980,6 +7183,7 @@ Ninja Gaiden 4
 Ninja Kiwi Archive
 Ninja Party
 Ninja Stealth
+Nioh 2 Remastered: The Complete Edition
 Nioh 2 – The Complete Edition
 Nioh: Complete Edition
 Nitro
@@ -6994,6 +7198,7 @@ No Heroes Here
 No Man's Sky
 No Mercy
 No More Heroes
+No More Heroes III
 No More Money
 No More Operators
 No More Room in Hell
@@ -7057,6 +7262,7 @@ Notruf 112 - Die Feuerwehr Simulation 2
 Notruf 112 - Die Feuerwehr Simulation 2: Showroom
 Nottolot
 Noun Town Language Learning
+Nour: Play With Your Food
 Nova Drift
 Nova Lands
 Nova Lands: Emilia's Mission
@@ -7167,6 +7373,7 @@ Oh...Sir! The Hollywood Roast
 Oh...Sir! The Insult Simulator
 Ohm Studio
 OkIPullUp
+Okage: Shadow King
 Old Man's Journey
 Old Market Simulator
 Old Market Simulator: Prologue
@@ -7198,6 +7405,7 @@ One Finger Death Punch 2
 One Hand Clapping
 One King Is Enough
 One Leaves
+One Lonely Outpost
 One Man's Trash
 One Military Camp
 One More Bang
@@ -7215,6 +7423,7 @@ OneBit Adventure
 OneShift
 OneShot
 OneShot: World Machine Edition
+Onee Chanbara Origin
 Onigiri
 Onigiri Shop Simulator
 Onimusha: Warlords
@@ -7251,6 +7460,7 @@ Operation: Polygon Storm
 Operation: Tango - Demo
 Operator
 Opus Magnum
+Opus: Echo of Starsong - Full Bloom Edition
 Orb of Creation
 Orbital Gear
 Orbo's Exodus
@@ -7258,6 +7468,7 @@ Orbo's Odyssey
 Orbt XL
 OrbusVR
 Orc Massage
+Orc Warchief: Strategy City Builder
 Orcs Must Die!
 Orcs Must Die! 2
 Orcs Must Die! 3
@@ -7322,6 +7533,7 @@ Outrider Mako
 Outside the Blocks
 Outward
 Outworld Station
+Ova Magica
 Over 9000 Zombies!
 Over the Counter
 OverDrift Festival
@@ -7384,6 +7596,7 @@ PICO PARK:Classic Edition
 PIGGY: Hunt
 PILGRIM
 PIPE
+PJ Masks: Heroes of the Night
 PLANES ATTACK
 PLATiNA :: LAB
 PLAY'A VR Video Player
@@ -7516,6 +7729,9 @@ Patrick's Parabox Demo
 Paunch
 Paunch 2
 Pavlov VR
+Paw Patrol Mighty Pups: Save Adventure Bay
+Paw Patrol: Grand Prix
+Paw Patrol: On a Roll!
 Pawn Planet
 Pawn Planet: First Sales
 Pawnbarian
@@ -7543,6 +7759,8 @@ Penumbra: Black Plague
 People Playground
 Pepper Grinder
 Per Aspera
+Perennial Order
+Perfect Dark Zero
 Perfect Heist
 Perfect Heist 2
 Perfect Vermin
@@ -7574,6 +7792,7 @@ Phantom Abyss
 Phantom Brave PC
 Phantom Breaker: Battle Grounds
 Phantom Breaker: Battle Grounds Ultimate
+Phantom Breaker: Omnia
 Phantom Brigade
 Phantom Doctrine
 Phantom Fury
@@ -7604,6 +7823,7 @@ Pile Up!
 Pilgrims
 Pillars of Eternity
 Pillars of Eternity II: Deadfire
+Pillars of Eternity II: Deadfire - Ultimate Edition
 Pillars of Eternity: Definitive Edition
 Pinball Arcade
 Pinball FX
@@ -7616,6 +7836,7 @@ Pine
 Pine Harbor
 Pineapple on pizza
 Ping Pong League
+Ping Redux
 Pioneers of Pagonia
 Pip My Dice
 Pipistrello and the Cursed Yoyo
@@ -7753,7 +7974,9 @@ Pool Nation FX
 Pool Panic
 Pool of Madness
 Pools
+Popgoes Arcade
 Poppy Playtime
+Populous: The Beginning
 Popup Dungeon
 Porcelain Tales
 Port Royale 3
@@ -7765,6 +7988,7 @@ Portal Knights
 Portal Stories: VR
 Portal: Prelude RTX
 Portal: Revolution
+Portal: Still Alive
 Post Trauma
 Post Void
 Postal 3
@@ -7927,6 +8151,7 @@ Psychopomp GOLD
 Public Bounce
 Puck
 Puffin Planes
+Puffpals Island Skies
 Pumping Simulator 2
 Pumpkin Jack
 Punch Club
@@ -7950,6 +8175,7 @@ Puyo Puyo Champions - ぷよぷよ eスポーツ
 Puyo Puyo™Tetris®
 Puzzle Chambers
 Puzzle Drop Carnival Theme Store
+Puzzle Quest 3
 Puzzle Together
 Puzzline -パズライン-
 Pyre
@@ -8051,6 +8277,7 @@ RUSSIAPHOBIA
 RV There Yet?
 RWBY: Grimm Eclipse
 RYB
+Rabbids: Party of Legends
 Rabbit Hole
 Rabbit and Steel
 Rabi-Ribi
@@ -8060,6 +8287,7 @@ Race.a.bit
 RaceRoom Racing Experience
 Racecraft
 Racine
+Racing Bros
 Racing Classics: Drag Race Simulator
 Rack and Slay
 Rad Rodgers
@@ -8069,6 +8297,7 @@ Radikal Fighters
 Radio Commander
 Radio Commander: Complete Edition
 Radio Commander: Pacific Campaign
+Radiolight
 Raft
 Ragdore
 Rage Parking Simulator 2016
@@ -8082,6 +8311,7 @@ Ragnarok Online
 Ragnarok: The Lost Memories
 Raid Auctus
 RaidLand
+Raidborn
 Raiders of Blackveil
 Rail Route
 RailGods of Hysterra
@@ -8094,6 +8324,7 @@ Railway Empire
 Railway Empire 2
 Rain World
 RainWallpaper
+Rainbow Billy: The Curse of the Leviathan
 Raining Blood: Hellfire
 Raise Your Tribe
 Raji: An Ancient Epic Prologue
@@ -8108,6 +8339,7 @@ Rana Card
 Ranch Farm and Store Simulator
 Ranch Simulator
 Randal's Monday
+Rapala: Fishing Pro Series
 Rappelz
 Rapture Rejects
 Rare Replay
@@ -8121,6 +8353,8 @@ Ratz Instagib 2.0
 Ravager
 Ravenfield
 Ravenfield: Multiplayer Mod
+Ravenlok
+Ravenous Devils
 Ravenswatch
 Raw Data
 Rayman 2 - The Great Escape
@@ -8133,6 +8367,7 @@ ReCharge: High Voltage
 ReCore
 Ready Player One: OASIS beta
 Ready or Not
+ReadySet Heroes
 Real Boxing™
 Real Pool 3D - Poolians
 RealFlight Evolution
@@ -8197,6 +8432,7 @@ Reignbreaker
 Reigns
 Reigns: Game of Thrones
 Reigns: Her Majesty
+Reigns: Three Kingdoms
 Rekt: Crash Test
 Relentless Expanse
 Relic Hunters Zero
@@ -8207,6 +8443,7 @@ Remnant Records
 Remnant: From the Ashes
 Remnants of Naezith
 Remothered: Tormented Fathers
+Renai ribenji
 Rend
 Renegade Ops
 Renowned Explorers: International Society
@@ -8219,6 +8456,7 @@ Replica
 Republic Of Pirates
 Republic of Jungle
 Rescue HQ - The Tycoon
+Research and Destroy
 Resident Evil / biohazard HD REMASTER
 Resident Evil 0
 Resident Evil 2
@@ -8231,6 +8469,7 @@ Resident Evil 5 / Biohazard 5
 Resident Evil 6 / Biohazard 6
 Resident Evil 6 Benchmark Tool
 Resident Evil 7 Teaser: Beginning Hour
+Resident Evil 7: Biohazard - Gold Edition
 Resident Evil Re:Verse
 Resident Evil Re:Verse Beta
 Resident Evil Resistance Open Beta
@@ -8277,6 +8516,7 @@ Reverse Problem
 Reverse: 1999
 Revhead
 Revita
+Revival: Recolonization
 Revolution Idle
 Revue Starlight El Dorado
 Rexaura
@@ -8315,6 +8555,7 @@ Rise of Legions
 Rise of Liberty
 Rise of Nations: Extended Edition
 Rise of the Tomb Raider
+Rise of the Triad: Ludicrous Edition
 Risen
 Risen 2 - Dark Waters
 Risen 3 - Titan Lords
@@ -8325,6 +8566,7 @@ Rising World
 Risk of Rain
 Risk of Rain 2
 Risk of Rain Returns
+Ritual Of Raven
 Ritual Party
 Rival Stars Horse Racing
 Rivalry
@@ -8390,6 +8632,7 @@ Rodina
 Rodland of Pipes
 Rogue : Genesia
 Rogue : Genesia Demo
+Rogue Command
 Rogue Company
 Rogue Eclipse
 Rogue Flight
@@ -8426,10 +8669,12 @@ Rolling Line
 Roman Triumph: Survival City Builder
 Romance Club
 Romance of The Three Kingdoms XIII
+Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack Bundle
 Romans: Age of Caesar
 Rome: Total War
 Rome: Total War - Alexander
 Ronin Trail
+Ronin: Two Souls Chapter 1
 Roof Rage
 Rooftops & Alleys: The Parkour Game
 Root
@@ -8456,6 +8701,9 @@ Rubinite
 Rue Valley
 Ruff Ghanor
 Ruff Night At The Gallery
+Ruffy and the Riverside
+Rugby 20
+Rugby 22
 Rugby 25
 Rugby League Live 3
 Ruiga Pirates
@@ -8522,6 +8770,7 @@ SAO Utils
 SAO Utils 2: Progressive
 SAS: Zombie Assault 4
 SAVE Teaser: Before the Dawn
+SBK 22
 SC2VN - The eSports Visual Novel
 SCARLET NEXUS
 SCP : Secret Files
@@ -8679,7 +8928,9 @@ Sacred 3
 Sacred Gold
 Sacred Sword Princesses
 Sacred X: Heavens Wonderland
+SacriFire
 Saeko: Giantess Dating Sim
+Saelig
 Safari Cannon
 Safeguard Saga
 Safety First!
@@ -8719,6 +8970,7 @@ Samorost 1
 Samorost 2
 Samorost 3
 Samsara Room
+Samurai Bringer
 Samurai Gunn 2
 Samurai Jack: Battle Through Time
 Samurai Shampoo
@@ -8727,9 +8979,11 @@ Sanctum 2
 Sand:box
 Sandboxels
 Sands
+Sands of Aura
 Sands of Salzaar
 Sandtrix
 Sandustry
+Sandwalkers: The Fourteenth Caravan
 Sani Yang's Laboratory
 Sansar
 Santa Rockstar
@@ -8751,6 +9005,7 @@ Sayonara Wild Hearts
 Scale the Depths
 Scania Truck Driving Simulator
 Scanner Sombre
+Scarlet Deer Inn
 Scarlet Hollow
 Scarlet Maiden
 Scarlet Tower
@@ -8782,6 +9037,7 @@ Score the Fear
 Scorn
 Scott Pilgrim vs The World
 ScourgeBringer
+Scramble: Battle of Britain
 Scrap Garden
 Scrap Mechanic
 Scrapnaut
@@ -8866,6 +9122,7 @@ Serious Sam 3 VR: BFE
 Serious Sam 3: BFE
 Serious Sam 4
 Serious Sam Classics: Revolution
+Serious Sam Collection
 Serious Sam Fusion 2017 (beta)
 Serious Sam HD: The First Encounter
 Serious Sam HD: The Second Encounter
@@ -8912,6 +9169,7 @@ Shadow Warrior Classic (1997)
 Shadow Warrior Classic Redux
 Shadow of the Depth
 Shadow of the Ninja: Reborn
+Shadow of the Road
 Shadow of the Tomb Raider
 ShadowBringer
 Shadowgrounds
@@ -8924,6 +9182,7 @@ Shadowrun: Hong Kong
 Shadows Over Loathing
 Shadows of Chroma Tower
 Shadows of Doubt
+Shadows of Forbidden Gods
 Shadows of the Damned: Hella Remastered
 Shadows: Awakening
 Shadows: Heretic Kingdoms
@@ -8940,6 +9199,7 @@ Shank 2
 Shantae Advance: Risky Revolution
 Shantae and the Pirate's Curse
 Shantae and the Seven Sirens
+Shantae: 1/2 Genie Hero - Ultimate Edition
 Shantae: Half-Genie Hero
 Shantae: Risky's Revenge - Director's Cut
 Shape of Dreams
@@ -8976,6 +9236,7 @@ Sherlock Holmes The Awakened
 Sherlock Holmes versus Jack the Ripper
 Sherlock Holmes: Crimes and Punishments
 Sherlock Holmes: The Devil's Daughter
+Sherman Commander
 Sherpa's Caravan
 Sherwood Extreme
 Sheryl: The Alchemist of the Island Ruins
@@ -8990,6 +9251,7 @@ Shining Resonance Refrain
 Shinkansen 0 | 新幹線 0号
 Shinobi Warfare
 Shiny The Firefly
+Ship Graveyard Simulator
 Ship Graveyard Simulator 2: Prologue
 Ship Simulator Extremes
 Ship of Fools
@@ -9016,6 +9278,7 @@ Shotgun King: The Final Checkmate
 Shotgun King: The Final Checkmate Demo
 Shotgun Shenanigans
 Shotgun Witch
+Shoulders of Giants: Ultimate
 Shovel Knight
 Shovel Knight: Shovel of Hope
 Showdown Bandit
@@ -9041,6 +9304,7 @@ Sid Meier's Colonization (Classic)
 Sid Meier's Pirates!
 Sid Meier's Railroads!
 Sid Meier's Starships
+Sid Meier's: Civilization Revolution
 Sidecar Evolution 2024
 Siege Survival: Gloria Victis
 Siege Survival: Gloria Victis Prologue
@@ -9059,6 +9323,7 @@ Silent Still
 Silent Still 2
 Silent dream
 Silica
+Silly Polly Beast
 Silly's Gameshow
 Silver Chains
 Sim City 3000™ Unlimited
@@ -9070,12 +9335,14 @@ SimCity™
 SimRail - The Railway Simulator
 SimRail - The Railway Simulator: Prologue
 Simmiland
+Simon the Sorcerer Origins
 Simple Fish Adventure
 Simple Sight - Crosshair Overlay
 Simple Zombie Survival
 SimplePlanes
 Simply Chess
 Simson Tuningwerkstatt 3D
+SimuLadron
 Simutrans
 SinaRun
 Sine Mora EX
@@ -9095,6 +9362,7 @@ Sirocco
 Sister Lumina And The Hypnosis Cult
 Sivi's Factory
 Six Days in Fallujah
+Sixtar Gate: Startrail
 Sixteen Undead
 Sixty Four
 Sizeable
@@ -9110,6 +9378,7 @@ Sketch Crawler
 Sketchy's Contract
 Ski Region Simulator
 Skibidi Toilet Hero
+Skigill
 Skill Legends Royale
 Skilltree Saga
 Skillwood
@@ -9131,6 +9400,7 @@ SkyDrift
 SkyIsland
 Skydance's BEHEMOTH
 Skydome
+Skydrift Infinity
 Skye: The Misty Isle
 Skyforge
 Skyformer
@@ -9146,12 +9416,14 @@ Slapshot: Rebound
 Slash It 2
 Slasher's Keep
 Slava Ukraini!
+Slave Zero X
 Slaves of Rome
 Slay Together
 Slay the Princess
 Slay the Princess Demo
 Slay the Spire
 Slayaway Camp
+Slayers X: Terminal Aftermath - Vengance of the Slayer
 Sledders
 Sleeping Dogs: Definitive Edition
 Sleeping Dogs™
@@ -9169,6 +9441,7 @@ SlipSlop
 Slipstream: Rogue Space
 Slipways
 Slopecrashers Demo
+Slot & Dungeons
 Slots & Daggers
 Slow and Steady
 Sly 2: Band of Thieves HD
@@ -9241,11 +9514,13 @@ Sol Cesto
 Sol-Rui -after mini-
 Solar 2
 Solar Ash
+Solar Expanse
 Solar Raiders
 Solasta II
 Solasta: Crown of the Magister
 Soldat
 Soldier Front 2
+Soldiers: Heroes of World War II
 Solitaire Forever II
 Solium Infernum
 Soma
@@ -9254,8 +9529,10 @@ Somewhere in the Shadow
 Sonder
 Song Of The Prairie
 Song of Nunu: A League of Legends Story
+SongPop Party
 Songbringer
 Songs Of Silence
+Songs for a Hero: Definitive Edition
 Songs of Conquest
 Sonic & All Stars Racing Transformed
 Sonic & All-Stars Racing Transformed Collection
@@ -9286,6 +9563,7 @@ Sorry We're Closed
 Soul Axiom
 Soul Chained
 Soul Hackers 2
+SoulCalibur: Broken Destiny
 SoulCraft
 SoulSaverOnline
 SoulWorker
@@ -9307,6 +9585,7 @@ South Park Fractured But Whole
 South Park The Stick of Truth
 South of Midnight
 Southfield
+Sovereign Syndicate
 Soviet Jump Game
 Space Bear
 Space Beast Terror Fright
@@ -9321,10 +9600,13 @@ Space Farmers
 Space Haven
 Space Hulk: Deathwing
 Space Hulk: Deathwing - Enhanced Edition
+Space Hulk: Tactics
+Space Jam: A New Legacy - The Game
 Space Pirate Trainer
 Space Pirates and Zombies
 Space Pirates and Zombies 2
 Space Rangers HD: A War Apart
+Space Run
 Space Simulation Toolkit
 Space Trash Scavenger
 Space Travel Idle
@@ -9367,7 +9649,9 @@ Spellbook Demonslayers Prologue
 Spellbreak
 Spellcaster University
 Spellcraft
+Spelldrifter
 Spellmasons
+Spells & Secrets
 Spellshot
 Spellsided
 Spellsworn
@@ -9396,9 +9680,11 @@ Spirit Hunters: Infinite Horde
 Spirit Island
 Spirit Of The Island
 Spirit Of The Island Demo
+Spirit Swap: Lofi Beats to Match-3 To
 Spirit Valley
 Spirit X Strike
 Spirit of the North
+Spirit of the North: Enhanced Edition
 SpiritVale
 Spiritfall
 Spiritfarer
@@ -9470,6 +9756,7 @@ Star Trek: Infinite
 Star Trek: Resurgence
 Star Trucker
 Star Valor
+Star Wars Episode I: Jedi Power Battles
 Star Wars Episode I: The Phantom Menace
 Star Wars Outlaws
 Star Wars Rebel Assault II: The Hidden Empire
@@ -9486,12 +9773,14 @@ StarVaders
 Starbase
 Starblast
 Starbound
+Starcom: Nexus
 Starcom: Unknown Space
 Stardeus
 Stardeus Demo
 Stardew Valley
 Stardust Skate
 Starfield
+Stargate: Timekeepers
 Stario: Haven Tower
 Starless Abyss
 Starlight Re:Volver
@@ -9502,6 +9791,7 @@ Stars Reach
 Starsand
 Starship EVO
 Starship Troopers: Extermination
+Starship Troopers: Terran Command
 Starstruck Vagabond
 Startup Company
 Stash
@@ -9528,6 +9818,7 @@ Steambirds Alliance Open Beta
 Steamrush
 Steel Century Groove
 Steel Circus
+Steel Crew
 Steel Division 2
 Steel Division: Normandy 44
 Steel Hunters
@@ -9536,6 +9827,7 @@ Steel Rats
 Steel Seed
 Steelrising
 Steep
+Stella of The End
 Stellar Blade™
 Stellar Impact
 Stellar Initiative
@@ -9543,6 +9835,7 @@ Stellar Mess: The Princess Conundrum
 Stellar Settlers
 Stellar Settlers: Space Base Builder
 Stellar Tactics
+Stellar Trader
 Stellaris
 Stephen's Sausage Roll
 Steps of Debauchery
@@ -9558,6 +9851,7 @@ Stickman Trenches
 Stickman: Trench Wars Demo
 Sticky Business
 Sticky Business Demo
+Still It Runs
 Still There
 Still Wakes the Deep
 Stolen Realm
@@ -9609,6 +9903,7 @@ Street Fighter X Tekken
 Street Fighter™ 6
 Street Fighter™ 6 Demo
 Street Legal Racing: Redline v2.3.1
+Street Outlaws 2: Winner Takes All
 Street Racing Syndicate
 Street Sense
 Street Soccer Online
@@ -9637,6 +9932,7 @@ Stronghold Crusader: Definitive Edition
 Stronghold HD
 Stronghold Kingdoms
 Stronghold Legends
+Stronghold: Crusader - Extreme
 Stronghold: Definitive Edition
 Struckd - 3D Game Creator
 Struggle F.O
@@ -9677,6 +9973,7 @@ Sucker for Love
 Sucker for Love: Date to Die For
 Sucker for Love: Prelude
 Sudden Strike 4
+Sudden Strike 4: European Battlefields Edition
 Sudocats
 Sudoku Universe
 Sugardew Island: Your cozy farm shop
@@ -9763,6 +10060,7 @@ Super Street Fighter IV: Arcade Edition
 Super Sus
 Super Totally Ultimate Dad Showdown
 Super Treasure Arena
+Super Volley Blast
 Super Woden GP 2
 SuperPower 2
 SuperSmash
@@ -9824,6 +10122,7 @@ Survived By
 Surviving Mars
 Surviving Mars: Relaunched
 Surviving the Abyss
+Surviving the Aftermath
 Survivor World
 Survivors of the Dawn
 Suspects: Mystery Mansion
@@ -9858,6 +10157,7 @@ Sword of the Necromancer - Prologue
 Sword of the Sea
 Sword of the Stars: The Pit
 Sword x Hime
+SwordCar
 Swords & Souls Legacy Collection
 Swords & Souls: Neverseen
 Swords 'n Magic and Stuff
@@ -9867,12 +10167,14 @@ Swords and Sandals Immortals
 Swords and Soldiers 2 Shawarmageddon
 Swords of Gurrah
 Swords of Legends Online
+Swordship
 Swordsman VR
 Syberia
 Syberia - The World Before
 Syberia 2
 Syberia 3
 Syberia The World Before - Prologue
+Syberia: Remastered
 Sycamore Free
 Symphony of War: The Nephilim Saga
 Synduality Echo of Ada
@@ -9917,6 +10219,7 @@ THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION
 THE KING OF FIGHTERS 2002 UNLIMITED MATCH
 THE KING OF FIGHTERS XIV STEAM EDITION
 THE KING OF FIGHTERS XV
+THE LAST TRAIN: Baquedano
 THE MULLER-POWELL PRINCIPLE: Foreword
 THE NORMAL THING
 THE SHORE
@@ -9942,6 +10245,7 @@ TRON RUN/r
 TROUBLESHOOTER: Abandoned Children
 TRYP FPV
 TT Isle of Man - Ride on the Edge 2
+TT Isle of Man: Ride On The Edge
 TUNIC
 TUNNEL DIVERS
 TY the Tasmanian Tiger
@@ -10035,6 +10339,7 @@ Tape to Tape
 Taphouse VR
 Tapple
 Task Force
+Task Force Admiral
 TaskPals
 Tastemaker
 Tasty Blue
@@ -10085,6 +10390,9 @@ Temtem: Showdown
 Temtem: Swarm
 Ten Bells
 Tenebris Somnia
+Tennis World Tour 2
+Teravit
+Terminator: Dark Fate - Defiance
 Terminator: Resistance
 Terminator: Resistance - Complete Edition
 Terminull Brigade™
@@ -10128,6 +10436,7 @@ The Alters
 The Anacrusis
 The Angry Video Game Nerd: 8-bit
 The Anomaly Project
+The Apothecary of Trubiz
 The Archotek Project
 The Art of Reflection
 The Artful Escape
@@ -10136,6 +10445,7 @@ The August Before
 The August Before: Chapter One
 The Average Everyday Adventures of Samantha Browne
 The Awesome Adventures of Captain Spirit
+The Axis Unseen
 The Baby in Yellow
 The Backroom - Lost and Found
 The Backrooms 1998 - Found Footage Backroom Survival Horror Game
@@ -10177,6 +10487,7 @@ The Break-In
 The Brew Barons
 The Bridge
 The Bridge Curse 2: The Extrication
+The Bridge Curse: Road to Salvation
 The Brookhaven Experiment
 The Bunny Graveyard
 The Bureau: XCOM Declassified
@@ -10187,6 +10498,7 @@ The Callisto Protocol
 The Case of the Golden Idol
 The Casting of Frank Stone
 The Cat Lady
+The Catch: Carp & Coarse Fishing
 The Cave
 The Cave Diver
 The Cenozoic Era
@@ -10196,6 +10508,7 @@ The Children of Clay
 The Chronos Event
 The Citadel
 The Classrooms
+The Clingy Ghost
 The Closing Shift | 閉店事件
 The Coffin of Andy and Leyley
 The Coin Game
@@ -10206,6 +10519,7 @@ The Coma: Recut
 The Complex
 The Complex: Expedition
 The Complex: Found Footage
+The Constructors
 The Convenience Store | 夜勤事件
 The Cosmic Wheel Sisterhood
 The Council
@@ -10276,6 +10590,7 @@ The Expendabros
 The Experiment: Escape Room
 The Explorator
 The Fabulous Fear Machine
+The Falconeer
 The Fall
 The Fancy Pants Adventures: Classic Pack
 The Farmer Was Replaced
@@ -10286,6 +10601,7 @@ The First Berserker: Khazan
 The First Descendant
 The First Foreigner
 The First Tree
+The Fisherman: Fishing Planet
 The Fishing Club 3D
 The Flame in the Flood
 The Floor Above
@@ -10306,6 +10622,7 @@ The Ghost Train | 幽霊列車
 The Glitch Prison
 The Goatman
 The Gold River Project
+The Golf Club 2019 featuring PGA Tour
 The Golf Club 2™
 The Good Time Garden
 The Great Fleece
@@ -10336,6 +10653,7 @@ The House of Da Vinci
 The House of Da Vinci 2
 The House of Da Vinci 3
 The House of Tesla
+The House of the Dead 2: Remake
 The Hundred Line -Last Defense Academy-
 The Hundred Line -Last Defense Academy- Demo Ver.
 The Hungry Lamb: Traveling in the Late Ming Dynasty
@@ -10374,6 +10692,7 @@ The Karaoke | ヒトカラ
 The Killing Antidote
 The King is Watching
 The Kite
+The Knight Witch
 The Knightling
 The LEGO® Movie - Videogame
 The LEGO® Movie 2 - Videogame
@@ -10404,6 +10723,7 @@ The Last Spell
 The Last Stand Legacy Collection
 The Last Stand: Aftermath
 The Last Stand: Aftermath Demo
+The Last Starship
 The Last of Us™ Part I
 The Last of Us™ Part II Remastered
 The Last of Waifus
@@ -10415,6 +10735,7 @@ The Legend of Heroes: Trails in the Sky the 3rd
 The Legend of Heroes: Trails into Reverie
 The Legend of Heroes: Trails of Cold Steel
 The Legend of Heroes: Trails through Daybreak
+The Legend of Heroes: Zero no Kiseki KAI
 The Legend of Karl
 The Legend of Korra™
 The Letter
@@ -10431,6 +10752,7 @@ The Long Journey Home
 The Longest Journey
 The Looker
 The Lord of the Rings Online™
+The Lord of the Rings: Adventure Card Game - Definitive Edition
 The Lord of the Rings: Journeys in Middle-earth
 The Lord of the Rings: Return to Moria™
 The Lord of the Rings: War in the North
@@ -10438,6 +10760,7 @@ The Lust City
 The Mageseeker: A League of Legends Story™
 The Magical Mixture Mill
 The Magician's Research
+The Many Pieces of Mr. Coo
 The Marvellous Miss Take
 The Matchless Kungfu
 The Matriarch
@@ -10479,6 +10802,7 @@ The Past Within Demo
 The Pathless
 The Pedestrian
 The Pedestrian Demo
+The Pegasus Expedition
 The PenguinGame 2 -Lies of Penguin-
 The People of Sea, Sun & Salt
 The Perfect Tower II
@@ -10555,14 +10879,18 @@ The Sinking City
 The Sinking City Remastered
 The Slormancer
 The Smurfs: Dreams
+The Smurfs: Mission Vileaf
 The Song of Saya
 The Spell Brigade
 The Spike
 The Spike Cross
+The Spirit and the Mouse
+The Spirit of the Samurai
 The Stanley Parable
 The Stanley Parable Demo
 The Stanley Parable: Ultra Deluxe
 The Stillness of the Wind
+The Stone of Madness
 The Strongest TOFU
 The Suicide of Rachel Foster
 The Supper
@@ -10657,6 +10985,7 @@ There Are No Ghosts At The Grand
 There Are No Orcs
 There Are Two Chairs
 There Is No Game: Wrong Dimension
+There Is No Light
 There Was a Caveman
 There is no game: Jam Edition 2015
 There's Poop In My Soup
@@ -10676,6 +11005,7 @@ Thief Simulator VR
 Thief: Deadly Shadows
 Thimbleweed Park
 Third Crisis
+Thirsty Suitors
 This Ain't Even Poker, Ya Joker
 This Bed We Made
 This Grand Life 2
@@ -10739,6 +11069,7 @@ Time to Morp
 Timelie
 Timespinner
 Tin Can
+Tin Hearts
 Tina Chiquitina asalta la mazmorra del dragón: una aventura única
 Tinkerlands
 Tinkerlands: A Shipwrecked Adventure
@@ -10765,6 +11096,7 @@ Tiny Town VR
 Tiny and Big: Grandpa's Leftovers
 Tinyfolks
 Tinykin
+Tinytopia
 Titan Chaser
 Titan Quest
 Titan Quest Anniversary Edition
@@ -10791,6 +11123,7 @@ Toilet Chronicles
 Tokyo 42
 Tokyo Dark
 Tokyo Xanadu eX+
+Tom Clancy's EndWar
 Tom Clancy's Ghost Recon
 Tom Clancy's Ghost Recon Future Soldier
 Tom Clancy's Ghost Recon Wildlands
@@ -10827,6 +11160,8 @@ Tony Hawk's Underground
 Tony Hawk's Underground 2
 Tony Hawk's™ Pro Skater™ 1 + 2
 Tony Hawk's™ Pro Skater™ 3 + 4
+Too Human
+Toodee and Topdee
 Tools Up!
 Tools Up! Demo
 Toontown Rewritten
@@ -10902,6 +11237,7 @@ Touhou Artificial Dream in Arcadia
 Touhou Dystopian
 Touhou Fantasia
 Touhou Genso Wanderer Foresight
+Touhou Gensou Mahjong
 Touhou Luna Nights
 Touhou Mystia's Izakaya
 Touhou Puppet Dance Performance
@@ -10966,6 +11302,7 @@ Trailmakers
 Trails in the Sky 1st Chapter
 Train Driver 2
 Train Fever
+Train Life: A Railway Simulator
 Train Mechanic Simulator 2017
 Train Planet
 Train Sim World® 4
@@ -10996,6 +11333,7 @@ Transformative Summer: Life with a TS Companion
 Transformers: War for Cybertron
 Transformice Adventures Demo
 Transistor
+Transit King Tycoon
 Transmissions: Element 120
 Transport Defender
 Transport Fever
@@ -11007,6 +11345,7 @@ Trapper's Delight
 Trash Goblin
 Trash Patrol - Academic Version
 Travellers Rest
+Travis Strikes Again: No More Heroes - Complete Edition
 Tray Racers!
 Treason
 Treasure 'n Trio
@@ -11055,6 +11394,7 @@ Trinity Fusion
 Trip In Another World
 Triple Town
 Trivia Tricks Friend Pass
+Trivial Pursuit: Live! 2
 Trolley Problem, Inc.
 Trombone Champ
 Trophy Fishing 2
@@ -11063,10 +11403,12 @@ Tropico 3
 Tropico 4
 Tropico 5
 Tropico 6
+Tropico 6: Next Gen Edition
 Troublemaker 2: Beyond Dream
 Trove
 Trover Saves the Universe
 Truck Mechanic: Dangerous Paths - Prologue
+Truck Racing Championship
 Truck World: Australia - First Haul
 Truck World: Driving School
 Truck and Logistics Simulator
@@ -11122,6 +11464,7 @@ Tyrone vs Cops
 Tzar: The Burden of the Crown
 UBERMOSH
 UBOAT
+UEFA EURO 2016: Pro Evolution Soccer
 UFO 50
 ULTIMATE HARDBASS DEFENCE
 ULTRAKILL
@@ -11164,6 +11507,7 @@ Ultimate Fishing Simulator VR
 Ultimate General: American Revolution
 Ultimate General: Civil War
 Ultimate General: Gettysburg
+Ultimate Godspeed
 Ultimate Marvel vs. Capcom 3
 Ultimate Ragdoll Game
 Ultimate Sheep Raccoon
@@ -11389,6 +11733,7 @@ Victor Vran
 Victoria 3
 Victoria I
 Victoria II
+Victory Heat Rally
 Victory: The Age of Racing
 Video Horror Society
 Vietnam War
@@ -11492,6 +11837,7 @@ WRC 9 FIA World Rally Championship
 WRC Generations - The FIA WRC Official Game
 WTF: Waifu Tactical Force
 WUCHANG: Fallen Feathers
+WW1 Game Series Bundle
 WW2 Rebuilder Demo
 WWE 2K BATTLEGROUNDS
 WWE 2K16
@@ -11521,12 +11867,15 @@ Wall World
 Wallpaper Play
 Waltz and Jam
 Waltz of the Wizard
+Wanba Warriors
+Wander Stars
 Wandering Sword
 Wandersong
 Wanderstop
 Wanted Raccoon
 Wanted: Dead
 War Hospital
+War Mongrels
 War Of Banners
 War Planet Online: Global Conquest
 War Robots
@@ -11556,6 +11905,7 @@ Wargame: Red Dragon
 Wargroove
 Wargroove 2
 Warhammer 40,000: Armageddon
+Warhammer 40,000: Battlesector
 Warhammer 40,000: Boltgun
 Warhammer 40,000: Boltgun - Words of Vengeance
 Warhammer 40,000: Chaos Gate - Daemonhunters
@@ -11586,6 +11936,7 @@ Warhammer Quest
 Warhammer Underworlds: Online
 Warhammer: Chaos & Conquest
 Warhammer: Chaosbane
+Warhammer: Chaosbane Slayer Edition
 Warhammer: End Times - Vermintide
 Warhammer: Vermintide 2
 Warhaven
@@ -11602,11 +11953,13 @@ Warriors: Rise to Glory! Online Multiplayer Open Beta
 Warsow
 Warspear Online
 Warstone TD
+Warstride Challenges
 Wartales
 Warudo
 Warzone 2100
 Wasteland 2: Director's Cut
 Wasteland 3
+Wasteland Remastered
 Wasteland Survival
 Watch Dogs
 Watch Dogs: Legion
@@ -11631,6 +11984,7 @@ Wayward
 We Are The Dwarves
 We Become What We Behold
 We Escaped a Twisted Game
+We Gotta Go
 We Happy Few
 We Harvest Shadows
 We Love Katamari REROLL+ Royal Reverie
@@ -11713,6 +12067,7 @@ Who's Lila?
 Who's Who 2.0
 Who's Your Daddy
 Who's at the door?
+Wholesome: Out And About
 Wicked Island
 Widget Inc.
 Wild Animal Racing
@@ -11722,8 +12077,10 @@ Wild Card Football
 Wild Dive
 Wild Indigo Ranch
 Wild Life Demo
+Wild Planet
 Wild Terra 2: New Lands
 Wild Terra Online
+Wild West Dynasty
 Wild West Saga
 Wild West Supermarket Simulator
 Wild Wet West
@@ -11864,6 +12221,7 @@ Worms Revolution
 Worms Rumble
 Worms Ultimate Mayhem
 Worms W.M.D
+Worms World Party
 Worms World Party Remastered
 Worms: Battlegrounds
 Worn Thin
@@ -11940,6 +12298,7 @@ Yerr Out
 Yes, Master!
 Yes, Your Grace
 Yes, Your Grace: Snowfall
+Yet Another Fantasy Title
 Yet Another Zombie Defense
 Yet Another Zombie Defense HD
 Yet Another Zombie Survivors
@@ -11951,6 +12310,7 @@ Ymir
 Yog-Sothoth's Yard
 Yogurt!
 Yohane The Parhelion: Blaze In The Deepblue
+Yoiyami Dancers: Twilight Barrage Dancers
 Yoku's Island Express
 Yolk Heroes: A Long Tamago
 Yollen
@@ -12022,6 +12382,7 @@ Zhǐ fángzǐ
 Ziggurat
 Ziggurat 2
 Zodiacats
+Zoeti
 Zombidle
 Zombidle: REMONSTERED
 Zombie Army 4: Dead War
@@ -12041,6 +12402,7 @@ Zombie Raid: No One Survives
 Zombie Rollerz: The Last Ship
 Zombie Survival
 Zombie Survival Game Online
+Zombies Ate My Neighbors and Ghoul Patrol
 Zombies Beyond Me
 Zombies Monsters Robots
 Zombieville USA 3D
@@ -12050,6 +12412,7 @@ Zompiercer
 Zoo 2: Animal Park
 Zoo Simulator: Prologue
 Zoo Tycoon
+Zoo Tycoon: Ultimate Animal Collection
 ZooKeeper Simulator
 Zoochosis
 Zooicide
@@ -12091,6 +12454,7 @@ cyberpunkdreams
 de Blob
 de Blob 2
 dotAGE
+eBaseball Powerful Pro Baseball 2022
 eFootball PES 2020
 eFootball PES 2020 DEMO
 eFootball PES 2021
@@ -12161,6 +12525,7 @@ vivid/stasis
 while True: learn()
 yahtzee girl
 you're just imagining it
+İblis3: Phenomena
 ΔV: Rings of Saturn
 Альтушка для скуфа
 ВЗЛОМ ЖОПЫ

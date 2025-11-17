@@ -7332,6 +7332,7 @@ space commander war and trade/spacecommander.exe
 space marine 2/start_protected_game.exe
 space pirate trainer vr/spacepiratevr.exe
 space rangers hd a war apart/rangers.exe
+space run/ospacegame.exe
 space trash scavenger/spacetrashscavenger.exe
 space travel idle/spacetravelidle.exe
 space warlord organ trading simulator/space warlord organ trading simulator.exe
