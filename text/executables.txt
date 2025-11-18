@@ -1594,6 +1594,8 @@ combatarms.exe
 come home/comehome.exe
 come with me/comewithme.exe
 comedy night.exe
+comet.app
+comet/application/comet.exe
 command & conquer generals - zero hour/game.dat
 command & conquer red alert 3 demo/ra3demo.exe
 command & conquer red alert ii/game.exe
@@ -8963,6 +8965,7 @@ wakfu.exe
 walkabout mini golf/walkaboutminigolf.exe
 walkingdead101.exe
 walkingdead4.exe
+wall world 2/wallworld2.exe
 wall world/wallworld.exe
 wall-e/gamesetup.exe
 wallpaper_play/wallpaperplay.exe
@@ -10897,6 +10900,7 @@ wz2100.app
 wz2100.exe
 x invader prologue/x invader.exe
 x rebirth/xrebirth.exe
+x-mode/gameclient.exe
 x-plane.exe
 x3 terran conflict/x3ap.exe
 x4 foundations/x4.exe
