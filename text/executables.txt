@@ -1631,6 +1631,7 @@ conansandbox_be.exe
 concluse/concluse.exe
 concrete jungle/concrete jungle.exe
 condemned criminal origins/condemned.exe
+condo desires/condodesires.exe
 confessmylove/game.exe
 conflict of nations/conflict of nations.exe
 conflict_desert_storm/desertstorm.exe
@@ -4216,6 +4217,7 @@ it has my face/it has my face.exe
 it lurks below/ilb.exe
 it steals/it steals.exe
 ithya magic studies/magic studies.exe
+itop easy desktop/ieasydesk.exe
 ivac.exe
 iw3mp.exe
 iw3sp.exe
@@ -5745,6 +5747,7 @@ onigiri shop simulator/onigirishopsimulator.exe
 onigiri/onigiri.exe
 onimusha/game.exe
 oninaki demo/oninaki demo.exe
+onirism/onirism.exe
 only if/only if.exe
 onlycans/onlycans thirst date.exe
 onmyoji/client.exe
@@ -11011,6 +11014,7 @@ yumenikki -dream diary-/yumenikki.exe
 yumenikki/rpg_rt.exe
 yuppiepsycho/yuppiepsycho.exe
 yur/yur.fit.windows.service.exe
+z.a.t.o.  i love the world and everything in it/zato.exe
 zaccaria pinball/zaccariapinball.exe
 zandronum.exe
 zardy's maze/zardy's maze.exe
