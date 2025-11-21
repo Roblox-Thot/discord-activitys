@@ -321,6 +321,7 @@ Aethus
 Affinity
 After Hours
 After Inc: Revival
+After Long Night
 After The Fall
 After Us
 After the Inferno
@@ -428,6 +429,7 @@ Alicemare
 Alicia
 Alien Agent X
 Alien Breed 2: Assault
+Alien Brothers 2
 Alien Hominid HD
 Alien Hominid Invasion Demo
 Alien Market Simulator
@@ -447,6 +449,7 @@ Aliens: Dark Descent
 Aliens: Fireteam Elite
 Alina of the Arena
 Alisa
+Alisa's Grimoire
 All Aboard! The Train Defense Express
 All Is Dust
 All Quiet in the Trenches
@@ -529,6 +532,7 @@ Anarcute
 Ancestors Legacy
 Ancestors: The Humankind Odyssey
 Anchors: Blockade Zone
+Ancible Online
 Ancient Cities
 Ancient Dungeon VR
 Ancient Planet
@@ -965,6 +969,7 @@ Backseat Drivers
 Backyard Baseball '01
 Backyard Baseball '97
 Backyard Football '99
+Backyard Hockey '02
 Backyard Soccer '98
 Bacon May Die
 Bad 2 Bad: Apocalypse
@@ -1109,6 +1114,7 @@ Battlefleet Gothic: Armada 2
 Battlerite
 Battlerite Royale
 Battleship
+Battlesmiths: Blade and Forge
 Battlestar Galactica Deadlock
 Battlestations: Midway
 Battlestations: Pacific
@@ -1835,6 +1841,7 @@ Car Mechanic Simulator VR
 Car Service Simulator
 Car Trader Simulator - Welcome to the Business
 CarCam
+CarX Drift Racing 2
 CarX Drift Racing Online
 CarX Street
 Caravan Sandwitch
@@ -2566,6 +2573,7 @@ Cube World
 Cubetory
 Cubey Quarry
 Cubic Castles
+Cubic Cosmos
 Cubic Odyssey
 Cucumber
 Cuisine Royale
@@ -3355,6 +3363,7 @@ Draw a Stickman: EPIC
 Draw a Stickman: EPIC 2
 Drawful 2
 Drawing From Memory
+Dread Chess
 Dread Dawn
 Dread Delusion
 Dread Hunger
@@ -3451,6 +3460,7 @@ Due Process
 Duel Corp
 Duel Revolution
 Duelists of Eden
+Duelmasters
 Duels of Fortune
 Duelyst
 Duelyst II
@@ -3663,6 +3673,7 @@ Eiyuden Chronicle: Hundred Heroes
 Eiyuden Chronicle: Rising
 El Dorado: The Golden City Builder
 El Paso, Elsewhere
+Elarienne
 Elation For The Wonder Box 6000
 Elder Legacy
 Elder Legacy: Survival
@@ -4063,6 +4074,7 @@ Fablecraft
 Fabledom
 Face Love
 Face The Abyss
+Face of Another
 FaceRig
 Faces of War
 Factorio
@@ -4212,6 +4224,7 @@ Feed All Monsters
 Feed The Cups
 Feed and Grow: Fish
 Feed the Deep
+Feed the Greed
 Feeding Frenzy
 Feeding Frenzy 2: Shipwreck Showdown Deluxe
 Feeding Frenzy 2: Shipwreck Showdown Deluxe Demo
@@ -4839,6 +4852,7 @@ Gladius
 Glass Masquerade
 Glass Masquerade 2: Illusions
 Glass Masquerade 3: Honeylines
+Glass Masquerade 4: Constellations
 GlassWire
 Glitch
 Glitched Out
@@ -5368,6 +5382,7 @@ Hellbound: Survival Mode
 Hellboy Web of Wyrd
 Hellbreach: Vegas
 Hellbreak
+Hellbrella
 Hellevator
 Hellion
 Hellish Quart
@@ -5426,6 +5441,7 @@ Hentai Vs Furries
 Her Lie I Tried To Believe
 Her New Memory
 Her Story
+Her Trees: The Puzzle House
 Herdling
 Here Comes Niko!
 Heretic + Hexen
@@ -5454,6 +5470,7 @@ Heroes of Newerth
 Heroes of Valor
 Heroes of the Storm
 HerrAnwalt: Lawyers Legacy
+Hex of Steel
 Hexagon Knockout
 Hexane
 Hexarchy
@@ -5469,6 +5486,7 @@ HiQ Ace Unlimited
 Hidden & Dangerous 2: Courage Under Fire
 Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition
 Hidden Cats 6: After Us
+Hidden Cats In Spooky Village
 Hidden Cats in Berlin
 Hidden Cats in New York
 Hidden Cats in Paris
@@ -5652,6 +5670,7 @@ House
 House Builder
 House Builder Demo
 House Builder: First Job
+House Fighters: Total Mess
 House Flipper
 House Flipper 2
 House Flipper 2 Demo
@@ -5742,6 +5761,7 @@ I Dont Fall
 I Expect You To Die
 I Expect You To Die 2
 I Expect You To Die 3
+I Hate My Waifu Streamer
 I Hate This Place
 I Have No Mouth, and I Must Scream
 I Just Want to be Single!! Demo
@@ -5759,6 +5779,7 @@ I hate this game
 I'm Pregnant at 16
 I'm counting to 6...
 I'm in Love With Your Dead Grandmother
+I'm in Love With Your Dead Grandmother 3: Online Battle Royale
 I'm on Observation Duty
 I'm on Observation Duty 2: Timothy's Revenge
 I'm on Observation Duty 3
@@ -5813,6 +5834,7 @@ Idle Cave Miner
 Idle Champions of the Forgotten Realms
 Idle Clans
 Idle Colony
+Idle Commonwealth
 Idle Craft
 Idle Cultivation
 Idle Dice 2
@@ -6147,6 +6169,7 @@ Jump King
 Jump Space
 Jumping Flash!
 Jumping Jazz Cats
+Junji Ito Maniac: An Infinite Gaol
 Junkyard Builder
 Junkyard Simulator
 Junkyard Truck
@@ -6269,6 +6292,7 @@ Ken Follett's The Pillars of the Earth
 Kena: Bridge of Spirits
 Kenshi
 Kentucky Route Zero
+Kentum
 Keplerth
 Kerbal Space Program
 Kerbal Space Program 2
@@ -7794,6 +7818,7 @@ My Time At Portia
 My Time at Sandrock
 My Time at Sandrock Demo
 My Time at Sandrock Online
+My Voice Zoo
 My dream setup
 My dream setup Demo
 MyDockFinder
@@ -9374,6 +9399,7 @@ Raft
 Ragdoll Rumble
 Ragdore
 Rage Parking Simulator 2016
+Rage Quit
 Rage Wars
 Rage of Car Force: Car Crashing Games
 Rage of the Dragons NEO
@@ -9402,6 +9428,7 @@ RainWallpaper
 Rainbow Billy: The Curse of the Leviathan
 Raining Blood: Hellfire
 Raise Your Tribe
+Raise the Colours
 Raji: An Ancient Epic Prologue
 Rakion Chaos Force
 Rakuen
@@ -10122,6 +10149,7 @@ Samurai Bringer
 Samurai Gunn 2
 Samurai Jack: Battle Through Time
 Samurai Shampoo
+Sanatorium: A Mental Asylum Simulator
 SanctuaryRPG: Black Edition
 Sanctum 2
 Sand:box
@@ -10199,6 +10227,7 @@ Scrap Mechanic
 Scrapnaut
 Scrapnaut: Prologue
 Scrapvival
+Scratch Inc.
 Scream Collector
 ScreamRide
 Screen Cat
@@ -10492,6 +10521,7 @@ Sid Meier's: Civilization Revolution
 Sidecar Evolution 2024
 Siege Survival: Gloria Victis
 Siege Survival: Gloria Victis Prologue
+Siegeturtle
 Sifu
 Sigils of Elohim
 Sigma Theory
@@ -11710,6 +11740,7 @@ Terminator: Resistance
 Terminator: Resistance - Complete Edition
 Terminull Brigade™
 Terminus: Zombie Survivors
+Terpenie
 Terra Firma
 Terra Invicta
 Terra Memoria
@@ -12220,6 +12251,7 @@ The Rotting Chronicles
 The Royal Writ
 The Saboteur™
 The Sacred Tears TRUE
+The Salesman
 The Sandbox Evolution
 The Sapling
 The Scourge | Tai Ương
@@ -13177,6 +13209,7 @@ Vending Machine Business Simulator
 Vending Machine Co.
 Veneficium
 Verdun
+Verho: Curse of Faces
 Verlet Swing
 Versus Squad
 Vertical Kingdom
@@ -13771,6 +13804,7 @@ XOXO Blood Droplets
 XOXO Droplets
 XXX Puzzle
 Xanadu Land
+Xeno
 Xenonauts
 Xenonauts 2
 Xenopurge
@@ -13845,6 +13879,7 @@ You Will (Not) Remain
 You are the Judge!
 YouTube VR
 Your Average Bear
+Your Big, Cute Monster Farm
 Your Chronicle
 Your Only Move Is HUSTLE
 Your Turn To Die -Death Game By Majority-
