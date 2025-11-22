@@ -557,6 +557,7 @@ audiosurf.exe
 audiosurf2.exe
 aura kingdom/_launcher.exe
 aura kingdom/launcher.exe
+aura/aurahentaicards.exe
 aurelia/aurelia.exe
 aurora hills chapter 1/aurora hills chapter 1.exe
 auto chess/acphoenix.exe
@@ -9558,6 +9559,7 @@ win64/edfir-win64-shipping.exe
 win64/efootball.exe
 win64/egg-win64-shipping.exe
 win64/einar-win64-shipping.exe
+win64/emberssauce-win64-shipping.exe
 win64/emergency-win64-shipping.exe
 win64/emilywantstoplay-win64-shipping.exe
 win64/empire-win64-shipping.exe

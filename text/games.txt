@@ -38,6 +38,7 @@
 1000xRESIST
 11-11 Memories Retold
 112 Operator
+12 bananas
 12 is Better Than 6
 13 Sentinels: Aegis Rim
 13Z: The Zodiac Trials
@@ -244,6 +245,7 @@ ATOM RPG Trudograd
 ATOMEGA
 ATRI -My Dear Moments-
 ATTA: Spot The Oddities In The Strange Hotel
+AURA: Hentai Cards
 AUTOMOBILISTA: Motorsport Simulator
 AVA: Dog Tag
 AVICII Invector
@@ -2504,6 +2506,7 @@ Cronos: The New Dawn
 Crookz - The Big Heist
 Crop Rotation
 Cropdeck
+Cropia
 Croppy Boy
 Cross Blitz
 CrossCells
@@ -4734,6 +4737,7 @@ Garbage: Hobo Prophecy
 Garden Galaxy
 Garden Life: A Cozy Simulator
 Garden Paws
+Garden Rivals
 Garden Story
 Garden Witch Life
 Garden of Witches
@@ -5686,6 +5690,7 @@ Hoversteppers: Zone 1
 How 2 Escape
 How 2 Escape - Companion App
 How Fish Is Made
+How To Train Your Cock
 How to Survive
 How to Survive 2
 How to lose one's virginity
@@ -6737,6 +6742,7 @@ Liquor Store Simulator: Prologue
 Literally Just Pixels On A Screen
 Little Big Adventure: Twinsen’s Quest
 Little Big Workshop
+Little Corners
 Little Fighter 2 Remastered
 Little Goody Two Shoes
 Little Inferno
@@ -8080,6 +8086,7 @@ Night Bus
 Night Club Simulator: Prolouge
 Night Delivery | 例外配達
 Night Loops
+Night Of The Extinct
 Night Raider
 Night Run
 Night Security
@@ -8377,6 +8384,7 @@ One Piece: Unlimited World Red - Deluxe Edition
 One Room Nightmare
 One Step From Eden
 One Troll Army
+One Turn Kill
 One Way Heroics
 One's Own Exile
 One-Eyed Likho
@@ -8603,6 +8611,7 @@ PRICE
 PRO EVOLUTION SOCCER 2018 LITE
 PRO EVOLUTION SOCCER 2019 DEMO
 PROJECT QUARANTINE Demo
+PROPHUNT
 PROTOTYPE 2
 PUBG LITE
 PUBG: BLINDSPOT
@@ -8615,6 +8624,7 @@ PaRappa the Rapper 2
 Pacific Drive
 Pacifish
 Pacify
+Packing Life
 Paddle Paddle Paddle
 Pagan Online
 Painkiller
@@ -8695,6 +8705,7 @@ Parking Together!
 Parking Tycoon: Business Simulator
 Parking World: Build & Manage
 Parkitect
+ParryMaster
 Particle Fleet: Emergence
 Partisans 1941
 Party Animals
@@ -9610,6 +9621,7 @@ Resident Evil: Director's Cut
 Resident Evil: Operation Raccoon City
 Resident Evil: Revelations 2 - Episode 1: Penal Colony
 Resistance: Retribution
+Resonance Solstice
 Resonance of the Ocean
 Resonite
 Respublica
@@ -11155,6 +11167,7 @@ Stonies
 Storage Hunter
 Storage Hustle
 Store Wars: Prologue - Multiplayer Shop Simulator
+Storebound
 Stories Untold
 Stories from Sol: The Gun-Dog
 Stories to Tell: Greyville Stay
@@ -12509,6 +12522,7 @@ Tiny Kingdom
 Tiny Life
 Tiny Pasture
 Tiny Rogues
+Tiny Shadows Interwoven Hearts
 Tiny Survivors
 Tiny Tactics
 Tiny Terraces
@@ -13699,6 +13713,7 @@ Wolvesville
 Wonder Boy: The Dragon's Trap
 Wonder Wickets
 Wonderful Everyday Down the Rabbit-Hole
+Wonderia
 WooLoop
 Wooden Battles
 Woodo
@@ -13857,6 +13872,7 @@ Yield! Fall of Rome
 Ylands
 Ymir
 Yog-Sothoth's Yard
+YogLabs: Testing Initiative
 Yogurt!
 Yohane The Parhelion: Blaze In The Deepblue
 Yoiyami Dancers: Twilight Barrage Dancers
@@ -13877,6 +13893,7 @@ You Suck at Parking
 You Suck at Parking® - Complete Edition
 You Will (Not) Remain
 You are the Judge!
+You've Got a Package
 YouTube VR
 Your Average Bear
 Your Big, Cute Monster Farm
