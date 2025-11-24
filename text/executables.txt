@@ -5263,6 +5263,7 @@ moonbasealphagame.exe
 moonbreaker/moonbreaker.exe
 moonglow bay/moonglowbay.exe
 moonhunters.exe
+moonlighter 2 the endless vault/moonlighter 2 the endless vault.exe
 moonlighter.exe
 moonring/moonring.exe
 moonscars/moonscars.exe
@@ -7104,6 +7105,7 @@ sid meier's civilization v sdk/sid meier's civilization v sdk.exe
 sid meier's colonization/dosbox_windows/dosbox.exe
 sid meier's pirates!/pirates!.exe
 sid meier's starships/starships64.exe
+side effects/side effects.exe
 siege survival gloria victis prologue/siegesurvivalprologue.exe
 sigame/sigame.exe
 sigils of elohim/sigils.exe
@@ -9074,6 +9076,7 @@ wearefootball2024/waf2024.exe
 webbed/webbed.exe
 webfishing/webfishing.exe
 wedding witch/wedding witch.exe
+wednesdays/wednesdays.exe
 wee tanks/wee tanks.exe
 weed shop 2/weed shop 2.exe
 weed shop 3/weed shop 3.exe
