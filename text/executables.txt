@@ -1595,8 +1595,6 @@ combatarms.exe
 come home/comehome.exe
 come with me/comewithme.exe
 comedy night.exe
-comet.app
-comet/application/comet.exe
 command & conquer generals - zero hour/game.dat
 command & conquer red alert 3 demo/ra3demo.exe
 command & conquer red alert ii/game.exe
@@ -10119,6 +10117,7 @@ win64/projectbakery-win64-shipping.exe
 win64/projectborealis-win64-shipping.exe
 win64/projectboundarysteam-win64-shipping.exe
 win64/projectcards-win64-shipping.exe
+win64/projectcombine-win64-shipping.exe
 win64/projectcoop-win64-shipping.exe
 win64/projectcoral-win64-shipping.exe
 win64/projecthermes-win64-shipping.exe

@@ -978,6 +978,7 @@ BUSTAFELLOWS
 BUTCHER
 Baba Is You
 Babble Royale
+Babbling Brook
 Baby Steps
 Back 4 Blood
 Back in Service
@@ -2358,7 +2359,6 @@ Come Home
 Come out, cat
 Come with Me
 Comedy Night
-Comet
 Comic Book Store Simulator
 Coming Out on Top
 Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™
@@ -2561,6 +2561,7 @@ Creeper World 4
 Creeper World 4 Demo
 Creeper World Anniversary Edition
 Creeper World IXE
+Creepy Shift: Vol 1 - Roadside Diner
 Creepy Tale
 Creo God Simulator
 Crescent Tower
@@ -2706,6 +2707,7 @@ Cyber Hunter
 Cyber Knights: Flashpoint
 Cyber Manhunt
 Cyber Manhunt 2: New World
+Cyber Rats
 CyberCorp
 CyberTaxi: Lunatic Nights
 Cyberdimension Neptunia: 4 Goddesses Online
@@ -4057,6 +4059,7 @@ Exanima
 Executive Assault
 Executive Assault 2
 Exfil
+Eximius: Seize the Frontline
 Exit
 Exit Kun
 Exit the Gungeon
@@ -7901,6 +7904,7 @@ Moral Dilemma: The Interview
 Morbid: The Lords of Ire
 Morbid: The Seven Acolytes
 Mordheim: City of the Damned
+More Sushi!
 Morgenstern
 Morimens
 Moros Protocol
@@ -10879,6 +10883,7 @@ Siege Survival: Gloria Victis Prologue
 Siegeturtle
 Sifu
 Sigils of Elohim
+Sigils of Nightfall
 Sigma Theory
 Sign of Silence
 Signal Simulator
@@ -13490,6 +13495,7 @@ Unnamed Space Idle
 UnnyWorld
 Unpacking
 Unplagued
+Unplug
 Unpossess
 Unrailed 2: Back on Track
 Unrailed!
@@ -13603,7 +13609,7 @@ Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Gue
 Valkyria Chronicles 4 Complete Edition
 Valkyria Chronicles™
 Valkyrie Elysium
-Valkyrie Profile: Lenneth 
+Valkyrie Profile: Lenneth
 Valley
 Valnir Rok
 Vampire Clans
@@ -14378,6 +14384,7 @@ Zenith MMO
 Zenless Zone Zero
 Zeno Clash
 Zenzizenzic
+Zero Caliber 2 Remastered
 Zero Caliber VR
 Zero Division
 Zero Escape: The Nonary Games
