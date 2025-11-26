@@ -7948,6 +7948,7 @@ tcheco in the castle of lucio/tcheco.exe
 tdp4team battle/tdp4air.exe
 tds.exe
 tdusc/tdusc.exe
+team fortress 2 gold rush/tf_goldrush_win64.exe
 team sonic racing/gameapp_pcdx11_x64final.exe
 teamfight manager/teamfight manager.exe
 teardown/teardown.exe
