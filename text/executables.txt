@@ -8191,6 +8191,7 @@ the last spell/the last spell.exe
 the last stand aftermath demo/tlsa.exe
 the last stand aftermath/tlsa.exe
 the legend of bum-bo/the legend of bum-bo.exe
+the legend of heroes trails from zero/zero.exe
 the legend of heroes trails through daybreak/kuro.exe
 the legend of korra/lok.exe
 the lego movie 2 videogame/lego the lego movie 2_dx11.exe

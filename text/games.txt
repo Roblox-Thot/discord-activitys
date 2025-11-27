@@ -1464,6 +1464,7 @@ Base Defense
 Baseball Bout: Otterrific Arcade
 Baseball Stars 2
 Baseball Stars: Professional
+Baseball: 2 Player Cooperation Edition - Breakthrough Gaming Arcade
 Baseball: 4 Player Cooperation Edition - Breakthrough Gaming Arcade
 Baseball: Breakthrough Gaming Arcade
 Basement
@@ -4982,6 +4983,7 @@ EA SPORTS FC 25
 EA SPORTS FC 26
 EA SPORTS UFC
 EA Sports College Football 25
+EA Sports Madden NFL 25
 EA Sports Madden NFL 26
 EA Sports PGA Tour
 EA Sports UFC 5
@@ -15274,6 +15276,7 @@ Stories to Tell: Greyville Stay
 Stories to Tell: Run Away
 Stories: The Path of Destinies
 Storm Chasers
+Storm Lancers
 Storm Striker
 StormEdge: Wind of Change
 Stormbound
@@ -16636,6 +16639,7 @@ The Legend Of Heroes: Trails Beyond The Horizon
 The Legend of Bum-Bo
 The Legend of Dragoon
 The Legend of Heroes: Sen no Kiseki III
+The Legend of Heroes: Trails from Zero
 The Legend of Heroes: Trails in the Sky
 The Legend of Heroes: Trails in the Sky SC
 The Legend of Heroes: Trails in the Sky the 3rd
