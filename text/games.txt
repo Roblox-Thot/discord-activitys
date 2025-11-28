@@ -488,6 +488,7 @@ Age of Mythology: Extended Edition
 Age of Mythology: Retold
 Age of Reforging: The Freelands
 Age of Sokoban
+Age of War
 Age of Water
 Age of Water: The First Voyage
 Age of Wonders 4
@@ -1800,6 +1801,7 @@ Black Desert Online
 Black Forest
 Black Gold: Oil Drilling Simulator
 Black Heart
+Black Hole Fishing
 Black Jack World Tour
 Black Jacket
 Black Mesa
@@ -2539,6 +2541,7 @@ Capcom Fighting Collection 2
 Capes
 Capital Command
 Capitalism 2
+Capote
 Cappuccino Assassino Shooter
 Capsule Fight
 Captain Blood
@@ -5648,6 +5651,7 @@ Fall of the stick knights
 Fallen Aces
 Fallen Aces Demo
 Fallen Earth
+Fallen Elf Freya
 Fallen Enchantress: Legendary Heroes
 Fallen Legion: Flames of Rebellion
 Fallen Legion: Revenants
@@ -7601,6 +7605,7 @@ Hitman: Sniper Challenge
 Hmmsim Metro
 Hoa
 Hob
+Hobby Horse
 Hobo: Tough Life
 Hobs
 Hockey Super Squad
@@ -8222,6 +8227,7 @@ Inventorix
 Inverted Angel
 Investour
 Invincible Presents: Atom Eve
+Invincible VS
 Invisible, Inc.
 Invisible, Inc.: Console Edition
 Invisigun Reloaded
@@ -10245,6 +10251,7 @@ Mini-Mech Mayhem
 MiniGolf Mania
 MiniLife: Tournament
 MiniRoyale
+Minigame Madness Lite
 Minigolf Tour
 Miniland Adventure: Prologue
 Mining Mechs
@@ -18430,6 +18437,7 @@ Warhammer 40,000: Space Marine 2
 Warhammer 40,000: Speed Freeks
 Warhammer 40,000: Warpforge
 Warhammer Age of Sigmar: Realms of Ruin
+Warhammer Age of Sigmar: Storm Ground
 Warhammer Quest
 Warhammer Quest II: The End Times
 Warhammer Underworlds: Online

@@ -2829,6 +2829,7 @@ fall of the stick knights/fall of stick knights.exe
 fallen aces demo/fallen aces demo.exe
 fallen aces/fallen aces.exe
 fallen earth f2p/feupdater.exe
+fallen elf freya/fallen elf freya.exe
 fallen ~makina and the city of ruins~/nw.exe
 fallguys_client.exe
 fallguys_client_game.exe
@@ -9926,6 +9927,7 @@ win64/mid-win64-shipping.exe
 win64/midnightghosthunt-win64-shipping.exe
 win64/midnightsuns-win64-shipping.exe
 win64/mindseye-win64-shipping.exe
+win64/minigamemadness-win64-shipping.exe
 win64/mining-win64-shipping.exe
 win64/miniroyale.exe
 win64/mir4s.exe
@@ -10371,6 +10373,7 @@ win64/storagehunter-win64-shipping.exe
 win64/storewars-win64-shipping.exe
 win64/stormgame-win64-shipping.exe
 win64/stormgate-win64-shipping.exe
+win64/stormground.exe
 win64/stormstrikerclient-win64-shipping.exe
 win64/storrorparkourpro-win64-shipping.exe
 win64/storybook-win64-shipping.exe
@@ -10728,6 +10731,7 @@ windows-x86_64/zephon.exe
 windows/bloody painter dating sim.exe
 windows/digdigdrill.exe
 windows/dungeonclawler.exe
+windows/game.exe
 windows/godus.exe
 windows/hellfire.exe
 windows/hemingway.exe
