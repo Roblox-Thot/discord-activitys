@@ -9739,6 +9739,7 @@ Make Your Kingdom: Prologue
 MakeRoom
 MakerKing
 Making*Lovers
+Maktala
 Maldita Castilla EX: Cursed Castilla
 Malicious Fallen
 Malignant Survivors
@@ -9881,6 +9882,7 @@ Match Master
 Match Ventures
 Matchmaking Inc.
 Matchpoint: Tennis Championships
+MateEngine
 Material Girl
 Math Fun
 Math Genius: Addition Edition

@@ -4930,6 +4930,7 @@ masterplan tycoon foundations/masterplan tycoon.exe
 masterplan tycoon/masterplan tycoon.exe
 masterreboot.exe
 masters of anima.exe
+mateengine/mateenginex.exe
 material girl/game.exe
 maurice in the predators nest/maurice.exe
 max gentlemen sexy business!/business.exe
@@ -6506,6 +6507,7 @@ release/fun hospital.exe
 release/heartwood online.exe
 release/homeworldrm.exe
 release/ironharvest.exe
+release/maktala.exe
 release/nsgp.exe
 release/rof.exe
 release/samawa idle.exe
