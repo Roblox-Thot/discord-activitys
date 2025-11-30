@@ -369,6 +369,7 @@ ann/nw.exe
 anna's quest/anna.exe
 anno 1404 - history edition/anno1404addon.exe
 anno 1404/addon.exe
+anno 1701 - history edition/anno1701.exe
 anno2205.exe
 anno4.exe
 anno5.exe
@@ -4097,6 +4098,7 @@ inari/inari.exe
 inazuma eleven victory road demo/nie.exe
 inbento/inbento.exe
 incline/incline.exe
+incredicer/incredicer.exe
 increlution/increlution.exe
 incremental adventures/incrementaladventures.exe
 incremental cubes/incrementalcubes.exe
