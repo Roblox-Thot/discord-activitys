@@ -305,6 +305,7 @@ altushka dlya skufa/altushka_dlya_skufa.exe
 always sometimes monsters/game.exe
 amalgam/hl2.exe
 amanda the adventurer 2/amanda the adventurer 2.exe
+amanda the adventurer 3/amanda the adventurer 3.exe
 amanda the adventurer demo/amanda the adventurer.exe
 amanda the adventurer/amanda the adventurer.exe
 amarillo's butt slapper/amarillo's butt slapper.exe
@@ -9670,6 +9671,7 @@ win64/furnishmaster-win64-shipping.exe
 win64/furryaimtrainer-win64-shipping.exe
 win64/fuser-win64-shipping.exe
 win64/fushimiinari-win64-shipping.exe
+win64/futarunner-win64-shipping.exe
 win64/g1r-win64-shipping.exe
 win64/galgun2-win64-shipping.exe
 win64/game_x64r.exe
@@ -11051,6 +11053,7 @@ zero hour/zero hour.exe
 zero idle/zeroidle.exe
 zero sievert/zero sievert.exe
 zeroranger/zeroranger.exe
+zerowake gates/zerowakegates.exe
 zet zillions/zet zillions.exe
 zetria/zetria.exe
 zetria_demo/zetria.exe
