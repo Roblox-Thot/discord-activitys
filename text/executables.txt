@@ -2353,6 +2353,7 @@ dragon quest builders 2 jumbo demo/dqb2_eu_trial.exe
 dragon quest builders 2/dqb2_eu.exe
 dragon quest monsters 3/dqmonsters3.exe
 dragon quest xi.exe
+dragon sleuth brittany/dragonsleuthbrittany.exe
 dragonage2.exe
 dragonageinquisition.exe
 dragonfall.exe
@@ -5948,6 +5949,7 @@ pathologic 3 quarantine/pathologic3.exe
 pathologic/pathologic.exe
 pathway/pathway.exe
 patrician iii/p3setup.exe
+patrician iv/patrician4.exe
 patrick's parabox demo/patrick's parabox.exe
 patrick's parabox/patrick's parabox.exe
 paunch 2/paunch 2.exe
@@ -7593,6 +7595,7 @@ storm area 51 ayy lmao edition/stormarea51.exe
 storm chasers/storm chasers.exe
 stormbound kingdom wars/stormbound.exe
 stormedge wind of change/stormedge.exe
+stormheartsteam-win64-shipping.exe
 stormworks/stormworks.exe
 stormworks/stormworks64.exe
 story of seasons a wonderful life/story of seasons a wonderful life.exe
