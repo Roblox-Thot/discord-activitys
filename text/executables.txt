@@ -7596,6 +7596,8 @@ storm chasers/storm chasers.exe
 stormbound kingdom wars/stormbound.exe
 stormedge wind of change/stormedge.exe
 stormheartsteam-win64-shipping.exe
+stormlancersdemo.exe
+stormlancersdemosteam-win64-shipping.exe
 stormworks/stormworks.exe
 stormworks/stormworks64.exe
 story of seasons a wonderful life/story of seasons a wonderful life.exe
@@ -10103,6 +10105,7 @@ win64/policeshootout-win64-shipping.exe
 win64/poly_survival-win64-shipping.exe
 win64/polygon-win64-shipping.exe
 win64/poolnationfx.exe
+win64/poostall_royale-win64-shipping.exe
 win64/poppy_playtime-win64-shipping.exe
 win64/portalwars-win64-shipping.exe
 win64/portalwars2client-win64-shipping.exe
