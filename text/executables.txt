@@ -167,7 +167,6 @@ aceofspades/aos.exe
 aces and adventures/aces and adventures.exe
 aces high iii/aceshighsteam.exe
 aces.exe
-aces.exe
 acfc.exe
 achat/achat.exe
 achievement clicker/achievementclicker.exe
@@ -712,6 +711,7 @@ bbcse.exe
 bbq simulator the squad/bbq_simulator_thesquad.exe
 bbtag.exe
 beacon pines/beacon pines.exe
+beam eye tracker/beameyetracker.exe
 beamng.drive.exe
 beamng.drive.x64.exe
 bean battles/beanbattles.exe
@@ -1339,6 +1339,7 @@ cat quest/cat quest.exe
 cataclismo/cataclismo.exe
 cataclysm-tiles.exe
 catan universe/catanuniverse.exe
+catch me if you can/catchmeifyoucan.exe
 catgirl lover/catgirl lover.exe
 catherineclassic/catherine.exe
 catlateraldamage/catlateraldamage.exe
@@ -4011,6 +4012,7 @@ i got a cat maid/i got a cat maid.exe
 i hate this game/i hate this game.exe
 i just want to be single!! demo/ijwtbs_demo.exe
 i wani hug that gator!/wanigame.exe
+i wanna be the boshy.exe
 i wanna maker/i wanna maker.exe
 i'm on observation duty 2 timothy's revenge/i'm on observation duty 2 timothy's revenge.exe
 i'm on observation duty 3/i'm on observation duty 3.exe
@@ -7227,6 +7229,7 @@ slow and steady/slow and steady.exe
 sludge life 2/sludgelife2.exe
 sludge life the big mud sessions/sludgelife2demo.exe
 sludge life/sludgelife.exe
+slut squad/slutsquad.exe
 slw.exe
 small saga/smallsaga.exe
 smallworld2/smallworld.exe
@@ -9529,6 +9532,7 @@ win64/dollimpostor-win64-shipping.exe
 win64/dollsnest-win64-shipping.exe
 win64/dont_scream-win64-shipping.exe
 win64/dontlookaway-win64-shipping.exe
+win64/dontscreamtogether-win64-shipping.exe
 win64/doubleclutch-win64-shipping.exe
 win64/doubleshoulders-win64-shipping.exe
 win64/dqiandiihd2dremake.exe

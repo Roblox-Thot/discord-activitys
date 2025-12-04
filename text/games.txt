@@ -1621,6 +1621,7 @@ Beach Invasion 1944
 Beach Invasion 1945: Pacific
 Beacon Pines
 Beacon of Neyda
+Beam Eye Tracker
 BeamNG.drive
 Bean
 Bean Battles
@@ -2367,7 +2368,7 @@ Bully
 Bully: Scholarship Edition
 Bulwark: Falconeer Chronicles
 Bum Simulator
-Bum: Revenge Prologue
+Bum: Revenge
 Bumblebee: Search for Happiness
 Bump 'n' Jump
 Bump Jump
@@ -2781,6 +2782,7 @@ Catacomb Master
 Catan Universe
 Catan: Console Edition
 Catch Me
+Catch Me If You Can
 Catch the Bowling Balls: Breakthrough Gaming Arcade
 Cate P
 Caterpillar
@@ -3859,6 +3861,7 @@ DOKAPON! Sword of Fury
 DON'T FACE UP
 DON'T LOOK AWAY
 DON'T SCREAM
+DON'T SCREAM TOGETHER
 DOOM
 DOOM 3
 DOOM 3: BFG Edition
@@ -8075,6 +8078,7 @@ I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator
 I MAED A GAM3 W1TH Z0MB1ES 1NIT!!!1
 I Wani Hug that Gator!
 I Wanna Be A Game Dev!
+I Wanna Be The Boshy
 I Wanna Maker
 I Want To Go To Mars
 I Was a Teenage Exocolonist
@@ -14986,6 +14990,7 @@ Slopecrashers Demo
 Slot & Dungeons
 Slots & Daggers
 Slow and Steady
+Slut Squad
 Sly 2: Band of Thieves HD
 Sly 3: Honor Among Thieves
 Sly Cooper and the Thievius Raccoonus
@@ -17474,6 +17479,7 @@ Their Land
 Them Bombs Demo
 Them's Fightin' Herds
 TheoTown
+Therapy Simulator
 There Are No Ghosts At The Grand
 There Are No Orcs
 There Are Two Chairs
@@ -18833,7 +18839,6 @@ War of Rights
 War of the Monsters
 War on the Sea
 WarDogs: Red's Return
-WarThunder
 Warborne Above Ashes (Demo)
 Warbox
 Warcraft I: Remastered
