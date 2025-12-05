@@ -7389,6 +7389,7 @@ spellbook demonslayers prologue/spellbook demonslayers.exe
 spellbook demonslayers/spellbook demonslayers.exe
 spellbreak.exe
 spellcaster university/spellcaster university.exe
+spellcasterschronicles.exe
 spellcraft dev (staging)/spellcraft.exe
 spellcraft dev (staging)/unitycrashhandler64.exe
 spellcraft-gamelab.exe
