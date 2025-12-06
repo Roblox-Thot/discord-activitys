@@ -189,6 +189,7 @@ A Building Full of Cats
 A Building Full of Cats 2
 A Bumpy Ride
 A Burger in Space
+A Case of Fraud
 A Castle Full of Cats
 A Certain Magical Virtual-On
 A Dance of Fire and Ice
@@ -567,6 +568,7 @@ Air Brawl
 Air Climb Racing 2
 Air Conflicts: Double Pack
 Air Conflicts: Vietnam - Ultimate Edition
+Air Defender
 Air Fight: Sky Fighters
 Air Force Special Ops: Nightfall
 Air Guitar Warrior for Kinect
@@ -2367,6 +2369,7 @@ Breakout Beyond
 Breakout: Recharged
 Breakthrough Gaming Activity Center: The Continents
 Breakwaters
+Breath of Fire IV
 Breath of Life
 Breathedge
 Breathedge 2
@@ -3870,6 +3873,7 @@ Crumble Demo
 Crusader Kings II
 Crusader Kings III
 Crusaders Quest: MergeChess
+Crusaders Quest: Mini
 Crusaders of Light
 Crusaders of the Lost Idols
 Crush Crush
@@ -5226,6 +5230,7 @@ Duck Season PC
 Duck Simulator 2
 Duck Souls
 DuckTales Remastered
+Duckoleon
 Ducks
 Ducks Can Drive
 Ducky Dash
@@ -5522,6 +5527,7 @@ Egypt: Old Kingdom
 Einar
 Eiyuden Chronicle: Hundred Heroes
 Eiyuden Chronicle: Rising
+El 39
 El Dorado: The Golden City Builder
 El Gancho
 El Paso, Elsewhere
@@ -6802,6 +6808,7 @@ Frontline Logistics: Isarian Warfare
 Frontlines
 Frontlines: Fuel of War
 Frost Survival VR
+FrostBound
 FrostRunner
 Frosthaven
 Frostpunk
@@ -7238,6 +7245,7 @@ Global City
 Global Conflagration
 Global Farmer
 Globs & Ghosts
+Glonk
 Gloom
 Gloom and Doom
 Gloomhaven
@@ -7834,6 +7842,7 @@ Harmony: The Fall of Reverie
 Harms Way
 Harold Halibut
 Harry Potter: Quidditch Champions
+Harventure
 Harvest Moon: A Wonderful Life - Special Edition
 Harvest Moon: Back To Nature
 Harvest Moon: Light of Hope
@@ -9798,6 +9807,7 @@ Legrand Legacy: Tale of the Fatebounds
 Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored
 Leisure Suit Larry - Wet Dreams Don't Dry
 Leisure Suit Larry 1 - In the Land of the Lounge Lizards
+Lekano World Online
 Lemnis Gate
 Lemon Cake
 Lemonade Apocalypse
@@ -12075,6 +12085,7 @@ Nongunz: Doppelganger Edition
 Nonogram - Master's Legacy
 Noob: The Factionless
 Noobs Are Coming
+Nophenia
 Nordhold
 Nordhold: Origins
 Nordic Ashes
@@ -17662,6 +17673,7 @@ The Defender: Farm and Castle
 The Descendant
 The Designer's Curse
 The Devil Within: Satgat
+The Devil's Due
 The Devourer: Hunted Souls Demo
 The Dice is Cast
 The Dig®
@@ -19675,6 +19687,7 @@ Vivaland: Dream House
 Vivat Slovakia
 Vivid World
 Vixen Wars
+Vlak
 Voice Commander
 Voice of Cards: The Isle Dragon Roars
 Voice of Cards: The Isle Dragon Roars Demo
