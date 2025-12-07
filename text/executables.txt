@@ -10238,6 +10238,7 @@ win64/ronin-win64-shipping.exe
 win64/rooftopsandalleys-win64-shipping.exe
 win64/rose-win64-shipping.exe
 win64/rouge-win64-shipping.exe
+win64/routine-win64-shipping.exe
 win64/rpgame-win64-shipping.exe
 win64/rr-win64-shipping.exe
 win64/rsdragonwilds-win64-shipping.exe
