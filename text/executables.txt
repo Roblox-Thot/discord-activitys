@@ -1576,6 +1576,7 @@ college kings/collegekings.exe
 colonize prologue/colonize.exe
 colony simulator/colony simulator.exe
 colony survival/colonyclient.exe
+coloring book for kids/coloring book for kids.exe
 coloring book/coloring book for adults.exe
 coloring game 2/game.exe
 coloring game 3/game.exe
@@ -4141,6 +4142,7 @@ injustice2.exe
 inkbound/inkbound.exe
 inkulinati/inkulinati.exe
 inmost/inmost.exe
+innocence or money  season 2/innocenceormoneyseason2.exe
 innocence or money - prelude/innocenceormoney.exe
 innocence or money - v 0.0.3/innocenceormoney.exe
 insaniquarium deluxe/insaniquarium.exe
