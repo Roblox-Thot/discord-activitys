@@ -323,6 +323,8 @@ amnesia rebirth/amnesiarebirth.exe
 amnesia the bunker demo/amnesiathebunker_demo_steam.exe
 amnesia the bunker/amnesiathebunker.exe
 amnesia the dark descent/amnesia.exe
+amnesia/amnesia.exe
+amnesia/amnesia.exe
 among the sleep demo/among the sleep demo.exe
 among the sleep/among the sleep.exe
 among trees/among trees.exe
@@ -4256,6 +4258,7 @@ jedi.exe
 jediacademy.exe
 jediknight.exe
 jelly brawl classic/jelly brawl.exe
+jerking off in class simulator/jerking off in class simulator.exe
 jerma's big adventure/jerma's big adventure.exe
 jesus christ rpg/game.exe
 jet island/jetisland.exe
