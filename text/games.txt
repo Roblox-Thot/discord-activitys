@@ -8177,6 +8177,7 @@ Higurashi When They Cry Hou - Ch.2 Watanagashi
 Higurashi When They Cry Hou - Ch.3 Tatarigoroshi
 Higurashi When They Cry Hou - Ch.4 Himatsubushi
 Higurashi When They Cry Hou - Ch.5 Meakashi
+Higurashi When They Cry Hou - Ch.6 Tsumihoroboshi
 Hijong Park's Defender Patrol
 Hill Climb Racing
 Hill Climb on a Motorcycle
@@ -12671,6 +12672,7 @@ POSTAL Brain Damaged
 POSTAL Brain Damaged Demo
 POSTAL Redux
 PPSSPP
+PRAGMATA
 PRICE
 PRO EVOLUTION SOCCER 2018 LITE
 PRO EVOLUTION SOCCER 2019 DEMO
@@ -15332,6 +15334,7 @@ Sexy Mystic Survivors
 Sexy Space Airlines
 Shade Silver
 Shader Glass
+ShaderGlass
 Shadow Assault: ~Tenchu~
 Shadow Burglar
 Shadow Complex Remastered

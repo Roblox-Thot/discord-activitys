@@ -3850,6 +3850,7 @@ higurashi 02 - watanagashi/higurashiep02.exe
 higurashi 03 - tatarigoroshi/higurashiep03.exe
 higurashi 04 - himatsubushi/higurashiep04.exe
 higurashi when they cry hou - ch. 5 meakashi/higurashiep05.exe
+higurashi when they cry hou - ch.6 tsumihoroboshi/higurashiep06.exe
 higurashi when they cry/higurashiep01.exe
 himno/himno.exe
 hindie.exe
@@ -7006,6 +7007,7 @@ sgsc10th/sgsc10th.exe
 sgw3.exe
 sh3.exe
 sh5.exe
+shaderglass/shaderglass.exe
 shadow fight arena/sfa.exe
 shadow gambit the cursed crew/shadowgambit_tcc.exe
 shadow tactics.exe
@@ -8840,6 +8842,7 @@ untitled ghost game/untitled ghost game.exe
 untitled goose game/untitled.exe
 untrusted/untrusted.exe
 unturned.exe
+unturned/unturned.exe
 unturned_be.exe
 unworthy/unworthy.exe
 updater/sansar.exe
