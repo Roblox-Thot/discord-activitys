@@ -1244,6 +1244,7 @@ Atelier Firis: The Alchemist and the Mysterious Journey DX
 Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX
 Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator
 Atelier Resleriana: The Red Alchemist & The White Guardian
+Atelier Ryza 2: Lost Legends & the Secret Fairy DX
 Atelier Ryza: Ever Darkness & the Secret Hideout
 Atelier Ryza: Ever Darkness & the Secret Hideout DX
 Atelier Sophie 2: The Alchemist of the Mysterious Dream
@@ -1306,6 +1307,7 @@ Automation Empire
 Automobilista 2
 Automobilista 2 Demo VW TSI Cup
 Autonauts
+Autonomica
 Autopsy Simulator
 Avakin Life
 Avalon Crew
@@ -1839,6 +1841,7 @@ Better Mart
 Betty Bat's Treasure Hunt
 Betty's Brawl
 Between Two Castles - Digital Edition
+Between Two Worlds
 Between the Stars
 Beveron
 Beyblade X Evo Battle
@@ -5651,6 +5654,7 @@ Energy Cycle
 Energy Cycle: Edge
 Energy Lab
 Enforcer: Police Crime Action
+Enfynyty
 Engine Evolution
 Engine Evolution 2021
 Engine Evolution 2022
@@ -7641,6 +7645,7 @@ Guns of Icarus Online
 Guns'n'Stories: Preface VR
 Guns, Gore & Cannoli
 Guns, Gore and Cannoli 2
+GunsBox VR
 Gunscape
 Gunsmith
 Gunsmith Simulator
@@ -8092,6 +8097,7 @@ Heroes of the Monkey Tavern
 Heroes of the Storm
 Heroic Pirates
 Heroine Anthem: [Zero]
+Heroines Through My Lens
 Heroland
 HerrAnwalt: Lawyers Legacy
 Hex Tunnel: Touch
@@ -8166,6 +8172,7 @@ High Profits
 High School Simulator 2018
 High Velocity
 High Way Race
+High on Life 2
 HighFleet
 Highlaundry Overwashed: Play with your friends!
 Highrise
@@ -9121,6 +9128,7 @@ Juno: New Origins
 Jupiter & Mars
 Jupiter Hell
 Jupiter Hell Classic
+Jurassic Park Classic Games Collection
 Jurassic Park: The Game
 Jurassic World Aftermath: Collection
 Jurassic World Evolution
@@ -11196,6 +11204,7 @@ Monark
 Moncage
 Mondealy: Day One
 Money Simulator
+Money Simulator: Brokeville
 Mongo Dash
 Mongo Madness
 Monica's Newlywed Life
@@ -11912,6 +11921,7 @@ Nickelodeon All-Star Brawl 2
 Nickelodeon Kart Racers 2: Grand Prix
 Nickelodeon Kart Racers 3: Slime Speedway
 Nickelodeon: Kart Racers
+Nicktoons & The Dice of Destiny
 Nicole (otome version)
 Nidhogg
 Nidhogg 2
@@ -18462,6 +18472,7 @@ Thief Simulator 2
 Thief Simulator 2: Prologue
 Thief Simulator VR
 Thief Simulator: Heist Master
+Thief VR: Legacy of Shadow
 Thief: Deadly Shadows
 Thimbleweed Park
 Think a little
@@ -20963,6 +20974,7 @@ you're just imagining it
 ホロパレード
 ホロライブお宝マウンテン
 マジカルバトルアリーナNEXT・幻想郷空閃姫
+マモンキング
 メタファー：リファンタジオ ～プロローグ体験版～
 モンスターハンターストーリーズ2　～破滅の翼～
 ユミアのアトリエ ～追憶の錬金術士と幻創の地～
