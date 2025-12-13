@@ -1205,6 +1205,7 @@ Astral Escape
 Astral Tale: Myth of the Stars
 Astral Throne
 Astrea: Six-Sided Oracles
+Astria Ascending
 Astride
 Astro & Suzy go to the beach!
 Astro Aqua Kitty
@@ -1318,6 +1319,7 @@ Avatar: The Last Airbender - Quest For Balance
 Aven Colony
 Avenging Spirit
 Avernum 4: Greed and Glory
+Avernum: Escape From the Pit
 Aviary Attorney
 Aviassembly
 Aviators
@@ -20488,6 +20490,7 @@ YUR
 Yacht Dice
 Yakiniku Party Survival
 Yakuza 0
+Yakuza 0: Director's Cut
 Yakuza 3
 Yakuza 3 Remastered
 Yakuza 4 Remastered
