@@ -32,6 +32,7 @@
 100 Asian Cats
 100 Capitalist Cats
 100 Cats Lost In Canada Find & Color
+100 Cats Lost In Italy
 100 Cats Lost In Japan Find & Color
 100 Cats Lost In Turkey Find & Color
 100 Cats New York
@@ -268,6 +269,7 @@ A Winter's Daydream
 A World of Keflings
 A-Jax
 A-Train Express
+A.A.U.
 A.I.L.A
 A.R.D. Alien Removal Division
 A.W.O.L.
@@ -377,6 +379,7 @@ Abandoned
 Abandoned Archive
 Abiotic Factor
 Abnormality
+About Fishing
 Above Snakes
 Above Snakes: Prologue
 Abra-Cooking-Dabra
@@ -481,6 +484,7 @@ AeternoBlade II
 Aether & Iron
 Aethermancer
 Aethus
+Afallon
 Affected: The Manor - Complete Edition
 Affinity
 After Hours
@@ -549,6 +553,7 @@ Aggressors of Dark Kombat
 Agnostic Origins
 Agnostiko VS
 Agony
+Agreeee
 Agriculture
 Agronom
 Agrou
@@ -792,6 +797,7 @@ Ampersat
 An Amazing Wizard
 An Ankou
 An Arcade Full of Cats
+An Eggstremely Hard Game
 An Elaborate History of Chess
 An Evil Existence
 Analog: Skin off
@@ -885,6 +891,7 @@ Anno 1701 - History Edition
 Anno 1800
 Anno 2205
 Anode Heart
+Anode Heart: Layer Null
 Anoko wa Ore Kara Hanarenai
 Anomalous Coffee Machine
 Anomaly Agent
@@ -945,6 +952,7 @@ Apex Point
 Apocalipsis: The Tree of the Knowledge of Good and Evil
 Apocalypse Express
 Apocalypse Party
+Apocalypter
 Apogea
 Apollo 13: The Lost Tapes VR
 Apollo Justice: Ace Attorney Trilogy
@@ -1088,6 +1096,7 @@ Armored Core: Project Phantasma
 Armored Suit Solgante
 Armored Warfare
 Arms Trade Tycoon Tanks
+Arms of God
 Army Men RTS
 Army of Ruin
 Army of Two
@@ -1373,6 +1382,7 @@ BACKROOMS: NO RETURN Demo
 BAD END THEATER
 BADLAND: Game of the Year Edition
 BALL x PIT
+BANDIT KNIGHT
 BAPBAP
 BARRIER X
 BATTALION 1944
@@ -1554,6 +1564,7 @@ Bandit Six: Combined Arms
 Bandit Trap
 Bandle Tale: A League of Legends Story
 Banebush
+Bang Average Football
 Bang Bang Barrage
 Bang-On Balls: Chronicles
 Bangers Unlimited
@@ -1831,6 +1842,7 @@ Beneath The Earth: Backrooms
 Beneath the Surface
 Benefitship
 Bento Blocks
+Berry Bury Berry
 Berserk B.I.T.S
 Berserk Boy
 Berserk or Die
@@ -2307,6 +2319,7 @@ Boundary
 Boundland
 Boundless
 Bounty Below
+Bounty Brawl: Most Wanted
 Bounty Star: The Morose Tale of Graveyard Clem
 Bounty Train
 Bounty of One
@@ -2342,6 +2355,7 @@ Brainrot Battle Royale
 Brainrot Kart
 Bramble: The Mountain King
 Bratz: Flaunt Your Fashion
+Bratz: Rhythm & Style
 Brave
 Brave Nine
 BraveMatch
@@ -3350,6 +3364,7 @@ Climb The Backrooms
 Climber Animals: Together
 Climber: Sky is the Limit - Free Trial
 Climbey
+Cling To Blindness
 Clive Barker's Undying
 Cloak And Coin
 Clock Rogue
@@ -3561,6 +3576,7 @@ Console Shop Simulator
 Constance
 Construct 2 Free
 Construction Crew
+Construction Crew (Demo)
 Construction Machine Simulator 2023: Hard Truck Work Job
 Construction Simulator
 Construction Simulator 2 US - Pocket Edition
@@ -4232,6 +4248,7 @@ Dark Swords
 Dark Thrones
 Dark and Darker
 Dark and Light
+DarkOrbit Reloaded
 DarkStar One
 DarkStory Online
 DarkSwarm
@@ -5148,6 +5165,7 @@ Dreams of Desire: Definitive Edition
 Dreamscaper
 Dreamscaper: Prologue
 Dreamwalker: Never Fall Asleep
+Dremica
 Drift
 Drift Experience Japan
 Drift GEAR Racing Free
@@ -5170,6 +5188,7 @@ Drift86
 Drifting with Maxwell Cat: The Game
 Driftland: The Magic Revival
 Driftwood
+Drill Bird
 Drill Core
 Drill Deal: Borehole Alpha
 Drive 21
@@ -5325,6 +5344,7 @@ Dungeons & Dragons Online: Stormreach
 Dungeons & Dragons Online®
 Dungeons & Dragons: Chronicles of Mystara
 Dungeons & Dragons: Dark Alliance
+Dungeons & Dragons: The Temple of Elemental Evil - A Classic Greyhawk Adventure
 Dungeons & Kingdoms
 Dungeons 2
 Dungeons 3
@@ -5766,10 +5786,12 @@ Esper
 Esports Godfather
 Esports History
 Esports Life Tycoon
+Esports Manager 2026
 Esports Team Manager
 Espresso Tycoon
 Espresso Tycoon Prologue: Underwater
 Estate Agent Simulator
+Estella
 Estranged: Act I
 Estranged: The Departure
 Etaria Survival Adventure
@@ -6627,6 +6649,7 @@ For The King
 For The King II
 For the Queen
 ForRace GT2D
+Forage Wizard
 Forager
 Forbidden Fantasy
 Forbidden Terror: Board Game
@@ -6713,6 +6736,7 @@ Fracked
 Fractal Block World
 Fractal Fury
 Fractopia
+Fracture Point
 Fractured Blooms
 Fractured Mind
 Fractured Online
@@ -7046,6 +7070,7 @@ Gamer Stop Simulator : Prologue
 Gaming Cafe Simulator
 Ganbare! Super Strikers
 Gang Beasts
+Gang of Frogs
 Gangs of Sherwood
 Gangs of Space
 Gaplus
@@ -7904,6 +7929,7 @@ Haydee
 Haydee 2
 Haydee 3
 He Needs His Medicine
+He Who Watches
 He is Coming
 HeXen II
 HeXen: Beyond Heretic
@@ -8781,6 +8807,7 @@ Infinite Arrow
 Infinite Blue
 Infinite Guitars
 Infinite Lagrange
+Infinite Lives
 Infinite Space
 Infinite Stairs
 Infinite Tanks WWII
@@ -9174,6 +9201,7 @@ Just Find It 2
 Just Find It 3
 Just Fishing
 Just Go
+Just Ignore Them
 Just In Time Incorporated
 Just King
 Just King Demo
@@ -9708,6 +9736,7 @@ Last Group Out
 Last Hope Bunker: Zombie Survival
 Last Labyrinth
 Last Mage
+Last Man Sitting
 Last Man Standing
 Last Minute Shopping
 Last Moon
@@ -10990,6 +11019,7 @@ Mighty No. 9
 Mighty Party
 Mighty Switch Force! Collection
 Miglorn
+Miiridian Prime
 Mik
 Mika and The Witch's Mountain
 Miko In Maguma
@@ -11063,6 +11093,7 @@ Mineral Defense
 Miners Settlement
 Minesweeper
 Minesweeper Genius
+Minesweeper Ultimate
 Mini Airways
 Mini Airways: Prologue
 Mini Battlegrounds
@@ -11617,6 +11648,7 @@ Mystery Wax Museum - Hidden Objects
 Mystic Pillars
 Mystic Warriors
 Mystic Warriors Battleground
+Mystina: Remaster Online
 Myth of Empires
 MythForce
 Mythgard
@@ -11752,6 +11784,7 @@ Nancy Drew: Midnight in Salem
 Nancy Drew: Shadow at the Water's Edge
 Nancy Drew: Warnings at Waverly Academy
 Nano Assault: Neo
+Nano Neighbors
 NanoApostle
 Nanomon: Virtual Pet
 Nape Retroverse Collection
@@ -11933,6 +11966,7 @@ Nidhogg 2
 NieR Replicant ver.1.22474487139...
 NieR: Automata - Game of the YoRHa Edition
 NieR:Automata
+Nientum: Op.ZERO
 Niffelheim
 Nigate Tale
 Night Bus
@@ -12138,6 +12172,7 @@ Nova 2001
 Nova Drift
 Nova Lands
 Nova Lands: Emilia's Mission
+Nova Roma
 Nova-Life: Amboise
 Novena Diabolos
 Novice Dungeon Master
@@ -12225,6 +12260,7 @@ Obama
 Obama Maze
 Obduction
 Obenseuer
+Obey the Voice
 Object N
 Oblin Party
 Oblivion Override
@@ -12569,6 +12605,7 @@ Outrage: Fight Fest
 Outrider Mako
 Outside the Blocks
 Outward
+Outward 2
 Outward: Definitive Edition
 Outworld Station
 Ova Magica
@@ -13787,6 +13824,7 @@ Quasimorph: End of Dream
 Quatro!
 Quaver
 Qubit's Quest
+Queen's Domain
 Queen's Quest 2: Stories of Forgotten Past
 Queen's Quest 3: The End of Dawn
 Queen's Quest 4: Sacred Truce
@@ -14001,6 +14039,7 @@ Rainbow Advanced
 Rainbow Ascend: Anime Girls Go Up
 Rainbow Billy: The Curse of the Leviathan
 Rainbow Dash: Color This World
+Rainbow Gate
 Rainbow High: Runway Rush
 Rainbow Islands: Story of the Bubble Bobble 2
 Rainbow Mix
@@ -14087,6 +14126,7 @@ ReCharge: High Voltage
 ReCore
 ReMix
 ReSpaced
+ReStory: Chill Electronics Repairs
 ReactorX 2
 ReactorX 3
 Ready Player One: OASIS beta
@@ -18143,6 +18183,7 @@ The Pale Beyond
 The Park
 The Past Within
 The Past Within Demo
+The Path Into The Abyss
 The Pathless
 The Peanuts Movie: Snoopy's Grand Adventure
 The Pedestrian
@@ -18413,6 +18454,7 @@ The Whiskey Story
 The Whispered World Special Edition
 The White Door
 The Wild Eight
+The Willowmist Emporium of Antiques & Curiosities
 The Wind Road
 The Wine Story
 The Wings of Dawn
@@ -18660,6 +18702,7 @@ ToHeart
 ToS Gamepad Tester
 Toads of the Bayou
 Toaster Arena
+Toasterball
 Tobacco Shop Simulator: Prologue
 Toby: The Secret Mine
 Toca Boca World
@@ -18995,6 +19038,7 @@ Transformers: Rise of the Dark Spark
 Transformers: War for Cybertron
 Transformice
 Transformice Adventures Demo
+Transience
 Transistor
 Transit King Tycoon
 Transmissions: Element 120
@@ -19227,6 +19271,7 @@ Typing Break
 Typing Incremental
 Typingcommand
 Typoman: Revised
+Tyr
 Tyranny
 TyranoBuilder Visual Novel Studio
 Tyrant's Realm
@@ -19847,6 +19892,7 @@ Waltz and Jam
 Waltz of the Wizard
 Wanba Warriors
 Wander Stars
+Wanderburg
 Wanderers
 Wandering Sword
 Wanderjahr

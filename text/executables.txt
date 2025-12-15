@@ -1648,6 +1648,7 @@ conquests/civ3conquests.exe
 conscript/conscript.exe
 consim2015.exe
 construct2-win64/construct2.exe
+construction crew demo/construction crew (demo).exe
 construction simulator 2 us - pocket edition/consim2uspe.exe
 construction simulator/consim.exe
 contagion.exe
@@ -4307,6 +4308,7 @@ just cause 2 - multiplayer mod/crashsender1301.exe
 just cause 3 multiplayer mod/playjcmp.exe
 just cause 4/justcause4.exe
 just click the button/justclickthebutton.exe
+just ignore them/justignorethem.exe
 just in time/justintime.exe
 just king demo/king.exe
 just king/king.exe
@@ -8504,6 +8506,7 @@ to pixelia/to pixelia.exe
 to the moon.exe
 to the rescue!/to the rescue!.exe
 to the top/tothetop.exe
+toasterball/toasterball.exe
 todo today/todo-today.exe
 toejam & earl back in the groove/backinthegroove.exe
 toem/toem.exe
