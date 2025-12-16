@@ -377,6 +377,7 @@ anno4.exe
 anno5.exe
 annomutationem/anno.exe
 annomutationem/anno_mutationem.exe
+anomalous coffee machine 2/acm2_windows.exe
 anomalous coffee machine/acm_windows.exe
 anomaly agent/anomaly agent.exe
 another brick in the mall/launch.exe
@@ -7739,6 +7740,7 @@ super fantasy kingdom demo/super fantasy kingdom.exe
 super friends party/superfriendsparty.exe
 super jigsaw puzzle generations/super jigsaw puzzle generations.exe
 super lesbian animal rpg/game.exe
+super lucky's tale/slt.exe
 super meat boy forever/supermeatboyforever.exe
 super mega baseball 2/supermegabaseball.exe
 super mega baseball 4/supermegabaseball.exe
