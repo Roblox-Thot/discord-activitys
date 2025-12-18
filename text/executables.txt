@@ -407,6 +407,7 @@ aooni/aooni.exe
 aot/aot.exe
 aot2/aot2_eu.exe
 aow3.exe
+apartament 1406 horror/apartament 1406.exe
 apb.exe
 apblauncher.exe
 ape out/apeout.exe
@@ -1181,6 +1182,7 @@ build2/povcoop.exe
 builder simulator/builder simulator.exe
 builders of greece prologue/builders of greece.exe
 buildstuff/hoghunter2021.exe
+buildwindows_prod/harem of lust.exe
 bulanci/bulanci.exe
 bulb boy/bulbboy.exe
 bullet heaven 2/bullet heaven 2.exe
@@ -3041,6 +3043,7 @@ fishingplanet.exe
 fistful of frags/sdk/hl2.exe
 fitforce/fitforce.exe
 five dates/fivedates.exe
+five hearts under one roof season2/fhuor2.exe
 five hearts under one roof/milkgame.exe
 five nights at floppa/fivenightsatfloppa.exe
 five nights at freddy's 3/fivenightsatfreddys3.exe
@@ -5946,6 +5949,7 @@ patch/tos.exe
 patch/updater_downloader.exe
 patchwork/pxw.exe
 path of achra/pathofachra.exe
+path of exile 2 taiwan/pathofexile.exe
 path of exile 2 taiwan/pathofexilesteam.exe
 path of exile 2/pathofexile.exe
 path of exile 2/pathofexile_x64.exe
