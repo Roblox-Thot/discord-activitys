@@ -385,6 +385,7 @@ another crab's treasure/anothercrabstreasure.exe
 another eden/anothereden.exe
 another farm roguelike/farma.exe
 anthem.exe
+anthro heat/anthroheat.exe
 antichamber/binaries/win32/udk.exe
 antihero.exe
 antimatter dimensions/antimatter dimensions.exe
@@ -3007,6 +3008,7 @@ final fantasy xiv.app
 final fantasy xv playable demo/ffxv_s.exe
 final fantasy xvi demo/ffxvi_demo.exe
 final fantasy xvi/ffxvi.exe
+final hours - half-life alyx/alyxfinalhours.exe
 final spin/final spin.exe
 final/game.exe
 finalfactory/finalfactory.exe
@@ -9236,6 +9238,7 @@ win32/refunct-win32-shipping.exe
 win32/rememberme.exe
 win32/roa.exe
 win32/sherlock.exe
+win32/shippingpc-afeargame.exe
 win32/starter.exe
 win32/surgeonvr.exe
 win32/thhdgame.exe

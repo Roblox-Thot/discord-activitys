@@ -664,6 +664,7 @@ Alien Hominid Invasion Demo
 Alien Horizon
 Alien Market Simulator
 Alien Morgue
+Alien Rage - Unlimited
 Alien Returns
 Alien Shooter
 Alien Shooter 2: Reloaded
@@ -917,6 +918,7 @@ Anthem#9
 Anthem™
 Anthill Village
 Anthology of Fear
+Anthro Heat
 Antichamber
 Antigravity Racing
 Antihero
@@ -7788,6 +7790,7 @@ Half-Life 2: VR Mod
 Half-Life 2: Year Long Alarm
 Half-Life Deathmatch: Source
 Half-Life: Alyx
+Half-Life: Alyx - Final Hours
 Half-Life: C.A.G.E.D.
 Half-Life: Opposing Force
 Half-Life: Restored
@@ -17550,6 +17553,7 @@ The 4 Sins
 The Adventure Pals
 The Adventures of Maximus
 The Adventures of Panzer: Legacy Collection
+The Adventures of Sir Kicksalot
 The Age of Decadence
 The Alliance Alive HD Remastered
 The Allure Of Wanton Cove
