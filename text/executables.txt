@@ -8793,6 +8793,7 @@ umineko chiru/umineko5to8.exe
 umineko golden fantasia/ougon.exe
 umineko/umineko1to4.exe
 umurangigeneration/umurangi generation.exe
+unavowed/unavowed.exe
 unbeatable [white label]/unbeatable [white label].exe
 unbeatable/unbeatable [white label].exe
 unboxing the cryptic killer/unboxingthecryptickiller.exe
@@ -10217,6 +10218,7 @@ win64/raincodeplus-win64-shipping.exe
 win64/raji-win64-shipping.exe
 win64/ranch_simulator-win64-shipping.exe
 win64/rangersinthesouth-win64-shipping.exe
+win64/rat_quest-win64-shipping.exe
 win64/ratshaker.exe
 win64/rawdata-win64-shipping.exe
 win64/readyornot-win64-shipping.exe
