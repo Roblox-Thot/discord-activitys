@@ -4237,6 +4237,7 @@ Dark Deception: Monsters & Mortals
 Dark Deity
 Dark Deity 2
 Dark Devotion
+Dark Echo
 Dark Elf
 Dark Elven Legacy
 Dark Envoy
@@ -19454,6 +19455,7 @@ Under the blue horizon
 UnderMine
 UnderMine 2
 Undercover Fools
+Undercroft warriors
 Underground Blossom
 Underground Garage
 Underhero

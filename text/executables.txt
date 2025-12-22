@@ -1874,6 +1874,7 @@ darfall/darfall.exe
 dark deity 2/darkdeity2.exe
 dark deity/darkdeity.exe
 dark devotion/darkdevotion.exe
+dark echo/darkecho.exe
 dark elf/game.exe
 dark forces/dosbox/dosbox.exe
 dark messiah might and magic multi-player/mm.exe
@@ -8804,6 +8805,7 @@ under contract/under contract.exe
 under night in-birth exe late/uniel.exe
 under night in-birth exe late[st]/unist.exe
 under night in-birth ii sys celes/uni2.exe
+undercroft warriors/undercroft warriors.exe
 underdogs/underdogs.exe
 underground blossom/undergroundblossom.exe
 underhero/underhero.exe
