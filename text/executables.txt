@@ -4908,8 +4908,10 @@ manosaba_game/manosaba.exe
 mansions of madness/mansions of madness.exe
 manual samuel/manual samuel.exe
 mapleroyals.exe
+maplestory worlds/msw.exe
 maplestory.exe
 maplestory2.exe
+maplestoryn/maplestoryn.exe
 marble it up!/marble it up.exe
 marble world/marble world.exe
 march of empires/moe.exe

@@ -4437,6 +4437,7 @@ Death At Fleming Manor
 Death By Cube
 Death By Scrolling
 Death Come True
+Death From Above
 Death Howl
 Death In Abyss
 Death Must Die
@@ -5598,6 +5599,7 @@ Elemental Warriors
 Elemental: Reforged
 Elements And Build
 Elestrals Clash!
+Elevator
 Elevator Action
 Elevator Action Returns
 Eleven Table Tennis
@@ -9772,6 +9774,7 @@ Last Tide
 Last Train Home
 Last Train Outta' Wormtown
 Last Train Outta' Wormtown Friend's Pass
+Last War: Survival Game
 Last Whisper
 Last Wings
 Last Year
@@ -10169,6 +10172,7 @@ Lost Chiko 2
 Lost Eidolons
 Lost Eidolons: Veil of the Witch
 Lost Ember
+Lost Ember: Rekindled Edition
 Lost Grimoires 3: The Forgotten Well
 Lost Horizon
 Lost Horizon 2
@@ -10623,6 +10627,8 @@ Map Map: A Game About Maps
 MapleRoyals
 MapleStory
 MapleStory 2
+MapleStory N
+MapleStory Worlds
 Maquette
 Marathon
 Marathon Infinity
@@ -16116,6 +16122,7 @@ Soul Hackers 2
 Soul Master
 Soul Slasher
 Soul's Remnant
+SoulCalibur III
 SoulCalibur: Broken Destiny
 SoulCraft
 SoulQuest
@@ -17043,6 +17050,7 @@ Supreme Commander
 Supreme Commander 2
 Supreme Commander: Forged Alliance
 Supreme Ruler Ultimate
+Surfpunk
 SurfsUp
 Surgeon Simulator
 Surgeon Simulator 2
@@ -17145,6 +17153,7 @@ Sword x Hime
 SwordCar
 Swordai
 Swordbreaker: Origins
+Swordhaven: Iron Conspiracy
 Swords & Souls Legacy Collection
 Swords & Souls: Neverseen
 Swords 'n Magic and Stuff
@@ -19994,6 +20003,7 @@ Warhammer 40,000: Battlesector
 Warhammer 40,000: Boltgun
 Warhammer 40,000: Boltgun - Words of Vengeance
 Warhammer 40,000: Chaos Gate - Daemonhunters
+Warhammer 40,000: Dark Heresy
 Warhammer 40,000: Darktide
 Warhammer 40,000: Dawn of War - Dark Crusade
 Warhammer 40,000: Dawn of War - Definitive Edition
@@ -20280,6 +20290,7 @@ Will Glow the Wisp
 Will To Live Online
 Will You Snail?
 Will You Wheel?
+Will: Follow The Light
 Wilmot Works it out
 Wilmot's Warehouse
 Wilson Chronicles - Beta
