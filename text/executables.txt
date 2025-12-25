@@ -8364,6 +8364,7 @@ the white door/thewhitedoor.exe
 the witch's house mv/game.exe
 the witcher adventure game/thewitcheradventuregame.exe
 the witcher enhanced edition/benioku.exe
+the you quiz demo/theyouquiz.exe
 the-scourge/thescourge.exe
 the_settlers/the_settlers.exe
 thea 2 the shattering/thea2.exe
