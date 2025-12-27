@@ -1960,6 +1960,7 @@ Bip And Bop
 Biped
 Biped 2
 Biphase
+Bird
 Bird Game
 BirdGut
 Birdcage
@@ -3034,6 +3035,7 @@ Cave man Run
 Caveblazers
 Caveblazers Together
 Caveman Chuck
+Caveman World: Mountains of Unga Boonga
 Cavern of Dreams
 Cavernous Wastes
 Caverns of Mars: Recharged
@@ -3668,6 +3670,7 @@ Coronavirus: Second Wave
 Corpse Keeper
 Corpse Party
 Corpse Party (2021)
+Corpse Party: Book of Shadows
 Corpus Edax
 Correct Picture
 Corrupt: Political Idle City War Strategy Simulator Craft
@@ -18500,6 +18503,7 @@ The Watch
 The Watchers
 The Watson-Scott Test
 The Way of Life Free Edition
+The Wellmonts Case
 The WereCleaner
 The Whims Of The Gods
 The Whiskey Story
@@ -21145,6 +21149,7 @@ you're just imagining it
 抓到冒險者醬了！～Live2D觸手模擬器～
 救国のスネジンカ:Sentinel Girls2
 日本事故物件監視協会 -Japan Stigmatized Property-
+日本事故物件監視協会2 -Japan Stigmatized Property-
 星の翼
 暖雪 Warm Snow
 最後的克勞迪亞
