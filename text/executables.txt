@@ -4404,6 +4404,7 @@ kindergarten 3/kindergarten3.exe
 kindergarten/kindergarten.exe
 kindredspirits.exe
 king arthur knight's tale/ka_kt.exe
+king arthur legion ix/ka_lix.exe
 king exit/game.exe
 king of crabs/king of crabs.exe
 king of kinks/kingofkinks.exe
@@ -5428,6 +5429,7 @@ mygf/mygf.exe
 mylittlefarmies/mylittlefarmies.exe
 mypanel/dread dawn.exe
 mypopgoes/mypopgoes.exe
+mysims/mysims.exe
 myst masterpiece/scummvm.exe
 mysterium/mysterium.exe
 mysuika/mysuika.exe
@@ -7621,6 +7623,7 @@ sticky business demo/stickybusiness.exe
 sticky business/stickybusiness.exe
 still there/still there.exe
 stolen realm/stolen realm.exe
+stone story rpg/stone story.exe
 stonehearth.exe
 stoneshard.exe
 stonies/stonies.exe
@@ -8308,6 +8311,7 @@ the sacred tears true.exe
 the sandbox evolution/thesandbox2.exe
 the sapling/the_sapling.exe
 the scroll of taiwu/the scroll of taiwu alpha v1.0.exe
+the search/thesearch.exe
 the secret atelier/the secret atelier.exe
 the settlers online/nw.exe
 the seven realms - realm 1/thesevenrealms.exe
