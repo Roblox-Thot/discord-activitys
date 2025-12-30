@@ -2768,6 +2768,7 @@ exe/chaosbane.exe
 exe/cotm.exe
 exe/mmbn_lc1.exe
 exe/mmbn_lc2.exe
+exe/thewonderful101.exe
 exe/zombie3.exe
 exe64/wb.exe
 exec/sonic forces.exe
@@ -4622,6 +4623,7 @@ legostarwarssaga.exe
 legoswtfa_dx11.exe
 leisure suit larry - magna cum laude uncut and uncensored/larry.exe
 leisure suit larry - wet dreams don't dry/larry.exe
+leisure suit larry - wet dreams dry twice/leisure suit larry - wet dreams dry twice.exe
 lemonade apocalypse/lemonadeapocalypse.exe
 len's island/len's island.exe
 let's build a zoo/letsbuildazoo.exe
@@ -5420,6 +5422,7 @@ my singing monsters/mysingingmonsters.exe
 my sticker book/my sticker book.exe
 my time at sandrock demo/sandrock.exe
 my time at sandrock/sandrock.exe
+my winter car/mywintercar.exe
 mycatgirlmaidcomplete-1.0-pc/mycatgirlmaidcomplete.exe
 mycopunk/mycopunk.exe
 mydockfinder/dock_64.exe
@@ -5952,6 +5955,7 @@ party panic/partypanic.exe
 party quiz/party quiz.exe
 pas/pas.exe
 passant a chess roguelike/passant.exe
+passion industry/passionindustry.exe
 passpartout 2 the lost artist/passpartout2.exe
 passpartout.exe
 patapon12_replay/patapon12_replay.exe
@@ -7489,6 +7493,7 @@ squarecells/squarecells.exe
 squirrel stapler/squirrel stapler.exe
 sr2_pc.exe
 srhk.exe
+srpg studio/srpgstudio.exe
 srw30/srw30.exe
 srwy/super robot wars y.exe
 ss2/ss2.exe
@@ -7540,6 +7545,7 @@ star wars the clone wars/republic heroes.exe
 star wars the force unleashed 2/swtfu2.exe
 star wars the force unleashed/swtfu.exe
 star wars x-wing alliance/alliance.exe
+star wars x-wing vs tie fighter/xwingtie.exe
 starbase/starbase.exe
 starbirds/starbirds.exe
 starblast/starblast.exe
@@ -8849,6 +8855,7 @@ universe sandbox x64.exe
 universe sandbox/universe sandbox.exe
 unleash.exe
 unlightrevive/unlight_revive.exe
+unlock/unlock_wmr.exe
 unmetal/unmetal.exe
 unnamed space idle/spaceidle.exe
 unnyworld/unnyworld.exe

@@ -3351,6 +3351,7 @@ Clay Skeet Shooting
 Clean Up Earth
 CleanFall
 CleanSheet
+Cleaner Company
 Cleaner Company: Prologue
 Cleaning Simulator
 Cleaning Up!
@@ -9885,6 +9886,7 @@ Legion TD 2
 Legrand Legacy: Tale of the Fatebounds
 Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored
 Leisure Suit Larry - Wet Dreams Don't Dry
+Leisure Suit Larry - Wet Dreams Dry Twice
 Leisure Suit Larry 1 - In the Land of the Lounge Lizards
 Lekano World Online
 Lemnis Gate
@@ -11664,6 +11666,7 @@ My Universe: Doctors & Nurses
 My Universe: Green Adventure - Farmer Friends
 My Voice Zoo
 My Wife Threw Out My Card Collection (So I Bought A Dump To Find Them All)
+My Winter Car
 My dream setup
 My dream setup Demo
 My little IceCream Booth
@@ -12297,6 +12300,7 @@ OYASUMII
 OZMAFIA!!
 Oaken
 Oaken Tower
+Oasis Driver for Windows Mixed Reality
 Oasis VR
 Obama
 Obama Maze
@@ -12939,6 +12943,7 @@ Passage 4
 Passant: A Chess Roguelike
 Passed Out: Prologue
 Passing Pineview Forest
+Passion Industry
 Passpartout 2: The Lost Artist
 Passpartout: The Starving Artist
 Past Fate
@@ -14971,6 +14976,7 @@ SPAM
 SPLASH: Paintball
 SPRAWL
 SPY×ANYA: Operation Memories
+SRPG Studio
 SSX
 SSX 3
 STALCRAFT
@@ -14997,6 +15003,7 @@ STAR WARS™ Rebellion
 STAR WARS™ Republic Commando
 STAR WARS™ Republic Commando™
 STAR WARS™ Starfighter™
+STAR WARS™ X-Wing vs TIE Fighter: Balance of Power Campaigns™
 STAR WARS™: Bounty Hunter™
 STAR WARS™: Dark Forces Remaster
 STAR WARS™: Rogue Squadron 3D
@@ -18535,6 +18542,7 @@ The Witcher: Enhanced Edition
 The Witness
 The Wizards
 The Wolf Among Us
+The Wonderful 101: Remastered
 The Wood Story
 The World According to Girl
 The World of Kungfu: Dragon and Eagle
