@@ -5876,6 +5876,7 @@ outward/outward.exe
 over 9000 zombies!/over9000zombies.exe
 overclocked/ocd.exe
 overclocked/overclocked.exe
+overcooked! 2/overcooked2.exe
 overcooked! all you can eat/overcooked all you can eat.exe
 overcooked.exe
 overcooked2.exe
@@ -7146,6 +7147,7 @@ shrimp/shrimp.exe
 shrine/shrine.exe
 shrine2/shrine2.exe
 shroud of the avatar.exe
+shut up and dance special edition/shutupanddancespecial.exe
 sid meier's civilization v sdk/sid meier's civilization v sdk.exe
 sid meier's colonization/dosbox_windows/dosbox.exe
 sid meier's pirates!/pirates!.exe
