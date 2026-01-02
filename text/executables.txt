@@ -1196,6 +1196,7 @@ bunker builder simulator prologue/bunker builder simulator.exe
 bunny garden/bunny garden.exe
 buoyancy/buoyancy.exe
 burg/burg.exe
+burger shop/burgershop.exe
 burger/burger.exe
 buried stars/buriedstars.exe
 buried/buried.exe
@@ -8148,6 +8149,7 @@ the crew motorfest/thecrewmotorfest_be.exe
 the crooked man/game.exe
 the curious expedition/the curious expedition.exe
 the dark queen of mortholme/the dark queen of mortholme.exe
+the darkside detective season 2/the darkside detective 2.exe
 the darkside detective/thedarksidedetective.exe
 the darwin project/darwin.exe
 the deed dynasty/game.exe
@@ -8302,6 +8304,7 @@ the political machine 2020/the political machine 2020.exe
 the political process/thepoliticalprocess.exe
 the pony factory/the pony factory.exe
 the precinct/precinct.exe
+the purring quest/thepurringquest.exe
 the quinfall/thequinfall.exe
 the ramp/the ramp.exe
 the ranger lost tribe/the ranger lost tribe demo.exe
@@ -9562,6 +9565,7 @@ win64/deconstructionsim-win64-shipping.exe
 win64/deeply_dark.exe
 win64/defiantimmortalssteam-win64-shipping.exe
 win64/deltaforceclient-win64-shipping.exe
+win64/deluxe2-win64-shipping.exe
 win64/demonsarecrazy.exe
 win64/deskjob.exe
 win64/desynced.exe
@@ -9988,6 +9992,7 @@ win64/medieval_dynasty-win64-shipping.exe
 win64/medusa-win64-shipping.exe
 win64/memoriesofmars.exe
 win64/mercuryclient-win64-shipping.exe
+win64/mesharraycourse-win64-shipping.exe
 win64/metalbringer-win64-shipping.exe
 win64/metaleden-win64-shipping.exe
 win64/metalheadsgame-win64-shipping.exe

@@ -2569,6 +2569,7 @@ Burger Chef Tycoon
 Burger Fun
 Burger Run
 Burger Shift: Team Rush: Prologue
+Burger Shop
 Burger Shop 3
 BurgerTime
 Burgie's Cozy Kitchen
@@ -12522,6 +12523,7 @@ Operation Wolf Returns: First Mission
 Operation7: Revolution
 Operation7: Showdown
 Operation: Harsh Doorstop
+Operation: Outbreak
 Operation: Polygon Storm
 Operation: Tango - Demo
 Operator
@@ -17635,6 +17637,7 @@ The Baby in Yellow
 The Backroom - Lost and Found
 The Backrooms 1998 - Found Footage Backroom Survival Horror Game
 The Backrooms Deluxe
+The Backrooms Deluxe 2
 The Backrooms Game FREE Edition
 The Backrooms Regret
 The Backrooms: Anomaly Containment Unit
@@ -17797,6 +17800,7 @@ The Darkest Files
 The Darkness
 The Darkness II
 The Darkside Detective
+The Darkside Detective: A Fumble in the Dark
 The Day Before
 The DeadLine
 The Deadly Path
@@ -18293,6 +18297,7 @@ The Prisoner of the Night
 The Projet Poulet
 The Punchuin
 The Purge Dilemma
+The Purring Quest
 The Quarry
 The Quest for Excalibur: Puy du Fou
 The Quinfall
