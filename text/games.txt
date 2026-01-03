@@ -48,6 +48,7 @@
 100 Men vs 1 Gorilla
 100 New Year Cats
 100 Ninja Cats
+100 Radioactive Cats
 100 Robo Cats
 100 Romantic Cats
 100 Space Cats
@@ -1138,6 +1139,7 @@ As Far As The Eye
 As Long As You're Here
 As We Descend
 Asbury Pines
+Ascend From Nine Mountains
 Ascend to ZERO
 Ascend: Hand of Kul
 Ascendance
@@ -1635,6 +1637,7 @@ Bassmaster Fishing
 Bastard Bonds
 Bastion
 Basureroes: Invasion
+Bat to Bed
 Bat to the Heavens
 Batla
 Batman - The Telltale Series
@@ -2215,6 +2218,7 @@ Bocce
 BodyCam GangZone
 BodyRecords
 Bodycam
+Bodycam Onrecord
 Bodycam Police Simulator
 Bodycam Shooter 2025
 Bodycam Unrecord Shooter
@@ -3026,6 +3030,7 @@ Catwifhat
 Cauldron
 Cavalry Girls
 Cave Bad
+Cave Crave
 Cave Crawler
 Cave Crawlers
 Cave Digger
@@ -3231,6 +3236,7 @@ Christmas Massacre
 Christmas Nightmare
 Christmas Racing
 Christmas Run 2
+Christmas Story
 Christmas Tree Decorating Simulator
 ChristmasRun
 Chroma Squad
@@ -3261,6 +3267,7 @@ Chushpan Simulator 2
 Chuzzle
 Cinderella Phenomenon
 Cinderella Story for Kids
+Cinderia
 Cinema Simulator 2025
 Cinemaster Cinema Simulator
 Cineris Somnia
@@ -3440,6 +3447,7 @@ Codename CURE
 Codename Cure II
 Codename Gordon
 Codename: Ocean Keeper
+Codex Mortis
 Coffee Break
 Coffee Break Head to Head
 Coffee Caravan
@@ -3759,6 +3767,7 @@ Craftlings
 Craftomation 101
 Craftopia
 Crafty Survivors
+Cranked
 Crap Game, Don't Play
 Crash 'n' the Boys: Ice Challenge
 Crash 'n' the Boys: Street Challenge
@@ -3993,10 +4002,12 @@ Cult Leader Simulator
 Cult Of The Child Eater
 Cult of the Lamb
 Cult of the Lamb Demo
+Cult of the Yellow King
 Cultist Simulator
 Cultist Simulator: Initiate Edition
 Cultures - 8th Wonder of the World
 Cultures - Northland
+Cup Heroes
 Cuphead
 Cupiclaw
 Cure: A Hospital Simulator
@@ -4014,6 +4025,7 @@ Cursed Crew
 Cursed Deal
 Cursed Digicam | 呪われたデジカメ
 Cursed Enigma: Priest and Prayers
+Cursed Words
 Cursed to Golf
 Cursemark
 Cursorblade
@@ -4593,6 +4605,7 @@ Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
 Demon Slayer: Kimetsu no Yaiba - Sweep the Board!
 Demon Spore
 Demon Tides
+Demon Turf
 Demon's Crystals
 Demon's Mirror
 Demon's Souls
@@ -5205,6 +5218,7 @@ Drift Streets Japan
 Drift.Wav
 Drift21
 Drift86
+Drifter Star: Evolution
 Drifting with Maxwell Cat: The Game
 Driftland: The Magic Revival
 Driftwood
@@ -5647,6 +5661,7 @@ Emoji Clicker
 Emoji Clicker Collector
 Emoji Kart Racer
 Empire City: 1931
+Empire Earth II: Gold Edition
 Empire of Sin
 Empire of the Ants
 Empire: Total War
@@ -5708,6 +5723,7 @@ Enginefall
 Engines Of Destruction
 Engines Of Fury
 Enigma do Medo
+Enigmatis 2: The Mists of Ravenwood
 Enigmatis: The Ghosts of Maple Creek
 Enishia and the Binding Brand
 Enjoy the Diner
@@ -6012,6 +6028,7 @@ FANTASY LIFE i: The Girl Who Steals Time
 FAR: Changing Tides
 FAR: Lone Sails
 FATAL FRAME / PROJECT ZERO: Maiden of Black Water
+FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse
 FATAL FURY: City of the Wolves
 FATE
 FATE: Reawakened
@@ -6425,6 +6442,7 @@ Find All 3: Travel
 Find All 7: Japan
 Find All 9: Fantasy
 Find All: Christmas
+Find All: Christmas 2025
 Find Hidden Objects
 Find Love Or Die Trying
 Find Will - Uma's adventure
@@ -6506,6 +6524,7 @@ Five Finger Foolishness
 Five Hearts Under One Roof
 Five Hearts Under One Roof season2
 Five Laps at Freddy's
+Five Nights In Saransk
 Five Nights With Creg
 Five Nights at Freddy's
 Five Nights at Freddy's 2
@@ -7188,6 +7207,7 @@ Genshin Impact
 Gensou Shiniki: Cross to Fate
 Gensou Skydrift
 Gentlemen's Club
+Geo-Political Simulator 2026 Edition
 Geo-Political Simulator 5
 GeoGuessr Steam Edition
 Geometric Feel the Beats
@@ -7219,6 +7239,7 @@ Get to the Top 2: Breakthrough Gaming Arcade
 Get to the Top: Breakthrough Gaming Arcade
 Getting Inside: Hentai Story
 Getting Over It with Bennett Foddy
+Gex Trilogy
 Ghost Exile
 Ghost Exorcism INC.
 Ghost Files: Memory of a Crime
@@ -7503,6 +7524,7 @@ Granblue Fantasy: Relink
 Granblue Fantasy: Versus
 Grand Ages: Medieval
 Grand Ages: Rome
+Grand Casino Simulator
 Grand Fantasia: Origin
 Grand Prix Formula One
 Grand Prix Racing Universal
@@ -7693,6 +7715,7 @@ Gunner:chan!
 Gunpoint
 Guns N' Boxes
 Guns Undarkness
+Guns and Nuns: Storming Hell
 Guns and Robots
 Guns of Fury
 Guns of Icarus Alliance
@@ -7747,6 +7770,7 @@ HELLSEED Demo
 HENTAI SNIPER: Middle East
 HER TREES : THE PUZZLE HOUSE
 HEX: Shards of Fate
+HIDDEN CATS 7: Cookie Town
 HIDDEN CATS: The last of cats
 HITMAN 3
 HITMAN: Sniper Assassin
@@ -7861,6 +7885,7 @@ Hand of Fate
 Hand of Fate 2
 Hand of the Gods
 Handball Pelota
+Handgun Football
 Handmancers
 Hands of Necromancy
 Handshakes
@@ -8185,6 +8210,8 @@ Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition
 Hidden Cats 6: After Us
 Hidden Cats In Spooky Village
 Hidden Cats in Berlin
+Hidden Cats in Christmas
+Hidden Cats in Istanbul
 Hidden Cats in London
 Hidden Cats in New York
 Hidden Cats in Paris
@@ -8473,6 +8500,7 @@ How 2 Escape
 How 2 Escape - Companion App
 How 2 Escape: Lost Submarine
 How Fish Is Made
+How Many Dudes?
 How To Train Your Cock
 How We Soar
 How to Survive
@@ -9071,6 +9099,7 @@ Jawbone Hollow
 Jazzpunk: Director's Cut
 Jeanne d'Arc
 Jected - Rivals
+Jeff the Killer: Horror Game
 Jelly Brawl: Classic
 JellyCar Worlds
 Jeopardy!
@@ -10219,6 +10248,7 @@ Lost in Play
 Lost in Random: The Eternal Die
 Lost in Vivo
 Lost in the Roots
+Lost in the Woods
 LostWinds
 Lostmagic
 Lots of Cats in Every Moment
@@ -10229,6 +10259,7 @@ Lotus Reverie: First Nexus
 Lou's Lagoon
 Loud Run
 Love
+Love & Fool's Gold
 Love & Sex: Second Base
 Love Clear
 Love Curse: Find Your Soulmate
@@ -10264,6 +10295,7 @@ Lovers of Aether
 Lovey-Dovey Lockdown
 Low Light Combat
 Low Magic Age
+Low Poly Mouse Game
 Low-Budget Repairs
 Lucid Clowder
 Lucid Dream
@@ -11168,11 +11200,13 @@ Miniland Adventure: Prologue
 Mining Mechs
 Mining Rail 2
 Mining Survivors
+Mining Wizards
 Minion Masters
 Minishoot' Adventures
 Minit
 Minoria
 Minos
+Minos: Home A-Labyrinth
 Mint's Hints
 Minutes
 Minutescape
@@ -11538,6 +11572,7 @@ Mullet Mad Jack
 Mulligans Golf Game
 Multi Turret Academy
 MultiVersus
+Multiplayer Caveman
 Multiplayer Platform Golf
 Multiverse Loot Hunter
 Multiwinia
@@ -12599,6 +12634,7 @@ Our Life: Now & Forever
 Our World Is Ended.
 Ouros
 Out Of Action
+Out Of Time
 Out There Somewhere
 Out There: Ω Edition
 Out of Ammo
@@ -13403,6 +13439,7 @@ Politics The Game
 Poly Bridge
 Poly Bridge 2
 Poly Bridge 3
+Poly Fighter
 Poly Link: RPG Anime Girls
 Poly Party
 Poly Puzzle: Anime Battle Girls
@@ -13715,6 +13752,7 @@ Promenade
 Prominence Poker
 Promise Mascot Agency
 Prop Hunt
+Prop Sumo
 Prop and Seek
 PropHunter
 Propagation VR
@@ -13798,6 +13836,7 @@ Puzzle Chambers
 Puzzle Collection Challenge
 Puzzle Drop Carnival Theme Store
 Puzzle Frenzy
+Puzzle Galaxy
 Puzzle Journey
 Puzzle Kid
 Puzzle Piecer: The World Below
@@ -13868,6 +13907,7 @@ Quantum Conundrum
 Quantum Error
 Quantum Rush: Champions
 Quar: Battle for Gate 18
+Quarantine Zombies
 Quarantine Zone
 Quartet
 Quarth
@@ -14191,6 +14231,7 @@ Real Boxing™
 Real Classic Car Parking Pro 3D
 Real Estate Simulator
 Real Farm: Gold Edition
+Real Moon
 Real Pool 3D - Poolians
 Real Truck Driver Simulator USA: Car Games
 RealFlight Evolution
@@ -14364,6 +14405,7 @@ Resident Evil 7 Teaser: Beginning Hour
 Resident Evil 7: Biohazard - Gold Edition
 Resident Evil Re:Verse
 Resident Evil Re:Verse Beta
+Resident Evil Requiem
 Resident Evil Resistance Open Beta
 Resident Evil Revelations / Biohazard Revelations
 Resident Evil Revelations 2 / Biohazard Revelations 2
@@ -15350,6 +15392,7 @@ Seduction
 Seed in
 Seed of Heroes
 Seed of the Dead: Sweet Home
+Seeds of Calamity
 Seeds of Chaos
 Seek Girl
 Seek Girl Ⅱ
@@ -15416,6 +15459,7 @@ Serious Sam: Siberian Mayhem
 Serious Sam: The First Encounter
 Serious Sam: The Second Encounter
 Serious Survivors
+Serpent's Gaze
 Serum
 Servant of the Lake
 ServiceIT: You can do IT
@@ -16322,6 +16366,7 @@ Sphinx and the Cursed Mummy
 Spider Fighter
 Spider Solitaire Collection
 Spider Solitaire: Card Games
+Spider Tanks: Cores of Chaos
 Spider-Man 3
 Spider-Man: Far From Home Virtual Reality
 Spider-Man: Homecoming - Virtual Reality Experience
@@ -16639,6 +16684,7 @@ Still It Runs
 Still There
 Still Wakes the Deep
 Stolen Realm
+Stolen Realm Survivors
 Stone Simulator
 Stone Story RPG
 StoneBack Xbox One Edition
@@ -18368,6 +18414,7 @@ The Seven Deadly Sins: Origin
 The Seven Realms: High Lathión
 The Seven Realms: Terran
 The Sexy Brutale
+The Shapeshifting Detective
 The Shark T
 The Sheep P
 The Sheep Quiz
@@ -18836,6 +18883,7 @@ Tomb Raider: Legend
 Tomb Raider: The Last Revelation
 Tomb Raider: Underworld
 Tomb Rumble
+Tomba! 2: The Evil Swine Return
 Tomba!: Special Edition
 Tombstone MMO
 Tommy Is My Hero!
@@ -19495,6 +19543,7 @@ Undercover Fools
 Undercroft warriors
 Underground Blossom
 Underground Garage
+Underground Nomads
 Underhero
 Underland: The Climb
 Underminer
@@ -19808,6 +19857,7 @@ Village Heroes
 Village Tale
 Villagers and Heroes
 Villages & Dungeons
+Villainy
 Vindefiant Demo
 Vindictus
 Vintage Story
@@ -20014,6 +20064,7 @@ Warcraft II: Remastered
 Warcraft III
 Warden's Will
 Warface
+Warfactory
 Warfare Legacy Collection
 Warfork
 Warframe
@@ -20065,6 +20116,7 @@ Warhammer Underworlds: Online
 Warhammer: Chaos & Conquest
 Warhammer: Chaosbane
 Warhammer: Chaosbane Slayer Edition
+Warhammer: Dark Omen
 Warhammer: End Times - Vermintide
 Warhammer: Vermintide 2
 Warhaven
@@ -20392,6 +20444,7 @@ Wittle Mistakes
 Wizard And Minion Idle
 Wizard Cats
 Wizard Combat
+Wizard Punks!!!
 Wizard of Legend
 Wizard of Legend 2
 Wizard with a Gun
@@ -20663,6 +20716,7 @@ Yet Another Zombie Defense
 Yet Another Zombie Defense HD
 Yet Another Zombie Survivors
 Yet Another Zombie Survivors Demo
+Yggdra Union: We'll Never Fight Alone
 Yi Xian: The Cultivation Card Game
 Yie Ar Kung-Fu
 Yield! Fall of Rome
@@ -21193,6 +21247,7 @@ you're just imagining it
 溶鉄のマルフーシャ
 漢字でGO! 集英社マンガ祭
 焼肉シミュレーター
+異ノ故リ-Isolated Hours-
 真・三國無雙 起源 體驗版
 神採りアルケミーマイスター
 神椿市協奏中。

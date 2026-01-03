@@ -2101,6 +2101,7 @@ democracy3.exe
 demolish & build 2018/demolish.exe
 demolish & build 3 excavator playground/demolish & build 3 excavator playground.exe
 demolish & build company/demolish.exe
+demon turf/demon turf.exe
 demoncrawl/demoncrawl.exe
 demul.exe
 denizen/denizen.exe
@@ -2658,6 +2659,7 @@ engine evolution 2023/engine evolution.exe
 engine evolution/engine evolution.exe
 enigma of fear/enigma.exe
 enigmatis the ghosts of maple creek/enigmatis_theghostsofmaplecreek.exe
+enigmatis the mists of ravenwood/enigmatis_themistsofravenwood.exe
 enscroll/enscroll.exe
 enshrouded/enshrouded.exe
 enter the gungeon/etg.exe
@@ -2913,6 +2915,7 @@ farthest frontier/farthest frontier.exe
 fashion police squad/fashion police squad.exe
 fast and low/fastandlow.exe
 fatal frame mobw/fatal_frame_mobw.exe
+fatal frame mol/fatal_frame_mol.exe
 fatalzone outbreak/fatalzone outbreak.exe
 fatalzone/fatalzone.exe
 fate arena alpha/fate arena.exe
@@ -8329,6 +8332,7 @@ the secret atelier/the secret atelier.exe
 the settlers online/nw.exe
 the seven realms - realm 1/thesevenrealms.exe
 the seven realms-high lathion/thesevenrealms.exe
+the shapeshifting detective/shapeshiftingdetective.exe
 the ship remasted/theshipremasted.exe
 the ship single player/ship.exe
 the ship/ship.exe
