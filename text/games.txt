@@ -15801,6 +15801,7 @@ SingStar Frozen
 SingStar: Celebration
 SingStar: Ultimate Party
 Singularity
+Sinker Sound
 Sinking Simulator
 Sins of a Solar Empire II
 Sins of a Solar Empire: Rebellion
@@ -17067,6 +17068,7 @@ Super Woden GP 2
 Super Xevious: GAMP no Nazo
 Super Zangyura
 SuperDuck!
+SuperPantsu Tentikun
 SuperPower 2
 SuperSmash
 SuperSorry
