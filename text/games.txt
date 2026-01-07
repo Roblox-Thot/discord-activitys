@@ -3188,6 +3188,7 @@ Child of Light
 Children of Morta
 Children of Silentown
 Children of Silentown: Prologue
+Children of a Dead Earth
 Children of the Sun
 Chill Corner
 Chill Town
@@ -15021,6 +15022,7 @@ SOVL
 SPACEPLAN
 SPAM
 SPLASH: Paintball
+SPLITGATE Arena Reloaded
 SPRAWL
 SPY×ANYA: Operation Memories
 SRPG Studio
@@ -16419,7 +16421,6 @@ Split Fiction
 Split or Steal
 Split/Second
 Splitgate
-Splitgate 2
 Splodey
 SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 SpongeBob SquarePants: The Cosmic Shake
