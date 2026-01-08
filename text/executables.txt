@@ -4025,6 +4025,8 @@ hyperfight/hyperfight.exe
 hyperlightdrifter.exe
 hyperuniverse.exe
 hypnospace outlaw/hypnos.exe
+hytale.app
+hytale.exe
 i am cat/iamcat.exe
 i am future demo/i am future demo.exe
 i am future/i am future.exe

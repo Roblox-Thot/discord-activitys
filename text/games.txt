@@ -60,6 +60,7 @@
 11-11 Memories Retold
 112 Operator
 11F
+12 Memory Lane
 12 bananas
 12 is Better Than 6
 13 Sentinels: Aegis Rim
@@ -1116,6 +1117,7 @@ Arranger: A Role-Puzzling Adventure
 Arrogue
 Arrow Spire: Tower Defense
 Arrow a Row
+Arrowburst
 Arruyo
 Ars Notoria
 Arslan: The Warriors of Legend
@@ -1398,6 +1400,7 @@ BATTALION 1944
 BATTLE CRUSH
 BATTLETECH
 BBQ Simulator: The Squad
+BBY Don't Hurt Me
 BEACHED
 BEAR, VODKA, STALINGRAD!
 BEHEMOTH
@@ -4204,6 +4207,7 @@ DYSTHANASIA
 Dabman: When The Haters Dab Back
 Dad's Monster House
 Dadlympics
+Daemon Bride
 Daemon X Machina: Titanic Scion
 Daemonologie
 Dagger Directive
@@ -4616,6 +4620,7 @@ Demon's Tilt
 DemonCrawl
 Demonic Mahjong
 Demonologist
+Demons Roots
 DemonsAreCrazy
 Demonschool
 Demonsomnia
@@ -4877,6 +4882,7 @@ Dishonored: Definitive Edition
 Dishonored®: Death of the Outsider™
 Dishwashing Simulator
 Disillusion
+Disillusion ST
 Disintegration
 Disney Classic Games: Aladdin and The Lion King
 Disney Dreamlight Valley
@@ -5229,6 +5235,7 @@ Drill Core
 Drill Deal: Borehole Alpha
 Drive 21
 Drive Beyond Horizons
+Drive Me Broke
 Drive Thru Simulator
 Drive on Moscow
 Driveclub VR
@@ -5398,6 +5405,7 @@ Dungholes
 Dungreed
 Dunjungle
 Dunk Trickster
+Duo Quest
 Dupery
 Durka Simulator
 Dusk Diver 2
@@ -5545,6 +5553,7 @@ Echochrome
 Echoed World
 Echoes Of The Living
 Echoes of Elysium
+Echoes of Extinction
 Echoes of Mystralia
 Echoes of the End: Enhanced Edition
 Echoes of the Plum Grove
@@ -5552,6 +5561,7 @@ Echoshift
 Eclipsium
 Eco
 EcoGnomix
+Ecopunk
 Ecosystem
 Ecosystem Demo
 Ed-0: Zombie Uprising
@@ -6779,6 +6789,7 @@ Foxhole
 Foxy's Coin Hunt
 FoxyLand
 FoxyLand 2
+Fracctal TCG
 Fracked
 Fractal Block World
 Fractal Fury
@@ -7609,6 +7620,7 @@ Grey Hack
 Greyhill Incident
 GridIron
 Gridkeeper
+Gridle
 Griftlands
 Grim Clicker
 Grim Dawn
@@ -7875,8 +7887,10 @@ Hammerting
 Hammerwatch
 Hammerwatch II
 Hammerwatch II Demo
+Hammerwatch: Anniversary Edition
 Hamster
 Hamster Combat
+Hamster Hunter
 Hamster Hustle
 Hamster Playground
 Hand Simulator
@@ -8210,6 +8224,7 @@ Hidden & Dangerous 2: Courage Under Fire
 Hidden Agenda
 Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition
 Hidden Cats 6: After Us
+Hidden Cats 8: Happy New Year
 Hidden Cats In Spooky Village
 Hidden Cats in Berlin
 Hidden Cats in Christmas
@@ -8596,6 +8611,7 @@ Hypnospace Outlaw
 Hypogea
 Hyposphere
 Hyposphere 2 Free
+Hytale
 Hyōtenka 30-do no zetsubō
 I Am Alive
 I Am An Air Traffic Controller: Airport Hero Haneda
@@ -8664,6 +8680,7 @@ IKEA VR Experience
 IKEA VR Pancake Kitchen
 IL-2 Sturmovik: 1946
 IL-2 Sturmovik: Battle of Stalingrad
+IL-2 Sturmovik: Cliffs of Dover - Blitz
 IMSCARED
 IN HEAT: Lustful Nights
 IN HEAT: Lustful Nights Demo
@@ -11297,6 +11314,7 @@ Mojo XXX
 Mojo: Hanako
 Moldbreaker: Rise of the Loaf
 Molewack
+Molili AI Friends
 Molkky Skittle Game
 Mom Hid My Game!
 Mom Hid My Game! 2
@@ -11492,6 +11510,7 @@ MotoGP 25
 MotoGP™13
 MotoGP™15
 MotoRace USA
+Motocross Evolution 2025
 Motocross Ramp Madness
 Motor Slice
 Motor Strike: Immortal Legends
@@ -14153,6 +14172,7 @@ Rakion Chaos Force
 Rakuen
 Rally Arcade Classics
 Rally Cross
+Rally Evolution 2025
 Rally Mechanic Simulator Prologue
 Rally Racing
 Rally Racing 2
@@ -15980,6 +16000,7 @@ Sly Cooper and the Thievius Raccoonus
 Slyde
 Slyders
 Smack Studio
+Smack Talk
 Small Saga
 Small Spaces
 Small World
@@ -15988,6 +16009,7 @@ Smart Factory Tycoon: Beginnings
 Smart Game Booster
 Smartphone Tycoon
 Smash Boats
+Smash Hit Museum
 Smash Hit Plunder
 Smash Zombies
 Smashing Simulator Idle
@@ -19116,6 +19138,7 @@ Trails in the Sky 1st Chapter
 Train Crew
 Train Driver 2
 Train Fever
+Train Goes Right
 Train Life: A Railway Simulator
 Train Mechanic Simulator 2017
 Train Planet
@@ -19822,6 +19845,7 @@ Vera Blanc: Ghost In The Castle
 Verdun
 Verho: Curse of Faces
 Verlet Swing
+Verse Project
 Versus Squad
 Vertical Kingdom
 Vertigo 2
@@ -20162,6 +20186,7 @@ Wash Simulator: Clean Garage, House, Cars Business Tycoons
 Washing Dishes for the People We Love
 Wasteland 2: Director's Cut
 Wasteland 3
+Wasteland Bites
 Wasteland Remastered
 Wasteland Survival
 Watch
@@ -20518,6 +20543,7 @@ Wordatro!
 Wordbreaker by Powgi
 Wordhunters
 Wordle
+Wordle 2
 Words Master
 Words Of Wisdom
 Wordsweeper by Powgi
@@ -20806,6 +20832,7 @@ Yuuna and the Haunted Hot Springs The Thrilling Steamy Maze Kiwami
 Yūki Tomo Na wa yūshadearu hana yui no kirameki vol. 4
 Z Village: Zombie Game
 Z.A.T.O. // I Love the World and Everything In It
+Z.O.N.A: Origin
 ZAMB! Redux
 ZAZEN
 ZAZEN, zen meditation game
