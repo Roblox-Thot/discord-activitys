@@ -470,6 +470,7 @@ Aeon Rivals
 Aeon's End
 AeonX
 Aeons Echo
+Aeons of Rebirth
 Aerial_Knight's Never Yield
 Aero Fighters
 Aero Fighters 2
@@ -478,6 +479,7 @@ Aero GPX
 Aero Tales Online: The World - Anime MMORPG
 Aero the Acro-Bat
 Aerofly FS 2 Flight Simulator
+Aerofly FS 4 Flight Simulator
 Aeromachina
 Aeruta
 Aery: Ancient Empires
@@ -1070,6 +1072,7 @@ Arietta of Spirits
 Ariko's Enchanted Forest
 Arise: A Simple Story
 Arisen Force: Life Devotee
+Aristoputas
 Arizona Sunshine
 Arizona Sunshine® 2
 Arizona Sunshine® Remake
@@ -1299,6 +1302,7 @@ Attack on Titan / A.O.T. Wings of Freedom
 Attack on Titan 2 - A.O.T.2 - 進撃の巨人２
 Attack on Toys
 Attacking Zegeta
+Attacking Zegeta 2
 Audioshield
 Audiosurf
 Audiosurf 2
@@ -1471,6 +1475,7 @@ Back to the Future: Ep 1 - It's About Time
 Back to the Future: The Game - 30th Anniversary Edition
 Backbeat
 Backbone: Prologue
+Backframes: Escape Together
 Backgammon: Board Game Puzzle
 Backpack Battles
 Backpack Hero
@@ -1550,6 +1555,7 @@ Ball 3D: Soccer Online
 Ball Destiny
 Ball Dodge
 Ball Jumper
+Ball Race
 Ball Race 3: Jump
 Ball Scooping Friends
 Ball Shoot Aim Challenge
@@ -1623,8 +1629,10 @@ Baseball Stars 2
 Baseball Stars: Professional
 Baseball: 2 Player Cooperation Edition - Breakthrough Gaming Arcade
 Baseball: 2 Player Cooperation Edition - Challenge Mode: Breakthrough Gaming Arcade
+Baseball: 3 Player Cooperation Edition - Challenge Mode: Breakthrough Gaming Arcade
 Baseball: 4 Player Cooperation Edition - Breakthrough Gaming Arcade
 Baseball: Breakthrough Gaming Arcade
+Baseball: Challenge Mode Edition - Breakthrough Gaming Arcade
 Basement
 Basement Crawl
 Bash the Teacher! - Classroom Clicker
@@ -2421,6 +2429,7 @@ Breezy Paws
 Brelok: Nezumi-tachi No Dasshutsu
 Brew
 Brewmaster: Beer Brewing Simulator
+Brews & Bastards
 Brick Breaker
 Brick Breaker: Shoot Puzzle
 Brick Breaking the AI
@@ -2885,6 +2894,7 @@ Caribbean Legend: Sandbox
 Cario 2
 Cario 3
 Cario 4
+Carmageddon Max Pack
 Carmageddon: Max Damage
 Carmen Sandiego
 Carnage in Space: Ignition
@@ -3442,8 +3452,10 @@ Cockroach Simulator
 Cockwork Industries Complete
 Coconut Farm 3D
 Coconut Simulator
+Coconut Simulator 2
 Cocos: Shark Island
 Code 51: Mecha Arena
+Code Violet
 Code: Realize - Bouquet of Rainbows
 Code: Realize - Wintertide Miracles
 CodeStrike
@@ -3727,6 +3739,7 @@ Cotton2: Saturn Tribute
 Cotton: Fantastic Night Dreams
 Counter Fight
 Counter Fight 3
+Counter Fight: Samurai Edition
 Counter Force: Tactical Warfare
 Counter-Strike
 Counter-Strike 2
@@ -3735,7 +3748,6 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
-CounterFight: SamuraiEdition US
 CounterSide
 CounterSpy
 Counterpact
@@ -4313,6 +4325,7 @@ Darksiders III
 Darksiders Warmastered Edition
 Darkwater
 Darkwood
+Darkzan Adventure
 Darq: Ultimate Edition
 Darwin 4078
 Darwin Project
@@ -4473,6 +4486,7 @@ Death Roads: Tournament
 Death Rooms
 Death Squared
 Death Stranding 2: On The Beach
+Death Traps
 Death Trash
 Death Trash Demo
 Death and Taxes
@@ -4673,6 +4687,7 @@ Despot's Game: Dystopian Army Builder
 Despotism 3k
 Desserted
 Destination Paradise
+Destination Paris
 Destined
 Destined to Die
 Destiny
@@ -5134,6 +5149,7 @@ Dragon's Dogma 2 Character Creator & Storage
 Dragon's Dogma Online
 Dragon's Dogma: Dark Arisen
 Dragon's Dungeon
+Dragon's Lair
 DragonFangZ: The Rose & Dungeon of Time
 Dragonfield Alpha
 Dragonfly Chronicles
@@ -5505,6 +5521,7 @@ ENSCROLL
 ENSLAVED™: Odyssey to the West™ Premium Edition
 ESCAPE FROM BOYKISSER
 ESEA
+ESG Football
 EV3 - Drag Racing
 EVE Online
 EVE: Valkyrie - Warzone
@@ -6641,6 +6658,8 @@ Fly Simulator
 Fly The Bird
 Fly the Plane
 Fly.Die.Repeat.
+Fly.Die.Repeat. 2
+Fly.Die.Repeat. 76
 FlyKnight
 Flyff
 Flying Bunny
@@ -6743,6 +6762,7 @@ Formation Z
 Formula Bit Racing DX
 Formula Bwoah
 Formula Evolution 2024
+Formula Evolution 2025
 Formula Legends
 Formula Racing: Grand Prix League
 Formula Retro Racing: World Tour
@@ -8186,6 +8206,7 @@ Heroes of Hammerwatch
 Heroes of Hammerwatch II
 Heroes of Hammerwatch: Ultimate Edition
 Heroes of Might & Magic V: Tribes of the East
+Heroes of Might And Magic IV: Complete
 Heroes of Might and Magic II: Gold
 Heroes of Might and Magic II: The Succession Wars
 Heroes of Might and Magic III HD
@@ -8669,6 +8690,7 @@ I'm on Observation Duty 4
 I'm on Observation Duty 5
 I'm on Observation Duty 6
 I'm on Observation Duty 7
+I'm on Observation Duty 8
 I, AI
 I, Zombie
 I.Q. Remix+: Intelligent Qube
@@ -9944,6 +9966,7 @@ Lemon Cake
 Lemonade Apocalypse
 Len's Island
 Lent: The Easter Bunny (Story One)
+Lent: The Easter Bunny (Story Three)
 Lessaria: Fantasy Kingdom Sim
 Let It Flow
 Let Them Come
@@ -10535,6 +10558,7 @@ MadGuns
 MadOut2 BigCityOnline
 Madballs in Babo: Invasion
 Madcar GT
+Madden NFL 15
 Madden NFL 16
 Madden NFL 17
 Madden NFL 18
@@ -11571,6 +11595,7 @@ Mr. Nomad
 Mr. Prepper
 Mr. Prepper Demo
 Mr. Prepper: Prologue
+Mr. President
 Mr. Sleepy Man
 Mr. Supershot
 Mr. T-Shirt
@@ -12189,6 +12214,7 @@ No Man's Sky
 No Means Nothing
 No Mercy
 No More Heroes
+No More Heroes 2: Desperate Struggle
 No More Heroes III
 No More Money
 No More Operators
@@ -12532,6 +12558,7 @@ OneShot
 OneShot: World Machine Edition
 Onechanbara: Bikini Samurai Squad
 Onee Chanbara Origin
+Oni
 Onigiri
 Onigiri Shop Simulator
 Onikura
@@ -12650,6 +12677,7 @@ Our Church and Halloween RPG: Story Four
 Our Church and Halloween RPG: Story One
 Our Church and Halloween RPG: Story Three
 Our Church and Halloween RPG: Story Two
+Our Church and Halloween: Story Four
 Our Guest Tonight
 Our Life: Beginnings & Always
 Our Life: Now & Forever
@@ -13217,6 +13245,7 @@ Pilot Sports
 Pin Climb
 Pin Strike
 Pinball
+Pinball (Challenge Mode Edition) - Breakthrough Gaming Arcade
 Pinball Arcade
 Pinball FX
 Pinball FX2
@@ -13581,6 +13610,7 @@ Pretty Bird 3
 Pretty Bird 4
 Pretty Bird 5
 Pretty Bird 6
+Pretty Bird 7
 Pretty Bird 8
 Pretty Bird 9
 Pretty Girls Breakout! Plus
@@ -13754,6 +13784,7 @@ Project: Summer Ice - Bowling: Story Three - Pammy Version
 Project: Summer Ice - Bowling: Story Two - Jane Version
 Project: Summer Ice - Bowling: Story Two - Mark Version
 Project: Summer Ice - Bowling: Story Two - Pammy Version
+Project: Summer Ice - Men's Basketball
 Project: Summer Ice - My first date RPG: Elliot - Story Three
 Project: Summer Ice - My first date RPG: Elliot - Story Two
 Project: Summer Ice - Pinball: Mark
@@ -14712,6 +14743,7 @@ Rodland of Pipes
 Rogue : Genesia
 Rogue : Genesia Demo
 Rogue Aces
+Rogue Blight
 Rogue Command
 Rogue Company
 Rogue Eclipse
@@ -14891,6 +14923,7 @@ Runehaven
 Runes of Magic
 Rungore
 Runner
+Runnero
 Runny Bunny
 Runo
 Rush Rally 3
@@ -15500,6 +15533,7 @@ Sex & Blood: Vampires
 Sex Chess
 Sex Coach: Hot Yoga - Prologue
 Sex Desert: Mad Lust
+Sex Shop Simulator: X-RAY DESIRE
 Sex Simulator
 Sex and the Furry Titty
 Sex and the Furry Titty 2: Sins of the City
@@ -16242,6 +16276,7 @@ Space 2: 3 Player Cooperation Edition - Breakthrough Gaming Arcade
 Space 2: 4 Player Cooperation Edition - Breakthrough Gaming Arcade
 Space 2: Breakthrough Gaming Arcade
 Space Accident
+Space Aces
 Space Aliens Invaders
 Space Architect
 Space Bear
@@ -16316,6 +16351,7 @@ Space Surveyor
 Space Tail: Every Journey Leads Home Ultimate Edition
 Space Trash Scavenger
 Space Travel Idle
+Space Warlord Baby Trading Simulator
 Space Warlord Organ Trading Simulator
 Space Wars
 Space Will
@@ -16984,6 +17020,7 @@ Super Bernie World
 Super Blackjack Battle II: Turbo - The Card Warriors
 Super Blood Hockey
 Super Bomberman R
+Super Bomberman R 2
 Super Bomberman R Online
 Super Buckyball Tournament Preseason
 Super Bunny Man
@@ -17028,6 +17065,7 @@ Super Lucky's Tale
 Super Mario Maker
 Super Mario Party
 Super Meat Boy
+Super Meat Boy 3D
 Super Meat Boy Forever
 Super Mecha Champions
 Super Mega Baseball 2
@@ -17102,6 +17140,7 @@ Superbeat: XONiC
 Superbrothers: Sword & Sworcery EP
 Supercar Collection Simulator
 Supercar Collection Simulator: Prologue
+Supercar Evolution 2025
 SupercupOnline
 Superfidos
 Superfighters Deluxe
@@ -17547,6 +17586,7 @@ Team Fortress: Classic
 Team Sonic Racing™
 Teamcrafter
 Teamfight Manager
+Teamfight Manager 2
 Tearaway
 Tearaway: Unfolded
 Teardown
@@ -18170,6 +18210,7 @@ The Last Farmer
 The Last Flame
 The Last Flame: Prologue
 The Last Guardian
+The Last Guardian VR
 The Last Haven
 The Last Hero of Nostalgaia
 The Last Hero of Nostalgaia Demo
@@ -18972,6 +19013,7 @@ Total Jigsaw
 Total Lockdown
 Total Miner
 Total Tank Simulator
+Total Tank Simulator 2
 Total Tank Simulator Demo
 Total Trails
 Total War Arena
@@ -18999,6 +19041,7 @@ Totally Reliable Delivery Service Beta
 Totemori
 Totoge
 TouHou Makuka Sai ~ Fantastic Danmaku Festival
+TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II
 Touch Type Tale
 Touge Shakai
 Touhou 10.5: Scarlet Weather Rhapsody
@@ -19481,6 +19524,7 @@ Udonge in Interspecies Cave
 Ufouria: The Saga 2
 Ugly Americans: Apocalypsegeddon
 UglyDolls: An Imperfect Adventure
+Uh Oh!
 Ukrainian Fight Drone Simulator
 Ultimate Admiral: Age of Sail
 Ultimate Admiral: Dreadnoughts
@@ -19691,6 +19735,7 @@ Urge
 Urtuk: The Desolation
 Usaaf Mustang
 Use Your Words
+Use Your Words 2
 Used Cars Simulator
 Utawarerumono: Mask of Deception
 Utawarerumono: Zan
@@ -20841,6 +20886,9 @@ ZEPHON
 ZERO Sievert
 ZJ the Ball
 ZJ the Ball Calculator
+ZJ the Ball Challenge (Level 2C)
+ZJ the Ball Challenge (Level 3C)
+ZJ the Ball Challenge (Level 4C)
 ZJ the Ball Challenge: Level 5C
 ZJ the Ball Special
 ZJ the Ball's Collect Stuff: Breakthrough Gaming Activity Center
