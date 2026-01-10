@@ -5187,6 +5187,7 @@ Dread Not
 Dread Templar
 DreadOut
 Dreadline: Net Quota
+Dreadmyst
 Dreadnought
 Dreadtome
 Dreadway
@@ -21236,6 +21237,7 @@ you're just imagining it
 ドキドキAI尋問ゲーム 完全版
 ドラゴンクエストIII　そして伝説へ…
 ドラゴンクエストI＆II
+ドラゴンクエストVII Reimagined  旅のはじまり先行プレイ版
 ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅
 ドラゴンクエストＸ　いにしえの竜の伝承　オンライン
 ドラゴンボールZ KAKAROT

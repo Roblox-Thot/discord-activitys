@@ -818,6 +818,7 @@ bin/crucible.exe
 bin/cstrike-online.exe
 bin/dcs.exe
 bin/dmcr.exe
+bin/dreadmyst.exe
 bin/duke3d.exe
 bin/expeditions.exe
 bin/farcry6.exe
@@ -9613,6 +9614,7 @@ win64/dontlookaway-win64-shipping.exe
 win64/dontscreamtogether-win64-shipping.exe
 win64/doubleclutch-win64-shipping.exe
 win64/doubleshoulders-win64-shipping.exe
+win64/dq7r_demo-win64-shipping.exe
 win64/dqiandiihd2dremake.exe
 win64/dqiiihd2dremake.exe
 win64/dr-win64-shipping.exe
