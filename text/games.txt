@@ -1203,6 +1203,7 @@ Assault Android Cactus
 Assault Bots
 Assault Heroes 2
 Assault Sector
+Assault Spy
 Assault Suit: Leynos
 Assemble with Care
 Assetto Corsa
@@ -2098,6 +2099,7 @@ Bleed Runner
 Bleeding Edge
 Bless Online
 Bless Unleashed
+Bless You Again
 Blightbound
 Blightstone
 Blind
@@ -2980,6 +2982,7 @@ Cat Cafe Manager
 Cat Fun
 Cat God Ranch
 Cat Goes Fishing
+Cat Named Mojave
 Cat Ping Pong
 Cat Plus
 Cat Quest
@@ -3232,6 +3235,7 @@ Chonkers
 Choo Choo Survivor
 Choo-Choo Charles
 Choo-Choose
+Chop Chains
 Chop Goblins
 Chop is Dish
 Choppy Cuts
@@ -4193,6 +4197,7 @@ DRAGON BALL: Sparking! ZERO
 DRAGON BALL: THE BREAKERS
 DRAGON QUEST BUILDERS 2 JUMBO DEMO
 DRAGON QUEST BUILDERS™ 2
+DRAGON QUEST VII Reimagined
 DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition DEMO
 DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition
 DRAGON QUEST® XI: Echoes of an Elusive Age™
@@ -8049,6 +8054,7 @@ Heartbeat in Thailand
 Heartbound
 Hearthstone
 Hearthstorm
+Heartopia
 Hearts of Iron II
 Hearts of Iron III
 Hearts of Iron IV
@@ -9922,6 +9928,7 @@ Left 4 Dead 2
 Left on Read
 LeftRedRightBlue
 Legacy of Defense
+Legacy of Defense - Prologue
 Legacy of Kain: Defiance
 Legacy of Kain: Soul Reaver
 Legacy of Kain: Soul Reaver 2
@@ -9957,6 +9964,7 @@ Legends of Kingdom Rush
 Legends of Runeterra
 Legion
 Legion TD 2
+Legitimate Space Corp Simulator LLC
 Legrand Legacy: Tale of the Fatebounds
 Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored
 Leisure Suit Larry - Wet Dreams Don't Dry
@@ -11160,6 +11168,7 @@ Milo and the Christmas Gift
 Milo and the Magpies
 Milo's Quest
 Milthm
+Mimetic
 Mimi the Cat: Meow Together
 Mimi the Cat: New Friends
 Mimi the cat: Mimi's Scratcher
@@ -12991,6 +13000,7 @@ Paranormal Activity: The Lost Soul
 Paranormal Cleanup
 Paranormal Investigators
 ParanormalHK
+Parasite Mutant
 Parasite Pack
 Parasocial
 Parasol Stars: Rainbow Islands II
@@ -13463,6 +13473,7 @@ Poke All Toads
 PokeMMO
 Poker Championship
 Poker Club
+Poker Fate
 Poker Legends: Tournaments
 Poker Master
 Poker Night 2
@@ -14763,10 +14774,12 @@ Rogue Masters
 Rogue Operatives
 Rogue Point
 Rogue Reaper
+Rogue Slots
 Rogue System
 Rogue Tower
 Rogue Voltage
 Rogue Waters
+RogueDiceR
 RogueJack21
 Roguebook
 Roguelands
@@ -17504,6 +17517,7 @@ Tales of Xillia Remastered
 Tales of Yore
 Tales of Zestiria
 Tales of the Black Forest
+Tales of the Moon
 Tales of the Shire: A The Lord of The Rings™ Game
 Talisman: Digital 5th Edition
 Talisman: Digital Edition
@@ -18646,6 +18660,7 @@ The Whims Of The Gods
 The Whiskey Story
 The Whispered World Special Edition
 The White Door
+The Wild Darkness
 The Wild Eight
 The Willowmist Emporium of Antiques & Curiosities
 The Wind Road
@@ -18827,6 +18842,7 @@ TimeLost
 TimeSplitters
 TimeSplitters 2
 Timelie
+Times of Survival
 Timespinner
 Timesplitters: Future Perfect
 Timothy's Night
@@ -19336,6 +19352,7 @@ Trivia Quiz Minister
 Trivia Tricks Friend Pass
 Trivial Pursuit: Live! 2
 Trizon
+Trolddom
 Troll and I
 Trolley Problem, Inc.
 Trombone Champ
@@ -20845,6 +20862,7 @@ Young Suns
 Your Average Bear
 Your Average Old School Shmup
 Your Big, Cute Monster Farm
+Your Boyfriend
 Your Chronicle
 Your Only Move Is HUSTLE
 Your Toy
