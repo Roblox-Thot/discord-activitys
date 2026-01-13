@@ -5626,6 +5626,7 @@ nino2.exe
 nioh.exe
 nioh2/nioh2.exe
 nite team 4/nt4.exe
+nitorinc. demo/nitorinc demo plus.exe
 nitronicrush.exe
 nitroplus blasterz heroines infinite duel/nitroplus blasterz.exe
 nko dice/nkodice.exe
@@ -5925,6 +5926,7 @@ pac-man world re-pac/pac-man world re-pac.exe
 pac-man/pac-man.exe
 pacifish/pacifish.exe
 paddle paddle paddle/paddle paddle paddle.exe
+paicom (furry computer assistant)/paicom.exe
 painkiller.exe
 paint the town red demo/paintthetownreddemo.exe
 paint warfare/paint warfare.exe
