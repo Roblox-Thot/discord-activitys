@@ -819,6 +819,7 @@ Ancient Amuletor VR
 Ancient Ants Adventure
 Ancient Cities
 Ancient Dungeon VR
+Ancient Farm
 Ancient Mahjong
 Ancient Planet
 Ancient Russian Life Simulator
@@ -1087,6 +1088,7 @@ Arken Age
 Arkham Horror: Mother's Embrace
 Arkheron
 Arknights
+Arknights:Endfield
 Arma 2
 Arma 2
 Arma 2: Operation Arrowhead
@@ -1457,6 +1459,7 @@ BROKE PROTOCOL: Online City RPG
 BRUTALISTICK VR
 BSL Winter Games Challenge
 BULLET YEETERS
+BULT: Hunting Simulator
 BUMP! Superbrawl
 BUSTAFELLOWS
 BUTCHER
@@ -3710,6 +3713,7 @@ Corruption of Champions II
 Corsairs Legacy
 Cortex Command
 Cosmic Dust & Rust
+Cosmic Express
 Cosmic Miners
 Cosmic Mirage
 Cosmic Paradox: Noire
@@ -3884,6 +3888,7 @@ Crisis Brigade 2: Reloaded
 Crisis in the Kremlin
 Crisis in the Kremlin: The Cold War
 Crisis on the Planet of the Apes VR
+Crisis: The Third Way
 Crisol: Theater of Idols
 Criss Cross
 Criss Cross Bomb
@@ -4803,6 +4808,7 @@ Difficult Climbing Game
 Dig Deep
 Dig Dug II
 Dig or Die
+Dig, Dig, Die
 Digested
 Digger: Galactic Treasures
 Digging A Hole 2025
@@ -5344,6 +5350,7 @@ Duke Nukem: Manhattan Project
 Duks
 Dumb Castle
 Dummynation
+DunHero
 Duncrush
 Dune: Awakening
 Dune: Imperium
@@ -5846,6 +5853,7 @@ Escape from Monkey Island™
 Escape from Tarkov
 Escape from Tarkov: Arena
 Escape from Tatris
+Escape from Yandere
 Escape from the Dungeon
 Escape from the Pharaoh's Tomb
 Escape the Ayuwoki
@@ -5968,6 +5976,7 @@ Evil West
 EvilUP
 Eville
 EvilvEvil
+EvoCreo
 Evo\Wave
 Evoland
 Evoland 2
@@ -6544,6 +6553,7 @@ Fisher Online
 Fishing Adventure
 Fishing Blast
 Fishing Grind
+Fishing Inc
 Fishing Master
 Fishing Planet
 Fishing Sim World: Pro Tour
@@ -6742,6 +6752,7 @@ ForeVR Bowl
 Forefront
 Foregone
 Forest Heroes
+Forest Hustle
 Forestrike
 Forestry 2017: The Simulation
 Forever Skies
@@ -7919,6 +7930,7 @@ Hamster Combat
 Hamster Hunter
 Hamster Hustle
 Hamster Playground
+Hana
 Hand Simulator
 Hand Simulator: Horror
 Hand Simulator: Rendezvous
@@ -8385,6 +8397,7 @@ HoloCure - Save the Fans!
 HoloRun
 HoloSeeker
 Holodrive
+Hologuard
 Holoidle
 Hololive GoroGoro Mountain
 Hololive Holo's Hanafuda
@@ -14587,6 +14600,7 @@ Riding Hero
 Riding to Bounce City
 Riff Racer
 RiffTrax: The Game
+Rift Fishing
 Rift Riff
 Rift Wizard
 Rift Wizard 2
@@ -15385,6 +15399,7 @@ Scram Kitty DX
 Scramble
 Scramble Animal Words
 Scramble Formation
+Scramble Knights Royale
 Scramble: Battle of Britain
 Scrambled Word
 Scrap Collector
@@ -15541,6 +15556,7 @@ Session
 Settlement Survival
 Settlements Rising
 Settler's Domain
+Settlers 3: Ultimate Collection
 Seven Knights Idle Adventure
 Seven Knights Re:Birth
 Seven: Enhanced Edition
@@ -17145,6 +17161,7 @@ Super Weekend Mode
 Super Woden GP 2
 Super Xevious: GAMP no Nazo
 Super Zangyura
+Super-B
 SuperDuck!
 SuperPantsu Tentikun
 SuperPower 2
@@ -19383,6 +19400,7 @@ Truck Racing Championship
 Truck Sim 2024
 Truck Simulator 2023: Driver Europe
 Truck Simulator 25: American Driver
+Truck Simulator 25: Euro Driver
 Truck Simulator Cargo Driver 2024: EURO
 Truck Simulator Cargo Driver 2024: USA
 Truck Simulator: Driving School 2024
@@ -20316,6 +20334,7 @@ Webgeon Speedrun Edition
 Wedding Witch
 Wednesdays
 Wee Tanks!
+Weeb Store Simulator: Supermarket Together
 Weed Shop 2
 Weed Shop 3
 Weedcraft Inc
@@ -20535,6 +20554,7 @@ Witchy Life Story
 With Eyes Closed - Season 1
 With You
 Withering Rooms
+Without A Hitch
 Without Escape
 Without time windows
 Wittle Mistakes
@@ -21158,6 +21178,7 @@ one night, hot springs
 oneway.exe
 openCanvas 7
 osu!
+outpost4
 pemsa
 pla_toon
 projectM Music Visualizer
