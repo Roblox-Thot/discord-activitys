@@ -7238,6 +7238,7 @@ skill/dfufg.exe
 skilltree.exe
 skin deep/skindeep.exe
 skuf fishing/skuffishing.exe
+skufdacha/skufdacha.exe
 skul/skul.exe
 skull and bones (open beta)/skullandbones.exe
 skull and bones/skullandbones.exe
@@ -8406,6 +8407,7 @@ the watchers/thewatchers.exe
 the way of life/thewayoflifedemowindows.exe
 the werecleaner/the werecleaner.exe
 the white door/thewhitedoor.exe
+the wife next door/thewifenextdoor.exe
 the witch's house mv/game.exe
 the witcher adventure game/thewitcheradventuregame.exe
 the witcher enhanced edition/benioku.exe

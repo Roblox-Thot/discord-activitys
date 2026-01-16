@@ -35,6 +35,7 @@
 100 Cats Lost In Italy
 100 Cats Lost In Japan Find & Color
 100 Cats Lost In Turkey Find & Color
+100 Cats Lost in China
 100 Cats New York
 100 Christmas Cats
 100 Crime Cats
@@ -2398,6 +2399,7 @@ Bravery and Greed Demo
 Bravo Team
 Bravoman
 Brawl Chess
+BrawlMart
 Brawlers Of The West
 Brawlhalla
 Brawller Starsister Matchs
@@ -3005,6 +3007,7 @@ Catan Universe
 Catan: Console Edition
 Catch Me
 Catch Me If You Can
+Catch and Feed
 Catch the Bowling Balls: Breakthrough Gaming Arcade
 Cate P
 Caterpillar
@@ -3783,6 +3786,7 @@ Crab God
 Crackdown
 Crackdown 2
 Crackdown 3
+Cracked
 Cracking the Cryptic
 Craft MineWorld
 Craft The World
@@ -4286,6 +4290,7 @@ Dark Echo
 Dark Elf
 Dark Elven Legacy
 Dark Envoy
+Dark Farts: Parody Smell Edition
 Dark Fox Infinity Runner
 Dark Fracture: Prologue
 Dark Hours: Prologue
@@ -15349,6 +15354,7 @@ Say No! More
 Sayonara Wild Hearts
 Scale the Depths
 Scam Centre Simulator: Under Kingdom
+Scam Line
 Scania Truck Driving Simulator
 Scanner Sombre
 Scarlet Deer Inn
@@ -15420,6 +15426,7 @@ Screwjumper!
 Scribble
 Scribble Bots
 Scribble It!
+Scribble Wolf
 Scribblenauts Unlimited
 Scribblenauts Unmasked: A DC Comics Adventure
 Scribblenauts: Mega Pack
@@ -18679,6 +18686,7 @@ The Whims Of The Gods
 The Whiskey Story
 The Whispered World Special Edition
 The White Door
+The Wife Next Door
 The Wild Darkness
 The Wild Eight
 The Willowmist Emporium of Antiques & Curiosities
@@ -21245,6 +21253,7 @@ you're just imagining it
 Симулятор Прыгания по Гаражам
 Симулятор Скуфа
 Симулятор Чушпана
+Скуф на даче
 Скуф на рыбалке
 ⚽Ultimate Soccer
 いっき団結
