@@ -5270,6 +5270,7 @@ Drive 21
 Drive Beyond Horizons
 Drive Me Broke
 Drive Thru Simulator
+Drive Together
 Drive on Moscow
 Driveclub VR
 Driver Booster 3 for STEAM
@@ -9079,6 +9080,7 @@ Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate
 Is It Wrong to Try to Pick Up Girls in a Dungeon?: Battle Chronicle
 Is This Game Trying To Kill Me?
 Is This Seat Taken?
+Isekai Adventurer Guild
 Isekai∞Isekai
 Island Beekeeper
 Island Cities
@@ -10205,6 +10207,7 @@ Lode Runner
 Lodventure
 Lofi Ping Pong
 Loftia
+Log.in
 Logiart Grimoire
 Logic Bombs
 Logic Pro
@@ -10337,6 +10340,7 @@ Love Curse: Find Your Soulmate
 Love Esquire
 Love Kuesuto
 Love Letter
+Love Love Mystery Club
 Love Love School Days
 Love Sucks: Night One
 Love Sucks: Night Two
@@ -17781,6 +17785,7 @@ The Apothecary of Trubiz
 The Archotek Project
 The Art of Reflection
 The Artful Escape
+The Artisan of Glimmith
 The Ascent
 The Astyanax
 The August Before
@@ -19038,6 +19043,7 @@ Toree 3D
 Toree Saturn
 Toree's 3D Platformer Collection
 Toren
+Torerowa
 Toribash
 Toribash Next
 Torment: Tides of Numenera
@@ -20324,6 +20330,7 @@ We Harvest Shadows
 We Love Katamari REROLL+ Royal Reverie
 We Need to Go Deeper
 We Sing: Pop!
+We Used to Play Here
 We Went Back
 We Were Here
 We Were Here Expeditions: The FriendShip
@@ -20777,6 +20784,7 @@ Xeno
 Xenonauts
 Xenonauts 2
 Xenopurge
+Xenosensory
 Xenotilt: Hostile Pinball Action
 Xeodrifter
 Xevious
@@ -21255,6 +21263,7 @@ you're just imagining it
 Симулятор Чушпана
 Скуф на даче
 Скуф на рыбалке
+Твоя мама
 ⚽Ultimate Soccer
 いっき団結
 いもむし
