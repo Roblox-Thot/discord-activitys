@@ -3247,6 +3247,7 @@ Chop is Dish
 Choppy Cuts
 Chordioid
 Chorus
+Chosen Garden
 Chouju Giga Taisen
 Chris Sawyer's Locomotion
 Christmas Break 2
@@ -5157,6 +5158,7 @@ Dragon Sleuth Brittany
 Dragon Song Tavern: Cozy & Adventurous
 Dragon Spirit
 Dragon Survival
+Dragon Traveler
 Dragon Warrior II
 Dragon Warrior III
 Dragon's Crown
@@ -7431,6 +7433,7 @@ Goblin Cleanup
 Goblin Dungeoneer
 Goblin Gearshop
 Goblin Gnome Horn
+Goblin Goopmaxxing
 Goblin Nest
 Goblin Stone
 Goblin Sushi
@@ -11501,6 +11504,7 @@ Moorhuhn Jump and Run Treasure Hunter 2
 Moorhuhn Kart 2
 Moorhuhn Remake
 Moorhuhn: Jump and Run - Traps and Treasures
+Moose Lost in the Woods
 Moose Miners
 Moral Dilemma: The Interview
 Morbid Metal
@@ -16942,6 +16946,7 @@ Stunt Scooter Simulator
 SturmFront: The Mutant War - Übel Edition
 Stygian: Outer Gods
 Stygian: Reign of the Old Ones
+Styx: Blades of Greed
 Styx: Master of Shadows
 Styx: Shards of Darkness
 Sub Command
@@ -20427,6 +20432,7 @@ While the Iron's Hot
 Whimsical Artefacts
 Whirligig
 Whisker Squadron: Survivor
+Whiskers Tale
 Whiskerwood
 Whiskey Mafia: Frank's Story
 Whiskey Mafia: Leo's Family
@@ -21335,6 +21341,7 @@ you're just imagining it
 中華一商：傳承
 乡村狂想曲
 你的老婆
+侠客风云传(Tale of Wuxia)
 信長の野望･新生
 做个好梦
 傳送地下城
