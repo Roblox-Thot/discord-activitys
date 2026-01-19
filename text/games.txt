@@ -1437,6 +1437,7 @@ BLOCKADE 3D
 BLOCKPOST
 BLOCKPOST MOBILE
 BLOODSTRIKE
+BLOW-UP: Avenge Humanity
 BMX Bastards
 BMX Streets
 BMX Streets: PIPE
@@ -9848,6 +9849,7 @@ Land of the Vikings
 Landfall Archives
 Landlord's Super
 Landmark
+Lane Hunters
 Langrisser I & II
 Lapin
 Lapis x Labyrinth
@@ -9905,6 +9907,7 @@ Lawyer Guy: Defender of Justice
 Layers of Fear
 Layers of Fear 2
 Laysara: Summit Kingdom
+Lazy Witch's Factory
 Le Dernier Don
 Le Donjon de Naheulbeuk : L'Amulette du Désordre
 Le Mans Ultimate
@@ -10374,6 +10377,7 @@ Lovey-Dovey Lockdown
 Low Light Combat
 Low Magic Age
 Low Poly Mouse Game
+Low Value Job
 Low-Budget Repairs
 Lucid Clowder
 Lucid Dream
@@ -10560,6 +10564,7 @@ MXGP3 - The Official Motocross Videogame
 MXGP: The Official Motocross Videogame - Compact
 MY HERO ONE'S JUSTICE
 MY HERO ULTRA RUMBLE
+MaSzyna: Railway Vehical Simulator
 Mabinogi
 Mabinogi Mobile
 Maboroshi Caravan
@@ -10637,6 +10642,7 @@ Magic Chess: Go Go
 Magic Duels
 Magic Dungeon Hero: Freedom or Death
 Magic Exposure: Yuri Visual Novel
+Magic Forge Tycoon
 Magic Inn
 Magic Knight Grand Charion
 Magic Nations
@@ -13538,6 +13544,7 @@ Poly Puzzle: Anime Battle Girls
 Poly Puzzle: Origins
 Poly Roam
 Poly Shooting Simulator
+Poly TD
 PolyBoy War
 PolyPine
 PolyZ
@@ -15872,6 +15879,7 @@ Silly Polly Beast
 Silly's Gameshow
 Silver Axe: The Honest Elf
 Silver Chains
+Silver Palace
 Silver and Blood
 Silverwood Bay: An Eleanor Grey Mystery
 Sim City 3000™ Unlimited
@@ -20186,6 +20194,7 @@ War Trigger 3
 War for the Overworld
 War in the Caverns
 War of Aero
+War of Dots
 War of Rights
 War of the Monsters
 War on the Sea
