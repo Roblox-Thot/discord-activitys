@@ -11127,6 +11127,7 @@ youtuberslife.exe
 youtubevr/youtubevr.exe
 ys i/ys1plus.exe
 ys origin/yso_win.exe
+ys the oath in felghana/ysf_win_dx9.exe
 ys viii lacrimosa of dana/ys8.exe
 yttd/game.exe
 yu crossing animals/yu crossing animals.exe
