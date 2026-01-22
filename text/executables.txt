@@ -1167,6 +1167,7 @@ broventure the wild co-op/broventure.exe
 brutal orchestra/brutalorchestra.exe
 brutalistick vr/brutalistickvr.exe
 brutallegend.exe
+bscs/battle simulator counter stickman.exe
 btd5-win.exe
 btdadventuretime.exe
 bubble people/bubble people.exe
@@ -3854,6 +3855,7 @@ hexen 2/glh2.exe
 hexen/base/dosbox.exe
 hexologic/hexologic.exe
 hextechmayhem/hextechmayhem.exe
+hey stranger! i dare you to love me!/hey stranger! i dare you to love me!.exe
 hidden and dangerous 2/setup.exe
 hidden cats the last of cats/hidden cats the last of cats.exe
 hidden deep/hdeep.exe

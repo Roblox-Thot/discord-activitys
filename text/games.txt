@@ -1695,6 +1695,7 @@ Battle Realms: Zen Edition
 Battle Royale Trainer
 Battle Royale: Survivors
 Battle Shapers
+Battle Simulator: Counter Stickman
 Battle Squares
 Battle Suit Aces
 Battle Talent
@@ -8268,6 +8269,7 @@ Hexic
 Hexic 2
 Hexologic
 Hextech Mayhem: A League of Legends Story™
+Hey Stranger! I Dare You to Love Me!
 Hi-Fi RUSH
 HiQ Ace
 HiQ Ace Unlimited
