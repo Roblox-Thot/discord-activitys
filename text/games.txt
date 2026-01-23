@@ -562,6 +562,7 @@ Agnostiko VS
 Agony
 Agreeee
 Agriculture
+Agromatic
 Agronom
 Agrou
 Aground
@@ -821,6 +822,7 @@ Ancient Ants Adventure
 Ancient Cities
 Ancient Dungeon VR
 Ancient Farm
+Ancient Kingdoms
 Ancient Mahjong
 Ancient Planet
 Ancient Russian Life Simulator
@@ -2273,6 +2275,7 @@ BoneField: Bodycam Horror
 BoneTown
 Boneless VR
 Boneraiser Minions
+Bones and Coins
 Bonesaw
 Bongo Cat
 Bonze Adventure
@@ -2495,6 +2498,7 @@ Broken Sword 1 - Shadow of the Templars: Director's Cut
 Broken Sword 5: The Serpent's Curse
 Broken Sword: Shadow of the Templars - Reforged
 BrokenLore: Low
+BrokenLore: Unfollow
 Bronzebeard's Tavern
 Brotato
 Brotato Demo
@@ -3004,6 +3008,7 @@ Cat in the Box
 Cat's Request
 Cataclismo
 Cataclysm: Dark Days Ahead
+Cataclysm: The Last Generation
 Catacomb Master
 Catan Universe
 Catan: Console Edition
@@ -3732,6 +3737,7 @@ Cosmik Battle
 Cosmo Gang: The Puzzle
 Cosmo Gang: The Video
 Cosmo Police Galivan
+Cosmochoria
 Cosmonious High
 Cosmophony
 Cosmorons
@@ -4284,6 +4290,7 @@ Dark Around You
 Dark Burial
 Dark Cloud
 Dark Cloud 2
+Dark December
 Dark Deception
 Dark Deception: Monsters & Mortals
 Dark Deity
@@ -5225,6 +5232,7 @@ Dream Match Tennis VR
 Dream Slayers
 Dream Tactics
 Dream Team Basketball
+Dream of Corpse Lady
 DreamBall
 DreamWorks All-Star Kart Racing
 DreamWorks Dragons: Dawn of New Riders
@@ -5785,6 +5793,7 @@ Enshrouded
 Enslaved: Odyssey to the West
 Enter Digiton: Heart of Corruption
 Enter the Gungeon
+Entity: The Black Day
 Entropia Universe
 Entropy : Zero
 Entropy : Zero 2
@@ -6210,6 +6219,7 @@ Faefever
 Faeria
 Fahrenheit: Indigo Prophecy Remastered
 Faircroft's Antiques: The Mountaineer's Legacy
+Fairground Online
 Fairies
 Fairy Fencer F
 Fairy Fencer F Advent Dark Force
@@ -6754,6 +6764,7 @@ ForRace GT2D
 Forage Wizard
 Forager
 Forbidden Fantasy
+Forbidden Solitaire
 Forbidden Terror: Board Game
 Force of Nature
 Force of Nature 2
@@ -7834,6 +7845,7 @@ HER TREES : THE PUZZLE HOUSE
 HEX: Shards of Fate
 HIDDEN CATS 7: Cookie Town
 HIDDEN CATS: The last of cats
+HIROTONFA's American Revolution Smuggler
 HITMAN 3
 HITMAN: Sniper Assassin
 HITMAN™ 2
@@ -9373,6 +9385,7 @@ KINGDOM HEARTS III + Re Mind (DLC)
 KOF: Sky Stage
 KORRIDOR
 KUUKIYOMI: Consider It
+KUUKIYOMI: Consider It World - Thailand Ver.
 KVLT
 Kaboom!
 Kabounce
@@ -9439,6 +9452,7 @@ Katanaut
 Katawa Shoujo
 Kathana
 Kathy Rain
+Kathy Rain: Director's Cut
 Kattish
 Kauil's Treasure
 Kawaii Neko Girls
@@ -9990,6 +10004,7 @@ Legends of Dragaea: Idle Dungeons
 Legends of Idleon MMO
 Legends of Kingdom Rush
 Legends of Runeterra
+Legends of Wasteland
 Legion
 Legion TD 2
 Legitimate Space Corp Simulator LLC
@@ -10294,6 +10309,7 @@ Lost Ember: Rekindled Edition
 Lost Grimoires 3: The Forgotten Well
 Lost Horizon
 Lost Horizon 2
+Lost Host
 Lost In Fantaland
 Lost In Random
 Lost Islands
@@ -10714,6 +10730,7 @@ Make It Rain: Love of Money
 Make Love Not War 2
 Make Way
 Make Your Kingdom: Prologue
+Make me Float
 MakeRoom
 MakerKing
 Making*Lovers
@@ -12396,6 +12413,7 @@ OFC: Ultimate Fighting Club
 OFF
 OFF Prologue
 OH MY GOD, LOOK AT THIS KNIGHT
+OH, DEMON! Fix my TV
 OHV
 OKAMI HD / 大神 絶景版
 OLDTV
@@ -12561,6 +12579,7 @@ Once Human
 Once Upon A KATAMARI
 Once Upon a Galaxy
 Once Upon a Puppet
+Once Upon a Shell
 Once a Porn a Time
 One BTN Bosses
 One Button Games 5-in-1
@@ -13398,6 +13417,7 @@ Pizza Possum
 Pizza Restaurant Simulator
 Pizza Restaurant Together
 Pizza Slice
+Pizza Slice (Demo)
 Pizza Tower
 Pizzapocalypse
 Piñata Go Boom
@@ -15426,6 +15446,7 @@ Scramble Knights Royale
 Scramble: Battle of Britain
 Scrambled Word
 Scrap Collector
+Scrap Daddies
 Scrap Garden
 Scrap Mechanic
 Scrap Metal
@@ -15556,6 +15577,7 @@ Seraph: In the Darkness
 Serena
 Serial Cleaner
 Serial Cleaners
+Serial Lover
 Series Makers
 Serious Sam 2
 Serious Sam 3 VR: BFE
@@ -15858,6 +15880,7 @@ Sigils of Nightfall
 Sigma Theory
 Sign of Silence
 Signal Simulator
+Signal Zone
 Sil and the Fading World
 Silence
 Silenced: The House
@@ -17185,6 +17208,7 @@ Super Volley Blast
 Super Volleyball
 Super Weekend Mode
 Super Woden GP 2
+Super Woden: Rally Edge
 Super Xevious: GAMP no Nazo
 Super Zangyura
 Super-B
@@ -18081,6 +18105,7 @@ The Forgettable Dungeon
 The Forgotten City
 The Forgotten Tribe
 The Forgotten World
+The Fortress
 The Four Kings Casino and Slots
 The Fox Awaits Me
 The Front
@@ -18408,6 +18433,7 @@ The Ninja Kids
 The Ninja Saviors: Return of the Warriors
 The Ninja Warriors
 The OG Cake Factory
+The Occultist
 The Odyssey of the Mammoth
 The Oily Depths
 The Onion Knights
@@ -20441,6 +20467,7 @@ While Waiting
 While We Wait Here
 While the Iron's Hot
 Whimsical Artefacts
+Whimsy Bake&Craft
 Whirligig
 Whisker Squadron: Survivor
 Whiskers Tale
@@ -20522,6 +20549,7 @@ Wilmot Works it out
 Wilmot's Warehouse
 Wilson Chronicles - Beta
 Wind of Shuriken
+WindStop Strategy
 Windblown
 Windborn: Concrete Jungle
 Windborn: Journey to the South

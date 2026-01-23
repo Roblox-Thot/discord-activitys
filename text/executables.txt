@@ -6140,6 +6140,7 @@ pixieditor/pixieditor.exe
 pizza connection 3/pizza connection 3.exe
 pizza frenzy/popcapgame1.exe
 pizza possum/pizzapossum.exe
+pizza slice demo/pizzaslice.exe
 pizza tower/pizzatower.exe
 pizza-deathlivery/pizza deathlivery.exe
 pla_toon-win64-shipping.exe
