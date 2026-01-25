@@ -3639,6 +3639,7 @@ hades' star/hadesstar.exe
 hades.exe
 haha doodle/hahadoodle.exe
 haiku the robot/haiku.exe
+hakoniwa explorer plus/game.exe
 hakuoki edo blossoms/hakuokiflower.exe
 hakuoki kyoto winds/hakuokiwin.exe
 halcyon 6 lightspeed edition/h6.exe
@@ -5440,6 +5441,7 @@ my lovely daughter/my lovely daughter.exe
 my sexy neighbour 2  prologue/my sexy neighbour 2  prologue.exe
 my sexy neighbour 2/my sexy neighbour 2.exe
 my singing monsters/mysingingmonsters.exe
+my stepbro is a femboy/mystepbroisafemboy.exe
 my sticker book/my sticker book.exe
 my time at sandrock demo/sandrock.exe
 my time at sandrock/sandrock.exe
@@ -5666,6 +5668,7 @@ nomad idle/nomadidle.exe
 nomad survival/nomad survival.exe
 nomad.exe
 nomnomgalaxy/nomnomgalaxy.exe
+nonand2/project_nonmp.exe
 none shall intrude/nsi.exe
 nonogram - master's legacy/nonogram - master's legacy.exe
 nonvr/the break in.exe
