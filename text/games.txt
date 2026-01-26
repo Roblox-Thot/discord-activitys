@@ -427,6 +427,7 @@ Achilles: Legends Untold
 Achilles: Survivor
 Acolyte of the Altar
 Acro FS
+Acrolyte
 Across the Obelisk
 Across the Valley
 Across the Wonderlands
@@ -1002,6 +1003,7 @@ Arc of Alchemist
 Arc the Lad: Twilight of the Spirits
 ArcRunner
 Arca's Path VR
+Arcade Archives 2 Ridge Racer
 Arcade Archives Cue Brick
 Arcade Archives Fighting Hawk
 Arcade Archives Itazura Tenshi
@@ -1047,6 +1049,7 @@ Archers Shadow Strike
 Archery Legend
 ArchiTac
 Architect Life: A House Design Simulator
+Archon Soul
 Archons
 Archvale
 Arco
@@ -1794,6 +1797,7 @@ Beat Hazard 2
 Beat Hazard 3
 Beat Me! - Puppetonia Tournament
 Beat Saber
+Beat Shapes
 Beat Slayer
 Beat The Clock: Hardcore
 Beat of Montezuma
@@ -2156,6 +2160,7 @@ Blood Bowl: Chaos Edition
 Blood Bowl: Death Zone
 Blood Bowl: Legendary Edition
 Blood Crawler
+Blood Money: Lethal Eden
 Blood Moon Horror
 Blood Omen 2: Legacy of Kain
 Blood Omen: Legacy of Kain
@@ -2503,6 +2508,7 @@ Broken Sword: Shadow of the Templars - Reforged
 BrokenLore: Low
 BrokenLore: Unfollow
 Bronzebeard's Tavern
+BroomSweeper
 Brotato
 Brotato Demo
 Brothers - A Tale of Two Sons
@@ -2915,6 +2921,7 @@ Carmageddon: Max Damage
 Carmen Sandiego
 Carnage in Space: Ignition
 Carnal Instinct
+Carnedge
 Carnival Games
 Carnival Games: VR
 Carnival Hunt
@@ -3952,6 +3959,7 @@ Crow Story
 Crowd Run
 Crowded. Followed.
 Crowfall
+Crown Champion: Legends of the Arena
 Crown Trick
 Crown Wars: The Black Prince
 Crown and Adventure
@@ -4807,6 +4815,7 @@ Dice Legends
 Dice People
 Dice Player One
 Dice With Death
+DiceVaders
 Dicealot
 Dicefolk
 Dicey Dungeons
@@ -6562,6 +6571,7 @@ First Date : Late To Date
 First Dwarf
 First Strike
 Fischer's Fishing Journey
+Fish
 Fish Fear Me
 Fish Game
 Fish Hero
@@ -7899,6 +7909,7 @@ Hakoniwa Explorer Plus
 Hakuoki: Edo Blossoms
 Hakuoki: Kyoto Winds
 Halcyon 6: Lightspeed Edition
+Halcyon Days at Taoyuan
 Half Billion: Love Choice
 Half Minute Hero: Super Mega Neo Climax Ultimate Boy
 Half Sword
@@ -11410,6 +11421,7 @@ Molili AI Friends
 Molkky Skittle Game
 Mom Hid My Game!
 Mom Hid My Game! 2
+Mom Stolen In Space
 Mom got stuck in the washing machine
 Momentum Mod
 Momo Crash
@@ -13846,6 +13858,7 @@ Project Zero Deaths
 Project Zeta
 Project Zomboid
 Project64
+Project: Doors
 Project: Gorgon
 Project: M
 Project: Mist
@@ -15099,6 +15112,7 @@ SD Gundam G Generation: Mono-Eye Gundams
 SD Gundam: G Generation - Genesis
 SEDAP! A Culinary Adventure
 SEGA Bass Fishing
+SEGA Football Club Champions
 SEGA Mega Drive & Genesis Classics
 SEGA Vintage Collection: ToeJam & Earl
 SENRAN KAGURA Bon Appetit!
@@ -15113,6 +15127,7 @@ SEVERANCE
 SEX with HITLER
 SEX with HITLER 2
 SEXTS
+SHE WAS 98
 SHENZHEN I/O
 SHINOBI: Art of Vengeance
 SHOOPER NOVA
@@ -17179,6 +17194,7 @@ Super Pengo Run
 Super Ping Pong: Trick Shot
 Super Pixel Kid
 Super Prehistoric World Adventure
+Super Psycho Baseball
 Super Puzzle Fighter II Turbo HD Remix
 Super Raft Boat Classic
 Super Raft Boat Together Demo
@@ -20882,6 +20898,7 @@ Yakuza 5 Remastered
 Yakuza 6: The Song of Life
 Yakuza Kiwami
 Yakuza Kiwami 2
+Yakuza Kiwami 3 & Dark Ties
 Yakuza Rogue: Yokohama massage parlor chapter
 Yakuza: Like a Dragon
 Yandere School
