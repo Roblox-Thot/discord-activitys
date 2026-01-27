@@ -5666,6 +5666,7 @@ Elasto Mania Remastered
 Elation For The Wonder Box 6000
 Elder Legacy
 Elder Legacy: Survival
+Eldergarde
 Eldest Souls
 Eldevin
 Eldorante
@@ -9993,7 +9994,6 @@ Legacy of Kain: Defiance
 Legacy of Kain: Soul Reaver
 Legacy of Kain: Soul Reaver 2
 Legacy of Kain™ Soul Reaver 1&2 Remastered
-Legacy: Steel & Sorcery
 Legend Bowl
 Legend of Arcadieu Bundle
 Legend of Dungeon
@@ -12591,6 +12591,7 @@ Omelet You Cook
 Omensight
 Omerta - City of Gangsters
 Ominous Tales: The Forsaken Isle
+OmniBus
 Omno
 Omri Final Fighter
 On The Road: Truck Simulator
@@ -17838,6 +17839,7 @@ The Adventures of Maximus
 The Adventures of Panzer: Legacy Collection
 The Adventures of Sir Kicksalot
 The Age of Decadence
+The Agnietta ~The holy healer & the cursed dungeon~
 The Alliance Alive HD Remastered
 The Allure Of Wanton Cove
 The Alters

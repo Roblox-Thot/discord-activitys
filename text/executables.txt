@@ -3918,6 +3918,7 @@ hoi3.exe
 hoi3_tfh.exe
 hoi3_tfh_kor.exe
 hoi3game.exe
+hoi4
 hoi4.exe
 hokko life/hokko life.exe
 holdfast naw.exe
@@ -5783,6 +5784,7 @@ olliolli2.exe
 omegacrafter/omegacrafter.exe
 omensight.exe
 omerta/omertasteam.exe
+omnibus/omnibus.exe
 omon girl bottle royal/omon girl bottle royal.exe
 omon simulator/omon simulator.exe
 omori/omori.exe
@@ -8138,6 +8140,7 @@ thank goodness you're here!/thank goodness you're here!.exe
 tharsis/tharsis.exe
 that's not my neighbor/that's not my neighbor (steam).exe
 the adventure pals/adventure pals.exe
+the agnietta/game.exe
 the backrooms 1998 - found footage backroom survival horror game/thebackrooms1998.exe
 the backrooms game/the backrooms game.exe
 the backrooms survival/the backrooms survival.exe
