@@ -2690,6 +2690,7 @@ CLIMB IT!
 COCKHEAD
 COCOON
 CODE VEIN
+CODE VEIN II
 CODE2040
 COMBAT ARMS: THE CLASSIC
 COMPOUND
@@ -2719,6 +2720,7 @@ CULTIC
 CULTIC Demo
 CUSTOM ORDER MAID 3D2 It's a Night Magic
 CVRcade
+CYAN BRAIN
 CYGNI: All Guns Blazing
 Cabal 2
 Cabela's African Adventures
@@ -5664,9 +5666,9 @@ El Paso, Elsewhere
 Elarienne
 Elasto Mania Remastered
 Elation For The Wonder Box 6000
+Eldegarde
 Elder Legacy
 Elder Legacy: Survival
-Eldergarde
 Eldest Souls
 Eldevin
 Eldorante
@@ -11396,6 +11398,7 @@ Mobius
 Mobmania
 Mod and Play
 Model Builder
+Model Casting
 Modern Combat 5
 Modern Combat Versus
 Modern Pink Elf RPG

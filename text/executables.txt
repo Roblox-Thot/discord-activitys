@@ -1855,6 +1855,7 @@ cursorblade/cursorblade_1.0.exe
 cute honey 2/cutehoney2.exe
 cute honey/cutehoney.exe
 cw3.exe
+cyanbrain/cyanbrain.exe
 cyber hook demo/cyberhook.exe
 cyber hook/cyberhook.exe
 cyber knights flashpoint/cyberknights.exe
@@ -5250,6 +5251,7 @@ mobilesuitgundambattleoperation2/msgbo2.exe
 mobiusff.exe
 mod manager/mod manager.exe
 model builder/model builder.exe
+model casting/modelcasting.exe
 modern combat 5/mc5.exe
 modern pink elf rpg/nw.exe
 moderncombatversus.exe
@@ -9546,6 +9548,7 @@ win64/climbthebackrooms-win64-shipping.exe
 win64/cob-win64-shipping.exe
 win64/cobblestone-win64-shipping.exe
 win64/codevein-win64-shipping.exe
+win64/codevein2-win64-shipping.exe
 win64/colonyshipgame-win64-shipping.exe
 win64/combots-win64-shipping.exe
 win64/commandergame-win64-shipping.exe
