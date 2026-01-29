@@ -937,6 +937,7 @@ bit.trip runner/runner.exe
 bitburner/bitburner.exe
 bitcraft online/bitcraft.exe
 bits & bops demo/bits & bops.exe
+bits & bops/bits & bops.exe
 bittriprunner2/runner2.exe
 black book prologue/black book.exe
 black book/black book.exe
@@ -3559,6 +3560,7 @@ grow defense/grow defense.exe
 grow song of the evertree/grow.exe
 grow up/growup.exe
 growhome.exe
+growing things up - season 1/growingthingsup.exe
 growing up/growing up.exe
 growtopia/growtopia.exe
 grunn/grunn.exe
@@ -4483,6 +4485,7 @@ klocki/klocki.exe
 klonoa/klonoa.exe
 knight club/knight club +.exe
 knight online/knightonline.exe
+knight squad 2 trials/knightsquad2.exe
 knightfall/knightfall.exe
 knightica/knightica.exe
 knightly passions/knightly_passions.exe
@@ -6972,6 +6975,7 @@ scrapmechanic.exe
 scrapnaut prologue/scrapnaut.exe
 scrapnaut/scrapnaut.exe
 scrapvival/scrapvival.exe
+scratchers/scratchers.exe
 scream collector/screamcollector.exe
 screamdown/screamdown.exe
 screen cat/screencat.exe
@@ -10732,6 +10736,7 @@ win64/voidbreaker-win64-shipping.exe
 win64/voin-win64-shipping.exe
 win64/voyagesteam-win64-shipping.exe
 win64/vr3_part1.exe
+win64/vrexppluginexample-win64-shipping.exe
 win64/vrflush.exe
 win64/vrpooldemo-win64-shipping.exe
 win64/vrpvpclient-win64-shipping.exe

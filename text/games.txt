@@ -2007,7 +2007,7 @@ BitCraft Online
 BitLife
 Bitburner
 Bitmaster
-Bits & Bops Demo
+Bits & Bops
 Blablublas Battle Royale Shooter
 Black
 Black Book
@@ -7734,6 +7734,7 @@ Grow Defense
 Grow Home
 Grow Up
 Grow: Song of the Evertree
+Growing Things Up - Season 1
 Growing Up
 Growl
 Growtopia
@@ -9089,6 +9090,7 @@ Inward
 Ion Driver
 Ion Fury
 Iragon
+Iragon: Prologue 18+
 Iratus: Lord of the Dead
 Ire: A Prologue
 Irem Collection Volume 2
@@ -9683,6 +9685,7 @@ Knight Shooter
 Knight Sim Life
 Knight Squad
 Knight Squad 2
+Knight Squad 2 Trials
 Knight's Path: The Tournament
 Knightborn
 Knightfall: A Daring Journey
@@ -15484,6 +15487,7 @@ Scrapnaut
 Scrapnaut: Prologue
 Scrapvival
 Scratch Inc.
+Scratchers
 Scream Collector
 ScreamRide
 Screen Cat
