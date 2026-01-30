@@ -4625,6 +4625,7 @@ Deliriant
 Deliver At All Costs
 Deliver Us Mars
 Deliver Us The Moon
+Delivery & Beyond
 Delivery Driver: The Simulation
 Delivery Guy Simulator
 Delivery Inc
@@ -11996,6 +11997,7 @@ Nancy Drew: Curse of Blackmoor Manor
 Nancy Drew: Last Train to Blue Moon Canyon
 Nancy Drew: Midnight in Salem
 Nancy Drew: Shadow at the Water's Edge
+Nancy Drew: The Secret of Shadow Ranch
 Nancy Drew: Warnings at Waverly Academy
 Nano Assault: Neo
 Nano Neighbors
@@ -15963,6 +15965,7 @@ Simson Tuningwerkstatt 3D
 SimuLadron
 Simutrans
 Sin Slayers: Enhanced Edition
+Sin Spire
 SinVR
 SinaRun
 Sine Mora

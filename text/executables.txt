@@ -2091,6 +2091,7 @@ degrees of separation/dofs.exe
 deiland/deiland.exe
 deisim/deisim.exe
 delicious! pretty girls mahjong solitaire/deliciouspgms.exe
+delivery-beyond/delivery-beyond.exe
 delores/delores.exe
 delta force black hawk down/dfbhd.exe
 delta force land warrior/dflw.exe
@@ -5478,6 +5479,7 @@ nalogi/game.exe
 nancy drew - shadow waters edge/shadow.exe
 nancy drew curse of blackmoor manor/game.exe
 nancy drew last train to blue moon canyon/game.exe
+nancy drew the secret of shadow ranch/game.exe
 nancy drew warnings at waverly academy/waverly.exe
 nancydrew_midnightinsalem/midnightinsalem.exe
 napoleon.exe
@@ -10428,6 +10430,7 @@ win64/silverchains-win64-shipping.exe
 win64/silverfish-win64-shipping.exe
 win64/simulatorgame-win64-shipping.exe
 win64/simulatorita-win64-shipping.exe
+win64/sinspire-win64-shipping.exe
 win64/siren-win64-shipping.exe
 win64/sixdays-win64-shipping.exe
 win64/sjgame-win64-shipping.exe
