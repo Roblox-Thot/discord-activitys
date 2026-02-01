@@ -74,6 +74,7 @@
 9 years of shadows/9 years of shadows.exe
 911 first responders/em4.exe
 911 operator/911.exe
+98xx/98xx.exe
 9bitarmies/clientg64.exe
 9dragons/rfstl.exe
 9th dawn remake/9th dawn remake.exe
@@ -5641,6 +5642,7 @@ ninjagaiden4/ninjagaiden4-steam.exe
 nino2.exe
 nioh.exe
 nioh2/nioh2.exe
+nioh3demo/nioh3.exe
 nite team 4/nt4.exe
 nitorinc. demo/nitorinc demo plus.exe
 nitronicrush.exe
@@ -6563,6 +6565,7 @@ red crucible firestorm/red crucible.exe
 red dead redemption 2/playrdr2.exe
 red dead redemption 2/rdr2.exe
 red dead redemption/rdr.exe
+red faction guerrilla re-mars-tered/rfg.exe
 red hot vengeance/redhotvengeance.exe
 red planet farming/redplanetfarming.exe
 red wings/red wings aces of the sky.exe
@@ -8979,6 +8982,7 @@ vampire survivors/vampiresurvivors.exe
 vampire the masquerade - coteries of new york/vtm coteries of new york.exe
 vampire the masquerade - shadows of new york/vtm shadows of new york.exe
 vampire therapist/vampire therapist.exe
+vampire's fall origins/vampire's fall origins.exe
 vampire.exe
 vampiresurvivors/vampiresurvivors.exe
 vanguard-princess/vanpri.exe

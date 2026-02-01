@@ -183,6 +183,7 @@
 911 Ambulance Simulator
 911 Operator
 911: First Responders
+98xx
 9Dragons
 9th Dawn Remake
 :THE LONGING:
@@ -19972,6 +19973,7 @@ Vampire Clans
 Vampire Hunters
 Vampire Survivors
 Vampire Therapist
+Vampire's Fall: Origins
 Vampire: Hidden Object Adventure
 Vampire: The Masquerade - Bloodhunt
 Vampire: The Masquerade - Bloodlines
@@ -21423,6 +21425,7 @@ you're just imagining it
 中国式网游
 中華一商：傳承
 乡村狂想曲
+仁王３ 体験版
 你的老婆
 侠客风云传(Tale of Wuxia)
 信長の野望･新生
