@@ -299,6 +299,7 @@ allegiance.exe
 almost home now/almosthomenow.exe
 aloft demo/aloft.exe
 aloft/aloft.exe
+along the edge/along-the-edge.exe
 altitude.exe
 altspacevr/altspacevr.exe
 altushka dlya skufa/altushka_dlya_skufa.exe
@@ -2633,6 +2634,7 @@ emily is away 3/emily3.exe
 emily is away too/emilyisawaytoo.exe
 emily is away.exe
 emojicc/emojicc.exe
+emotelab/emotelab.exe
 empire total war/empire.exe
 empire.exe
 empireofsin/empireofsin.exe
@@ -5431,6 +5433,7 @@ mxgp/mxgp.exe
 mxgp2 - the official motocross videogame/mxgp_2x64.exe
 mxvsatv.exe
 my bath tub companion/bathtubcompanion.exe
+my bimbo dream/mybimbodream.exe
 my child lebensborn remastered/mychildlebensborn.exe
 my child lebensborn/my child lebensborn.exe
 my coworker is an idiot/mycoworkerisanidiot.exe
@@ -5860,6 +5863,7 @@ ori and the will of the wisps/oriwotw.exe
 ori.exe
 oride.exe
 oriental empires/oriental empires.exe
+orion sandbox enhanced/orion sandbox enhanced.exe
 orpheus's dream/orpheus's dream.exe
 orwell ignorance is strength/ignorance.exe
 orwell.exe
