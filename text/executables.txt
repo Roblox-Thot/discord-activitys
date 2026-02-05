@@ -3503,6 +3503,7 @@ gothic 3 forsaken gods/gothic iii forsaken gods.exe
 gothic 3/gothic3.exe
 gourdlets demo/windows.exe
 gourdlets/windows.exe
+gourmelee.exe
 gpro/gpro.exe
 gpt_vol2.exe
 graalonline era/era.exe
