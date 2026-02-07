@@ -2617,6 +2617,7 @@ Burger Fun
 Burger Run
 Burger Shift: Team Rush: Prologue
 Burger Shop
+Burger Shop 2
 Burger Shop 3
 BurgerTime
 Burgie's Cozy Kitchen
@@ -11519,6 +11520,7 @@ Monster Girl Island: Prologue
 Monster High: Skulltimate Secrets
 Monster Hunter Stories
 Monster Hunter Stories 2: Wings of Ruin Trial Version
+Monster Hunter Stories 3: Twisted Reflection Trial Version
 Monster Hunter Wilds
 Monster Hunter Wilds Benchmark
 Monster Jam Showdown
