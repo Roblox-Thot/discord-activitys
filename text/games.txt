@@ -422,6 +422,7 @@ Ace Strike
 Ace of Spades
 Aces High III
 Aces and Adventures
+Aces of Thunder
 Aces of the Multiverse
 Achievement Clicker
 Achievement printer
@@ -998,6 +999,7 @@ Ara: History Untold
 Arab Drift Cars
 Arab Drift Cars 2
 Arabian
+Arabian Gulf
 Aragami
 Aragami 2
 Aragami: Shadow Edition
@@ -1354,6 +1356,7 @@ Autopsy Simulator
 Avakin Life
 Avalon Crew
 Avalon Lords: Dawn Rises
+Avatar Island
 Avatar World
 Avatar: Frontiers of Pandora
 Avatar: The Last Airbender - Quest For Balance
@@ -3008,6 +3011,7 @@ Castlevania: Symphony of the Night
 Casual Challenge Players Club
 Casual Desktop Game
 Casual Sport Series: Badminton
+Casualties Unknown
 Cat Bait
 Cat Break
 Cat Break Head to Head
@@ -3297,6 +3301,7 @@ Christmas Tree Decorating Simulator
 ChristmasRun
 Chroma Squad
 ChromaGun 2: Dye Hard
+Chromatic Conundrum
 Chronicle: RuneScape Legends
 Chronicles Of Albian: The Magic Convention
 Chronicles Of Teddy: Harmony Of Exidus
@@ -4479,6 +4484,7 @@ Dead Static Drive
 Dead Station 2
 Dead Take
 Dead Tomb
+Dead Watch
 Dead Weight
 Dead as Disco
 Dead by Daylight
@@ -4857,6 +4863,7 @@ Dig or Die
 Dig, Dig, Die
 Digested
 Digger: Galactic Treasures
+Diggin
 Digging A Hole 2025
 Digging Together
 Digimon Masters Online
@@ -5672,6 +5679,7 @@ Egg Runner
 Egg Squeeze
 Egg Surprise
 Egging On
+Eggo
 Eggstraction
 Ego League
 Egress
@@ -6450,6 +6458,7 @@ Fears to Fathom - Episode 2
 Fears to Fathom - Episode 3
 Fears to Fathom - Ironbark Lookout
 Fears to Fathom - Woodbury Getaway
+Feastopia
 Feather
 Feather Party
 Fechtbucher
@@ -6878,6 +6887,7 @@ Forza Motorsport 5
 Forza Motorsport 6
 Forza Motorsport 7
 Fossilfuel 2
+Foul
 Foundation
 Founders' Fortune
 Four Divine Abidings
@@ -8473,6 +8483,7 @@ Holo vs Robo
 Holo8
 HoloCall: Send Your Cheers!
 HoloCure - Save the Fans!
+HoloDungeon: Koyori vs. Hollow Live in Honsha Tower
 HoloRun
 HoloSeeker
 Holodrive
@@ -10643,6 +10654,7 @@ MXGP PRO
 MXGP2 - The Official Motocross Videogame
 MXGP3 - The Official Motocross Videogame
 MXGP: The Official Motocross Videogame - Compact
+MY HERO ACADEMIA: All’s Justice
 MY HERO ONE'S JUSTICE
 MY HERO ULTRA RUMBLE
 MaSzyna: Railway Vehical Simulator
@@ -10964,6 +10976,7 @@ Math Genius: Subtraction
 MathLand
 Matisse's 3D World
 Matt Hazard: Blood Bath and Beyond
+Matt's Hidden Cats
 MattAndZacharyBeta
 Matterfall
 Maurice: In The Predator's Nest
@@ -11276,6 +11289,7 @@ MilkChoco
 Milky Way Idle
 Milky Way Prince: The Vampire Star
 Millennia
+Millennium Dream
 Million Depth
 Milo
 Milo and the Christmas Gift
@@ -12461,6 +12475,7 @@ Nuclear Throne
 Nucleares
 Nugget Royale
 Nukitashi 2
+Nullpoint Protocol
 Numan Athletics
 Numantia
 Number Factory
@@ -13345,6 +13360,7 @@ Phoenix Point
 Phoenix Point: Year One Edition
 Phoenix Wright: Ace Attorney Trilogy
 Photography Simulator
+Photomaly
 Phozon
 PianoGlow
 Pic-Me!
@@ -13642,6 +13658,7 @@ Poly Bridge 3
 Poly Fighter
 Poly Link: RPG Anime Girls
 Poly Party
+Poly Plaza Ultimate
 Poly Puzzle: Anime Battle Girls
 Poly Puzzle: Origins
 Poly Roam
@@ -14986,6 +15003,7 @@ Rooftop Rascal: The Spooky Cat
 Rooftops & Alleys: The Parkour Game
 Rookie Boxing
 Rookie Table Tennis
+Room Planner - Design Home 3D
 Roommates
 Rooms: The Unsolvable Puzzle
 Root
@@ -15692,6 +15710,7 @@ Serious Survivors
 Serpent's Gaze
 Serum
 Servant of the Lake
+Service Please
 ServiceIT: You can do IT
 Session
 Settlement Survival
@@ -17429,6 +17448,7 @@ Swag and Sorcery
 Swallow the Sea
 Swamp Defense 2
 Swamp Keeper
+Swanfield Survival
 SwapStar
 Swapmeat
 Swapshot
@@ -18410,6 +18430,7 @@ The Last Faith
 The Last Farmer
 The Last Flame
 The Last Flame: Prologue
+The Last Gas Station
 The Last Guardian
 The Last Guardian VR
 The Last Haven
@@ -19540,6 +19561,7 @@ Trip World DX
 Trip to Vinelands
 Triple Town
 Tripp: Fitness for Your Inner Self
+Trippy Trader: Schedule & Sell
 Trivia About You
 Trivia For Dummies
 Trivia Live
@@ -21509,6 +21531,7 @@ you're just imagining it
 ロマンシング サガ2 リベンジオブザセブン
 ロマンシング サガ2 リベンジオブザセブン 体験版
 三国杀
+三國志11 with 威力加強版
 不思議のダンジョン 風来のシレン5plus  フォーチュンタワーと運命のダイス
 世界樹の迷宮 HD REMASTER
 世界樹の迷宮Ⅲ 星海の来訪者 HD REMASTER

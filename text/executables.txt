@@ -435,6 +435,7 @@ aquarist/aquarist.exe
 aquarium designer/aquarium designer.exe
 aquarium/game.exe
 aquatico demo/aquatico.exe
+arabian gulf/arabian gulf.exe
 aragami 2/aragami2.exe
 arc apellago/arc apellago.exe
 arcade/arcadeparadise.exe
@@ -6803,6 +6804,7 @@ rome2.exe
 rometw.exe
 ronin/ronin.exe
 roof rage/roofrage.exe
+room planner/roomplanner64.exe
 roomeditor/roomeditor.exe
 root/root.exe
 roots of pacha/roots of pacha.exe
@@ -6917,6 +6919,7 @@ samurai shodown v special/ssvs.exe
 samurai warriors 4 dx/samuraiwarriors4dx.exe
 samurai warriors 4-ii/sw4ii.exe
 samurai warriors 5/sw5.exe
+san11wpk/san11wpk.exe
 san8r/san8r.exe
 sanabi/snb.exe
 sanctuaryrpg - black edition/sanctuaryrpg.exe
@@ -9358,6 +9361,7 @@ win64/aimx1.exe
 win64/aiproject-win64-shipping.exe
 win64/aircar-win64-shipping.exe
 win64/aitdprologue-win64-shipping.exe
+win64/ajgame.exe
 win64/aliensdarkdescentgamesteam-win64-shipping.exe
 win64/aloneinthedark-win64-shipping.exe
 win64/altf4_f-win64-shipping.exe
