@@ -13,12 +13,3 @@ Grabs the detected games from Discord's API `api/v9/applications/detectable` and
 ## File types
 - [json/executables.json](json/executables.json) and [text/executables.text](text/executables.txt) contains a list of the executable names.
 - [json/games.json](json/games.json) and [text/games.text](text/games.txt) contains a list of the game names.
-
-<div align="center">
-
-
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=roblox-thot/discord-activitys@github)](https://gitads.dev/v1/ad-track?source=roblox-thot/discord-activitys@github)
-
-</div>
-<!-- GitAds-Verify: Y52QRBSQB26DNKLY3JZ9UFCJJ8MK3SN7 -->
