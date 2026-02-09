@@ -382,6 +382,7 @@ annomutationem/anno_mutationem.exe
 anomalous coffee machine 2/acm2_windows.exe
 anomalous coffee machine/acm_windows.exe
 anomaly agent/anomaly agent.exe
+anomaly evolution/anomalyevo_windows.exe
 another brick in the mall/launch.exe
 another crab's treasure/anothercrabstreasure.exe
 another eden/anothereden.exe
@@ -1870,6 +1871,7 @@ cyberpunkdreams/cyberpunkdreams.exe
 cycle idle rpg/cycle idle rpg.exe
 cypher/cypher.exe
 cyphers.exe
+d1al-ogue/d1al-ogue.exe
 d4x/d4x.exe
 dagon/dagon.exe
 daisenka/daisenka.exe
@@ -5002,6 +5004,7 @@ maurice in the predators nest/maurice.exe
 max gentlemen sexy business!/business.exe
 max manos/max manos.exe
 max payne 2 the fall of max payne/maxpayne2.exe
+max payne 3/maxpayne3.exe
 max payne/maxpayne.exe
 maximum action/maximum action.exe
 maxpayne3.exe
@@ -5487,6 +5490,7 @@ nalogi/game.exe
 nancy drew - shadow waters edge/shadow.exe
 nancy drew curse of blackmoor manor/game.exe
 nancy drew last train to blue moon canyon/game.exe
+nancy drew secrets can kill/secrets.exe
 nancy drew the secret of shadow ranch/game.exe
 nancy drew warnings at waverly academy/waverly.exe
 nancydrew_midnightinsalem/midnightinsalem.exe
@@ -5630,6 +5634,7 @@ night of the full moon/night of the full moon.exe
 night run/nightrun.exe
 night-runners prologue/night-runners prologue.exe
 nightclubsimulator/nightclubsimulater.exe
+nighthold number 1/nighthold.exe
 nightmare files - clap clap/nightmare files clap clap.exe
 nightmare house source/hl2.exe
 nightmare of decay/nightmareofdecay.exe

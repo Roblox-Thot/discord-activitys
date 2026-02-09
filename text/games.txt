@@ -916,6 +916,7 @@ Anomalous Coffee Machine
 Anomalous Coffee Machine 2
 Anomaly Agent
 Anomaly Collapse
+Anomaly Evolution
 Anomaly Exit
 Anomaly Pools
 Anomaly Protocol
@@ -4151,6 +4152,7 @@ D&D Lords of Waterdeep
 D.C. III: Da Capo III Plus
 D.S: Dal Segno
 D.U.M.B. Ducks
+D1AL-ogue
 D4: Dark Dreams Don't Die
 DAEMON X MACHINA
 DAMNOSAUR
@@ -12052,6 +12054,7 @@ Namco Museum Archives Volume 2
 Nancy Drew: Curse of Blackmoor Manor
 Nancy Drew: Last Train to Blue Moon Canyon
 Nancy Drew: Midnight in Salem
+Nancy Drew: Secrets Can Kill
 Nancy Drew: Shadow at the Water's Edge
 Nancy Drew: The Secret of Shadow Ranch
 Nancy Drew: Warnings at Waverly Academy
@@ -12265,6 +12268,7 @@ NightClub Simulator
 Nightfall
 Nightfall Secrets
 Nighthold
+Nighthold: Number 1
 Nightingale
 Nightly Escape
 Nightmare Boy
