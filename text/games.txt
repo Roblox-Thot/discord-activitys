@@ -146,6 +146,7 @@
 5D Chess With Multiverse Time Travel
 5omeday
 6 Seasons And A Game
+6-7
 60 Parsecs!
 60 Seconds!
 60 Seconds! Reatomized
@@ -1624,6 +1625,7 @@ Banzai Escape 2 Subterranean
 Bao Bao's Cozy Laundromat
 Baptiste
 Baraduke
+Barbarq 2
 Barbecue with friends
 Barber Party
 Barbie Project Friendship
@@ -11202,6 +11204,7 @@ Metro: Last Light - Complete Edition
 Metro: Last Light Redux
 Metrogether
 Metropolis 1998
+Mewgenics
 MewnBase
 Mexico, 1921: A Deep Slumber
 Mi Scusi
@@ -12193,6 +12196,7 @@ Neverending Nightmares
 Nevergrind Online
 Neverlast
 Neverlooted Dungeon
+Neverness to Everness
 Neverwinter
 Neverwinter Nights: Enhanced Edition
 New Arc Line
@@ -12970,6 +12974,7 @@ PANZER BALL
 PAPERHEAD EP0
 PARANOIA PLACE
 PATAPON 1+2 REPLAY
+PAW Patrol Rescue Wheels: Championship
 PAYDAY 2
 PAYDAY 2: Crimewave Edition
 PAYDAY 2: Crimewave Edition - The Big Score
@@ -15599,6 +15604,7 @@ Sea Power
 Sea Salt
 Sea of Mutation: Rebirth
 Sea of Radiation
+Sea of Remnants
 Sea of Solitude
 Sea of Stars
 Sea of Stars Demo
@@ -16108,6 +16114,7 @@ Skeljump
 Sker Ritual
 Sketch Crawler
 Sketchy's Contract
+Skewer Squad
 Ski Game
 Ski Jumping World Cup
 Ski Region Simulator
@@ -17127,6 +17134,7 @@ Subsiege
 Subsistence
 Substance 3D Painter 2022
 Substance 3D Painter 2024
+Substance 3D Painter 2025
 Substance Painter 2020
 Subsurface Circular
 Subterrain
@@ -20142,6 +20150,7 @@ Vertical Kingdom
 Vertigo 2
 Vertigo Remastered
 Vexlands
+Vholume
 ViRo Playspace
 Vibe Clicker
 Vibes TCG
@@ -20504,6 +20513,7 @@ Watermelon Game
 Watermelon Game: Fruits Puzzle
 Waterpark Simulator
 Watertight
+Watt's the Limit?
 Wauies
 Wave Break
 Wave Buxters
