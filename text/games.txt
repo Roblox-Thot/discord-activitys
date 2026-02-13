@@ -1032,6 +1032,7 @@ Arcade Paradise VR
 Arcade Room Simulator
 Arcade Spirits
 Arcadegeddon
+Arcadium: Space Odyssey
 Arcadius
 Arcana Heart 3 LOVE MAX!!!!!
 Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND
@@ -2936,6 +2937,7 @@ Cario 3
 Cario 4
 Carmageddon Max Pack
 Carmageddon: Max Damage
+Carmageddon: Rogue Shift
 Carmen Sandiego
 Carnage in Space: Ignition
 Carnal Instinct
@@ -4397,6 +4399,7 @@ Darza's Dominion
 Dash & Roll
 DashFire
 Dashball
+Data Center
 Date Banger
 Date Everything!
 DateBoy
@@ -4412,6 +4415,7 @@ Dawn Apart
 Dawn of Defiance
 Dawn of Man
 Dawn of War II - Retribution
+Dawncaster
 Dawnfolk
 Dawnlands
 Dawnsbury Days
@@ -4630,6 +4634,7 @@ Defender's Quest 2: Mists of Ruin
 Defender's Quest: Valley of the Forgotten
 Defender's Quest: Valley of the Forgotten DX
 Defenders of Ekron
+Defenders of Etheria
 Defendun
 Defense Grid 2
 Defense Grid: The Awakening
@@ -5194,6 +5199,7 @@ Dragon Fist: VR Kung Fu
 Dragon Fun Classic
 Dragon Is Dead
 Dragon Island
+Dragon Khan
 Dragon Mania: Legends
 Dragon Marked For Death
 Dragon Nest
@@ -6153,6 +6159,7 @@ FBC: Firebreak
 FCEUX 2.2.3
 FEAR FA 98
 FEAR OF FAITH
+FEED THE QUEEN
 FEMBOY FUTA HOUSE
 FEMINAZI: The Triggering
 FEZ
@@ -8113,6 +8120,7 @@ Haunted: Halloween '86 - The Curse Of Possum Hollow
 Haunted: The Chronicles
 Hauntii
 Hauntsville
+Have You Seen This Cat?
 Have a Nice Death
 Haven
 Haven & Hearth
@@ -8311,6 +8319,7 @@ Heroes & Generals WWII
 Heroes Of Science And Fiction
 Heroes Trials
 Heroes Wanted
+Heroes of Annihilated Empires
 Heroes of Eternal Quest
 Heroes of Hammerwatch
 Heroes of Hammerwatch II
@@ -8972,6 +8981,7 @@ Increlution
 Incremental Adventures
 Incremental Cubes
 Incremental Dice
+Incremental Dungeon
 Incremental Epic Hero
 Incremental Epic Hero 2
 Incremental Factory
@@ -9644,6 +9654,7 @@ King of Seas
 King of Wushu
 King of the Bridge
 King of the Couch: Zoovival
+King of the Dwarves: Underground City Builder
 King of the Hat
 King of the Monsters
 King of the Monsters 2
@@ -10064,6 +10075,7 @@ Legend of Keepers: Prologue
 Legend of Makai
 Legend of Mana
 Legend of Ymir
+Legend of the Heroes
 Legend of the Tetrarchs
 Legendary Creatures 2
 Legendary Fishing
@@ -10083,6 +10095,7 @@ Legends of Runeterra
 Legends of Wasteland
 Legion
 Legion TD 2
+Legionbound
 Legitimate Space Corp Simulator LLC
 Legrand Legacy: Tale of the Fatebounds
 Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored
@@ -10418,6 +10431,7 @@ Lost Sword
 Lost Twins 2
 Lost Wing
 Lost and Found Co.
+Lost in Anomaly
 Lost in Dungeon
 Lost in Play
 Lost in Random: The Eternal Die
@@ -14246,6 +14260,7 @@ RISK Factions
 ROBOBEAT
 ROG CITADEL XV
 ROGUE LIGHT DECK BUILDER
+ROMEO IS A DEAD MAN
 RONIN
 ROUNDS
 ROUTINE
@@ -14750,6 +14765,7 @@ Ricochet HD
 Riddle Joker
 Riddled Corpses EX
 Ride 2
+Ride 6
 Rider's Spirits
 Riders Republic
 Riders of Icarus
@@ -15313,6 +15329,7 @@ STAR WARS™: The Force Unleashed™ II
 STAR WARS™: The Force Unleashed™ Ultimate Sith Edition
 STAR WARS™: X-Wing Alliance™
 STAR WARS™: X-Wing Special Edition
+STARSEEKER: Astroneer Expeditions
 START AGAIN: a prologue
 STARWHAL
 STEINS;GATE
@@ -16100,6 +16117,7 @@ Skaldsong
 Skate 2
 Skate 3
 Skate Story
+Skate Style
 SkateBIRD
 Skateboard Knight
 Skateboarding 2: Breakthrough Gaming Arcade
@@ -17045,6 +17063,7 @@ Street Soccer Online
 Street Survival: Homeless Simulator
 Streetdog BMX
 Streets Of Kamurocho
+Streets of Fury
 Streets of Rage 4
 Streets of Rogue
 Streets of Rogue 2
@@ -17239,6 +17258,7 @@ Super Bear Adventure
 Super Bernie World
 Super Blackjack Battle II: Turbo - The Card Warriors
 Super Blood Hockey
+Super Bomberman Collection
 Super Bomberman R
 Super Bomberman R 2
 Super Bomberman R Online
@@ -18342,6 +18362,7 @@ The Invincible
 The Invisible Hand
 The Iron Age
 The Iron Oath
+The Irony
 The Isle
 The Jackbox Megapicker
 The Jackbox Naughty Pack
@@ -18928,6 +18949,7 @@ Theatrhythm Final Bar Line
 Their Land
 Them Bombs Demo
 Them's Fightin' Herds
+Theme Hospital
 TheoTown
 Therapy Simulator
 There Are No Ghosts At The Grand
@@ -20337,6 +20359,7 @@ WWE 2K22
 WWE 2K23
 WWE 2K24
 WWE 2K25
+WWE 2K26
 WWII Tank Battle Arena
 Wacky West
 Wagotabi: A Japanese Journey
@@ -20647,6 +20670,7 @@ Whiskey Mafia: Leo's Family
 Whisper Mountain Outbreak
 Whisper Mountain Outbreak Friend's Pass
 Whisper of the House
+Whisper of the Swallows
 Whispered Flight
 Whispers Of The Eyeless
 Whispers from the Star
@@ -21193,6 +21217,7 @@ Zauberhandwerk Magicraft
 Zavod
 Zed Blade
 Zeepkist
+Zefyr: A Thief's Melody
 Zelter
 Zen Aquarium
 Zen Drift

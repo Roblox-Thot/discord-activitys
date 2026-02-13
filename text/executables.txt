@@ -3848,6 +3848,7 @@ hero's land/herosland.exe
 hero_siege.exe
 heroblocks.exe
 heroes & generals/hng_be.exe
+heroes of annihilated empires/engine.exe
 heroes of hammerwatch 2/hwr2.exe
 heroes of the storm.exe
 heroes.app
@@ -4780,6 +4781,7 @@ lost egg/lost egg.exe
 lost eidolons/losteidolons.exe
 lost epic/lostepic.exe
 lost horizon/autostarter.exe
+lost in anomaly/lost in anomaly.exe
 lost in random/lost in random.exe
 lost in vivo/liv.exe
 lost lands a hidden object adventure/lostlandsf2p.exe
@@ -10422,6 +10424,7 @@ win64/seniorproject-win64-shipping.exe
 win64/september_7th-win64-shipping.exe
 win64/sessiongame-win64-shipping.exe
 win64/seven-win64-shipping.exe
+win64/sevgame-win64-shipping.exe
 win64/sexplease-win64-shipping.exe
 win64/sexual_void-win64-shipping.exe
 win64/sexwithdevil-win64-shipping.exe
