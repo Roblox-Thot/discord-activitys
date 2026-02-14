@@ -4825,6 +4825,7 @@ DiRT Showdown
 Diablo
 Diablo II
 Diablo II: Resurrected
+Diablo II: Resurrected – Infernal Edition
 Diablo III
 Diablo III: Eternal Collection
 Diablo III: Reaper of Souls - Ultimate Evil Edition
@@ -7233,6 +7234,7 @@ Game Royale 2 - The Secret of Jannis Island
 Game Store Simulator
 Game Type DX
 Game of Grass
+Game of Thrones
 Game of Thrones - A Telltale Games Series
 Game of Thrones Winter is Coming
 Game of Thrones: A Telltale Games Series - Episode One: Iron From Ice
@@ -9225,6 +9227,7 @@ IvAc
 I’m not a Monster
 J-Jump Arena
 J.A.W.S
+JASON, Coming of Age
 JBMod
 JDM Racing: 2
 JDM: Japanese Drift Master
@@ -12960,7 +12963,7 @@ Overruled!
 Overstep
 Overthrown
 Overwatch
-Overwatch 2
+Overwatch
 Ovis Loop
 Owinka Shooter
 Owlboy

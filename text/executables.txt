@@ -2178,6 +2178,7 @@ dex/dex.exe
 df_garena/deltaforceclient.exe
 dfo.exe
 dftfd.exe
+diablo ii resurrected/d2r.exe
 diablo ii.exe
 diablo ii/game.exe
 diablo iii.app
@@ -2848,6 +2849,7 @@ fabledom/fabledom.exe
 faceminer/faceminer.exe
 faces of war/facesofwar.exe
 facetheabyss/facetheabyss.exe
+factorio
 factorio.app
 factorio.exe
 factory outlet simulator prologue/factory outlet simulator prologue.exe
@@ -4300,6 +4302,7 @@ jalopy.exe
 jamestown/jamestown.exe
 jamp.exe
 jar wars/jarwars.exe
+jason, coming of age/jason.exe
 jasp.exe
 jbmod/jbmod.exe
 jd2017.exe
@@ -9344,6 +9347,7 @@ win32/rememberme.exe
 win32/roa.exe
 win32/sherlock.exe
 win32/shippingpc-afeargame.exe
+win32/shippingpc-agotgame.exe
 win32/starter.exe
 win32/surgeonvr.exe
 win32/thhdgame.exe
