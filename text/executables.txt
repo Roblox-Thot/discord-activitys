@@ -1898,6 +1898,7 @@ dark elf/game.exe
 dark forces/dosbox/dosbox.exe
 dark messiah might and magic multi-player/mm.exe
 dark messiah might and magic single player/mm.exe
+dark riddle/darkriddle.exe
 dark roll free kick challenge/dark roll free kick challenge.exe
 dark souls prepare to die edition/data/darksouls.exe
 dark souls remastered/darksoulsitemrandomizer.exe
@@ -3928,6 +3929,7 @@ hobo tough life/hoborpg.exe
 hobs/hobs.exe
 hockey super squad/hockey super squad.exe
 hodgepodge_hunch/herowolf.exe
+hogsofwar/howmenu.exe
 hoi2.exe
 hoi3.exe
 hoi3_tfh.exe
@@ -5027,6 +5029,7 @@ mds_demo_win/mds_demo.exe
 meadow/meadow.exe
 mean beans/mean beans.exe
 mech engineer/mech_engineer.exe
+mech mechanic simulator/mech mechanic simulator.exe
 mecha knights nightmare alpha/mecha knights.exe
 mechabellum/mechabellum.exe
 mechabreak/mechabreak.exe
@@ -5994,6 +5997,7 @@ paperhead ep0/play paperhead.exe
 papersplease.exe
 paradigm/paradigm.exe
 paradise cleaning!/cleaner.exe
+paradise lust/paradise lust.exe
 paradox soul/paradox soul.exe
 parallel experiment/parallel experiment.exe
 paranauticalactivity/paranautical activity.exe
