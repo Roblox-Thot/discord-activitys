@@ -1762,6 +1762,7 @@ creationkit32.exe
 creativedestruction/client.exe
 creativerse.exe
 creature creator/creature creator.exe
+creature kitchen/creature kitchen.exe
 creatures of aether/creaturesofaether.exe
 creeper world 2.exe
 creeper world 2/creeperworld2.exe
@@ -4748,6 +4749,7 @@ locksquest.exe
 loddlenaut/loddlenaut.exe
 loek/loek.exe
 lofi ping pong/pingpong.exe
+log riders/log riders.exe
 loki-win64-shipping.exe
 loki.exe
 loki/loki.exe
