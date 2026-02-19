@@ -703,6 +703,7 @@ Alina of the Arena
 Alisa
 Alisa's Grimoire
 All Aboard! The Train Defense Express
+All Hail the Orb
 All Hands on Deck
 All Is Dust
 All Mechs On Deck
@@ -896,6 +897,7 @@ Anime Girls: MMA Tournament
 Anime Girls: Wasteland Shootout
 Anime Poly Puzzle: Sci-Fi Maidens
 Anime Puzzles: School Trouble
+Anime Shop Simulator
 Anime Uni 2
 Animus: Revenant
 Aniquilation
@@ -1266,7 +1268,9 @@ Astro's Playroom
 AstroKawaRoids
 Astrobotanica
 Astrodle
+Astroloot
 Astrometica: Prologue
+Astromine
 Astronarch
 Astronimo
 Astronite
@@ -1854,6 +1858,7 @@ Before Exit: Supermarket
 Before I Leave
 Before We Leave
 Before Your Eyes
+Begraved
 Behind Closed Doors: A Developer's Tale
 Behind The Backrooms
 Behind You!!
@@ -2186,6 +2191,7 @@ Blood Sport
 Blood Strike
 Blood Trail
 Blood Typers
+Blood Vial
 Blood Waves
 Blood West
 Blood and Bacon
@@ -2323,6 +2329,7 @@ Boomerang Of Destruction
 Boomerang X
 Boomeroad
 Booom-Slang!
+Boost Vector Ex
 Boosted Survivors
 Bootstrap Island
 Booty Calls
@@ -2682,6 +2689,7 @@ C.A.R.D.S. RPG: The Misty Battlefield
 C.A.S.T.
 C9
 CABAL Online
+CALLUS
 CAPTURED
 CARIMARA: Beneath the forlorn limbs
 CARRION
@@ -2929,6 +2937,7 @@ Cards, the Universe and Everything
 Carefully Stamped
 Caretaker
 Cargo Commander
+Cargo Hunters
 Cargo Simulator
 Cargo Transportation: Low Poly
 Caribbean Legend
@@ -2959,6 +2968,7 @@ Cars Mater-National
 Cars: Mater-National Championships
 Cart Racer
 Cart To The End
+Cartapli: Fold Quest
 Cartel Tycoon Demo
 Cartier 06
 Carto
@@ -3822,6 +3832,7 @@ Cozy Island
 Cozy Keep: Farm, Craft, Manage
 Cozy Marbles
 Cozy Organizer
+CozyTyper
 Cozynauts
 Cozyrama
 Crab Champions
@@ -4518,6 +4529,7 @@ Deadliest Catch: The Game
 Deadliest Warrior: Legends
 Deadliest Warrior: The Game
 Deadlight: Director's Cut
+Deadline Delivery
 Deadline Escape
 Deadlink
 Deadlock
@@ -4685,6 +4697,7 @@ Demolish & Build 2017
 Demolish & Build 2018
 Demolish & Build 3: Excavator Playground
 Demon Bluff
+Demon Castle Story
 Demon Gaze Extra
 Demon Gaze II
 Demon Hunt
@@ -4872,6 +4885,7 @@ Different Strokes
 Difficult Climbing Game
 Dig Deep
 Dig Dug II
+Dig Island
 Dig or Die
 Dig, Dig, Die
 Digested
@@ -5551,6 +5565,7 @@ Dynasty Warriors 8: Empires - Free Alliances Version
 Dynasty Warriors 9 Empires
 Dynasty Warriors: Godseekers
 Dynomite Deluxe
+Dyping Escape
 Dyson Sphere Program
 Dystopia
 Dystopika
@@ -5884,6 +5899,7 @@ Erenshor
 Eresys
 Erica
 Eriksholm: The Stolen Dream
+Erma: The Game
 EroPhone
 Eroico
 Eronoctosis: Put Yourself Together
@@ -6278,6 +6294,7 @@ Fading Star Melody
 Fae Farm
 Fae Tactics
 Faefever
+Faehnor Online
 Faeria
 Fahrenheit: Indigo Prophecy Remastered
 Faircroft's Antiques: The Mountaineer's Legacy
@@ -6694,6 +6711,7 @@ Flatland Vol.1
 Flatland Vol.2
 Flatout 3
 Flatout Pixel Racing
+Flats Full of Cats
 Flavouride
 Flaw
 Fleet Command
@@ -6974,6 +6992,7 @@ FreshWomen - Season 1
 FreshWomen - Season 2
 Freshly Frosted
 Fret Nice
+Fret Smasher
 Fretless
 Friday Night Funkin'
 Friday the 13th: Killer Puzzle
@@ -6990,6 +7009,7 @@ Frog Detective: The Entire Mystery
 Frog Fighters
 Frog Fractions: Game of the Decade Edition
 Frog Jump
+Frog Sqwad
 Frogger
 Frogger 2
 Froggie
@@ -7584,6 +7604,7 @@ Golden Royal Blackjack
 GoldenEye 007
 Goldrunner
 Golem
+Golemworks
 Golf Around!
 Golf Defied
 Golf Galore
@@ -7639,6 +7660,7 @@ Gorilla Soccer
 Gorilla Tag
 Gorilla Vs 100 Men
 Gorogoa
+Gospodar's Tales
 Gotcha Racing 2nd
 Gotham City Impostors Free to Play
 Gotham Knights
@@ -8289,6 +8311,7 @@ Hentai Pussy 2
 Hentai Puzzle
 Hentai Shooter 3D
 Hentai Shop Simulator
+Hentai Stories
 Hentai Uni
 Hentai Uni 3
 Hentai Vs Furries
@@ -8464,6 +8487,7 @@ Hitman: Contracts
 Hitman: Game of the Year Edition
 Hitman: HD Pack
 Hitman: Sniper Challenge
+Hive Blight
 Hmmsim Metro
 Hoa
 Hob
@@ -8482,6 +8506,7 @@ Hokko Life
 Hold Me Tight All Night, Onii-chan!
 Hold The Mine
 Hold The Noise
+Hold Your King
 Holder of Place
 Holdfast: Nations At War
 Hole Digging Master
@@ -8506,6 +8531,7 @@ HoloCure - Save the Fans!
 HoloDungeon: Koyori vs. Hollow Live in Honsha Tower
 HoloRun
 HoloSeeker
+HoloType: Treasure Zombie Island
 Holodrive
 Hologuard
 Holoidle
@@ -8967,6 +8993,7 @@ Imprecision
 In Between
 In Death
 In Extremis
+In Falsus
 In Harmony
 In Other Waters
 In Silence
@@ -10713,6 +10740,7 @@ Mad Rat Dead
 Mad Shark
 Mad Smartphone Tycoon
 Mad Streets
+Mad Tower Tycoon
 Mad World MMO
 MadGuns
 MadOut2 BigCityOnline
@@ -10863,6 +10891,7 @@ Mangui
 Manhunt
 ManiaPlanet
 Maniac
+Manifesto
 Manifold Garden
 Mannequin
 Manor Lords
@@ -11112,6 +11141,7 @@ Megaton Musashi W: Wired
 Megaton Musashi X
 Megaton Rainfall
 Meh
+Mei ju wuyu
 Mekabolt+
 Mekorama
 Melatonin
@@ -12577,6 +12607,7 @@ Obama Maze
 Obduction
 Obenseuer
 Obey the Voice
+Object Impermanence
 Object N
 Oblin Party
 Oblivion Override
@@ -13309,6 +13340,7 @@ People Playground
 Peppa Pig: World Adventures
 Pepper Grinder
 Per Aspera
+Perceptum
 Peregrino
 Perennial Order
 Perfect Dark
@@ -13921,6 +13953,7 @@ Project CARS 3
 Project CARS: Game of the Year Edition
 Project Canvas: Isekai Joucho Ikusei Keikaku
 Project Castaway
+Project Chromata
 Project Demigod
 Project ETHOS
 Project EXT
@@ -14644,6 +14677,7 @@ Rento Fortune - Multiplayer Board Game
 Repair this!
 Repel The Rifts
 Repentless 2
+Replaced
 Replay: VHS is not dead
 Replica
 Replicat
@@ -15027,6 +15061,7 @@ Romans: Age of Caesar
 Rome: The Mystery of the Chronovisor - Hidden Objects
 Rome: Total War
 Rome: Total War - Alexander
+Romestead
 Rompers
 Ronin Trail
 Ronin: Two Souls Chapter 1
@@ -15345,6 +15380,7 @@ START AGAIN: a prologue
 STARWHAL
 STEINS;GATE
 STG Football
+STICKER/BALL
 STONKS-9800: Stock Market Simulator
 STORM AREA 51: AYY LMAO EDITION
 STORROR Parkour Pro
@@ -15355,6 +15391,7 @@ STORY OF SEASONS: Pioneers of Olive Town
 STRAFE
 STRAFTAT
 STRANGER OF PARADISE FINAL FANTASY ORIGIN
+STREET TYPER X
 STRIDE
 SUDOKU
 SULFUR
@@ -16887,6 +16924,7 @@ Starship Infinite
 Starship Simulator
 Starship Troopers: Extermination
 Starship Troopers: Terran Command
+Starship Troopers: Ultimate Bug War!
 Starsiege: Deadzone
 Starstruck Vagabond
 Startup Company
@@ -17471,6 +17509,7 @@ Surviving the Abyss
 Surviving the Aftermath
 Survivor World
 Survivor.io
+Survivors Guild
 Survivors of the Dawn
 Sushi Ben
 Sushi Blast
@@ -17940,6 +17979,7 @@ Terraforming Mars
 Terraria
 Terrifier: The ARTcade Game
 Territory Idle
+Territory: Farming and Warfare
 Terror Mansion
 Terror of Hemasaurus
 Terrorbytes
@@ -18173,6 +18213,7 @@ The Dark Pictures Anthology: The Devil in Me
 The Dark Pictures Anthology: The Devil in Me - Friend's Pass
 The Dark Pictures: Switchback VR
 The Dark Queen of Mortholme
+The Dark Rites of Arkham
 The Dark Zone 3D Demo
 The Darkest Files
 The Darkness
@@ -18343,6 +18384,7 @@ The Hong Kong Massacre
 The Horde Wants You Dead
 The Horror at Highrook
 The Horus Heresy: Legions
+The House Always Wins
 The House in Fata Morgana
 The House in Fata Morgana: Dreams of the Revenants Edition
 The House of Da Vinci
@@ -18587,6 +18629,7 @@ The Messenger
 The Metronomicon: Slay The Dance Floor
 The Midnight Walk
 The Midnight Walkers
+The Midnighters
 The Ministry of Time VR: Save the time
 The Misadventures of P.B. Winterbottom
 The Misfits
@@ -19185,6 +19228,7 @@ Together in Forgotten Lands
 Together: Moon Escape
 Toho Nishiki joky: Fossilized Wonders
 Toho deep secret ~ Urban Legend in Limbo
+Toilet 8
 Toilet Chronicles
 Toki
 Tokyo 42
@@ -19344,6 +19388,7 @@ Touhou 8: Imperishable Night
 Touhou 9.5: Shoot the Bullet
 Touhou 9: Phantasmagoria Of Flower View
 Touhou Artificial Dream in Arcadia
+Touhou Blooming Soul
 Touhou Dystopian
 Touhou Fantasia
 Touhou Genso Maroku W: The Devil of Decline
@@ -19660,6 +19705,7 @@ True Colours
 True Fear: Forsaken Souls Part 1
 True Fear: Forsaken Souls Part 2
 Trulon: The Shadow Engine
+Trust Me, I Nailed It
 Trust No One
 Truth Seekers
 Try Again
@@ -19755,6 +19801,7 @@ Typer Shark! Deluxe
 Typing Break
 Typing Farmer
 Typing Incremental
+Typing Land
 Typingcommand
 Typoman: Revised
 Tyr
@@ -20435,6 +20482,7 @@ Warden's Will
 Warface
 Warfactory
 Warfare Legacy Collection
+Warfleet Captains
 Warfork
 Warframe
 Warframe Dev
@@ -20620,6 +20668,7 @@ Welcome to ParadiZe
 Welcome to Scott's story in the World of Our Church and Halloween
 Welcome to the Game
 Welcome to the Game II
+Welcome to the Guild Explorer
 Welcome to the World of Nik and Kit
 Welcome to the World of ZJ the Ball
 Welcome to the World of Zippy the Circle (Visual Novel)
@@ -20798,6 +20847,7 @@ Winx Club: Alfea Butterflix Adventures
 WipEout: Omega Collection
 Wiper
 Wires And Whiskers
+Wireworks
 Wish
 Witch College Bundle
 Witch Hunt
@@ -20814,6 +20864,7 @@ Witchcrafty
 Witches x Warlocks
 Witchfire
 Witching Tower VR
+Witchspire
 Witchtastic
 Witchy Business
 Witchy Life Story
