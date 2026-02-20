@@ -3450,6 +3450,7 @@ gnomes/gnomes.exe
 gnomoria/gnomoria.exe
 gnorp/(the) gnorp apologue.exe
 gnosia/gnosia.exe
+go ape ship/goapeship.exe
 go kart run/go kart run!.exe
 go-go town!/ggt.exe
 goatgame-win32-shipping.exe
