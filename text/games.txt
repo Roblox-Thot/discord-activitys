@@ -12633,6 +12633,7 @@ Oceancatch
 Oceaneers
 Oceanhorn: Monster of Uncharted Seas
 Octarina
+Octodad (Student Edition)
 Octodad: Dadliest Catch
 Octogeddon
 Octopath Traveler 0
@@ -13206,6 +13207,7 @@ Paradise Lust
 Paradise of Freedom
 Paradox Error
 Paradox Soul
+Paragnosia
 Paragon: The Overprime
 Parallel
 Parallel Experiment
@@ -17304,6 +17306,7 @@ Super Animal Royale
 Super Astro Cat
 Super Auto Battlemon Demo
 Super Auto Pets
+Super Battle Golf
 Super Bear Adventure
 Super Bernie World
 Super Blackjack Battle II: Turbo - The Card Warriors

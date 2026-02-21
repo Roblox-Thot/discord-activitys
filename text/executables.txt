@@ -5779,6 +5779,7 @@ occupy mars prologue/occupymars-prolog.exe
 occupy mars the game demo/occupymars-prolog.exe
 occupy mars the game/occupymars.exe
 octodad dadliest catch/octodaddadliestcatch.exe
+octodad/octodad.exe
 octogeddon/octogeddon.exe
 odd realm/oddrealm.exe
 oddremedy/oddremedy.exe
@@ -6004,6 +6005,7 @@ paradigm/paradigm.exe
 paradise cleaning!/cleaner.exe
 paradise lust/paradise lust.exe
 paradox soul/paradox soul.exe
+paragnosia/paragnosia.exe
 parallel experiment/parallel experiment.exe
 paranauticalactivity/paranautical activity.exe
 paranoia place/paranoia place.exe
@@ -7830,6 +7832,7 @@ sunsetoverdrive/sunset.exe
 super amazing wagon adventure/wagonadventure.exe
 super animal royale/super animal royale.exe
 super auto pets/super auto pets.exe
+super battle golf/super battle golf.exe
 super blood hockey/superbloodhockey.exe
 super bomberman r online/superbombermanr_online.exe
 super bomberman r/superbombermanr.exe
