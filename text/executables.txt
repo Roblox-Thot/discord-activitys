@@ -1167,6 +1167,7 @@ brokenheartsisland/brokenheartsisland.exe
 brokeprotocol.exe
 brotato/brotato.exe
 brotatodemo/brotatodemo.exe
+brother/brother.exe
 brothers.exe
 broventure the wild co-op/broventure.exe
 brutal orchestra/brutalorchestra.exe
