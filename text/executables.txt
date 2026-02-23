@@ -1203,6 +1203,7 @@ bullet roulette vr/saloon spin.exe
 bully scholarship edition/bully.exe
 bulwark/bulwark.exe
 bunker builder simulator prologue/bunker builder simulator.exe
+bunkered with femboy/bunkeredwithfemboy.exe
 bunny garden/bunny garden.exe
 buoyancy/buoyancy.exe
 burg/burg.exe
@@ -2917,6 +2918,7 @@ farcry4.exe
 farcry5.exe
 farcrynewdawn.exe
 farlands/farlands.exe
+farm frenzy 2/farm2.exe
 farm frenzy collection/farmfrenzymegapack.exe
 farm manager 2018/farm manager 2018.exe
 farm manager 2021 prologue/farmmanager21.exe
@@ -4867,6 +4869,7 @@ lust from beyond/lust from beyond.exe
 lust goddess/adult_wars.exe
 lust theory season 2/lusttheory2.exe
 lust theory/lusttheorys1.exe
+lustscupid/lustscupid.exe
 lyca/lyca.exe
 lycans/lycans.exe
 lyne.exe
@@ -4972,6 +4975,7 @@ marble world/marble world.exe
 march of empires/moe.exe
 margonemcom/margonem.exe
 mark_of_the_ninja/bin/game.exe
+marooners/marooners.exe
 mars first logistics/mars first logistics.exe
 mars horizon/mars horizon.exe
 marssteam.exe
@@ -5070,6 +5074,7 @@ megaloot prelude/megaloot.exe
 megaloot/megaloot.exe
 megaman2/mmlc2.exe
 megaquarium/megaquarium.exe
+megastore simulator prologue/megastore simulator prologue.exe
 megatagmension blanc + neptune vs zombies/megatagmension blanc.exe
 megaton rainfall/megatonrainfall.exe
 melatonin demo/melatonin.exe
@@ -5940,6 +5945,7 @@ outthereomega/outthereomega.exe
 outtheresomewhere/ots.exe
 outward/outward.exe
 over 9000 zombies!/over9000zombies.exe
+overboard!/overboard!.exe
 overclocked/ocd.exe
 overclocked/overclocked.exe
 overcooked! 2/overcooked2.exe
@@ -9130,6 +9136,7 @@ waifu closet/waifu closet.exe
 waifu shop/waifu shop.exe
 waifu/waifu.exe
 waifufighterfist/boxingwaifu.exe
+waifusitter/waifusitter.exe
 wait! life is beautiful! prologue/wait! life is beautiful!.exe
 wakaru/wakaru.exe
 wakfu.app
