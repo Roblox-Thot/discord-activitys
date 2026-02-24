@@ -3213,6 +3213,7 @@ fragsurf/fragsurf.exe
 fraim/fraim.exe
 frame of mind/frame of mind.exe
 fran bow.exe
+fran bow/fran bow.exe
 frankie's funclub/frankie's funclub.exe
 fraymakers/fraymakers.exe
 freddy fazbear's pizzeria simulator/pizzeria simulator.exe
@@ -8104,6 +8105,7 @@ team sonic racing/gameapp_pcdx11_x64final.exe
 teamfight manager/teamfight manager.exe
 teardown/teardown.exe
 tech support error unknown/techsupport.exe
+technicity prologue/technicity.exe
 techtonica/techtonica.exe
 teenage mutant ninja turtles splintered fate/tmntsf.exe
 teeworlds.app

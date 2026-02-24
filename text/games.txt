@@ -6612,6 +6612,7 @@ Final Outpost
 Final Profit: A Shop RPG
 Final Sentence
 Final Star Force
+Final Word Royale
 Finalizer: Super Transformation
 Find 100 Ducks and Blast Them!
 Find 101 Doomers
@@ -17983,6 +17984,7 @@ Tech Glitch
 Tech Market Simulator
 Tech Store Simulator
 Tech Support: Error Unknown
+Technicity: Prologue
 Techno Tanks
 Technotopia
 Techtonica
