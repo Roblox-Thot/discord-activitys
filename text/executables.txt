@@ -365,6 +365,7 @@ animal shelter 2 prologue/animal shelter 2 prologue.exe
 animal shelter 2/animal shelter 2.exe
 animal shelter prologue/animal shelter.exe
 animal shelter/animal shelter.exe
+animal spa/animalspa.exe
 animal trainer simulator/animal trainer.exe
 animal well/animal well.exe
 animation throwdown the quest for cards/animationthrowdown.exe
@@ -5931,6 +5932,7 @@ out of the park baseball 24/ootp24.exe
 out of the park baseball 25/ootp25.exe
 out of the park baseball 26/ootp26.exe
 out-windows/mafiaonline.exe
+outbound demo/outbound.exe
 outbrk/outbrk.exe
 outcast - a new beginning/o2.exe
 outcore/outcore.exe
@@ -11025,6 +11027,7 @@ wonder wickets.exe
 wonderful everyday down the rabbit-hole/bgi.exe
 wonderwickets-release.exe
 wooden battles/wooden battles.exe
+woodletreeadventures/woodletreeadventures.exe
 wooloop/wooloop.exe
 worbital/worbital.exe
 word factori/word factori.exe
