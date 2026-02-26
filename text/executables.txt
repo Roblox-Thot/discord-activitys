@@ -4859,6 +4859,7 @@ lunacid - tears of the moon/game.exe
 lunacid/lunacid.exe
 lunar's chosen/lunarschosen.exe
 lunistice/lunistice.exe
+lureofpassion/lureofpassion.exe
 lurk in the dark prologue/lurk in the dark prologue.exe
 lurkbait twitch fishing/lurkbait twitch fishing.exe
 lust academy season 3/lust-academy.exe
@@ -7011,6 +7012,7 @@ scope x/scopex.exe
 scorch/scorch_final.exe
 scott pilgrim vs the world/scott.exe
 scourgebringer/scourgebringer.exe
+scp - containment breach/scp - containment breach.exe
 scp cb multiplayer reborn/uerm.exe
 scp escape together/scp_et.exe
 scp labrat/scp labrat.exe

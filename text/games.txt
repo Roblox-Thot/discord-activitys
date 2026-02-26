@@ -65,6 +65,7 @@
 12 bananas
 12 is Better Than 6
 13 Sentinels: Aegis Rim
+1348 Ex Voto
 13Z: The Zodiac Trials
 14 Minesweeper Variants
 14 Minesweeper Variants 2
@@ -132,6 +133,7 @@
 404Sight
 420Blazeit 2: Game of the Year
 428: Shibuya Scramble
+4: Loop
 4D Golf
 4D Miner Demo
 4D Minesweeper
@@ -809,6 +811,7 @@ Among Us 3D
 Among Us VR
 Among the Sleep
 Among the Sleep Demo
+Among the Trolls
 Amor peludo
 Amor peludo 2
 Amorous
@@ -3747,6 +3750,7 @@ CoolPaintr VR
 CoopRooms
 Cop 01
 Cop Officers: Police Simulator Of NYPD City
+Copa City
 Copa Petrobras de Marcas
 CopperCube 6 Game Engine
 Copy The Line
@@ -3973,6 +3977,7 @@ Critical Strike Shooter: SWAT Rescue Missions
 Critter Café
 Critter Clicker
 Critter Cove
+Croak
 Croak Crusader: Spawn of the Spore Spectre
 Croakoloco
 Croc's World 2
@@ -4748,6 +4753,7 @@ Demonschool
 Demonsomnia
 Demul version 0.5.6.3
 Denizen
+Denshattack!
 DeoVR Video Player
 Depersonalization
 Deponia
@@ -5132,6 +5138,7 @@ Don't Even Think
 Don't Fall: Aleph
 Don't Fool Me, Beauties!
 Don't Forget
+Don't Kill Them All
 Don't Let Him In
 Don't Lose Aggro
 Don't Pee
@@ -9556,6 +9563,7 @@ KILLER IS DEAD
 KILLFISH
 KINGDOM HEARTS -HD 1.5+2.5 ReMIX-
 KINGDOM HEARTS III + Re Mind (DLC)
+KLETKA
 KOF: Sky Stage
 KORRIDOR
 KUMASAMA
@@ -10625,6 +10633,7 @@ Lunch Lady
 Lunchbreak Tactics
 Lunistice
 Lurch
+Lure Of Passion
 Lurk in the Dark : Prologue
 LurkBait Twitch Fishing
 Lurking Ghosts
@@ -13288,6 +13297,7 @@ Paranormal Activity: The Lost Soul
 Paranormal Cleanup
 Paranormal Investigators
 ParanormalHK
+Paranormasight: The Mermaid's Curse
 Parasite Mutant
 Parasite Pack
 Parasocial
@@ -14583,6 +14593,7 @@ Rayflector
 Rayland 2
 Rayman 2 - The Great Escape
 Rayman 3 HD
+Rayman 3: Hoodlum Havoc
 Rayman Legends
 Rayman Origins
 Rayman: 30th Anniversary Edition
@@ -14843,6 +14854,7 @@ Return To Campus
 Return To Castle Wolfenstein
 Return from Core
 Return of the Obra Dinn
+Return to Ash
 Return to Grace
 Return to Monkey Island
 Returnal™
@@ -15327,6 +15339,7 @@ SCARLET NEXUS
 SCHiM
 SCP : Secret Files
 SCP Foundation: Universe Horror
+SCP – Containment Breach
 SCP-087: The Stairwell Horror
 SCP022
 SCP: 5K - Alpha Testing
@@ -19066,6 +19079,7 @@ The Wings of Dawn
 The Witch and the Hundred Knight
 The Witch and the Hundred Knight 2
 The Witch of Fern Island
+The Witch's Bakery
 The Witch's Cauldron
 The Witch's House MV
 The Witcher 2: Assassins of Kings
@@ -19974,6 +19988,7 @@ Ultimate General: Civil War
 Ultimate General: Gettysburg
 Ultimate Godspeed
 Ultimate Golf Battle
+Ultimate Hunting
 Ultimate Lemon Basket
 Ultimate Marvel vs. Capcom 3
 Ultimate Match 3
@@ -20040,6 +20055,7 @@ Under Contract
 Under Par Golf Architect
 Under Pressure
 Under The Waves
+Under the Island
 Under the Warehouse
 Under the blue horizon
 UnderMine
@@ -21326,6 +21342,7 @@ Ys IX: Monstrum Nox
 Ys Origin
 Ys VIII: Lacrimosa of Dana
 Ys X: Nordics
+Ys X: Proud Nordics
 Ys vs. Trails in the Sky: Alternative Saga
 Ys: The Oath in Felghana
 Yu Crossing Animals
@@ -21655,7 +21672,6 @@ you're just imagining it
 Г.О.П.О.Т.А
 ГОООООООЛ!
 Древние Ящеры Против Русов: Битва за Гиперборею
-КЛЕТЬ Демо
 Калибр
 Копатель Онлайн
 МЕМОЛОГИЯ: ЕГЭ ПО МЕМАМ
