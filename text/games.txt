@@ -2883,6 +2883,7 @@ Captain Tsubasa - Rise of New Champions
 Captain Wayne: Vacation Desperation
 Captain Whiskers: Incremental Seas
 Captain of Industry
+Captured 2
 Capuchin
 Capy Castaway
 Capybara Go!
@@ -3871,6 +3872,7 @@ Craftomation 101
 Craftopia
 Craftsman: Building Craft
 Crafty Survivors
+Cralon
 Cranked
 Crap Game, Don't Play
 Crash 'n' the Boys: Ice Challenge
@@ -8607,6 +8609,7 @@ Home Design 3D
 Home Office Simulator
 Home Paige
 Home Safety Hotline
+Home Sheep Home: Farmageddon Party Edition
 Home Sweet Home
 Home Sweet Home : Online
 Home Sweet Home Demo
@@ -13475,6 +13478,7 @@ Pets Hotel
 Pets Hotel: Prologue
 Pets No More
 Pettan Pyuu
+Petz: Horsez 2
 Pew Dew Redemption
 PewDiePie: Legend of the Brofist
 Pexit 8
@@ -13695,6 +13699,7 @@ Planet S
 Planet Zoo
 Planet of Lana
 Planet of Lana Demo
+Planet of Lana II: Children of the Leaf
 PlanetSide 2
 Planetaries
 Planetary Annihilation: TITANS
@@ -13808,6 +13813,7 @@ Police Stories
 Police Stories: The Academy
 Polimines Deluxe
 Politics The Game
+Polterguys: Possession Party
 Poly Bridge
 Poly Bridge 2
 Poly Bridge 3
@@ -16350,6 +16356,7 @@ Skyrim Special Edition: Creation Kit
 Skyward Extraction
 SlabWell: The Quest For Kaktun's Alpaca
 Slackers - Carts of Glory
+Slain: Back from Hell
 Slap 'em UP!
 Slap City
 Slap The Fly
@@ -16406,6 +16413,7 @@ Slopecrashers Demo
 Slot & Dungeons
 Slots & Daggers
 Slow and Steady
+Slowly Sliding Ducks
 Slut Squad
 Sly 2: Band of Thieves HD
 Sly 3: Honor Among Thieves
@@ -16740,6 +16748,7 @@ Space for Sale
 Space: Breakthrough Gaming Arcade
 SpaceBourne 2
 SpaceChem
+SpaceCraft
 SpaceEngine
 Spacebase Startopia
 Spaceflight Simulator
@@ -21423,6 +21432,7 @@ Zero Fire
 Zero Grounds
 Zero Hour
 Zero IDLE
+Zero Parades: For Dead Spies
 Zero Protocol
 Zero Team U.S.A.
 Zero-K

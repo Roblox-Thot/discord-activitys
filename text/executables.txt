@@ -7129,6 +7129,7 @@ sh5.exe
 shaderglass/shaderglass.exe
 shadow fight arena/sfa.exe
 shadow gambit the cursed crew/shadowgambit_tcc.exe
+shadow of the tomb raider/sottr.exe
 shadow tactics.exe
 shadow warrior original/bin/dosbox.exe
 shadowcomplex-win32-egl.exe
@@ -7327,6 +7328,7 @@ skyrim special edition/skyrimse.exe
 skyrim special edition/skyrimselauncher.exe
 skyrimlauncher.exe
 skyrimvr/skyrimvr.exe
+slain!/slain.exe
 slap city.exe
 slapshot/slapshot.exe
 slapshotrebound/slapshot.exe
