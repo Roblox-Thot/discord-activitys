@@ -2953,6 +2953,7 @@ fate the cursed king/fate.exe
 fate the traitor soul/fate.exe
 fate undiscovered realms/fate.exe
 fate/fate.exe
+fates/fates.exe
 fatesamurairemnant/fatesamurairemnant.exe
 fateseeker/fateseeker.exe
 fausts alptraum/game.exe
@@ -7723,6 +7724,7 @@ stickman trenches/stickman trenches.exe
 sticky business demo/stickybusiness.exe
 sticky business/stickybusiness.exe
 still there/still there.exe
+stock wolf/game.exe
 stolen realm/stolen realm.exe
 stone story rpg/stone story.exe
 stonehearth.exe
@@ -8549,6 +8551,7 @@ thewolfamongus.exe
 they are coming/they are coming.exe
 they bleed pixels/they bleed pixels pc.exe
 they can't stop all of us/they cant stop all of us.exe
+they killed your cat/they killed your cat.exe
 theyarebillions.exe
 thief simulator 2 prologue/thief simulator 2 prologue.exe
 thief simulator 2/thief simulator 2.exe
