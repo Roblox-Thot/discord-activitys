@@ -1433,6 +1433,7 @@ chess2.app
 chicken farm 2k17/cfs_2k17_v2.exe
 chicken invaders 2/ci2rm.exe
 chicken invaders 3/ci3.exe
+chicken invaders 4/ci4.exe
 chicken invaders 5/ci5.exe
 chicken invaders universe/ciu.exe
 chicken police/chicken_police.exe
