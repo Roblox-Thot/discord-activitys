@@ -1515,6 +1515,7 @@ Baby Boomer 2: 35 Years Too Soon
 Baby Shark: Sing & Swim Party
 Baby Steps
 Back 4 Blood
+Back To Drive
 Back in Service
 Back to Bed
 Back to Belt
@@ -3589,6 +3590,7 @@ Cold Fear
 Cold Waters
 ColdRidge
 Colin McRae Rally
+Collector's Cove
 College Bound
 College Bowl
 College Fantasy
@@ -4153,6 +4155,7 @@ Curling On Line
 Curse of Pirates
 Curse of the Dead Gods
 Cursebane
+Cursed Blood
 Cursed Companions
 Cursed Crew
 Cursed Deal
@@ -4356,6 +4359,7 @@ Damascus Gear: Operation Tokyo - HD Edition
 Damikira
 Damned
 Damned 2
+Damon and Baby
 Dance Dash
 Dance Mania
 Dandara
@@ -4617,6 +4621,7 @@ Death Ring: Second Impact
 Death Road to Canada
 Death Roads: Tournament
 Death Rooms
+Death Scourges
 Death Squared
 Death Stranding 2: On The Beach
 Death Traps
@@ -4747,6 +4752,7 @@ Demeo - PC Edition Demo
 Demeo x Dungeons & Dragons: Battlemarked
 Demetrios: The Big Cynical Adventure
 Demise of Nations
+Demiurgos
 Democracy 3
 Democracy 4
 Democratic Socialism Simulator
@@ -6153,6 +6159,7 @@ Evoland 2
 Evoland Legendary Edition
 Evolve
 Evolve Stage 2
+Ex sanguis
 Ex-Zodiac
 Exanima
 Excessive Trim
@@ -8807,11 +8814,13 @@ How Fish Is Made
 How Many Dudes?
 How To Train Your Cock
 How We Soar
+How to Make an Atomic Bomb in Your Garden
 How to Survive
 How to Survive 2
 How to Survive: Storm Warning Edition
 How to lose one's virginity
 Hozy
+Hubert
 HudSight - custom crosshair overlay
 Hue
 HuggyBros Christmas
@@ -9591,6 +9600,7 @@ Just Ignore Them
 Just In Time Incorporated
 Just King
 Just King Demo
+Just Move:Clean City Messy Battle
 Just Read The Instructions
 Just Shapes & Beats
 Just Sing
@@ -10785,6 +10795,7 @@ MLB The Show 25
 MLB: The Show 16
 MLB: The Show 17
 MLB: The Show 18
+MMO 98
 MMORPG Tycoon 2
 MO:Astray
 MOBA Esport Manager 25
@@ -12902,6 +12913,7 @@ One Lonely Outpost
 One Man's Trash
 One Military Camp
 One More Bang
+One Move Away
 One Night Stand
 One Night with Kawaii
 One Piece: Grand Cruise
@@ -15031,6 +15043,7 @@ Rise of Kingdoms: Lost Crusade
 Rise of Legions
 Rise of Liberty
 Rise of Nations: Extended Edition
+Rise of Piracy
 Rise of the Kasai
 Rise of the Ronin
 Rise of the Tomb Raider
@@ -15893,6 +15906,7 @@ Secret of Mana
 Secrets of Grindea
 Sect-Machina
 Section 13
+Sector 13: Haunted Woods
 Sector Beam
 Sector Unknown
 Sector's Edge
@@ -17426,6 +17440,7 @@ SuchArt!
 SuchArt: Creative Space
 Suck Up!
 Sucker for Love
+Sucker for Love: Crush Landing
 Sucker for Love: Date to Die For
 Sucker for Love: Prelude
 Sudden Attack
@@ -17966,6 +17981,7 @@ Take On Mars
 Take the Throne
 Takeda Shingen
 Takedown: Red Sabre
+Takelings House Party
 Takorita Meets Fries
 Takotan
 Tale of Toast
@@ -18258,6 +18274,7 @@ The Astyanax
 The August Before
 The August Before: Chapter One
 The Average Everyday Adventures of Samantha Browne
+The Awakener: Battle Tendency
 The Awesome Adventures of Captain Spirit
 The Axis Unseen
 The Baby in Yellow
@@ -18743,6 +18760,7 @@ The Last Oricru
 The Last Plague: Blight
 The Last Remnant
 The Last Running Hero
+The Last Salvage Squad
 The Last Shot
 The Last Sovereign
 The Last Spell
@@ -19471,6 +19489,7 @@ Tom Clancy's Rainbow Six Siege - Test Server
 Tom Clancy's Rainbow Six Siege X
 Tom Clancy's Rainbow Six Vegas
 Tom Clancy's Rainbow Six Vegas II
+Tom Clancy's Rainbow Six: Lockdown
 Tom Clancy's Splinter Cell
 Tom Clancy's Splinter Cell Blacklist
 Tom Clancy's Splinter Cell Blacklist: Homeland Pack
@@ -20530,6 +20549,7 @@ Virtual Rides 3
 Virtual Skate
 Virtual Studio
 Virtual Villagers Origins 2
+Virtual Virtual Reality
 VirtualCast
 Virus and Cells
 Visa Control: USA Border Simulator
@@ -20918,6 +20938,7 @@ Werewolf Party
 Werewolf: The Apocalypse - Earthblood
 Werewolf: The Apocalypse - Heart of the Forest
 Werewolf: The Apocalypse - Purgatory
+Werewolf: The Inner Beast
 West Hunt
 West Sweety
 West of Dead
@@ -21083,6 +21104,7 @@ Winning Post 10 2024
 Winning Post 10 2025
 Winning Post 9 2022
 Winter Burrow
+Winter Games 2023
 Winter Memories
 Winter Resort Simulator
 Winter Resort Simulator 2

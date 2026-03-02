@@ -4373,6 +4373,7 @@ just ignore them/justignorethem.exe
 just in time/justintime.exe
 just king demo/king.exe
 just king/king.exe
+just move clean city messy battle/just move clean city messy battle.exe
 just shapes & beats/jsb.exe
 just survive/h1z1.exe
 just survive/h1z1_be.exe
@@ -6536,6 +6537,7 @@ railway empire/railwayempire.exe
 railworks.exe
 railworks/utilities.exe
 rain world/rainworld.exe
+rainbow six lockdown/lockdown.exe
 rainbowsix.exe
 rainbowsix_be.exe
 rainbowsixgame.exe
@@ -8040,6 +8042,7 @@ tainted grail foa/fall of avalon.exe
 tainted grail/tainted grail.exe
 take me to the dungeon!!/take me to the dungeon!!.exe
 take the throne/take the throne.exe
+takelings house party/takelings.exe
 takoyaki party survival/takopasurvival.exe
 tale of toast/tot.exe
 tale of wuxia/wuxia.exe
@@ -9096,6 +9099,7 @@ virtual rc pro/game_s.exe
 virtual rides 3/vr3.exe
 virtual romance club/viroplayspace.exe
 virtual villagers origins 2/virtual villagers origins 2.exe
+virtual virtual reality/virtualvirtualreality.exe
 virtualcast/virtualcast.exe
 visage-win64-shipping.exe
 visual novel maker/nw.exe
