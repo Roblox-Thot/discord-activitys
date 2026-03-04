@@ -877,6 +877,7 @@ bin/syrianwarfare.exe
 bin/tacint.exe
 bin/thesurge2.exe
 bin/trainzdiag.exe
+bin/v2r.exe
 bin/watchdogslegion.exe
 bin/zombiedriverhd.exe
 bin32/enemyfront.exe
