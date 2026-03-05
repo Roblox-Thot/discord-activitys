@@ -245,6 +245,7 @@ A Pinball Game That Makes You Mad
 A Place, Forbidden
 A Plague Tale: Innocence
 A Plague Tale: Requiem
+A Planet Full of Cats
 A Quiet Place: The Road Ahead
 A Raven Monologue
 A Room Where Art Conceals
@@ -1101,6 +1102,7 @@ Argonauts Agency: Golden Fleece
 Argonauts Agency: Missing Daughter
 Argonauts Agency: Pandora's Box
 Argus
+Ariana and the Elder Codex
 Arid
 Arietta of Spirits
 Ariko's Enchanted Forest
@@ -1382,6 +1384,7 @@ Avakin Life
 Avalon Crew
 Avalon Lords: Dawn Rises
 Avatar Island
+Avatar Legends: The Fighting Game
 Avatar World
 Avatar: Frontiers of Pandora
 Avatar: The Last Airbender - Quest For Balance
@@ -2847,6 +2850,7 @@ Call of Juarez Gunslinger
 Call of Juarez: Bound in Blood
 Call of Toys: Tower Defense!
 Call of War
+Call of the Elder Gods
 Call of the Sea
 Call of the Wild: The Angler™
 Call to Arms
@@ -4581,6 +4585,7 @@ DeadPoly
 Deadcam
 Deadcam: Analog Survival Horror
 Deadeye Deepfake Simulacrum
+Deadhaus Sonata
 Deadliest Catch: The Game
 Deadliest Warrior: Legends
 Deadliest Warrior: The Game
@@ -6409,6 +6414,7 @@ Fallen Legion: Flames of Rebellion
 Fallen Legion: Revenants
 Fallen Legion: Sins of an Empire
 Fallen Shinobi
+Fallen Tear: The Ascension
 Fallen ~Makina and the City of Ruins~
 Fallout
 Fallout 2
@@ -7900,6 +7906,7 @@ Grimm
 Grimm's Hollow
 Grimoire Groves
 Grimoire Organizer
+Grimps
 Grimshire
 Grind Hero: MMORPG
 Grind Survivors
@@ -8723,6 +8730,7 @@ Horizon Forbidden West
 Horizon Forbidden West - Digital Deluxe Edition Upgrade
 Horizon Forbidden West - Soundtrack
 Horizon Forbidden West™ Complete Edition
+Horizon Hunters Gathering
 Horizon Journey
 Horizon Midnight Sky Combat Aircraft: War Arena Flight Simulator 2022
 Horizon Source
@@ -9008,6 +9016,7 @@ IXION
 Ib
 Icaria
 Icarus
+Icarus: Console Edition
 Ice Age: Scrat's Nutty Adventure
 Ice Cream Break
 Ice Cream Break Head to Head
@@ -9536,6 +9545,7 @@ Judgment: Apocalypse Survival Simulation
 Juice Galaxy
 Juiced Fruit Racing
 Jujutsu Kaisen Cursed Clash
+Jujutsu Kaisen Phantom Parade
 Jumanji: The Video Game
 Jump King
 Jump Race
@@ -9902,6 +9912,7 @@ Kitty Powers' Matchmaker Makeover
 Kiwi Clicker
 Kizuna Encounter: Super Tag Battle
 Klang 2
+Kloa: Child of the Forest
 Klondike Solitaire
 Klondike Solitaire Collection
 Klondike Solitaire Plus
@@ -11262,6 +11273,7 @@ Medieval Shopkeeper Simulator
 Medieval Tower Defense
 Medusa and Her Lover
 Medusa's Labyrinth
+Meet My Stepmoms
 Meet My Teacher
 Meet Your Maker
 Mega City Police: Prelude
@@ -12089,6 +12101,7 @@ My Lovely Pets
 My Lovely Pets 2
 My Name is Mayo
 My Name is You and it's the only unusual thing in my life
+My Night Job
 My Online Universe (Tomi's Story One)
 My Party Needs An Alchemist
 My Pet Hooligan
@@ -12629,6 +12642,7 @@ Nobunaga's Ambition: Sphere of Influence - Ascension
 Nobunaga's Ambition: Taishi
 Nock & Load
 Nocturnal
+Nocturnal 2
 Nocturnals
 Nocturne
 Node Farm
@@ -13339,6 +13353,7 @@ Panoptyca: Idle RPG Manager
 Pantheon: Rise of the Fallen
 Panzer Corps
 Panzer Corps 2
+Panzer Dragoon II Zwei: Remake
 Panzer Elite Action: Fields of Glory
 Panzer Knights
 Panzerkampf
@@ -14109,6 +14124,7 @@ Pro Evolution Soccer 2016 myClub
 Pro Evolution Soccer 2017
 Pro Flight Simulator Deluxe
 Pro Gymnast Simulator
+Pro Jank Footy
 Pro Soccer Online
 Pro Tennis: World Court
 Pro Turkey Hunting
@@ -14828,6 +14844,7 @@ Reignbreaker
 Reigns
 Reigns: Game of Thrones
 Reigns: Her Majesty
+Reigns: The Witcher
 Reigns: Three Kingdoms
 Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999
 Reknum
@@ -18006,6 +18023,7 @@ Tales from the Borderlands: A Telltale Games Series - Episode One: 'Zer0 Sum'
 Tales of Aravorn: Seasons of The Wolf
 Tales of Arise
 Tales of Berseria
+Tales of Berseria Remastered
 Tales of Escape
 Tales of Fearless
 Tales of Graces f Remastered
@@ -18133,6 +18151,7 @@ Tecmo Knight
 Tecmo Stackers
 Teddy's Haven: A Fantasy Inspired Shop Simulator
 Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants
+Teenage Mutant Ninja Turtles: Empire City
 Teenage Mutant Ninja Turtles: Mutants Unleashed
 Teenage Mutant Ninja Turtles: Mutants in Manhattan
 Teenage Mutant Ninja Turtles: Shredder's Revenge
@@ -18861,6 +18880,7 @@ The Maze Runner: ÍCrystal Mine
 The Maze Survivor: First Entrants
 The Mean Greens - Plastic Warfare
 The Medium
+The Mermaid Mask
 The Messenger
 The Metronomicon: Slay The Dance Floor
 The Midnight Walk
@@ -20647,6 +20667,7 @@ WHAT THE CAR?
 WHAT THE GOLF?
 WHAT THE PAK?!
 WILD HEARTS™
+WILD Tactics
 WITCH ON THE HOLY NIGHT
 WORLD OF FINAL FANTASY
 WORLD OF FINAL FANTASY: MAXIMA
