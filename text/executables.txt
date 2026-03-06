@@ -7346,6 +7346,7 @@ slasta_cotm/solasta.exe
 slava ukraini/slava ukraini.exe
 slay the princess demo/slaytheprincessdemo.exe
 slay the princess/slaytheprincess.exe
+slay the spire 2/slaythespire2.exe
 slay together/slaytogether.exe
 slayaway camp/slayawaycamp.exe
 slayer-playground.app
@@ -7450,6 +7451,7 @@ sonic_x_shadow_generations/sonic_x_shadow_generations.exe
 sonicfrontiers/sonicfrontiers.exe
 sonicgenerations.exe
 sonicmania.exe
+sonicomi/sonicomi_steam.exe
 sonicrumble/sonicrumble.exe
 sono/sono.exe
 sons of the forest/sonsoftheforest.exe

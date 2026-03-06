@@ -16491,6 +16491,7 @@ Slay Together
 Slay the Princess
 Slay the Princess Demo
 Slay the Spire
+Slay the Spire 2
 Slay the Spire: Downfall
 Slayaway Camp
 Slayaway Camp: Butcher's Cut
@@ -16732,6 +16733,7 @@ Sonic Unleashed
 Sonic Wings Reunion
 Sonic and SEGA All Stars Racing
 Sonic the Fighters
+Sonicomi
 Sonny Legacy Collection
 Sono
 Sonokuni
