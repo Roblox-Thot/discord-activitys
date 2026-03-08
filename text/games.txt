@@ -3041,6 +3041,7 @@ Case Files: Behind Closed Doors
 Cash Cleaner Simulator
 CashGrab: Refunded
 Casino High Low
+Casino Inc.
 Casino Island Simulator
 Casino Roulette Royal
 Casino Simulator
@@ -7940,6 +7941,7 @@ Green Hell
 Green Hell VR
 Green Project
 Green Soldiers Heroes
+Greenhearth Necromancer
 Gremlins vs Automatons
 Gremlins, Inc.
 Gretel & Hansel
@@ -10315,6 +10317,7 @@ LeftRedRightBlue
 Legacy of Defense
 Legacy of Defense - Prologue
 Legacy of Kain: Defiance
+Legacy of Kain: Defiance Remastered
 Legacy of Kain: Soul Reaver
 Legacy of Kain: Soul Reaver 2
 Legacy of Kain™ Soul Reaver 1&2 Remastered
@@ -15103,6 +15106,7 @@ Reynatis
 Rez Infinite
 Rezon
 Rhapsody: Marl Kingdom Chronicles
+Rhell: Warped Worlds & Troubled Times
 Rhome
 Rhythia
 Rhythm Brawl
