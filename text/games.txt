@@ -5770,6 +5770,7 @@ ENSLAVED™: Odyssey to the West™ Premium Edition
 ESCAPE FROM BOYKISSER
 ESEA
 ESG Football
+ETHYRIAL
 EV3 - Drag Racing
 EVE Online
 EVE: Valkyrie - Warzone
@@ -6154,7 +6155,6 @@ Eterspire
 Ethereal Estate
 Ethereal Sunder
 Etheria: Restart
-Ethyrial: Echoes of Yore
 Etrian Odyssey HD
 Etrian Odyssey II HD
 Etrian Odyssey III HD
@@ -10976,7 +10976,7 @@ MXGP: The Official Motocross Videogame - Compact
 MY HERO ACADEMIA: All’s Justice
 MY HERO ONE'S JUSTICE
 MY HERO ULTRA RUMBLE
-MaSzyna: Railway Vehical Simulator
+MaSzyna: Railway Vehicle Simulator
 Mabinogi
 Mabinogi Mobile
 Maboroshi Caravan
@@ -11582,7 +11582,7 @@ Midnight Fight Express
 Midnight Ghost Hunt
 Midnight Heist
 Midnight Mayhem
-Midnight Murder Club Crossplay Beta
+Midnight Murder Club
 Midnight Paradise
 Midnight Ramen
 Midnight Ride
@@ -18169,6 +18169,7 @@ Tailside: Cozy Cafe Sim
 Taima Miko
 Taimanin Collection: Battle Arena
 Taimanin RPG Extasy
+Taimanin Squad
 Taimumari: Complete Edition
 Tainted Grail
 Tainted Grail: The Fall of Avalon
