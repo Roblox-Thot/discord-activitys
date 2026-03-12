@@ -302,6 +302,7 @@ ADEN
 ADK Damashii
 ADOM (Ancient Domains Of Mystery)
 AER Memories of Old
+AETHUS
 AEW: Fight Forever
 AFK Arena
 AFK: Journey
@@ -504,7 +505,6 @@ Aestik
 AeternoBlade II
 Aether & Iron
 Aethermancer
-Aethus
 Afallon
 Affected: The Manor - Complete Edition
 Affinity
@@ -20564,7 +20564,7 @@ VDSC: VoltIsland
 VEGA Conflict
 VEGAS Pro 14 Edit Steam Edition
 VEILED EXPERTS
-VEIN Demo
+VEIN
 VERGE:Lost chapter
 VERTI-GO HOME!
 VEV: Viva Ex Vivo
