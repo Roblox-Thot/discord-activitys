@@ -214,6 +214,7 @@ A Frog Game
 A Game About
 A Game About Digging A Hole
 A Game About Feeding A Black Hole
+A Game About Making A Planet
 A Game About Penguins
 A Game of Thrones: The Board Game
 A Gentlemen's Dispute
@@ -722,7 +723,7 @@ All Mechs On Deck
 All Mighty Tower
 All Quiet in the Trenches
 All Walls Must Fall
-All Will Fall - Open Beta
+All Will Fall
 All You Need Is Help
 All in Abyss: Judge the Fake
 All-In-One Sports VR
@@ -1660,6 +1661,7 @@ Banker Simulator: Prologue
 Bankshot Billiards 2
 Banner Saga 3
 Banners of Ruin
+Banquet for Fools
 Banzai Escape 2 Subterranean
 Bao Bao's Cozy Laundromat
 Baptiste
@@ -3536,6 +3538,7 @@ Clicker Guardians
 Clicker Guild
 Clicker Heroes
 Clicker Heroes 2
+Clicker Kids
 Clickteam Fusion 2.5
 Clickteam Fusion 2.5 Free Edition
 Clicky Islands
@@ -4090,6 +4093,7 @@ Crossy Road Castle
 Crossy Word
 Crow Country
 Crow Story
+Crowalt: Traces of the Lost Colony
 Crowd Run
 Crowded. Followed.
 Crowfall
@@ -4983,6 +4987,7 @@ Dice A Million
 Dice Dice Baby
 Dice Eater: A Supernatural Mystery Card Game
 Dice Gambit
+Dice Goblins Clicker
 Dice Kingdoms
 Dice Legacy
 Dice Legacy: Definitive Edition
@@ -5714,6 +5719,7 @@ Dynasty Warriors: Godseekers
 Dynomite Deluxe
 Dyping Escape
 Dyson Sphere Program
+Dysplaced
 Dystopia
 Dystopika
 DÃ¼nnes Eis - Das Spiel zum Song
@@ -7818,6 +7824,7 @@ Golfing In Aether
 Golfing Over It with Alva Majo
 Golgotha
 Goman: Stuck in the Avici Hell
+Gombo
 Gomoku AI: Line Five In A Row
 Gone Home
 GooCubelets
@@ -10746,6 +10753,7 @@ Love & Sex: Second Base
 Love Clear
 Love Curse: Find Your Soulmate
 Love Esquire
+Love Eternal
 Love Kuesuto
 Love Letter
 Love Love Mystery Club
@@ -10781,6 +10789,7 @@ Low Magic Age
 Low Poly Mouse Game
 Low Value Job
 Low-Budget Repairs
+Lucid
 Lucid Clowder
 Lucid Dream
 Lucius
@@ -10870,6 +10879,7 @@ MEDIEVAL: Total War - Gold Edition
 MEGA MAN X DiVE Offline
 MELTY BLOOD Actress Again Current Code
 MELTY BLOOD: TYPE LUMINA
+MEME EXAM 2025
 MEMORIA POLIS
 MESS
 METAL EDEN Demo 2025
@@ -13419,6 +13429,7 @@ Pac-Land
 Pac-Man Championship Edition
 Pac-Mania
 Pachi Pachi 2 On A Roll
+Pachincro
 Pacific Drive
 Pacific Wings
 Pacifish
@@ -14228,6 +14239,7 @@ Prismata
 Prismatic Solid
 Prison Architect
 Prison Boss VR
+Prison Boss: Prohibition
 Prison Escape Simulator
 Prison Escape Simulator: Breakout Master
 Prison Escape Simulator: Dig Out
@@ -14741,6 +14753,7 @@ Ragnarok
 Ragnarok Clicker
 Ragnarok M: Classic
 Ragnarok Online
+Ragnarok X: Next Generation
 Ragnarok: The Lost Memories
 Ragtag Heroes : CO-OP Deckbuilder
 Raid Auctus
@@ -16803,7 +16816,7 @@ Soccer Manager 2019
 Soccer Manager 2020
 Soccer Manager 2021
 Soccer Manager 2022
-Soccer Manager 2025
+Soccer Manager 2026
 Soccer Pinball
 Soccer Quiz: Match the Pictures
 Soccer Story
@@ -17938,6 +17951,7 @@ Sushi Break 2
 Sushi Break 2 Head to Head
 Sushi Break Head to Head
 Sushi Cat Legacy Collection
+Sushi Cat: Tower Defense
 Sushi Fun
 Sushi Plus
 Sushi Simulator
@@ -18511,6 +18525,7 @@ The Battle of Polytopia
 The Bazaar
 The Beacon
 The Bear B
+The Bearer & The Last Flame
 The Beast Inside
 The Beginner's Guide
 The Bench
