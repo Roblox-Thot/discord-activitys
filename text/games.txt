@@ -11734,6 +11734,7 @@ Minicar Race
 Minigame Madness Lite
 Minigolf Tour
 Miniland Adventure: Prologue
+Minimalist Tower Defense
 Mining Mechs
 Mining Rail 2
 Mining Survivors
@@ -13389,6 +13390,7 @@ PLANES ATTACK
 PLATiNA :: LAB
 PLAY'A VR Video Player
 PLAYERUNKNOWN'S BATTLEGROUNDS
+PLAYNE
 PLEASE STOP CRYING
 PNGTuber Plus
 POLY IMPULSE

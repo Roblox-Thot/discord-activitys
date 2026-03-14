@@ -6239,6 +6239,7 @@ platina lab/platina lab.exe
 playavr/playavr.exe
 playbns.exe
 playclaw 7/playclawapp64.exe
+playne-win64-shipping.exe
 playsnow.exe
 playstationvr2app/playstationvr2app.exe
 playtogether/playtogether.exe
@@ -10290,6 +10291,7 @@ win64/pixelheist-win64-shipping.exe
 win64/plague.exe
 win64/plagueproject-win64-shipping.exe
 win64/playcraft.exe
+win64/playne-win64-shipping.exe
 win64/playtime_multiplayer-win64-shipping.exe
 win64/pnztower-win64-shipping.exe
 win64/police-win64-shipping.exe
