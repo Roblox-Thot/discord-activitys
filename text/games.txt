@@ -279,6 +279,7 @@ A Webbing Journey
 A Webbing Journey Demo
 A Winter's Daydream
 A World of Keflings
+A stupid game about pouring drinks for the P.T.A.
 A-Jax
 A-Train Express
 A.A.U.
@@ -622,6 +623,7 @@ Airport Baggage Simulator
 Airport CEO
 Airport Fire Department: The Simulation
 Airport Police Contraband Simulator: Border Patrol
+Airport Security Sucks!
 Airport Simulator 3: Day & Night
 Airport X-Ray Simulator
 AirportSim
@@ -3968,6 +3970,7 @@ Crashphalt
 Crawl
 CrawlSpace
 Crawlers and Brawlers
+Crawling Angels
 Crawling Lab
 Crayon Physics Deluxe
 Crazy Ball Deluxe
@@ -4524,6 +4527,7 @@ Dashball
 Data Breach
 Data Center
 Data Center Simulator Game
+Database Detective: Minor Crimes Division
 Date Banger
 Date Everything!
 DateBoy
@@ -5452,6 +5456,7 @@ DreamWorks Spirit Lucky's Big Adventure
 DreamWorks Trolls Remix Rescue
 DreamWorld: The Infinite Sandbox MMO
 Dreamcore
+Dreamcore: Rabbit Hole
 Dreamers
 Dreamfall Chapters: The Longest Journey
 Dreaming Canvas
@@ -8053,6 +8058,7 @@ Guilty Gear Xrd: -SIGN-
 Guilty Gear Xrd: REV 2
 Guilty Gear Xrd: REV 2 - Upgrade
 Guilty as Sock!
+Guinea Pig Runaway Together
 Guitar Hero III: Legends of Rock
 Guitar Hero World Tour
 Guitar Hero: Live
@@ -8172,6 +8178,7 @@ HUMANKIND™ Demo
 HYPER DEMON
 HYPER DEMON PVP
 HYPERFIGHT
+HYPNOS
 HYPNOSYNC
 Habbo Hotel: Origins
 Habromania
@@ -8418,6 +8425,7 @@ Heaven Impact
 Heaven Jump
 Heaven Will Be Mine
 Heaven's Vault
+Heavenhills
 Heavenly Bodies
 Heavy Bullets
 Heavy Cargo: The Truck Simulator
@@ -8850,6 +8858,7 @@ Horror Tale
 Horror Tales: The Beggar
 HorrorToleranceTest
 Horse Farm
+Horse Racing Manager
 Horse Riding Tales
 Horse Riding: Breakthrough Gaming Arcade
 Horse Riding: Project - Summer Ice
@@ -9517,6 +9526,7 @@ Jack Move
 Jack the Mechanician
 Jackal
 Jackpoison
+Jackpot Buffalo Slots
 Jackpot Poker by PokerStars
 Jacksmith: Weapons and Warriors
 Jade Empire: Special Edition
@@ -9906,6 +9916,7 @@ Killing Time: Resurrected
 Killzone: Liberation
 Killzone: Shadow Fall
 Killzone: Shadow Fall - Intercept
+Kimbap Heaven Simulator
 Kimochii Classroom
 Kin and Quarry
 Kind Words
@@ -10070,6 +10081,7 @@ Koihime Enbu RyoRaiRai
 Koisuru Otome to Shugo no Tate: Bara no Seibo
 Kokoro Kitchen
 Koltera
+Koltera 2
 Kombinera
 Kompete
 Kona
@@ -10680,6 +10692,7 @@ Lorelei and the Laser Eyes
 Lorn's Lure
 Lornsword Winter Chronicle
 Loser Simulator
+Loss Prevention
 Lossless Scaling
 Lossless Scaling Demo
 Lost
@@ -11859,6 +11872,7 @@ Money Simulator: Brokeville
 Mongo Dash
 Mongo Madness
 Monica's Newlywed Life
+Monk Took Book
 Monke Island: Rise of the Beast
 Monkey Donkey Jungle
 Monkey Island™ 2 Special Edition: LeChuck's Revenge™
@@ -12072,6 +12086,7 @@ Move or Die
 MovieMator Video Editor
 MovieStarPlanet
 Movies Tycoon
+Moving Day
 Moving Houses
 Moving Out
 Moving Out 2
@@ -12813,6 +12828,7 @@ Not Tonight
 Notanote
 Nothing
 Nothing Together
+Nothing to Declare
 Notmads
 Notruf 112
 Notruf 112 - Die Feuerwehr Simulation 2
@@ -13093,6 +13109,7 @@ OneShot
 OneShot: World Machine Edition
 Onechanbara: Bikini Samurai Squad
 Onee Chanbara Origin
+Oneirophobia
 Oni
 Onigiri
 Onigiri Shop Simulator
@@ -13105,6 +13122,7 @@ Online Open World RPG
 Online Sparkler
 Only Climb: Better Together
 Only If
+Only Mining
 Only Up !
 Only Up 2
 Only Up Rush
@@ -13436,6 +13454,7 @@ Pacific Drive
 Pacific Wings
 Pacifish
 Pacify
+Pack and Ship: Warehouse Simulator
 Packing Life
 Packmates
 Pacmaga 2
@@ -13483,6 +13502,7 @@ PandaBall
 Pandemic Express - Zombie Escape
 Pandemic Love
 Pandemic: The Board Game
+Pandora's Toybox
 Panelka
 PangYa (NtreevSoft)
 Panic Delivery
@@ -13522,6 +13542,7 @@ PaperDrive
 Paperbound Brawlers
 Paperman: Adventure Delivered
 Papers, Please
+Paperwork
 Paquerette Down the Bunburrows
 Paradiddle
 Paradigm
@@ -13850,6 +13871,7 @@ Pirate Fighting Simulator
 Pirate Flight (VR)
 Pirate Monkey Fruit Shoot
 Pirate Pete
+Pirate Ships
 Pirate Trails
 Pirate Treasure: Island of Mazes
 Pirate101
@@ -13913,6 +13935,7 @@ Pizza Deathlivery
 Pizza Frenzy
 Pizza Fun
 Pizza Hero
+Pizza Panic!
 Pizza Possum
 Pizza Restaurant Simulator
 Pizza Restaurant Together
@@ -14270,6 +14293,7 @@ Pro Cycling Manager 2024
 Pro Cycling Manager 25
 Pro Deer Hunting
 Pro Deer Hunting Out West
+Pro Eleven
 Pro Evolution Soccer 2016 myClub
 Pro Evolution Soccer 2017
 Pro Flight Simulator Deluxe
@@ -15174,6 +15198,7 @@ Rhythm Brawl
 Rhythm Doctor
 Rhythm Planet
 Rhythm Witch: Beat Death
+RhythmStrike
 RiME
 RiMS Racing
 Richie's Plank Experience
@@ -15277,6 +15302,7 @@ River Tails: Stronger Together
 River Town Factory
 River Towns
 Riverbond
+Rizz Dungeon: Skeleton Key to My Heart
 Road 96
 Road 96: Mile 0
 Road Bustle 2
@@ -17084,6 +17110,7 @@ Spec Ops: The Line
 Special Forces Assault: Tactical Hostage Rainbow
 Species: Artificial Life, Real Evolution
 Species: Unknown
+Spectra
 Spectral Scream
 Spectre Divide
 Spectrewoods
@@ -17367,6 +17394,7 @@ State of Decay: Year-One
 State of Mind
 State of Survival
 Static Dread: The Lighthouse
+Static Dread: The Submarine
 Station 5
 Station to Station
 Stationeers
@@ -18257,6 +18285,7 @@ Tangle Tower
 Tangledeep
 Tangles
 Tangram Puzzle Infinite
+Tangy TD
 Tank Battalion
 Tank Force
 Tank Frenzy
@@ -18556,6 +18585,7 @@ The Bloodline
 The Bluecoats: North & South
 The Boat Grandma
 The Boba Teashop
+The Bold Club
 The Bonerooms
 The Boo Croo
 The Book of Unwritten Tales 2
@@ -19073,6 +19103,7 @@ The Magic Circle
 The Magical Mixture Mill
 The Magician's Research
 The Magus Circle
+The Mailroom
 The Maker Way
 The Many Pieces of Mr. Coo
 The Marauder Chronicles: Curse Over Valdria
@@ -20432,6 +20463,7 @@ Under the blue horizon
 UnderMine
 UnderMine 2
 Underboard
+Underchoice
 Undercover Fools
 Undercroft warriors
 Underground Blossom
@@ -20705,6 +20737,7 @@ Veggie Match
 Veggie Match: X
 Velev
 Vellum
+Vellum: Raid Night Study Hall
 Velocity 2X
 Vena
 Venatrix
@@ -21049,6 +21082,7 @@ Warlock - Master of the Arcane
 Warlord: Awaji
 Warlord: Britannia
 Warlords Battlecry III
+Warlords Battleground: Extraction
 Warlords Under Siege
 Warnament
 Warp Warp
@@ -21200,6 +21234,7 @@ Wet Girl
 Weyrdlets
 Whale Game Online
 WhamPunch
+What Awaits, Aleksey?
 What Lies in the Multiverse
 What Never Was
 What Remains of Edith Finch
@@ -22103,6 +22138,7 @@ you're just imagining it
 Скуф на даче
 Скуф на рыбалке
 Твоя мама
+※This Game Is Not Real.
 ⚽Ultimate Soccer
 いっき団結
 いもむし
