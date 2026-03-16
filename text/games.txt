@@ -19,6 +19,7 @@
 0 Day Attack on Earth
 0 Degrees
 0 Rally Desert Race: Offroad Dirt Simulator
+1 Gēn xiāngcháng zǒujiānghú
 1 Square
 1-2-Whopping Word Search!
 1-2-Word Search!
@@ -3239,6 +3240,7 @@ Celestial Empire
 Cell Scientist: Beyond
 Cell to Singularity - Evolution Never Ends
 Cell: Idle Factory Incremental
+Cellchemist
 Celtic Heroes
 Center Station Simulator
 Centipede & Millipede
@@ -4483,6 +4485,7 @@ Dark Swords
 Dark Thrones
 Dark and Darker
 Dark and Light
+DarkBazaar
 DarkOrbit Reloaded
 DarkStar One
 DarkStory Online
@@ -4540,6 +4543,7 @@ Dave's Wrecking Yard
 Davigo Demo
 Davy x Jones
 Dawn Apart
+Dawn Of Defense
 Dawn Of The Dying
 Dawn of Defiance
 Dawn of Man
@@ -4892,6 +4896,7 @@ Desktop Kanojo
 Desktop Mate
 Desktop Nard
 Desktop Purrfect
+Desktop Raid
 Desktop Survivors 98
 Desktop+
 Desolate
@@ -7190,6 +7195,7 @@ Friday Night Funkin'
 Friday the 13th: Killer Puzzle
 Friday the 13th: The Game
 Fridge Escape
+Friendly Steps
 Friends vs Friends
 Friends vs Friends Demo
 Friendship with Benefits
@@ -7896,6 +7902,7 @@ Gran Turismo 7
 Gran Turismo Sport
 GranAge
 Granado Espada
+Granblue Fantasy
 Granblue Fantasy Versus: Rising
 Granblue Fantasy: Relink
 Granblue Fantasy: Versus
@@ -13091,6 +13098,7 @@ One Room Dungeon
 One Room Nightmare
 One Step After Fall
 One Step From Eden
+One Tower Defense
 One Troll Army
 One Turn Kill
 One Upon Light
@@ -16059,6 +16067,7 @@ Scrap Daddies
 Scrap Garden
 Scrap Mechanic
 Scrap Metal
+Scrap Protocol
 Scrapnaut
 Scrapnaut: Prologue
 Scrapvival
@@ -19501,6 +19510,7 @@ Thea 2: The Shattering
 Thea: The Awakening
 Theatrhythm Final Bar Line
 Their Land
+Thekku Island
 Them Bombs Demo
 Them's Fightin' Herds
 Theme Hospital
