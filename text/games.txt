@@ -4093,7 +4093,6 @@ Crossing Souls
 Crossout
 Crossovers by Powgi
 Crossroads Inn
-Crosswind
 Crossword Puzzle
 Crossy Road Castle
 Crossy Word
@@ -4466,7 +4465,7 @@ Dark Envoy
 Dark Farts: Parody Smell Edition
 Dark Fox Infinity Runner
 Dark Fracture: Prologue
-Dark Hours: Prologue
+Dark Hours
 Dark Hunting Ground
 Dark Legion
 Dark Light: Survivor
@@ -16079,7 +16078,7 @@ Scream Collector
 ScreamRide
 Screen Cat
 Screencheat
-Screeps
+Screeps: World
 Screw Drivers
 Screwjumper!
 Scribble
@@ -21378,6 +21377,7 @@ Windlands
 Windlands 2
 Windmill Engine
 Windowkill
+Windrose
 Winds Of Valen
 Windscape
 Windstorm: An Unexpected Arrival
