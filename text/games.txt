@@ -5475,6 +5475,7 @@ Dream of Corpse Lady
 DreamBall
 DreamWorks All-Star Kart Racing
 DreamWorks Dragons: Dawn of New Riders
+DreamWorks Gabby's Dollhouse: Ready to Party
 DreamWorks Spirit Lucky's Big Adventure
 DreamWorks Trolls Remix Rescue
 DreamWorld: The Infinite Sandbox MMO
@@ -9808,6 +9809,7 @@ Kagura Survivors: Endless Night
 Kaguya Luna LIVE@ZeppVR2
 Kaidro: Clan Battles
 Kaiji VR: The Nightmare Bridge
+Kaiju Cracking Corporation
 Kaiju Princess
 Kaiju Princess 2
 Kaion Tale
@@ -9817,12 +9819,14 @@ Kaizen: A Factory Story
 Kaizou Chounin Shubibinman
 Kakele Online - MMORPG
 Kaku: Ancient Seal
+Kalit
 Kallax
 Kalyskah
 Kamaeru: A Frog Refuge
 Kamen Rider: Climax Fighters
 Kamen Rider: Memory of Heroez
 Kameo: Elements of Power
+Kami Quest: Enter the Imagynasium
 Kamikaze Shooter
 Kamikaze Strike: FPV Drone
 Kamitsubaki City Regenerate
@@ -13309,6 +13313,7 @@ Out of the Park Baseball 24
 Out of the Park Baseball 25
 Out of the Park Baseball 26
 Out of the Park Baseball 27
+Out of the Shadows
 OutDrive
 Outbound
 Outbound Demo / 아웃바운드 데모
@@ -14487,6 +14492,7 @@ Propulsion 2D
 Prose & Codes
 Prospector: The First Contract
 Prosperous Universe
+Protagonist Complex One
 Proteus
 Protodroid DeLTA
 Prototype
