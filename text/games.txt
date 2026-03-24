@@ -7827,7 +7827,7 @@ Goka Street
 Golazo!
 Golazo! 2
 Gold Gold Adventure Gold
-Gold Hunter Multiplayer
+Gold Hunter
 Gold Miner
 Gold Mining Simulator
 Gold Rush: The Game
@@ -8210,6 +8210,7 @@ HUMANKIND™
 HUMANKIND™ Demo
 HYPER DEMON
 HYPER DEMON PVP
+HYPERBEAT
 HYPERFIGHT
 HYPNOS
 HYPNOSYNC
@@ -9036,7 +9037,6 @@ Hyper Scape
 Hyper Sports
 Hyper Turbo Boost
 Hyper Universe
-Hyperbeat
 Hyperbolica
 Hyperchannel
 Hypercharge: Unboxed
@@ -11916,7 +11916,7 @@ Monaco
 Monaco 2
 Monark
 Moncage
-Mondealy: Day One
+Mondealy
 Money Simulator
 Money Simulator: Brokeville
 Mongo Dash
@@ -15926,6 +15926,7 @@ Safeguard Saga
 Safehouse
 Safety First!
 Saga & Seeker
+Sagas of Lumin
 Sagrada
 Saihate Station
 Saiko no sutoka
@@ -16668,7 +16669,7 @@ Skater's Solstice
 Skautfold: Into the Fray
 Skeler Boy
 Skeleseller
-Skelethrone: The Prey
+Skelethrone
 Skeleton Hell
 Skeljump
 Sker Ritual
