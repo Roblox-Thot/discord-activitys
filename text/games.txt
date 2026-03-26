@@ -921,6 +921,7 @@ Anime Poly Puzzle: Sci-Fi Maidens
 Anime Puzzles: School Trouble
 Anime Shop Simulator
 Anime Uni 2
+Animula Nook
 Animus: Revenant
 Aniquilation
 Aniwars: Call Of The Void
@@ -6801,6 +6802,7 @@ Find All: Christmas 2025
 Find All: Valentine's Day
 Find Hidden Objects
 Find Love Or Die Trying
+Find Matt's Cats
 Find Will - Uma's adventure
 Find Yourself
 Find or be Found
@@ -11375,7 +11377,6 @@ Math Genius: Subtraction
 MathLand
 Matisse's 3D World
 Matt Hazard: Blood Bath and Beyond
-Matt's Hidden Cats
 MattAndZacharyBeta
 Matterfall
 Maurice: In The Predator's Nest
@@ -14963,6 +14964,7 @@ Re:Call
 Re:Legend
 Re:Touring
 Re:Turn - One Way Trip
+Re:Zero - Starting Life in Another World: The Prophecy of the Throne
 ReCharge: High Voltage
 ReCore
 ReMix
@@ -17743,6 +17745,7 @@ Subterranauts
 Subterror
 Subverse
 Subway Midnight
+Subway Simulator 2025: City Train
 SubwaySim 2
 SubwaySim Hamburg
 Succubus
@@ -18465,6 +18468,7 @@ Tekken 2
 Tekken 3
 Tekken 6
 Tekken Tag Tournament 2
+Tekken: Dark Resurrection
 Teleglitch: Die More Edition
 Teletext Chaser
 Tell Me Why
@@ -19629,6 +19633,7 @@ This is Timmy
 This is a Ghost
 This is the Police
 This is the Zodiac Speaking
+Thomas & Friends: Wonders of Sodor
 Thomas Was Alone
 Thors Ascension: Nine Realms
 Those Who Remain
@@ -20384,6 +20389,7 @@ Two Player Tanks
 Two Point Campus
 Two Point Hospital
 Two Point Museum
+Two Strikes
 Two The Top
 Two Worlds II
 Two Worlds: Epic Edition
@@ -21711,6 +21717,7 @@ X-COM: UFO Defense
 X-Mode
 X-Morph: Defense
 X-Out
+X-Out: Resurfaced
 X-Plane 11
 X-Plane 12
 X-War
