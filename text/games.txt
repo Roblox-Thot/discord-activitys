@@ -4664,6 +4664,7 @@ Deadcam
 Deadcam: Analog Survival Horror
 Deadeye Deepfake Simulacrum
 Deadhaus Sonata
+Deadhikers
 Deadliest Catch: The Game
 Deadliest Pigeon
 Deadliest Warrior: Legends
@@ -5932,6 +5933,7 @@ Electronics Store Simulator
 Electronics Supermarket Simulator
 Elefox Adventure
 Elegy of Fate
+Elemency Island
 Element TD 2
 Element4l
 Elemental Cube
@@ -6699,6 +6701,7 @@ Fears to Fathom - Woodbury Getaway
 Fearwoods
 Feastopia
 Feather
+Feather Land
 Feather Party
 Fechtbucher
 Feed All Monsters
@@ -9079,6 +9082,7 @@ I Expect You To Die 3
 I Hate My Waifu Streamer
 I Hate This Place
 I Have No Mouth, and I Must Scream
+I Have an Item
 I Just Want to be Single!! Demo
 I Know a Guy
 I Love Finding Cats & Pups
@@ -9534,6 +9538,7 @@ It Lurks Below
 It Steals
 It Takes Two
 It Takes a War
+It Works: Electronics Repair Simulator
 It follows you
 It gets so lonely here
 It's Only Money
@@ -9902,6 +9907,7 @@ Kena: Bridge of Spirits
 Kenshi
 Kentucky Route Zero
 Kentum
+Keplerian Space Discovery
 Keplerth
 KerBang
 Kerbal Space Program
@@ -10519,6 +10525,7 @@ Life Eater
 Life Force
 Life Goes On
 Life Goes On: Done to Death
+Life Inc.
 Life Makeover
 Life Of Fly 2
 Life On A Pizza
@@ -10607,6 +10614,7 @@ Little Cities: Bigger!
 Little Corners
 Little Disaster
 Little Fighter 2 Remastered
+Little Girl On Earth Asking Why She Asking Why
 Little Goody Two Shoes
 Little Inferno
 Little Kitty, Big City
@@ -11808,6 +11816,7 @@ Minoria
 Minos
 Minos: Home A-Labyrinth
 Mint's Hints
+Minus Nine
 Minutes
 Minutescape
 Mira And The Legend Of The Djinns
@@ -12498,6 +12507,7 @@ Narcosis
 Narita Boy
 Narrative Adventure
 Narrow One
+Narvas
 Nation Red
 Native Instruments Maschine 2
 Natsuiro High School: Seishun Hakusho
@@ -12602,6 +12612,7 @@ Nerd Simulator
 Nerf Legends
 Nero Score
 Nested Lands
+Net 24h: Vietnamese Internet Cafe Chaos
 Net.Attack()
 Nether
 Netherworld Covenant
@@ -12703,6 +12714,7 @@ Nighthold: Number 1
 Nightingale
 Nightly Escape
 Nightmare Boy
+Nightmare Circus
 Nightmare Drive
 Nightmare Frontier
 Nightmare House: The Original Mod
@@ -13291,6 +13303,7 @@ Our Life: Beginnings & Always
 Our Life: Now & Forever
 Our World Is Ended.
 Ouros
+Out Fishing
 Out Of Action
 Out Of Time
 Out There Somewhere
@@ -16391,6 +16404,7 @@ ShapeHero Factory / シェイプヒーローファクトリー
 Shapeshooter
 Shard Squad
 Shardbound
+Shardbreakers
 Shards of Order
 Shark Adventure
 Shark Attack Deathmatch 2
@@ -16810,6 +16824,7 @@ Slots & Daggers
 Slots & Diapers
 Slow and Steady
 Slowly Sliding Ducks
+Sludgineers
 Slut Squad
 Sly 2: Band of Thieves HD
 Sly 3: Honor Among Thieves
@@ -16834,6 +16849,7 @@ Smash it Wild
 Smashing Simulator Idle
 Smashing The Battle: Ghost Soul
 Smile For Me
+Smile More
 Smilemo
 Smithworks
 Smittys Patrol
@@ -17044,6 +17060,7 @@ SoulWorker
 SoulWorker
 Soulash 2
 Souldiers
+Soulforge: Lost Path
 Soulframe
 Soulmask
 Soulslinger: Envoy of Death
@@ -17507,6 +17524,7 @@ Steel Ocean
 Steel Rain
 Steel Rats
 Steel Seed
+Steel Soul Shaper
 SteelFront
 Steelrising
 Steep
@@ -17852,6 +17870,7 @@ Super Bomberman R
 Super Bomberman R 2
 Super Bomberman R Online
 Super Buckyball Tournament Preseason
+Super Bullet Break
 Super Bunny Man
 Super BurgerTime
 Super Chipflake U: Quest For The Uncooked Schnitzel
@@ -18400,6 +18419,7 @@ Tarnished Blood
 Task Force
 Task Force Admiral
 Task Force Harrier EX
+Task Time
 TaskPals
 Tasomachi: Behind the Twilight
 Tastemaker
@@ -18831,6 +18851,7 @@ The Elephant Collection
 The Elephant E
 The Ember Guardian
 The End Is Nigh
+The End of the World and Her Room
 The Enigma Cases
 The Enigma Machine
 The Enjenir
