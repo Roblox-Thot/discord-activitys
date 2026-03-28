@@ -73,6 +73,7 @@
 14 Minesweeper Variants
 14 Minesweeper Variants 2
 140
+1492 - Colonization of the New World
 171
 18 Floors
 1971 Project Helios
@@ -1669,6 +1670,7 @@ Banker Simulator
 Banker Simulator: Prologue
 Bankshot Billiards 2
 Banner Saga 3
+Banner of the Maid
 Banners of Ruin
 Banquet for Fools
 Banzai Escape 2 Subterranean
@@ -7120,6 +7122,7 @@ Fort Boyard
 Fort Defense North Menace
 Fort Solis
 Fort Triumph
+Fortifend
 Fortified
 Fortnite
 Fortress Challenge: Fort Boyard
@@ -15716,6 +15719,7 @@ S.T.A.L.K.E.R.: Shadow of Chernobyl
 S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition
 S4 League
 S4U: Citypunk 2011 And Love Punch
+SAHUR: Escape Together
 SAMURAI SHODOWN
 SAMURAI SHODOWN V SPECIAL / サムライスピリッツ零スペシャル
 SAMURAI WARRIORS 4 DX
@@ -16147,6 +16151,7 @@ Scratch Inc.
 Scratchers
 Scream Collector
 ScreamRide
+Screamer
 Screen Cat
 Screencheat
 Screeps: World
@@ -21251,6 +21256,7 @@ Watt's the Limit?
 Wauies
 Wave Break
 Wave Buxters
+Wave Gods: Ammo Night
 WaveLand
 Waven
 Waves
@@ -22341,6 +22347,7 @@ you're just imagining it
 古銭プッシャーフレンズ参
 古銭プッシャーフレンズ２
 嗜血印 Bloody Spell
+在杰难逃 Ass Escape
 垃圾桶军团
 大侠立志传：碧血丹心
 大富翁10(Richman 10)
