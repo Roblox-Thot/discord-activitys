@@ -7323,6 +7323,7 @@ Full Throttle Remastered
 Fumes
 Fump Jump
 Fun Hospital
+Fun Park Simulator
 Fun with Ragdolls: The Game
 Fungiman
 Funguys Swarm
@@ -9198,6 +9199,7 @@ Idle Fishing
 Idle Grid
 Idle Gumball Machine
 Idle Guy: Life Simulator games
+Idle Hacking: An Inaction RPG
 Idle Heist
 Idle Hero TD
 Idle Heroes
@@ -15577,6 +15579,7 @@ Roots of Pacha
 Roots of Yggdrasil
 Rope Hope
 Ropuka's Idle Island
+Rosalie
 Rose
 Rosenkreuzstilette
 Rotating Bridges
@@ -15593,6 +15596,7 @@ Rounds of Zombies
 Route 16
 Rover Mechanic Simulator
 Rover Wars
+Rover's Tale
 Row Divers
 Row of Numbers
 Royal Assault
@@ -17721,6 +17725,7 @@ Stronghold Crusader: Definitive Edition
 Stronghold HD
 Stronghold Kingdoms
 Stronghold Legends
+Stronghold Legends: Steam Edition
 Stronghold: Crusader - Extreme
 Stronghold: Definitive Edition
 Stronghold: Warlords
