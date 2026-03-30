@@ -2614,6 +2614,7 @@ Broventure: The Wild Co-op
 Brown Dust 2
 Brunswick Circuit Pro Bowling
 Brunswick: Pro Bowling
+Brush Burial: Bruiseland
 Brush Burial: Gutter World
 Brutal Chase Turbo
 Brutal John 2
@@ -3804,6 +3805,7 @@ Contain
 Containers
 Containment Corp, Inc.
 Contenders: Arena
+Content King
 Content Warning
 Contra
 Contra Anniversary Collection
@@ -10501,6 +10503,7 @@ Lethal Corporation
 Lethal Dungeon
 Lethal League
 Lethal League Blaze
+Letherfall
 Lethis: Path of Progress
 Letter Lost
 Letterbox by Powgi
@@ -11873,6 +11876,7 @@ Mittelborg: City of Mages
 Mix AI Animal Ultimate
 Mix Universe
 Mixcraft 8 Home Studio
+Mixed Spirits: Bartender Simulator
 Mixups by Powgi
 Mixx Island: Remix
 Mizi NO!
@@ -17204,6 +17208,7 @@ Spartan Survivors
 Spear of Destiny: The Kaiseki
 Spearain
 Spec Ops: The Line
+Special Force Remastered
 Special Forces Assault: Tactical Hostage Rainbow
 Species: Artificial Life, Real Evolution
 Species: Unknown
