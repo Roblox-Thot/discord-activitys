@@ -612,7 +612,7 @@ Air Missions: Hind
 Air Sea Modern Conflict
 Air Stunt Racing
 AirMech
-AirMech Strike
+AirMech
 Airborne
 Airborne Empire
 Airborne Kingdom
