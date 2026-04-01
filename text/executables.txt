@@ -45,7 +45,6 @@
 35mm/35mm.exe
 360 no scope arena/360noscopearena.exe
 3d aim trainer/3dat.exe
-3tene/3tene.exe
 4d miner demo/4d miner.exe
 4d minesweeper/4d minesweeper 64.exe
 50 floors the paranormal investigators prologue/50floors.exe
@@ -358,7 +357,6 @@ anger foot/anger foot.exe
 angry birds vr isle of pigs/angry-birds-vr-isle-of-pigs.exe
 angry video game nerd adventures/avgn.exe
 angvik/nw.exe
-animaengine/animaenginekivi.exe
 animal jam - play wild!/play wild.exe
 animal revolt battle simulator/animal revolt battle simulator.exe
 animal shelter 2 prologue/animal shelter 2 prologue.exe
@@ -427,7 +425,6 @@ aplaguetalerequiem/aplaguetalerequiem_x64.exe
 apollo justice ace attorney trilogy/gs456.exe
 apotheon arena/apotheonarena.exe
 apotheon/apotheon.exe
-app/glasswire.exe
 app_digister/digimon story cs.exe
 application/curio.exe
 apps/sc3u.exe
@@ -452,7 +449,6 @@ arco/arco.exe
 arcticeggs/game.exe
 arena of kings/arenaofkings.exe
 arena renovation first job/arena renovation - first job.exe
-areyoureadyforvalveindex/compatapp.exe
 argentum.exe
 argobattleye.exe
 aristocunts/aristocunts.exe
@@ -462,7 +458,6 @@ ark recode/ark recode.exe
 arkhamvr.exe
 arma 2 operation arrowhead/arma2oa.exe
 arma 2/arma2.exe
-arma 3 tools/arma3tools.exe
 arma 3/arma3_x64.exe
 arma cold war assault/coldwarassault.exe
 arma reforger experimental/armareforger_be.exe
@@ -806,7 +801,6 @@ biker garage/bikergarage.exe
 billie's wheelie/billie wheelie.exe
 bin/acrofs_x64.exe
 bin/agk.exe
-bin/animazedesktop.exe
 bin/application.exe
 bin/arahistoryuntold.exe
 bin/atg-steam-engine-demo.exe
@@ -1524,7 +1518,6 @@ clicker guardians/clicker guardians.exe
 clicker guild/guild.exe
 clicker heroes 2/clickerheroes2.exe
 clicker heroes.exe
-clickteam fusion 2.5 free edition/mmf2u.exe
 clickteam fusion 2.5/mmf2u.exe
 clicktoeleven/clicktoeleven.exe
 clickyland/clickyland.exe
@@ -1763,8 +1756,6 @@ crazy foods/crazy foods.exe
 crazy taxi/crazy taxi.exe
 crea/crea.exe
 creaks/creaks.exe
-creationkit.exe
-creationkit32.exe
 creativedestruction/client.exe
 creativerse.exe
 creature creator/creature creator.exe
@@ -2129,7 +2120,6 @@ demon turf/demon turf.exe
 demoncrawl/demoncrawl.exe
 demul.exe
 denizen/denizen.exe
-deovr video player/deovr.exe
 depersonalization/depersonalization-release.exe
 deployment/deployment.exe
 deponia doomsday/deponia4.exe
@@ -2154,7 +2144,6 @@ desktop kanojo/desktopkanojo.exe
 desktop mate/desktopmate.exe
 desktop ricardo/desktopricardo.exe
 desktop survivors 98/ds98.exe
-desktopplus/desktopplus.exe
 deskworm/deskworm.exe
 desolate/binaries/win64/sh-win64-shipping.exe
 desperados iii demo/desperados iii.exe
@@ -2450,13 +2439,8 @@ drill core/drill core.exe
 drill deal first borehole/dealdrill.exe
 drinkbox_game4/game.exe
 drive21/drive 21.exe
-driver booster 4/driverbooster.exe
 driver booster 5 for steam/driverbooster.exe
-driver booster 6 for steam/driverbooster.exe
-driver booster for steam/driverbooster.exe
-driver booster/driverbooster.exe
 driver parallel lines/driverparallellines.exe
-driver4vr/driver4vr.exe
 drl simulator/drl simulator.exe
 drop alive/drop alive.exe
 dropsy/dropsy.exe
@@ -2507,7 +2491,6 @@ dungeon hunter champions/dhc.exe
 dungeon keeper 2/dkii-dx.exe
 dungeon keeper/dosbox/dosbox.exe
 dungeon munchies/dungeon munchies.exe
-dungeon painter studio/dps.exe
 dungeon royale/dungeonroyale.exe
 dungeon siege 1/dungeonsiege.exe
 dungeon siege 2/dungeonsiege2.exe
@@ -2588,7 +2571,6 @@ eastward/eastward.exe
 easy delivery co/easydeliveryco.exe
 easy red 2/easy red 2.exe
 easyanticheat/easyanticheat_eos_setup.exe
-easypose/easypose.exe
 echoed world/echoedworld.exe
 echoes of the plum grove/echoes of the plum grove.exe
 eclipsium/eclipsium.exe
@@ -2648,7 +2630,6 @@ emily is away 3/emily3.exe
 emily is away too/emilyisawaytoo.exe
 emily is away.exe
 emojicc/emojicc.exe
-emotelab/emotelab.exe
 empire total war/empire.exe
 empire.exe
 empireofsin/empireofsin.exe
@@ -2828,7 +2809,6 @@ exposed livestream/game.exe
 extremely powerful capybaras training grounds/extremely_powerful_capybaras.exe
 eye.exe
 eyes - the horror game/eyes.exe
-ez-crosshair/ez-crosshair.exe
 ez2on reboot r/ez2on.exe
 ezquake-gl.exe
 ezquake.exe
@@ -3124,7 +3104,6 @@ flower/flower.exe
 flowscape/flowscape.exe
 flowstate/game.exe
 fluffy horde/fluffyhorde.exe
-fluid engine pc live wallpaper demo/fluidenginedemo.exe
 fluid/pce2.exe
 fly corp demo/fly corp.exe
 fly corp/fly corp.exe
@@ -3209,7 +3188,6 @@ foxgame-win32-shipping.exe
 foxhime/foxhime.exe
 foxhimezero/foxhimezero.exe
 fph spedv/fph spedv.exe
-fps monitor/fpsmonitor.exe
 fpsaimtrainer/fpsaimtrainer.exe
 fpv drone simulator/fpv drone simulator.exe
 fpv.skydive/fpv.skydive.exe
@@ -3224,7 +3202,6 @@ fran bow/fran bow.exe
 frankie's funclub/frankie's funclub.exe
 fraymakers/fraymakers.exe
 freddy fazbear's pizzeria simulator/pizzeria simulator.exe
-free to play/ftp.exe
 freedom planet/fp.exe
 freeman guerrilla warfare.exe
 freesolitaire_win64/freesolitaire.exe
@@ -3436,7 +3413,6 @@ girl and goblin/girl and goblin.exe
 girls free/girls free.exe
 girls! girls! girls!/girls! girls! girls!.exe
 girls' frontline 2 exilium/gf2_exilium.exe
-gizmovr video player/gizmovr.exe
 gladiabots/gladiabots.exe
 gladiator guild manager prologue/gladiator manager.exe
 gladiator guild manager/gladiator manager.exe
@@ -3915,8 +3891,6 @@ higurashi when they cry hou - ch. 5 meakashi/higurashiep05.exe
 higurashi when they cry hou - ch.6 tsumihoroboshi/higurashiep06.exe
 higurashi when they cry/higurashiep01.exe
 himno/himno.exe
-hindie.exe
-hindie.steam.exe
 hiraganabattle/learn japanese to survive - hiragana battle.exe
 hired ops/hops.exe
 hitler is my crush/hitler is my crush.exe
@@ -4060,7 +4034,6 @@ hybrid animals/hybridanimals.exe
 hylics 2/hylics2_windows.exe
 hylics/game.exe
 hyper dash/hyperdash.exe
-hyper online desktop/com.hyperonline.hyperpc.exe
 hyperbolica/hyperbolica.exe
 hyperdemon/hyperdemon.exe
 hyperdevotion noire/noire.exe
@@ -4147,7 +4120,6 @@ illarion/jre/bin/java.exe
 illusioncarnival/illusion carnival.exe
 ilycs/ilycs.exe
 imagwzii/z0mb1es.exe
-imgui_sample.exe
 immortal redneck/immortalredneck.exe
 immortallife/immortallife.exe
 immortals fenyx rising/immortalsfenyxrising.exe
@@ -4296,7 +4268,6 @@ it has my face/it has my face.exe
 it lurks below/ilb.exe
 it steals/it steals.exe
 ithya magic studies/magic studies.exe
-itop easy desktop/ieasydesk.exe
 ivac.exe
 iw3mp.exe
 iw3sp.exe
@@ -4740,7 +4711,6 @@ littlebigworkshop/littlebigworkshop.exe
 littlekittybigcity/little kitty, big city.exe
 littlenightmares.exe
 littlewood/littlewood.exe
-live wallpaper/wallpaper.exe
 live2d_vr_girls/live2d_vr_girls.exe
 live2dviewerex/update.exe
 livelock/livelock.exe
@@ -4792,7 +4762,6 @@ lordsofthefallen.exe
 lorelei and the laser eyes/lorelei and the laser eyes.exe
 lorn's lure/lornslure.exe
 los-win64-shipping.exe
-lossless scaling demo/losslessscaling.exe
 lossless scaling/losslessscaling.exe
 lost but found/lost but found.exe
 lost castle 2/lostcastle2.exe
@@ -5113,7 +5082,6 @@ merge nymphs/merge nymphs.exe
 mergecrafter/mergecrafter.exe
 meridian - new world.exe
 meridian 59/meridian.exe
-mermaid vr/mermaidvr.exe
 merry bunny garden/hebereke bunny garden.exe
 meta-ghost prologue/meta ghost.exe
 metaball/metaball.exe
@@ -5408,7 +5376,6 @@ mountblade warband/mb_warband.exe
 mountblade warband/mb_warband_old.exe
 mountyourfriends.exe
 mouthwashing/mouthwashing.exe
-movavi video editor plus 2020/videoeditorplus.exe
 movavi video suite 18/suite.exe
 movavi video suite/suite.exe
 move or die/love/linux32/love
@@ -5612,7 +5579,6 @@ neptunia u/neptunia.exe
 neptuniarebirth1.exe
 neptuniarebirth2.exe
 neptuniarebirth3.exe
-nero score/neroscore.exe
 nerts online/nerts! online.exe
 nether dungeons/windows64.exe
 nether heroes/nether heroes.exe
@@ -5783,7 +5749,6 @@ objectn/objectn.exe
 oblivion.exe
 oblivion/oblivion.exe
 oblivion/obse_loader.exe
-oblivity/oblivity.exe
 obradinn/obradinn.exe
 obscura/obscura.exe
 obscure/obscure.exe
@@ -5971,7 +5936,6 @@ overload/overload.exe
 overlooting/overlooting.exe
 overlord/overlord.exe
 overwatch.exe
-ovr dynamic resolution/ovr-dynamic-resolution.exe
 ovrdrop/ovrdrop.exe
 owinka shooter/owinka shooter.exe
 owlboy.exe
@@ -5979,7 +5943,6 @@ oxenfree ii lost signals/oxenfree2.exe
 oxenfree/oxenfree.exe
 oxygen first breath/o2/binaries/win64/o2-win64-shipping.exe
 oxygennotincluded.exe
-oyasumivr/oyasumivr.exe
 ozmafia/ozmafia.exe
 p3p/p3p.exe
 p4u2/p4u2.exe
@@ -6199,7 +6162,6 @@ pixel piracy/pixelpiracy.exe
 pixel puzzles ultimate/pixel puzzles ultimate.exe
 pixel starships/pixel starships.exe
 pixel strike 3d/pixelstrike3d.exe
-pixel studio/pixel studio.exe
 pixel_dungeons.exe
 pixelworlds.exe
 pixieditor/pixieditor.exe
@@ -6237,12 +6199,10 @@ plantsvszombies.exe
 plasma/plasma.exe
 plateup/plateup.exe
 platina lab/platina lab.exe
-playavr/playavr.exe
 playbns.exe
 playclaw 7/playclawapp64.exe
 playne-win64-shipping.exe
 playsnow.exe
-playstationvr2app/playstationvr2app.exe
 playtogether/playtogether.exe
 please, touch the artwork too/please, touch the artwork 2.exe
 pleasure puzzle portrait/pp1.exe
@@ -6252,8 +6212,6 @@ plug & play/pnp.exe
 plunder panic/plunder panic.exe
 plutocracy/plutocracy.exe
 pmc/datacachepreprocessor.exe
-pngtuber maker/pngtuber maker.exe
-pngtuber plus/pngtuber 1.4 steam.exe
 pockedate/pockedate.exe
 pocket bravery demo/bravery.exe
 pocket mirror - goldenertraum/game.exe
@@ -6410,7 +6368,6 @@ project64.exe
 project64.exe
 project_rhombus.exe
 projectg.exe
-projectm/projectmsdl.exe
 projectzomboid32.exe
 projectzomboid64.exe
 projekt passion - season 2/projektpassion.exe
@@ -6424,7 +6381,6 @@ prosperousuniverse/prun.exe
 proteus.exe
 prototype 2/prototype2.exe
 prototype/prototypef.exe
-prprlive/prprlive.exe
 psalm/psalm.exe
 pso2.exe
 pso2_bin/gameguard.des
@@ -6547,7 +6503,6 @@ rainbow six lockdown/lockdown.exe
 rainbowsix.exe
 rainbowsix_be.exe
 rainbowsixgame.exe
-rainwallpaper/rainwallpaper.exe
 rakuen/engine.exe
 rally mechanic simulator prologue/rallymechanicsimulator.exe
 rampage_knights.exe
@@ -6850,7 +6805,6 @@ rome2.exe
 rometw.exe
 ronin/ronin.exe
 roof rage/roofrage.exe
-room planner/roomplanner64.exe
 roomeditor/roomeditor.exe
 root/root.exe
 roots of pacha/roots of pacha.exe
@@ -6914,7 +6868,6 @@ rusty lake hotel/rustylakehotel.exe
 rusty lake paradise/rustylakeparadise.exe
 rusty lake roots/rustylakeroots.exe
 rusty's retirement/rusty's retirement.exe
-rutonychat/rutonychat.exe
 rvgl.exe
 rwby-ge.exe
 rwr_game.exe
@@ -6977,7 +6930,6 @@ sandstorm/insurgencyeac.exe
 sandstorm_beta/insurgencyeac.exe
 sandtrix+ demo/sandtrix.exe
 santavn/santa.exe
-sao utils/sao utils.exe
 sao_hr.exe
 saofb-win64-shipping.exe
 saohf/saohf.exe
@@ -7018,7 +6970,6 @@ sclash/sclash.exe
 scoot/scoot.exe
 scooterflow/scooterflow.exe
 scootx/scootx.exe
-scope x/scopex.exe
 scorch/scorch_final.exe
 scott pilgrim vs the world/scott.exe
 scourgebringer/scourgebringer.exe
@@ -7047,7 +6998,6 @@ screw drivers/screw drivers.exe
 scribble it!/scribbleit.exe
 scribblenauts unmasked/scribble.exe
 scribblenauts/scribble.exe
-scrivener.exe
 scrutinized/scrutinized.exe
 scum.exe
 scummvm/scummvm.exe
@@ -7136,7 +7086,6 @@ sgsc10th/sgsc10th.exe
 sgw3.exe
 sh3.exe
 sh5.exe
-shaderglass/shaderglass.exe
 shadow fight arena/sfa.exe
 shadow gambit the cursed crew/shadowgambit_tcc.exe
 shadow of the tomb raider/sottr.exe
@@ -7249,7 +7198,6 @@ shrine/shrine.exe
 shrine2/shrine2.exe
 shroud of the avatar.exe
 shut up and dance special edition/shutupanddancespecial.exe
-sid meier's civilization v sdk/sid meier's civilization v sdk.exe
 sid meier's colonization/dosbox_windows/dosbox.exe
 sid meier's pirates!/pirates!.exe
 sid meier's starships/starships64.exe
@@ -7274,7 +7222,6 @@ simcity 4.exe
 simcity.exe
 simmiland/simmiland.exe
 simple fish adventure/simple fish adventure.exe
-simple sight - crosshair overlay/simple-sight-client.exe
 simpleplanes.exe
 simplerockets2/simplerockets2.exe
 simpsons.exe
@@ -7622,7 +7569,6 @@ stalker shadow of chernobyl/bin/xr_3da.exe
 stalker shadow of chornobyl - ee/xrengine.exe
 stand out/standout.exe
 stand survivors/standsurvivors.exe
-standable full body estimation/standable.exe
 star chef 2 cooking game/star chef 2.exe
 star chef cooking & restaurant game/star chef.exe
 star conflict/game.exe
@@ -7817,8 +7763,6 @@ subnauticazero.exe
 subnauticazero/subnauticazero.exe
 subprocess/fivem_gtaprocess.exe
 substance 3d painter 2022/adobe substance 3d painter.exe
-substance 3d painter 2024/adobe substance 3d painter.exe
-substance 3d painter 2025/adobe substance 3d painter.exe
 substance painter 2020/substance painter.exe
 subsurface circular/subsurface circular.exe
 subterrain/subterrain.exe
@@ -7995,7 +7939,6 @@ syberia 2/game.exe
 syberia the world before - prologue/syberiatwbp.exe
 syberia/game.exe
 syberia3/syberia3.exe
-synergy dedicated server/srcds.exe
 synergy.exe
 synthetik 2/synthetik2.exe
 synthetik arena/synthetik arena.exe
@@ -8604,7 +8547,6 @@ ticktock/tick tock.exe
 tiger knight/bin/frontend.exe
 tile runner/game.exe
 tileplacer/panorama.exe
-tilt brush/tiltbrush.exe
 timberborn/timberborn.exe
 timberman/timberman.exe
 timbermanvs/timbermanvs.exe
@@ -8703,7 +8645,6 @@ tormented souls demo/tormentedsoulsdemo.exe
 tormented souls/tormentedsouls.exe
 tormentorxpunisher.exe
 tormentorxpunishergit.exe
-tos gamepad tester/tos gamepad tester.exe
 total annihilation/totala.exe
 total miner/studioforge.totalminer.exe
 total tank simulator demo/totaltanksim.exe
@@ -8880,7 +8821,6 @@ turing complete/turing complete.exe
 turmoil_pc_full.exe
 turnip boy commits tax evasion/turnip boy commits tax evasion.exe
 turnip boy robs a bank/turnip boy robs a bank.exe
-turnsignal/turnsignal.exe
 turretgirls/turretgirls.exe
 tvo/tvo.exe
 twelve minutes/12m.exe
@@ -8897,7 +8837,6 @@ typer shark deluxe/popcapgame1.exe
 typer-incremental-win32-x64/typer-incremental.exe
 typing of the dead overkill/hotd_ng.exe
 tyranny.exe
-tyranobuilder/tyranobuilder.exe
 tyrone vs cops/tyronevscops.exe
 tzar/tzar_.exe
 ub/ub.exe
@@ -8977,7 +8916,6 @@ universe sandbox x64.exe
 universe sandbox/universe sandbox.exe
 unleash.exe
 unlightrevive/unlight_revive.exe
-unlock/unlock_wmr.exe
 unmetal/unmetal.exe
 unnamed space idle/spaceidle.exe
 unnyworld/unnyworld.exe
@@ -9081,7 +9019,6 @@ victoria 2/v2game.exe
 victoria.exe
 victoria2.exe
 victory/victory.exe
-video editor moviemator - movie maker/moviemator.exe
 videohorrorsociety/videohorrorsociety.exe
 vietnamwar/vietnam war.exe
 viewfinder demo/viewfinder_demo.exe
@@ -9101,7 +9038,6 @@ vindictus_x64.exe
 viridi.exe
 virtual aquarium - overlay desktop game/virtual aquarium.exe
 virtual cottage/virtual cottage_windows.exe
-virtual desktop/virtual desktop.exe
 virtual interactive fireplace/virtual interactive fireplace.exe
 virtual rc pro/game_s.exe
 virtual rides 3/vr3.exe
@@ -9117,7 +9053,6 @@ vivid knight/vividknight.exe
 vividstasis/vividstasis.exe
 vixen wars/vixenwars.exe
 vngame.exe
-voiceattack demo/voiceattack.exe
 voiceattack/voiceattack.exe
 voiceofcardstheisledragonroars/voiceofcardstheisledragonroars.exe
 voiceofcardstheisledragonroarsdemo/voiceofcardstheisledragonroarsdemo.exe
@@ -9140,17 +9075,11 @@ vr secretary/vrsecretary.exe
 vr4/vrally4.exe
 vr_dungeonknight content/vr dungeonknight.exe
 vr_kanojo/vr_kanojo.exe
-vrbenchmarkkanojo/vrbenchmarkkanojo.exe
-vrcfacetracking/vrcfacetracking.exe
 vrchat/launch.exe
 vrchat/start_protected_game.exe
 vrchat/vrchat.exe
 vrising/vrising.exe
-vroid clothing maker/vroid clothing maker.exe
-vroid studio/vroidstudio.exe
-vs/vs.exe
 vtol vr/vtolvr.exe
-vtuber editor/vtuber editor.exe
 vtuber maker/vtuber maker.exe
 vup/vup.exe
 vvvvvv.exe
@@ -9162,7 +9091,6 @@ waifu/waifu.exe
 waifufighterfist/boxingwaifu.exe
 waifusitter/waifusitter.exe
 wait! life is beautiful! prologue/wait! life is beautiful!.exe
-wakaru/wakaru.exe
 wakfu.app
 wakfu.exe
 walkabout mini golf/walkaboutminigolf.exe
@@ -9171,7 +9099,6 @@ walkingdead4.exe
 wall world 2/wallworld2.exe
 wall world/wallworld.exe
 wall-e/gamesetup.exe
-wallpaper_play/wallpaperplay.exe
 waltz of the wizard/waltzofthewizard.exe
 wantedraccoon/wantedraccoon.exe
 war dust/wardust.exe
@@ -9312,7 +9239,6 @@ where dragon spirits/where dragon spirits.exe
 where the water tastes like wine/wtwtlw_64.exe
 where winds meet.exe
 whimsical artefacts/whimsical artefacts.exe
-whirligig/whirligig.exe
 whisper mountain outbreak demo/whisper mountain outbreak.exe
 whisper mountain outbreak/whisper mountain outbreak.exe
 whisper of the house/whisper of the house.exe
@@ -9539,7 +9465,6 @@ win64/bloodtrailvr-win64-shipping.exe
 win64/bloom&rage.exe
 win64/blueclient-win64-shipping.exe
 win64/bluecode-win64-shipping.exe
-win64/bmibenchmark-win64-shipping.exe
 win64/bnsr.exe
 win64/boatgamelistenserver-win64-shipping.exe
 win64/bob-win64-shipping.exe
@@ -10226,7 +10151,6 @@ win64/onlyclimbtogether-win64-shipping.exe
 win64/onlyup-win64-shipping.exe
 win64/onset-win64-shipping.exe
 win64/oos-win64-shipping.exe
-win64/openvrbenchmark.exe
 win64/operationairsoft.exe
 win64/orca-win64-shipping.exe
 win64/orebound-win64-shipping.exe
@@ -10447,7 +10371,6 @@ win64/sanandreas.exe
 win64/sandfall-win64-shipping.exe
 win64/sandland-win64-shipping.exe
 win64/sanka-win64-shipping.exe
-win64/sao utils.exe
 win64/saofd.exe
 win64/sapphire_safari-win64-shipping.exe
 win64/sas-win64-shipping.exe
@@ -10708,7 +10631,6 @@ win64/thetrollgame-win64-shipping.exe
 win64/thevagrant-win64-shipping.exe
 win64/theyarehere-win64-shipping.exe
 win64/thinwick-win64-shipping.exe
-win64/thirdpersonbp-win64-shipping.exe
 win64/thisbedwemade-win64-shipping.exe
 win64/thps12.exe
 win64/thps34.exe
@@ -11199,7 +11121,6 @@ ygopro_vs.exe
 yixianpai/yixianpai.exe
 ylands.exe
 ymir/ymir.exe
-ynab 4/ynab 4.exe
 yog-sothoth's yard/yog-sothoth's yard.exe
 yogurt!!/yogurt!.exe
 yokai's secret/yokai's secret.exe

@@ -130,7 +130,6 @@
 3DMark
 3M Spain Foundation: Stem+VR
 3on3 FreeStyle: Rebound
-3tene
 4 Pics 1 Word Quiz
 4 in a Row Connect+
 40 Sports Games in 1
@@ -887,7 +886,6 @@ Ani Idle
 Aniimo
 Anima: Gate Of Memories I & II Remaster
 Anima: Gate of Memories - The Nameless Chronicles
-AnimaEngine
 Animal Battle Arena
 Animal Drifters
 Animal Force
@@ -909,7 +907,6 @@ Animalkind
 Animals Drop
 Animas
 Animation Throwdown: The Quest for Cards
-Animaze
 Anime Dance-Off: Around the World
 Anime Dance-Off: Ghost Party
 Anime Dance-Off: Party Total
@@ -999,7 +996,6 @@ Apeiron
 Aperture Desk Job
 Aperture Hand Lab
 Apewar
-Apex Aim Trainer
 Apex Legends
 Apex Point
 Apex Rush
@@ -1102,7 +1098,6 @@ Arctico
 Arcus Chroma
 Ardem
 Ardenfall
-Are You Ready for Valve Index?
 Are You Smarter than a 5th Grader?
 Arena Breakout: Infinite
 Arena Renovation - First Job
@@ -1142,7 +1137,6 @@ Arma 2
 Arma 2
 Arma 2: Operation Arrowhead
 Arma 3
-Arma 3 Tools
 Arma Reforger
 Arma: Cold War Assault
 Arma: Gold Edition
@@ -2565,7 +2559,6 @@ Bright Escape
 Bright Lights of Svetlov
 Bright Lord
 Bright Memory
-Bright Memory Infinite Ray Tracing Benchmark
 Bright Memory: Infinite
 Bright Memory: Infinite Gold Edition
 Bright Paw: Definitive Edition
@@ -3561,7 +3554,6 @@ Clicker Heroes
 Clicker Heroes 2
 Clicker Kids
 Clickteam Fusion 2.5
-Clickteam Fusion 2.5 Free Edition
 Clicky Islands
 Cliff Empire
 Cliff Rush 3D
@@ -4011,7 +4003,6 @@ Crazy Trucks
 Crazy Zone
 Crea
 Creaks
-Creation Kit
 Creative Console
 CreativeDestruction
 Creativerse
@@ -4882,7 +4873,6 @@ Demonsomnia
 Demul version 0.5.6.3
 Denizen
 Denshattack!
-DeoVR Video Player
 Depersonalization
 Deponia
 Deponia Doomsday
@@ -4920,7 +4910,6 @@ Desktop Nard
 Desktop Purrfect
 Desktop Raid
 Desktop Survivors 98
-Desktop+
 Deskworm
 Desolate
 Despelote
@@ -5536,12 +5525,7 @@ Drive Thru Simulator
 Drive Together
 Drive on Moscow
 Driveclub VR
-Driver Booster 3 for STEAM
-Driver Booster 4 for Steam
 Driver Booster 5 for Steam
-Driver Booster 6 for Steam
-Driver Booster for Steam
-Driver4VR
 Driver: Parallel Lines
 Driver: San Francisco
 Driverio
@@ -5654,7 +5638,6 @@ Dungeon Keeper™ 2
 Dungeon Looter
 Dungeon Mage
 Dungeon Munchies
-Dungeon Painter Studio
 Dungeon Raid: Zero Floor
 Dungeon Rampage
 Dungeon Royale
@@ -5822,7 +5805,6 @@ EX-XDRiVER
 EX: 802
 EXAPUNKS
 EXOPRIMAL Open Beta Test
-EZ-Crosshair
 EZ2ON REBOOT : R
 Eagle Island Twist
 Ealu
@@ -5852,7 +5834,6 @@ Eastward
 Easy Delivery Co.
 Easy Dice for RPG/Tabletop
 Easy Flight Simulator
-Easy Pose
 Easy Red 2
 Ebola 3
 Echo Generation
@@ -5988,7 +5969,6 @@ Emissary Zero
 Emoji Clicker
 Emoji Clicker Collector
 Emoji Kart Racer
-EmoteLab
 Empire City: 1931
 Empire Earth II: Gold Edition
 Empire of Sin
@@ -6441,7 +6421,6 @@ FOUNDRY
 FPII
 FPS Chess
 FPS Game: Dev Test
-FPS Monitor
 FPV Drone Simulator
 FPV Kamikaze Drone
 FPV LOGIC
@@ -6988,7 +6967,6 @@ Flowing Lights
 Flowlines Vs.
 Fluffy Horde
 Fluffy Milo
-Fluid Engine PC Live Wallpaper Demo
 Flupp The Fish
 Fluster Cluck
 Flute The Snake Charmer
@@ -7200,7 +7178,6 @@ Free For Fall
 Free Solitaire
 Free Stars: The Ur-Quan Masters
 Free Throw Basketball
-Free to Play
 FreeCell Solitaire Collection
 FreeInfantry
 FreeJack Online
@@ -7704,7 +7681,6 @@ Girls Free
 Girls und Panzer: Dream Tank Match
 Girls! Girls! Girls!?
 Girls' Frontline
-GizmoVR Video Player
 Gizoku Tantei Nosuri
 Glaciered
 GladiEATers
@@ -7720,7 +7696,6 @@ Glass Masquerade
 Glass Masquerade 2: Illusions
 Glass Masquerade 3: Honeylines
 Glass Masquerade 4: Constellations
-GlassWire
 Gleylancer
 Glintseeker Island
 Glitch
@@ -8940,7 +8915,6 @@ Hotline Miami 2: Wrong Number
 Hotline Miami 2: Wrong Number Digital Comic
 Hotline Miami Collection
 Hotshot Racing
-Houdini Indie
 Houkago Cinderella
 House
 House 2
@@ -9041,7 +9015,6 @@ Hyper Empire
 Hyper Jam
 Hyper Light Breaker
 Hyper Light Drifter
-Hyper Online: VTuber Avatar Studio
 Hyper Panda
 Hyper Rider
 Hyper Scape
@@ -10654,7 +10627,6 @@ Littlewood
 Liuyin's World
 Live
 Live A Live
-Live Wallpaper
 Live Wallpaper Master
 Live2D VR Girls
 Live2DViewerEX
@@ -10756,7 +10728,6 @@ Lornsword Winter Chronicle
 Loser Simulator
 Loss Prevention
 Lossless Scaling
-Lossless Scaling Demo
 Lost
 Lost And Found
 Lost Ark
@@ -11562,7 +11533,6 @@ MergeCrafter
 Meridian 59
 Meridian: New World
 Meridian: Squad 22
-Mermaid VR
 Mermaidio
 Mermaidio 2
 Mermaidio 3
@@ -12148,11 +12118,9 @@ Mounted Knights Battle: Medieval Warrior Honor Simulator
 Mouser
 Mouthole
 Mouthwashing
-Movavi Video Editor Plus 2020
 Movavi Video Suite
 Movavi Video Suite 18
 Move or Die
-MovieMator Video Editor
 MovieStarPlanet
 Movies Tycoon
 Moving Day
@@ -12619,7 +12587,6 @@ Neptunia x Senran Kagura: Ninja Wars
 Neptunia: Sisters vs. Sisters
 Nerd Simulator
 Nerf Legends
-Nero Score
 Nested Lands
 Net 24h: Vietnamese Internet Cafe Chaos
 Net.Attack()
@@ -12992,7 +12959,6 @@ OTXO
 OUTBRK
 OUTRIDERS
 OVERKILL's The Walking Dead - BETA
-OVR Dynamic Resolution
 OVRDARK: A Do Not Open story
 OVRdrop
 OXENFREE II: Lost Signals
@@ -13000,7 +12966,6 @@ OYASUMII
 OZMAFIA!!
 Oaken
 Oaken Tower
-Oasis Driver for Windows Mixed Reality
 Oasis VR
 Obama
 Obama Maze
@@ -13011,7 +12976,6 @@ Object Impermanence
 Object N
 Oblin Party
 Oblivion Override
-Oblivity
 Obscure
 Obscure 2
 Observation
@@ -13223,7 +13187,6 @@ Open World Game: the Open World Game
 Open World RPG
 OpenITG
 OpenTTD
-OpenVR Benchmark
 Operation Airsoft
 Operation Bodycam
 Operation Flashpoint: Dragon Rising
@@ -13425,7 +13388,6 @@ Oxenfree
 Oxide Room 104
 Oxygen Not Included
 Oxygen: First Breath
-OyasumiVR
 Ozymandias
 P Fit
 P.A.S.
@@ -13483,11 +13445,9 @@ PJ Masks Power Heroes: Mighty Alliance
 PJ Masks: Heroes of the Night
 PLANES ATTACK
 PLATiNA :: LAB
-PLAY'A VR Video Player
 PLAYERUNKNOWN'S BATTLEGROUNDS
 PLAYNE
 PLEASE STOP CRYING
-PNGTuber Plus
 POLY IMPULSE
 POLYGON
 PONE
@@ -13989,7 +13949,6 @@ Pixel Sketch
 Pixel Starships
 Pixel Starships 2
 Pixel Strike 3D
-Pixel Studio for pixel art
 Pixel Worlds
 PixelJunk Shooter Ultimate
 PixelJunk™ Monsters Ultimate
@@ -14080,7 +14039,6 @@ Play Together
 PlayClaw 7
 PlayM2M
 PlayStation VR Worlds
-PlayStation®VR2 App
 Playcraft
 Playing History 2: Slave Trade
 Please Be Happy
@@ -14106,7 +14064,6 @@ Pluto
 Plutobi: The Dwarf Planet Tales
 Plutocracy
 Pnevmo-Capsula: Domiki
-PngTuber Maker
 PockeDate! - Pocket Dating Simulator
 Pocket Academy 3
 Pocket Academy Zero
@@ -14521,7 +14478,6 @@ Protodroid DeLTA
 Prototype
 Prototype: Biohazard Bundle
 Proverbs
-PrprLive
 Psalm 5:9-13
 Pseudoregalia
 Psikyo Shooting Stars Alpha
@@ -14889,7 +14845,6 @@ Raimais
 Raimuraito remonÄ“dojamu
 Rain World
 Rain on your Parade
-RainWallpaper
 Rainbow Advanced
 Rainbow Ascend: Anime Girls Go Up
 Rainbow Billy: The Curse of the Leviathan
@@ -15570,7 +15525,6 @@ Rooftop Rascal: The Spooky Cat
 Rooftops & Alleys: The Parkour Game
 Rookie Boxing
 Rookie Table Tennis
-Room Planner - Design Home 3D
 Roommates
 Roommates, Romance, and Ringing Hearts
 Rooms: The Unsolvable Puzzle
@@ -15706,7 +15660,6 @@ Rusty Lake: Roots
 Rusty Rabbit
 Rusty Spout Rescue Adventure
 Rusty's Retirement
-RutonyChat
 Ryse: Son of Rome
 Rytmik Ultimate
 Réussir: Code de la Route
@@ -15735,8 +15688,6 @@ SAMURAI WARRIORS 4-II
 SAMURAI WARRIORS 5 Trial version
 SANAE's Sylphid Breeze
 SAND LAND
-SAO Utils
-SAO Utils 2: Progressive
 SAS: Zombie Assault 4
 SAVE
 SAVE Teaser: Before the Dawn
@@ -15917,7 +15868,7 @@ SURV1V3
 SWAT
 SWAT 3: Tactical Game of the Year Edition
 SWAT 4
-SWAT Commander: Prologue
+SWAT Commander
 SWINE HD Remaster
 SWORD ART ONLINE Alicization Lycoris
 SWORN
@@ -16129,7 +16080,6 @@ Sclash
 Scoot
 ScootX
 ScooterFlow
-Scope X
 Scopecreep
 Scorch
 Score Rush: Extended
@@ -16175,7 +16125,6 @@ Scribblenauts: Mega Pack
 Scribblenauts: Showdown
 Scriptorium: Master of Manuscripts
 Scritchy Scratchy
-Scrivener
 Scrutinized
 Scythe: Digital Edition
 Sea Dogs: To Each His Own
@@ -16337,7 +16286,6 @@ Sexy Mystic Survivors
 Sexy Space Airlines
 Shade Silver
 Shader Glass
-ShaderGlass
 Shadow Assault: ~Tenchu~
 Shadow Burglar
 Shadow Complex Remastered
@@ -16573,7 +16521,6 @@ Sid Meier's Civilization IV: Beyond the Sword
 Sid Meier's Civilization IV: Colonization
 Sid Meier's Civilization IV: Warlords
 Sid Meier's Civilization V
-Sid Meier's Civilization V SDK
 Sid Meier's Civilization VI
 Sid Meier's Civilization VII
 Sid Meier's Civilization: Beyond Earth
@@ -16634,7 +16581,6 @@ Simmiland
 Simon the Sorcerer Origins
 Simple Dominoes
 Simple Fish Adventure
-Simple Sight - Crosshair Overlay
 Simple Zombie Survival
 Simple tanks shooter
 SimplePlanes
@@ -17380,7 +17326,6 @@ Stairway
 Stakes Winner
 Stakes Winner 2
 Stampede: Racing Royale
-Standable: Full Body Estimation
 Star Birds
 Star Chef 2: Cooking Game
 Star Chef: Cooking & Restaurant Game
@@ -17768,8 +17713,6 @@ Subside
 Subsiege
 Subsistence
 Substance 3D Painter 2022
-Substance 3D Painter 2024
-Substance 3D Painter 2025
 Substance Painter 2020
 Subsurface Circular
 Subterrain
@@ -18186,7 +18129,6 @@ Synchro Hedgehogs
 Synduality Echo of Ada
 Synergia
 Synergy
-Synergy Dedicated Server
 Synth Riders
 Synthalgia: Retro Arcade Racing
 Syphon Filter
@@ -19737,7 +19679,6 @@ Tile Runner
 Tiles
 Tiles: The Game
 Tiling Town
-Tilt Brush
 Tilting Tiles: Fires of Industry
 Tilting Tiles: Micro Challenge
 Tilting Tiles: Ultimate Tilt Remix
@@ -19836,7 +19777,6 @@ To a T
 To the Moon
 To the Moon: Sigmund Minisode 1 & 2
 ToHeart
-ToS Gamepad Tester
 Toads of the Bayou
 Toaster Arena
 Toasterball
@@ -20380,7 +20320,6 @@ Turbo Tunnel
 Turing Complete
 Turmoil
 Turn to Mine
-TurnSignal
 Turnbound
 Turnip Boy Commits Tax Evasion
 Turnip Boy Robs a Bank
@@ -20441,7 +20380,6 @@ Typingcommand
 Typoman: Revised
 Tyr
 Tyranny
-TyranoBuilder Visual Novel Studio
 Tyrant's Realm
 Tyrion Cuthbert: Attorney of the Arcane
 Tyrone vs Cops
@@ -20752,7 +20690,6 @@ VOIMA
 VOIN
 VPet
 VR Apocalypse
-VR Benchmark Kanojo
 VR Dungeon Knight
 VR Figure from Shining
 VR Flush
@@ -20761,15 +20698,11 @@ VR Kanojo
 VR Pigeons
 VR Secretary
 VRC PRO
-VRCFaceTracking
 VRChat
 VRMark
 VROCK
-VRoid Clothing Maker
-VRoid Studio
 VTOL VR
 VTOL VR Mod Loader
-VTuber Editor
 VTuber Maker
 VTumbler
 VUP
@@ -20940,12 +20873,10 @@ Virtual Aquarium - Overlay Desktop Game
 Virtual City: Playground
 Virtual Cottage
 Virtual Cottage 2
-Virtual Desktop
 Virtual Fighter Maneuvers
 Virtual Interactive Fireplace
 Virtual Rides 3
 Virtual Skate
-Virtual Studio
 Virtual Villagers Origins 2
 Virtual Virtual Reality
 VirtualCast
@@ -20973,7 +20904,6 @@ Voice of Cards: The Isle Dragon Roars
 Voice of Cards: The Isle Dragon Roars Demo
 Voice of Chernobyl
 VoiceAttack
-VoiceAttack Demo
 Voices of the Void
 Void Bastards
 Void Crew
@@ -21090,7 +21020,6 @@ Waifu Secret
 Waifu Shop
 Waifusitter
 Wait! Life is Beautiful! Prologue
-Wakaru ver. beta
 Wakerunners
 Waking
 Walk The Frog
@@ -21102,7 +21031,6 @@ Walking Survival
 Walking Zombie 2
 Wall World
 Wall World 2
-Wallpaper Play
 Waltz and Jam
 Waltz of the Wizard
 Wanba Warriors
@@ -21396,7 +21324,6 @@ While We Wait Here
 While the Iron's Hot
 Whimsical Artefacts
 Whimsy Bake&Craft
-Whirligig
 Whisk
 Whisker Squadron: Survivor
 Whiskers Tale
@@ -21884,7 +21811,6 @@ You Have 10 Seconds
 You Have 10 Seconds 2
 You Have to Win the Game
 You Know The Drill
-You Need A Budget 4 (YNAB)
 You Suck at Parking
 You Suck at Parking® - Complete Edition
 You Will (Not) Remain
@@ -22177,10 +22103,8 @@ iLLANG
 iRacing
 iRacing.com Race Simulation
 iScoot
-iTop Easy Desktop for Steam
 ibb & obb
 iblis
-imgui sample
 inFAMOUS: Second Son
 inZOI
 inbento
@@ -22205,7 +22129,6 @@ osu!
 outpost4
 pemsa
 pla_toon
-projectM Music Visualizer
 pureya
 qop
 rFactor
