@@ -194,6 +194,7 @@
 9Dragons
 9th Dawn Remake
 :THE LONGING:
+>SYS//PURGE_
 A Bibelot: Y-Break
 A Bibelot: Y-Type
 A Bird Story
@@ -1832,7 +1833,6 @@ Beach Invasion 1944
 Beach Invasion 1945: Pacific
 Beacon Pines
 Beacon of Neyda
-Beam Eye Tracker
 Beam Saviors: Ambulance Rush
 BeamNG.drive
 Beaming Highway Acceleration
@@ -2123,6 +2123,7 @@ Blackjack Championship
 Blackjack Plus: Casino Master
 Blacklight: Retribution
 Blackout Z: Slaughterhouse Edition
+Blackout: Zero Point
 Blacksad
 Blacksmith Forger
 Blacksmith Master
@@ -2354,6 +2355,7 @@ Bombix
 Bombun
 Bombuzal
 BomjMan
+Bommy
 Bone Marrow
 Bone To Gather
 Bone Voyage
@@ -3473,7 +3475,6 @@ Citizen Conflict
 Citizen Sleeper
 Citizen Sleeper 2: Starward Vector
 Citizens of Earth
-Citra
 Citrouille: Sweet Witches
 City 20
 City Bomber
@@ -3553,7 +3554,6 @@ Clicker Guild
 Clicker Heroes
 Clicker Heroes 2
 Clicker Kids
-Clickteam Fusion 2.5
 Clicky Islands
 Cliff Empire
 Cliff Rush 3D
@@ -3702,6 +3702,7 @@ Combat Pilot: Carrier Qualification
 Combat Space Journey
 Combat The Space
 CombatArms: Reloaded
+Combo Devils
 Combots
 Come Home
 Come on Kitty
@@ -3841,7 +3842,6 @@ Cop 01
 Cop Officers: Police Simulator Of NYPD City
 Copa City
 Copa Petrobras de Marcas
-CopperCube 6 Game Engine
 Copy The Line
 Copycat
 Coral Island
@@ -4745,7 +4745,6 @@ Deceit
 Deceit 2
 Deceive Inc.
 Decent Icons
-Decent Icons 2
 Deception IV: The Nightmare Princess
 Decidit
 Decimate Drive
@@ -4870,7 +4869,6 @@ Demons Roots
 DemonsAreCrazy
 Demonschool
 Demonsomnia
-Demul version 0.5.6.3
 Denizen
 Denshattack!
 Depersonalization
@@ -5794,7 +5792,6 @@ ENDLESS™ Legend 2
 ENSCROLL
 ENSLAVED™: Odyssey to the West™ Premium Edition
 ESCAPE FROM BOYKISSER
-ESEA
 ESG Football
 ETHYRIAL
 EV3 - Drag Racing
@@ -5907,6 +5904,7 @@ Eldorante
 Eldrador Creatures
 Eldritch
 Elea
+Electoral Carnage
 Electrician Simulator
 Electrician Simulator - First Shock
 Electro Bop Boxing League
@@ -6179,6 +6177,7 @@ Eterspire
 Ethereal Estate
 Ethereal Sunder
 Etheria: Restart
+Etrange Overlord
 Etrian Odyssey HD
 Etrian Odyssey II HD
 Etrian Odyssey III HD
@@ -6360,7 +6359,6 @@ FATE: The Traitor Soul
 FATE: Undiscovered Realms
 FATED: The Silent Oath
 FBC: Firebreak
-FCEUX 2.2.3
 FEAR FA 98
 FEAR OF FAITH
 FEED THE QUEEN
@@ -6523,6 +6521,7 @@ Fallout Tactics
 Fallout: New Vegas
 Fallstruktur
 False Front
+False Hero
 False Mall
 Falsepine
 Family Breeding
@@ -6690,6 +6689,7 @@ Fechtbucher
 Feed All Monsters
 Feed My Raptor
 Feed The Cups
+Feed The Forest
 Feed and Grow: Fish
 Feed the Deep
 Feed the Greed
@@ -7482,8 +7482,6 @@ Game with Friends
 GameGuru
 GameMaker
 GameMaker 25th Anniversary
-GameMaker Studio 2 Desktop
-GameMaker: Studio
 GameStonk Simulator
 Gamecraft
 Gamedec: Definitive Edition
@@ -7631,6 +7629,7 @@ Ghost Hunter
 Ghost Hunters Corp
 Ghost Janitors
 Ghost Master
+Ghost Master: Resurrection - Core Edition
 Ghost Pilots
 Ghost Recon Breakpoint
 Ghost Signal: A Stellaris Game
@@ -7786,7 +7785,6 @@ Godfall
 Godfall: Challenger Edition
 Godhood
 Godlike Burger
-Godot Engine
 Godrop
 Gods Against Machines
 Gods Eater: Burst
@@ -8384,6 +8382,7 @@ Haunted Room: 205
 Haunted: Halloween '86 - The Curse Of Possum Hollow
 Haunted: The Chronicles
 Hauntii
+Hauntmates
 Hauntsville
 Have You Seen This Cat?
 Have a Nice Death
@@ -8951,12 +8950,14 @@ How to Survive 2
 How to Survive: Storm Warning Edition
 How to lose one's virginity
 Hozy
+Huaxia: Warring States
 Hubert
 HudSight - custom crosshair overlay
 Hue
 HuggyBros Christmas
 Human Anatomy VR
 Human Resource Machine
+Human- powered spacecraft
 Human: Fall Flat
 Humanica
 HumanitZ
@@ -9011,6 +9012,7 @@ Hymer 2000
 HypeSquad Demo
 Hyper Chess
 Hyper Dash
+Hyper Echelon
 Hyper Empire
 Hyper Jam
 Hyper Light Breaker
@@ -10507,6 +10509,7 @@ Life Force
 Life Goes On
 Life Goes On: Done to Death
 Life Inc.
+Life Is Strange: Reunion
 Life Makeover
 Life Of Fly 2
 Life On A Pizza
@@ -10627,7 +10630,6 @@ Littlewood
 Liuyin's World
 Live
 Live A Live
-Live Wallpaper Master
 Live2D VR Girls
 Live2DViewerEX
 Livelock
@@ -10843,6 +10845,7 @@ Lucius
 Lucius II
 Luck be a Landlord
 Luck be a Landlord (DEMO)
+Lucky Goal
 Lucky Hero
 Lucky Hunter
 Lucky Mayor
@@ -10916,6 +10919,7 @@ MADNESS: Project Nexus
 MADNESS: Project Nexus Demo
 MADiSON
 MADiSON VR
+MARVEL MaXimum Collection
 MARVEL SNAP
 MARVEL Tōkon: Fighting Souls
 MARVEL vs. CAPCOM Fighting Collection: Arcade Classics
@@ -11189,6 +11193,7 @@ MakeRoom
 MakerKing
 Making*Lovers
 Maktala
+Maldhalla
 Maldita Castilla EX: Cursed Castilla
 Malicious Fallen
 Malignant Survivors
@@ -11355,7 +11360,6 @@ Match Ventures 2
 Matchmaking Inc.
 Matcho
 Matchpoint: Tennis Championships
-MateEngine
 Material Girl
 Math Fun
 Math Genius: Addition Edition
@@ -11445,12 +11449,14 @@ Medusa's Labyrinth
 Meet My Stepmoms
 Meet My Teacher
 Meet Your Maker
+Mega Carrier Simulator
 Mega City Police: Prelude
 Mega Mall Story 2
 Mega Man 11
 Mega Man 9
 Mega Man Legacy Collection
 Mega Man Legacy Collection 2
+Mega Man Star Force Legacy Collection
 Mega Man X DiVE
 Mega Man X Legacy Collection
 Mega Man X Legacy Collection 2
@@ -11845,7 +11851,6 @@ Mitsurugi Kamui Hikae
 Mittelborg: City of Mages
 Mix AI Animal Ultimate
 Mix Universe
-Mixcraft 8 Home Studio
 Mixed Spirits: Bartender Simulator
 Mixups by Powgi
 Mixx Island: Remix
@@ -12119,7 +12124,6 @@ Mouser
 Mouthole
 Mouthwashing
 Movavi Video Suite
-Movavi Video Suite 18
 Move or Die
 MovieStarPlanet
 Movies Tycoon
@@ -12348,7 +12352,6 @@ Měinǚ, qǐng bié yǐngxiǎng wǒ chéng xiān
 N++
 N.E.R.O.: Nothing Ever Remains Obscure
 N.O.X.
-N0va Desktop
 NALOGI
 NARAKA: BLADEPOINT
 NARUTO SHIPPUDEN: Ultimate Ninja STORM 2
@@ -12486,7 +12489,6 @@ Narrative Adventure
 Narrow One
 Narvas
 Nation Red
-Native Instruments Maschine 2
 Natsuiro High School: Seishun Hakusho
 Natural Selection 2
 Nature Escapes 2
@@ -12816,6 +12818,7 @@ No, I'm not a Human
 NoFlash
 NoLimits 2 Roller Coaster Simulation
 NoLimits 2 Roller Coaster Simulation Demo
+Noble
 Noble Fates
 Noble Legacy
 Noble's Life: Kingdom Reborn
@@ -12890,7 +12893,6 @@ Nowhere Prophet
 Nowhere: Mysterious Artifacts
 Nox Dash
 Nox Mortalis
-NoxPlayer
 Nubarron: The adventure of an unlucky gnome
 Nubby's Number Factory
 Nubs!
@@ -13051,7 +13053,6 @@ Oh! Edo Towns
 Oh...Sir! The Hollywood Roast
 Oh...Sir! The Insult Simulator
 OhShape
-Ohm Studio
 OkIPullUp
 Okage: Shadow King
 Oktoberfest Break
@@ -13224,6 +13225,7 @@ Orcs Must Die! Deathtrap
 Order of Battle: World War II
 Order: The New Dawn
 Ordyne
+Ore Factory Squad
 Orebound
 Organ Quarter
 Organ Trail: Director's Cut
@@ -13243,6 +13245,7 @@ Origins
 Orion
 Orion Haste
 Orion Sandbox Enhanced
+Ormod: Directive
 Orpheus's Dream
 Orwell
 Orwell: Ignorance is Strength
@@ -13401,7 +13404,6 @@ PAC-MAN Mega Tunnel Battle: Chomp Champs
 PAC-MAN WORLD 2 Re-PAC
 PAC-MAN WORLD Re-PAC
 PAC-MAN™ CHAMPIONSHIP EDITION 2
-PAIcom (furry computer assistant)
 PANICORE
 PANZER BALL
 PAPERHEAD EP0
@@ -13460,7 +13462,6 @@ POSTAL 4: No Regerts
 POSTAL Brain Damaged
 POSTAL Brain Damaged Demo
 POSTAL Redux
-PPSSPP
 PRAGMATA
 PRICE
 PRO EVOLUTION SOCCER 2018 LITE
@@ -13693,6 +13694,7 @@ Pawn Planet
 Pawn Planet: First Sales
 Pawnbarian
 Pawnbroker Simulator
+Pawns of War
 Pawperty Damage
 Paws And Clean
 Paws Coven
@@ -13955,7 +13957,6 @@ PixelJunk™ Monsters Ultimate
 PixelJunk™ Shooter Ultimate
 Pixelcraft Dungeons
 Pixelitos: Spritle Royale
-PixiEditor
 Pixicharm: Bus Coinventure
 Pixicharm: Darkwood Dash
 Pixicharm: Dinoluship
@@ -14050,6 +14051,7 @@ Pleasure Puzzle:Portrait
 Pleh!
 Plentiful
 Plinbo
+PlinkIdle
 Plokoth
 Plotting
 Plug & Play
@@ -14734,7 +14736,6 @@ RPG Maker MV
 RPG Maker VX Ace
 RPG Maker VX Ace Lite
 RPG Maker XP
-RPG Paper Maker
 RPG World - Action RPG Maker
 RPG in a Box
 RPGツクールMZ
@@ -14818,6 +14819,7 @@ Ragnarok
 Ragnarok Clicker
 Ragnarok M: Classic
 Ragnarok Online
+Ragnarok Origin Classic
 Ragnarok X: Next Generation
 Ragnarok: The Lost Memories
 Ragtag Heroes : CO-OP Deckbuilder
@@ -15136,7 +15138,6 @@ Resident Evil 4
 Resident Evil 4 Chainsaw Demo
 Resident Evil 5 / Biohazard 5
 Resident Evil 6 / Biohazard 6
-Resident Evil 6 Benchmark Tool
 Resident Evil 7 Teaser: Beginning Hour
 Resident Evil 7: Biohazard - Gold Edition
 Resident Evil Re:Verse
@@ -15759,7 +15760,6 @@ SINNER
 SKALD: Against the Black Priory
 SKETCHY MASSAGE
 SKIBIDI GYATROOMS
-SKYBOX VR Video Player
 SKYE
 SKYHILL
 SLIME: ISEKAI Memories
@@ -15956,6 +15956,7 @@ Salt
 Salt 2
 Salt and Sacrifice
 Salt and Sanctuary
+Salvation Denied
 Sam & Dan: Floaty Flatmates
 Sam & Max 101: Culture Shock
 Sam & Max Save the World
@@ -16420,7 +16421,6 @@ Shieldmaiden: Remix Edition
 Shieldwall
 Shift At Midnight
 Shift Happens
-Shiftall VR Manager
 Shiftlings
 Shikhondo: Soul Eater
 Shin Megami Tensei III Nocturne HD Remaster
@@ -16837,7 +16837,6 @@ Snap Game
 Sneak Out
 Sneak Thief
 Sneaky Bears
-Snes9x
 Sniper 3D Assassin: Shoot to Kill
 Sniper Art of Victory
 Sniper Elite
@@ -17750,6 +17749,7 @@ Sugardew Island: Your cozy farm shop
 Sugoro Quest: Dice Heroes
 Suguri
 Suicide Guy
+Suicide Guy Deluxe Plus
 Suicide Guy: Sleepin' Deeply
 Suicide Squad: Kill the Justice League
 Suika Animal Kingdom
@@ -17912,7 +17912,6 @@ Super Sidekicks 2: The World Championship
 Super Sidekicks 3: The Next Glory
 Super Skull Smash Go! 2 Turbo
 Super Smash Flash 2 Beta
-Super Smash Flash EXE Version 1.0
 Super Snake Block
 Super Soccer Champ
 Super Solitaire: Card Game
@@ -18958,7 +18957,6 @@ The Iron Age
 The Iron Oath
 The Irony
 The Isle
-The Jackbox Megapicker
 The Jackbox Naughty Pack
 The Jackbox Party Pack
 The Jackbox Party Pack 10
@@ -19561,6 +19559,7 @@ Their Land
 Thekku Island
 Them Bombs Demo
 Them's Fightin' Herds
+Them's Tale: The Road To Her
 Theme Hospital
 TheoTown
 Therapy Simulator
@@ -20197,6 +20196,7 @@ Trick & Treat
 Trick and Treat - Visual Novel
 TrickShot Simulator
 Tricking 0
+Trickshotterz
 Tricky Doors
 Tricky Madness
 Tricky Tanks
@@ -20682,7 +20682,6 @@ VEV: Viva Ex Vivo
 VFurrika!
 VHS
 VISK
-VIVE Console for SteamVR
 VIractal: World of Viractalia
 VLADiK BRUTAL
 VOID/BREAKER
@@ -20703,7 +20702,6 @@ VRMark
 VROCK
 VTOL VR
 VTOL VR Mod Loader
-VTuber Maker
 VTumbler
 VUP
 VVVVVV
@@ -20909,6 +20907,7 @@ Void Bastards
 Void Crew
 Void Diver: Escape From The Abyss
 Void Miner
+Void Pachinko
 Void Raid
 Void Reaver
 Void Sols
@@ -21162,7 +21161,6 @@ Warstone TD: Gold Edition
 Warstride Challenges
 Wartales
 Wartorn
-Warudo
 Warzone 2100
 Warzone Chronicles: Virtual Warfare Shooter
 Wash Simulator: Clean Garage, House, Cars Business Tycoons
@@ -21503,6 +21501,7 @@ Wizard101
 Wizardry 8
 Wizardry Variants Daphne
 Wizardry: Proving Grounds of the Mad Overlord
+Wizardry: The Five Ordeals
 Wizards in Shorts
 Wizdom Academy
 Wizordum
@@ -21568,6 +21567,7 @@ Words Master
 Words Of Wisdom
 Wordsweeper by Powgi
 Work From Home
+Worker Simulator: The Village
 Workers & Resources: Soviet Republic
 Working Hard Collection
 Working Sakuya
@@ -21794,7 +21794,6 @@ Yokai Dochuki
 Yoku's Island Express
 Yolk Heroes: A Long Tamago
 Yollen
-YoloMouse
 Yomawari: Lost in the Dark
 Yomawari: Midnight Shadows
 Yomawari: Night Alone
@@ -21817,7 +21816,6 @@ You Will (Not) Remain
 You are the Judge!
 You've Got a Package
 You, Calligrapher
-YouTube VR
 Youjuden
 Young Bird Endless Flight
 Young Suns
@@ -21886,7 +21884,6 @@ ZJ the Ball: Level 5
 ZM Desktop Elf
 ZOMBI
 ZONE OF THE ENDERS THE 2nd RUNNER : MARS / ANUBIS ZONE OF THE ENDERS : MARS
-ZSNESw
 ZULA Latino America
 ZUSI 3: Aerosoft Edition
 Zaccaria Pinball
@@ -21894,7 +21891,6 @@ Zad Archery
 Zaggy Car
 Zako no Ahiru
 ZanZarah: The Hidden Portal
-Zandronum
 Zanki Zero: Last Beginning
 Zardy's Maze
 Zauberhandwerk Magicraft
@@ -22088,8 +22084,6 @@ eFootball PES 2020 Lite
 eFootball PES 2021
 eFootball™
 eFootball™ 2023
-ePSXe
-ePic Character Generator
 eSports Manager
 eWorlds
 fault - milestone one
@@ -22117,7 +22111,6 @@ miniBONG
 missed messages.
 my eyes deceive
 myPOPGOES
-nQuake
 not my car – Battle Royale
 novadrome
 on Sunday
