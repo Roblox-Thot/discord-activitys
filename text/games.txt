@@ -1619,6 +1619,7 @@ Baldur's Gate: Enhanced Edition
 Ball 28 In Space
 Ball 2D: Soccer Online
 Ball 3D: Soccer Online
+Ball Chasers
 Ball Destiny
 Ball Dodge
 Ball Guys: Stumble & Fall
@@ -6947,8 +6948,10 @@ Flipy's Tesla!: Let's invent the future
 Floating Point
 Flock
 Flock Around
+Flock of the Seraphim
 Flockout
 Floor 9
+Floorball League
 Floorball League 2010
 Floppy Knights
 Florence
@@ -7705,6 +7708,7 @@ Global Agenda
 Global City
 Global Conflagration
 Global Farmer
+Global Rescue
 Globs & Ghosts
 Glonk
 Gloom
@@ -10854,6 +10858,7 @@ Luckyest
 Lucy -The Eternity She Wished For-
 Lucy Got Problems
 Ludo
+Ludo Local Multiplayer
 Ludo Online
 Ludo XXL
 Ludus
@@ -12523,6 +12528,7 @@ Necrosmith 2
 Necrowhisper
 Nectar Rush
 Need For Drink
+Need For Speed: Most Wanted - A Criterion Game
 Need for Drive - Open World Multiplayer Racing
 Need for Speed Hot Pursuit Remastered
 Need for Speed: Carbon
@@ -12667,6 +12673,7 @@ Nientum: Op.ZERO
 Niffelheim
 Nigate Tale
 Night Bus
+Night Club Simulator: Party King
 Night Club Simulator: Prolouge
 Night Delivery | 例外配達
 Night Detective: Decrepit Manor
@@ -12956,6 +12963,7 @@ ONRAID
 ONRUSH
 ORDER 13
 ORION: Prelude
+ORMOD: Directive
 ORX Demo
 OTXO
 OUTBRK
@@ -13053,6 +13061,7 @@ Oh! Edo Towns
 Oh...Sir! The Hollywood Roast
 Oh...Sir! The Insult Simulator
 OhShape
+Oil Empire
 OkIPullUp
 Okage: Shadow King
 Oktoberfest Break
@@ -13245,7 +13254,6 @@ Origins
 Orion
 Orion Haste
 Orion Sandbox Enhanced
-Ormod: Directive
 Orpheus's Dream
 Orwell
 Orwell: Ignorance is Strength
@@ -16839,6 +16847,7 @@ Sneak Thief
 Sneaky Bears
 Sniper 3D Assassin: Shoot to Kill
 Sniper Art of Victory
+Sniper Dan
 Sniper Elite
 Sniper Elite 3
 Sniper Elite 4
@@ -17200,6 +17209,7 @@ Spelunker World
 Spelunky
 Spelunky 2
 Sphere
+Sphere Game
 Sphinx and the Cursed Mummy
 Spider Fighter
 Spider Roulette
@@ -17223,6 +17233,7 @@ Spin The Lighthouse
 Spin the Book
 Spindle
 Spinmaster
+Spinny Dungeon
 Spintires
 Spintires: MudRunner
 Spiral Clicker
@@ -18120,6 +18131,7 @@ Syberia The World Before - Prologue
 Syberia: Remastered
 Sycamore Free
 Sydney Hunter and the Curse of the Mayan
+Symmetry
 Symphonia
 Symphony of War: The Nephilim Saga
 Synapse
@@ -19340,6 +19352,7 @@ The Seed: Unit 7
 The Settlers 7: Paths to a Kingdom
 The Settlers : Heritage of Kings - History Edition
 The Settlers : Rise of an Empire - History Edition
+The Settlers IV: History Edition
 The Settlers Online
 The Settlers: Fourth Edition
 The Settlers: New Allies
@@ -19595,6 +19608,7 @@ Thimbleweed Park
 Think a little
 Thinking of You Beyond Time
 Third Crisis
+Third Person Basketball Court
 Thirsty Suitors
 This Ain't Even Poker, Ya Joker
 This Bed We Made
@@ -22153,6 +22167,7 @@ vivid/stasis
 void tRrLM(); //Void Terrarium 2
 wYzards
 while True: learn()
+x2048
 yahtzee girl
 you're just imagining it
 Öoo
