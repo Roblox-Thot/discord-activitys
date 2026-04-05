@@ -2463,6 +2463,7 @@ Box Smash
 BoxVR
 Boxes: Lost Fragments
 Boxing School
+Boxroom
 Boxville
 Boyfriend Dungeon
 Boyhood's End
@@ -2723,6 +2724,7 @@ Buriedbornes
 Buriedbornes 2
 Burly Men at Sea
 Burn Me Twice
+Burn the Midnight Oil
 Burned Horizons
 Burnin' Rubber 6
 Burning Daylight
@@ -3670,6 +3672,7 @@ Color Recreator
 Color SlayerS
 Color Snake
 Color Swiper 2
+Color Your World
 Color Your World: 100 Colorful Labyrinth Puzzels to Solve!
 Color Zen
 Color by Numbers: Dogs+
@@ -3840,6 +3843,7 @@ Cooking Fast 4 Steak
 Cooking Fever
 Cooking Live
 Cooking Simulator
+Cooking Simulator 2: Better Together
 Cooking Simulator VR
 Cool Boarders
 CoolPaintr VR
@@ -4142,6 +4146,7 @@ Crumble Demo
 Crusader Kings II
 Crusader Kings III
 Crusaders Quest : Mini
+Crusaders Quest: Hero Town
 Crusaders Quest: Merge Chess
 Crusaders of Light
 Crusaders of the Lost Idols
@@ -9924,7 +9929,7 @@ Keep Looking
 Keep Me Gifted
 Keep Talking and Nobody Explodes
 Keep on Mining!
-Keep on Mining! - Worlds
+Keep on Mining!: Worlds
 Keep the Heroes Out
 KeepUp Pirates
 Keeper
@@ -9989,7 +9994,7 @@ Killer Frequency
 Killer Inn
 Killer Instinct
 Killer Instinct
-Killer Instinct 2 Classic
+Killer Instinct 2
 Killer Is Dead
 Killer Klowns from Outer Space: The Game
 Killer Queen Black
@@ -10441,6 +10446,7 @@ Left on Read
 LeftRedRightBlue
 Legacy of Defense
 Legacy of Defense - Prologue
+Legacy of Kain: Ascendance
 Legacy of Kain: Defiance
 Legacy of Kain: Defiance Remastered
 Legacy of Kain: Soul Reaver
@@ -11669,6 +11675,7 @@ Microarcade ApplePie
 Microarcade Rockwork
 Microarcade ShapeSwarm
 Microcivilization
+Microsoft Bubble
 Microsoft Flight Simulator
 Microsoft Flight Simulator 2024
 Microsoft Flight Simulator X: Steam Edition
@@ -11937,7 +11944,7 @@ Modern Combat Versus
 Modern Pink Elf RPG
 Modern Tales: Age of Invention
 Modlands 0.512a version 0.512a
-Modulus: Factory Automation
+Modulus
 Modulus: Factory Automation
 Moduwar
 Moe Era
@@ -13314,6 +13321,7 @@ Orcs Must Die! 2
 Orcs Must Die! 3
 Orcs Must Die! Deathtrap
 Order of Battle: World War II
+Order of Kings
 Order: The New Dawn
 Ordyne
 Ore Factory Squad
@@ -14500,6 +14508,7 @@ Project Rhombus
 Project Saturn
 Project Silverfish
 Project Snaqe
+Project Songbird
 Project Torque
 Project Tower
 Project TurboBlast
@@ -14786,6 +14795,7 @@ R4: Ridge Racer Type 4
 RAM: Random Access Mayhem
 RC Plane 3
 RDS - The Official Drift Videogame
+RE:D Cherish!
 REANIMAL: Friend's Pass
 REFLECTOR
 REGEN
@@ -15008,7 +15018,6 @@ Re-Volt
 Re.Surs
 Re:Blade
 Re:Call
-Re:D Cherish!
 Re:Legend
 Re:Touring
 Re:Turn - One Way Trip
@@ -15244,6 +15253,7 @@ Resonance Solstice
 Resonance of Fate
 Resonance of the Ocean
 Resonite
+Responding
 Respublica
 Rest Area Simulator
 Restaurant Owner: A Restaurant Simulator
@@ -16590,6 +16600,7 @@ Silent dream
 Silica
 Silicon Zeroes
 Silkworm
+Silly Linguine Cat Simulator Deluxe Online
 Silly Polly Beast
 Silly's Gameshow
 Silver Axe: The Honest Elf
@@ -17606,6 +17617,7 @@ Stellar Sphere
 Stellar Strider
 Stellar Tactics
 Stellar Trader
+Stellar Wanderer DX
 Stellar Warfare
 StellarTiles
 Stellaris
@@ -18894,6 +18906,7 @@ The Dog K
 The Dog Quiz
 The Door
 The Doors of Trithius
+The Dream Globe
 The Dream Machine
 The Drift Challenge
 The Drifter
@@ -20842,6 +20855,7 @@ VFurrika!
 VHS
 VISK
 VIractal: World of Viractalia
+VMX
 VPet-Simulator
 VR Apocalypse
 VR Dungeon Knight
