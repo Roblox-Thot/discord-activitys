@@ -17598,7 +17598,6 @@ Steel Soul Shaper
 SteelFront
 Steelrising
 Steep
-Stein.World
 Steins;Gate
 Steins;Gate 0
 Steins;Gate Elite
@@ -22296,6 +22295,7 @@ sZone-Online
 scram
 shapez - Demo
 silkbulb test
+stein.world
 tModLoader
 the robots island
 theBlu
