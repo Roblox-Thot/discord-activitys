@@ -4325,6 +4325,7 @@ DCS World
 DDraceNetwork
 DEAD TARGET: Zombie
 DEATHGARDEN
+DEEP SPACE CACHE
 DEFCON
 DELTARUNE (Chapter 1 & 2 DEMO)
 DFHack: Dwarf Fortress Modding Engine
@@ -4744,7 +4745,6 @@ Deep Sleep: Labyrinth of the Forsaken
 Deep Snake
 Deep Snow Delivery
 Deep Space Anomaly
-Deep Space Cache
 Deep Space Exploitation
 Deep Space Rush
 Deep Space Waifu
@@ -6407,11 +6407,11 @@ Faaast Penguin
 Fable - The Lost Chapters
 Fable Anniversary
 Fable Fortune
-Fable Heroes
 Fable II
 Fable II: Pub Games
 Fable III
 Fable Legends
+Fable: Heroes
 Fabledom
 Fables Mosaic: Cinderella
 Fabric of Reality
@@ -7559,8 +7559,8 @@ Gedonia 2
 Gem Defender: Soyjak Survivors
 Gem Miner TD
 Gem Smashers
+GemCraft - Frostborn Wrath
 GemCraft Chapter Two: Chasing Shadows
-GemCraft: Frostborn Wrath
 Gemini Wing
 Gemporium
 Gems Rush
@@ -7623,7 +7623,7 @@ Ghost Hunter
 Ghost Hunters Corp
 Ghost Janitors
 Ghost Master
-Ghost Master: Resurrection - Core Edition
+Ghost Master: Resurrection
 Ghost Pilots
 Ghost Signal: A Stellaris Game
 Ghost Song
@@ -8984,7 +8984,6 @@ How Many Dudes?
 How We Soar
 How to Lose One's Virginity
 How to Make an Atomic Bomb in Your Garden
-How to Say Goodbye
 How to Survive
 How to Survive 2
 How to Survive: Storm Warning Edition
@@ -13583,7 +13582,7 @@ PaintballX
 Paintballers: Major League Paintball MLPB 2025
 Painted In Blood
 Painters Guild
-Paintings Restoration
+Paintings restoration
 Pair a Dice
 Pairs & Perils
 Pajama Sam: No Need to Hide When It's Dark Outside
@@ -19355,6 +19354,7 @@ The Orange Box
 The Order: 1886
 The Oregon Trail
 The Orville - Interactive Fan Experience
+The Other Side
 The Others by Paprikari Games
 The Ouroboros King
 The Outer Worlds
@@ -19736,7 +19736,7 @@ Thief VR: Legacy of Shadow
 Thief: Deadly Shadows
 Thief: The Dark Project
 Thimbleweed Park
-Think a Little
+Think a little
 Thinking of You Beyond Time
 Third Crisis
 Third Person Basketball Court
