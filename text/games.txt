@@ -87,6 +87,7 @@
 2020 Super Baseball
 2020 Triumph Rocket Slide
 2024: Mosaic Retrospective
+2025: Mosaic Retrospective
 2044 Moto Racer: Cyber Racing Simulator
 2048
 2048 Boys
@@ -167,6 +168,7 @@
 7 Minutes in Hell
 7 Nights with Vroombi
 8 & 9 Ball Pocket
+8 Ball Pro Online
 8 To Glory
 8-Bit Armies
 8-Bit Bayonetta
@@ -399,6 +401,7 @@ Achilles: Survivor
 Acolyte of the Altar
 Acres
 Acro FS
+Acrodrift: FPV Drone Simulator
 Acrolyte
 Across the Obelisk
 Across the Valley
@@ -1174,6 +1177,7 @@ Art of War: Red Tides
 Artemis: Book One
 Artifact
 Artifact Seeker: Legend of Aurorium
+Artillery Miner
 Artis Impact
 Artisan TD
 Artist Idle
@@ -1467,6 +1471,7 @@ BBY Don't Hurt Me
 BIGFOOT
 BL Escape The Maze 2D/3D 2.0
 BL Number Say Game
+BLOK
 BLOODSTRIKE
 BMX Bastards
 BMX Streets
@@ -1501,6 +1506,7 @@ Backgammon: Board Game Puzzle
 Backpack Battles
 Backpack Hero
 Backpack Hero Demo
+Backpack Jianghu
 Backpack Survivors
 Backpacker Guild
 Backroom Company
@@ -1640,6 +1646,7 @@ BarbarQ 2
 Barbecue With Friends
 Barber Party
 Barbie Project Friendship
+Barbie: Horse Trails
 Bard Idle
 Bard's Gold
 Bare Metal
@@ -2523,6 +2530,7 @@ Break a Leg
 Break the Empire
 BreakThru
 Breakers Collection
+Breaking Armor
 Breaking Bricks
 Breaking Enigma
 Breakout Beyond
@@ -2952,6 +2960,7 @@ Car Mechanic Simulator 2015 Demo
 Car Mechanic Simulator 2018
 Car Mechanic Simulator 2021
 Car Mechanic Simulator 2021 Demo
+Car Mechanic Simulator 2026
 Car Mechanic Simulator Classic
 Car Mechanic Simulator VR
 Car Parking & Car Driving Simulator 2024
@@ -2962,6 +2971,7 @@ Car for Sale Simulator 2023: Car Mechanic, Wash, Car Flipper
 CarCam
 CarX Drift Racing 2
 CarX Drift Racing Online
+CarX Drift Racing Online 2
 CarX Street
 Caravan Journey
 Caravan SandWitch
@@ -3948,6 +3958,7 @@ Cowboy Duel: Red Wild West Massacre
 Cowboy Life Simulator
 Cozy Caravan
 Cozy Claw Machine
+Cozy Cleaner
 Cozy Grove
 Cozy Island
 Cozy Keep: Farm, Craft, Manage
@@ -4834,6 +4845,7 @@ Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2
 Demon Spore
 Demon Tides
 Demon Turf
+Demon Work Walk : Hello Work Poke Park
 Demon's Crystals
 Demon's Mirror
 Demon's Souls
@@ -4856,6 +4868,7 @@ Deponia: The Complete Journey
 Depraved
 Depression Quest
 Depth
+Depths of Horror: Mushroom Day
 Derail Valley
 Descenders
 Descenders Next
@@ -5666,6 +5679,7 @@ Dungeon Siege
 Dungeon Siege II
 Dungeon Siege III
 Dungeon Slime Collection
+Dungeon Slime: Puzzle's Adventure
 Dungeon Stalkers
 Dungeon Survivors
 Dungeon Travelers: To Heart 2 in Another World
@@ -5679,6 +5693,7 @@ Dungeon Warfare
 Dungeon Warfare 2
 Dungeon Warfare III
 Dungeon and Gravestone
+Dungeon of Erotic Master Reboot
 Dungeon of the Endless
 Dungeon's Legion
 DungeonBox
@@ -7227,6 +7242,7 @@ Friday Night Funkin'
 Friday the 13th: Killer Puzzle
 Friday the 13th: The Game
 Fridge Escape
+FriendOS
 Friendly Steps
 Friends vs Friends Demo
 Friends vs. Friends
@@ -7783,7 +7799,7 @@ God of Weapons
 God's Trigger
 Godbreakers
 Goddess Paradise
-Goddess of Fate: Anime RPG
+Goddess of Fate
 Godfall: Challenger Edition
 Godfall: Ultimate Edition
 Godhood
@@ -8598,6 +8614,7 @@ Hero Tale
 Hero Zero
 Hero in an All-forgiving Fantasy World RPG
 Hero's Adventure: Road to Passion
+Hero's Destiny
 Hero's Hour
 Hero's Hour Demo
 Hero's Journey
@@ -9032,6 +9049,7 @@ Hunter's Arena: Legends
 Hunter's Moon: A Sovereign Syndicate Adventure
 Hunter: The Reckoning
 Hunters Inc
+Huntin' Buddies
 Hunting Simulator
 Hunting Simulator 2
 Hunting Simulator 3
@@ -12072,7 +12090,7 @@ Montgomery Fox and the Case of the Diamond Necklace
 Montgomery Fox and the Case of the Missing Ballerinas
 Montgomery Fox and the Revenge of Victor Draven
 Monument Journey
-Monument Valley 2: Panoramic Edition
+Monument Valley II: Panoramic Edition
 Monument Valley III
 Monument Valley: Panoramic Edition
 Moo & Move
@@ -12414,6 +12432,7 @@ My sexy Neighbour 2
 MyDockFinder
 MyGF: Another
 MyPopgoes
+MyRobot
 MySims
 MySims: Cozy Bundle
 MySims: Kingdom
@@ -12529,6 +12548,7 @@ Nano Assault: Neo
 Nano Neighbors
 NanoApostle
 Nanomon
+Nanos World
 Nape Retroverse Collection
 Napoleon Maiden: A Maiden Without The Word impossible
 Napoleon: Total War
@@ -12671,6 +12691,7 @@ Nerf Legends
 Nerts!: Online
 Nested Lands
 Net 24h: Vietnamese Internet Cafe Chaos
+Net 24h: Vietnamese Internet Cafe Simulator
 Net.Attack(): Code or Die!
 Nether
 Nether Dungeons
@@ -13240,10 +13261,10 @@ OnePiece Puzzles
 OneShift
 OneShot
 OneShot: World Machine Edition
-OneWay.exe
 Onechanbara: Bikini Samurai Squad
 Onee Chanbara Origin
 Oneirophobia
+Oneway.exe
 Oni
 Oni: Road to be the Mightiest Oni
 Onigiri
@@ -13858,6 +13879,8 @@ Pet Lands
 Pet Shop Simulator
 Pet Shop Simulator: Prologue
 Pet idle
+Petal Runner
+Petal by Petal
 Petit Game Collection Vol.1
 Pets & Stuff
 Pets Hotel
@@ -14101,6 +14124,7 @@ Planet of Lana
 Planet of Lana Demo
 Planet of Lana II: Children of the Leaf
 PlanetSide 2
+PlanetSmith
 Planetaries
 Planetary Annihilation: Titans
 Planetary Life
@@ -15318,7 +15342,7 @@ Revita
 Revival: Recolonization
 Revolution Idle
 Revolve A
-Revue Starlight: El Dorado
+Revue Starlight El Dorado
 Rewind 99
 Rexaura
 Reydllom
@@ -15461,6 +15485,7 @@ Road Food Simulator
 Road Food Simulator: Prologue
 Road Fury
 Road Hell
+Road Kings
 Road Maintenance Simulator
 Road Maintenance Simulator 2: Winter Services
 Road Redemption
@@ -15959,6 +15984,7 @@ Salt
 Salt 2: Shores of Gold
 Salt and Sacrifice
 Salt and Sanctuary
+Salty Dogs
 Salvation Denied
 Sam & Dan: Floaty Flatmates
 Sam & Max 101: Culture Shock
@@ -16639,6 +16665,7 @@ SinVR
 SinaRun
 Sine Mora
 Sine Mora EX
+Sineus Arena
 SingStar
 SingStar: Celebration
 SingStar: Frozen
@@ -17249,6 +17276,7 @@ Speedrun
 Speedway Bundle Stock & Truck
 Speedway Challenge 2024
 Speedway Challenge 2025
+Speedway Challenge 2026
 Spell Disk
 SpellForce 2 - Anniversary Edition
 SpellForce 3
@@ -19228,6 +19256,7 @@ The Legend of Bum-bo
 The Legend of Dragoon
 The Legend of Heroes: Sen no Kiseki III
 The Legend of Heroes: Trails Beyond the Horizon
+The Legend of Heroes: Trails Through Daybreak
 The Legend of Heroes: Trails from Zero
 The Legend of Heroes: Trails in the Sky
 The Legend of Heroes: Trails in the Sky SC
@@ -19237,7 +19266,6 @@ The Legend of Heroes: Trails of Cold Steel
 The Legend of Heroes: Trails of Cold Steel II
 The Legend of Heroes: Trails of Cold Steel III
 The Legend of Heroes: Trails of Cold Steel IV
-The Legend of Heroes: Trails through Daybreak
 The Legend of Heroes: Trails through Daybreak II
 The Legend of Heroes: Trails to Azure
 The Legend of Heroes: Zero no Kiseki KAI
@@ -19403,6 +19431,7 @@ The Political Machine 2024
 The Political Process
 The Pong P
 The Pony Factory
+The Posthumous Investigation
 The Powder Toy
 The Precinct
 The Price of Flesh
@@ -19648,6 +19677,7 @@ The Watch
 The Watchers
 The Watson-Scott Test
 The Way of Life: Free Edition
+The Weeping Swan: Ten Days of the City's Fall
 The Wellmonts Case
 The WereCleaner
 The Whims of the Gods
@@ -19959,6 +19989,7 @@ Toll Booth Simulator
 Tom Clancy's EndWar
 Tom Clancy's Ghost Recon
 Tom Clancy's Ghost Recon Advanced Warfighter
+Tom Clancy's Ghost Recon Advanced Warfighter 2
 Tom Clancy's Ghost Recon: Breakpoint
 Tom Clancy's Ghost Recon: Future Soldier
 Tom Clancy's Ghost Recon: Wildlands
@@ -19980,6 +20011,7 @@ Tom Clancy's The Division 2
 Tom Clancy's The Division Trial
 Tom Clancy's The Division: Heartland
 Tom the Postgirl
+Tomak: Save the Earth Regeneration
 Tomb Raider
 Tomb Raider I
 Tomb Raider I-III Remastered Starring Lara Croft
