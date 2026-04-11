@@ -3269,6 +3269,7 @@ Chained in the Backrooms
 Chains of Freedom
 Chair F*cking Simulator
 Chair Simulator
+Chamber Survival
 Chambers: The Outlaw
 Champion Shift
 Champion Wrestler
@@ -3387,6 +3388,7 @@ Chop Chains
 Chop Chop Together
 Chop Goblins
 Chop is Dish
+Chopped Up
 Choppy Cuts
 Chordioid
 Chornobyl Liquidators
@@ -5501,7 +5503,7 @@ Dream of Corpse Lady
 DreamBall
 DreamWorks All-Star Kart Racing
 DreamWorks Dragons: Dawn of New Riders
-DreamWorld
+DreamWorld: The Infinite Sandbox MMO
 Dreamcore
 Dreamcore: Rabbit Hole
 Dreamers
@@ -5644,6 +5646,7 @@ Dune: Awakening
 Dune: Imperium
 Dune: Spice Wars
 DuneCrawl
+Dung Ho!
 Dungeon Alchemist
 Dungeon Antiqua
 Dungeon Antiqua 2
@@ -6226,6 +6229,7 @@ Etrian Odyssey III HD
 Eufloria HD
 Euro Truck Simulator
 Euro Truck Simulator 2
+Euro3v3
 Europa
 Europa Universalis II
 Europa Universalis III
@@ -7077,6 +7081,7 @@ For the King
 For the King II
 For the Queen
 ForRace GT2D
+Forage & Brew
 Forage Wizard
 Forager
 Forbidden Fantasy
@@ -8178,6 +8183,7 @@ Guns of Icarus Online
 Guns'n'Stories: Bulletproof VR
 Guns, Gore & Cannoli
 Guns, Gore and Cannoli 2
+Guns, Princess and Braves
 GunsBox VR
 Gunscape
 Gunsmith
@@ -9237,6 +9243,7 @@ Idle Mobile Game Simulator
 Idle Monkeylogy
 Idle Monster TD
 Idle Monster TD: Evolved
+Idle Obelisk Miner
 Idle Pins
 Idle Pixel Fantasy
 Idle Plant Game
@@ -9803,8 +9810,8 @@ Just Cause
 Just Cause 2
 Just Cause 2: Multiplayer Mod
 Just Cause 3
-Just Cause 3: Multiplayer Mod
 Just Cause 4
+Just Cause™ 3: Multiplayer Mod
 Just Click the Button
 Just Crow Things
 Just Dance
@@ -12682,6 +12689,7 @@ Neongarten
 Neophyte
 Neos VR
 Neotag League
+Nephilite
 Neptunia GameMaker R:Evolution
 Neptunia reVerse
 Neptunia x Senran Kagura: Ninja Wars
@@ -12952,6 +12960,7 @@ Node Math
 Nodebuster
 Noita
 Nokbak
+Nom Nom Galaxy
 Nomad
 Nomad Idle
 Nomad Survival
@@ -13004,6 +13013,7 @@ Novadrome
 Novel Haven
 Novena Diabolos
 Novice Dungeon Master
+Now THAT'S a Big Dragon!
 Now That's What I Call Sing
 Now That's What I Call Sing 2
 Nowhere Prophet
@@ -14063,7 +14073,6 @@ Pixel Starships 2
 Pixel Strike 3D
 Pixel Worlds
 PixelJunk Monsters Ultimate
-PixelJunk Nom Nom Galaxy
 PixelJunk Shooter Ultimate
 PixelJunk Shooter Ultimate
 Pixelcraft Dungeons
@@ -15455,7 +15464,7 @@ Risky Woods
 Ritter & Rotwein
 Ritual Party
 Ritual of Raven
-Rival Stars Horse Racing
+Rival Stars Horse Racing: Desktop Edition
 Rivalry
 Rivals Hover League
 Rivals of Aether
@@ -17242,6 +17251,7 @@ Spacetime Odissey
 Spam
 Spanky!
 Spark & Kling
+Spark in the Dark
 Spark the Electric Jester
 Spark the Electric Jester 2
 Spark the Electric Jester 3
@@ -17456,7 +17466,6 @@ Star Ores Inc.
 Star Overdrive
 Star Realms
 Star Renegades
-Star Savior
 Star Stable
 Star Stuff
 Star Survivor
@@ -17520,6 +17529,7 @@ StarBreak
 StarCraft
 StarCraft II: Battle Chest
 StarRupture
+StarSavior
 StarVaders
 Starbase
 Starbeam
@@ -18414,8 +18424,8 @@ TaleSpire
 TaleSpire - Guest Edition
 Talented
 Tales & Tactics
-Tales Beyond The Tomb: Route 86
 Tales Beyond the Tomb: Pineville Night Stalker
+Tales Beyond the Tomb: Route 86
 Tales From Toyotoki: Arrival of the Witch
 Tales Of Brevis: A Beast Called God
 Tales Runner
@@ -19253,6 +19263,7 @@ The Last of Waifus
 The Last of the Survivors
 The Legacy
 The Legend of Bum-bo
+The Legend of California
 The Legend of Dragoon
 The Legend of Heroes: Sen no Kiseki III
 The Legend of Heroes: Trails Beyond the Horizon
