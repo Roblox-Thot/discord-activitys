@@ -3252,6 +3252,7 @@ Century: Age of Ashes
 Cepheus Protocol
 Cervus Blade
 Chack'n Pop
+Chain Chillas
 ChainMan
 Chained Backrooms
 Chained Beasts
@@ -4105,11 +4106,11 @@ Critter Cove
 Croak
 Croak Crusader: Spawn of the Spore Spectre
 Croakoloco
+Croc Legend of the Gobbos
 Croc's World 2
 Croc's World 3
 Croc's World 4
 Croc's World Run
-Croc: Legend of the Gobbos
 Crocs World Construction Kit 2
 Croixleur Sigma
 Cronos: The New Dawn
@@ -6227,9 +6228,9 @@ Etrian Odyssey HD
 Etrian Odyssey II HD
 Etrian Odyssey III HD
 Eufloria HD
+Euro 3v3
 Euro Truck Simulator
 Euro Truck Simulator 2
-Euro3v3
 Europa
 Europa Universalis II
 Europa Universalis III
@@ -6297,6 +6298,7 @@ Evil West
 EvilUp
 Eville
 EvilvEvil
+Evitania Online
 EvoCreo
 Evo\Wave
 Evoland
@@ -8333,6 +8335,7 @@ Hands of Necromancy
 Handshakes
 Handy Dandy
 Handy Harry's Haunted House Services
+Handyman Corporation
 Handyman Fantasy
 Handyman Legend
 HaneHolo!
@@ -10660,6 +10663,7 @@ Lineage: The Blood Pledge
 Lines X Free
 Ling: A Road Alone
 Lingo
+Link Penguins
 Link-a-Pix Deluxe
 Linkito
 Linn: Path of Orchards
@@ -14529,7 +14533,6 @@ Project Killdance
 Project L33t
 Project Lazarus
 Project Legion
-Project Mist
 Project Mix
 Project Motor Racing
 Project Nimbus
@@ -14560,6 +14563,7 @@ Project Zomboid
 Project64
 Project: Doors
 Project: Gorgon
+Project: Mist
 Project: Name
 Project: Null Hypothesis
 Project: Playtime
@@ -21214,7 +21218,7 @@ WWE 2K24
 WWE 2K25
 WWE 2K26
 WWII Online
-WWII: Tank Battle Arena
+WWII Tank Battle Arena
 WYzards
 Wabisabi SushiDerby
 Wacky West
@@ -21541,6 +21545,7 @@ Where Winds Meet
 Where the Bees Make Honey
 Where the Forest Ends
 Where the Water Tastes Like Wine
+Which Sausage, Mate?
 While Mom is Away
 While Waiting
 While We Wait Here
