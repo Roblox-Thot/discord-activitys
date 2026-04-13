@@ -1834,9 +1834,9 @@ Beat Me! - Puppetonia Tournament
 Beat Saber
 Beat Shapes
 Beat Slayer
-Beat The Champions
 Beat of Montezuma
 Beat the Beats
+Beat the Champions
 Beat the Clock: Hardcore
 Beat the Machine: Rebooted
 Beat ‘Em Up Archives: QUByte Classics
@@ -2454,6 +2454,7 @@ Boundland
 Boundless
 Bounty Below
 Bounty Brawl: Most Wanted
+Bounty Pro Pulling
 Bounty Star
 Bounty Train
 Bounty of One
@@ -3252,7 +3253,6 @@ Century: Age of Ashes
 Cepheus Protocol
 Cervus Blade
 Chack'n Pop
-Chain Chillas
 ChainMan
 Chained Backrooms
 Chained Beasts
@@ -5463,7 +5463,7 @@ Drapline
 Draw
 Draw & Guess
 Draw Slasher
-Draw Steel Codex
+Draw Steel
 Draw a Stickman: Epic
 Draw a Stickman: Epic 2
 Draw li
@@ -8411,6 +8411,7 @@ Haunted Heist
 Haunted House
 Haunted House Renovator
 Haunted Investigation
+Haunted Lands
 Haunted Memories
 Haunted Paws
 Haunted Property
@@ -9851,7 +9852,6 @@ Just a Phrase by Powgi
 Just a To the Moon Series Beach Episode
 Just deal with it!
 Justice League VR: The Complete Experience
-Justice Online
 Justice Sucks: Tactical Vacuum Action
 Juufuutei Raden's Guide for Pixel Museum
 Jötunnslayer: Hordes of Hel
@@ -10421,6 +10421,7 @@ Lawgivers II
 Lawn Mowing Simulator
 Lawyer Guy: Defender of Justice
 Lay
+Lay of the Land
 Layer Land
 Layers of Fear
 Layers of Fear 2
@@ -10811,9 +10812,9 @@ Looterkings
 Lootplot
 Lootun
 Lophead Adventure World
-Lord of the Click 3
 Lord of the Click 4
 Lord of the Click II
+Lord of the Click III
 Lord of the Rings: War in the North
 Lord of the Сlick
 Lords & Villeins
@@ -16010,6 +16011,7 @@ Samorost 1
 Samorost 2
 Samorost 3
 Samsara Room
+Samson
 Samurai Aces III: Sengoku Cannon
 Samurai Bringer
 Samurai Gunn 2
@@ -17069,6 +17071,7 @@ Songboy
 Songbringer
 Songs for a Hero: Definitive Edition
 Songs of Conquest
+Songs of Glimmerwick
 Songs of Silence
 Songs of Syx
 SoniComi
@@ -18065,6 +18068,7 @@ Super Naughty Maid 2
 Super Neptunia RPG
 Super Pac-Man
 Super Pengo Run
+Super Penguin Ball & Chain
 Super People
 Super Ping Pong Trick Shot
 Super Pixel Kid
@@ -18204,6 +18208,7 @@ Survive the Fall
 Survive the Nights
 Survive! Mr. Cube
 Survived By
+Surviving Deponia
 Surviving Mars
 Surviving Mars: Relaunched
 Surviving the Abyss
@@ -21919,6 +21924,7 @@ Wytchwood
 X Invader
 X Multiply
 X Rebirth
+X Virus
 X-Angels
 X-COM: UFO Defense
 X-Mode
@@ -22434,6 +22440,7 @@ x2048
 苏丹的游戏
 觅长生
 超将棋
+逆水寒
 違う冬のぼくら Friend's Pass
 違う星のぼくら
 違う星のぼくら　特別体験版
