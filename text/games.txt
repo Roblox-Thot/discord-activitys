@@ -1468,7 +1468,6 @@ BACKROOMS: NO RETURN Demo
 BATS: Bloodsucker Anti-Terror Squad
 BBQ Simulator: The Squad
 BBY Don't Hurt Me
-BIGFOOT
 BL Escape The Maze 2D/3D 2.0
 BL Number Say Game
 BLOK
@@ -2000,6 +1999,7 @@ Big Pharma
 Big Shots
 Big Winner
 Big-Bobby-Car: The Big Race
+Bigfoot
 Bigfoot's Journey
 Bigscreen Beta
 Bike Mayhem 2
@@ -7420,7 +7420,7 @@ GTFO
 GTTOD: Get to the Orange Door
 GX Sudoku
 Gabby's Dollhouse: Ready to Party
-Gacha Capsule Shop Simulator
+Gacha Capsule Shop Simulator: Akihabara
 Gacha Club
 Gacha Girls United
 Gacha Life
@@ -7785,7 +7785,7 @@ Goblin Goopmaxxing
 Goblin Nest
 Goblin Stone
 Goblin Sushi
-Goblin Vyke
+Goblin Vyke: The Thief Tycoon
 Goblin in the Castle
 Goblin's Die
 GoblinAmerica
@@ -9852,6 +9852,7 @@ Just a Phrase by Powgi
 Just a To the Moon Series Beach Episode
 Just deal with it!
 Justice League VR: The Complete Experience
+Justice Online
 Justice Sucks: Tactical Vacuum Action
 Juufuutei Raden's Guide for Pixel Museum
 Jötunnslayer: Hordes of Hel
@@ -22440,7 +22441,6 @@ x2048
 苏丹的游戏
 觅长生
 超将棋
-逆水寒
 違う冬のぼくら Friend's Pass
 違う星のぼくら
 違う星のぼくら　特別体験版
