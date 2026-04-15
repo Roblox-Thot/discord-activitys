@@ -919,6 +919,7 @@ Anno 1800
 Anno 2070
 Anno 2205
 Anno: Mutationem
+Annulus
 Anode Heart
 Anode Heart: Layer Null
 Anoko wa Ore Kara Hanarenai
@@ -1531,6 +1532,7 @@ Backrooms: Together Escape
 Backrooms: Wit's End
 Backseat Champions
 Backseat Drivers
+Backyard Baseball
 Backyard Baseball '01
 Backyard Baseball '97
 Backyard Basketball ‘01
@@ -3483,6 +3485,7 @@ Citrouille: Sweet Witches
 City 20
 City Bomber
 City Bus Manager
+City Bus Simulator 2026
 City Car Driving
 City Connection
 City Defense Z
@@ -3661,6 +3664,7 @@ Coin Flipper
 Coin Push RPG
 Coin Pusher Casino
 Coin Pusher Reloaded
+Coin Tavern
 CoinPit
 Cola Riders
 Cold Fear
@@ -3959,6 +3963,7 @@ Covid Smasher
 Covid: The Outbreak
 Cowboy Duel: Red Wild West Massacre
 Cowboy Life Simulator
+Cozy Builder
 Cozy Caravan
 Cozy Claw Machine
 Cozy Cleaner
@@ -4025,6 +4030,7 @@ Crazy Foods
 Crazy Goose Simulator
 Crazy Hotel Together
 Crazy Machines 3
+Crazy Oddballs: Idle RPG
 Crazy Strike Bowling EX
 Crazy Taxi
 Crazy Trucks
@@ -4522,6 +4528,7 @@ Davigo
 Davigo Demo
 Davy X Jones
 Dawn Apart
+Dawn Break
 Dawn Of Defense
 Dawn of Defiance
 Dawn of Discovery
@@ -5318,6 +5325,7 @@ Doom II
 Doom Sweeper
 Doom VFR
 Doom: The Dark Ages
+Doomed Crew
 Doomfields
 Doomsday Paradise
 Doomsday: Last Survivors
@@ -5651,6 +5659,7 @@ Dung Ho!
 Dungeon Alchemist
 Dungeon Antiqua
 Dungeon Antiqua 2
+Dungeon Bodega Simulator
 Dungeon CEO
 Dungeon Clawler
 Dungeon Crawlers
@@ -6249,6 +6258,8 @@ Eventide 2: The Sorcerers Mirror
 Eventide Matter
 Ever Forward Prologue
 Ever Maiden: Daraku no Sono no Otome-tachi
+Ever Seen A Cat? 2
+Ever Seen a Cat?
 EverQuest
 EverQuest Free-to-Play
 EverQuest II
@@ -7807,6 +7818,7 @@ God's Trigger
 Godbreakers
 Goddess Paradise
 Goddess of Fate
+Goddess of Victory: Nikke
 Godfall: Challenger Edition
 Godfall: Ultimate Edition
 Godhood
@@ -9274,6 +9286,7 @@ Idol Manager
 Idol Party
 Idol Party II
 Idol Showdown
+Idols of Ash
 Idun
 Iest Dva Stula
 If Found...
@@ -9852,7 +9865,6 @@ Just a Phrase by Powgi
 Just a To the Moon Series Beach Episode
 Just deal with it!
 Justice League VR: The Complete Experience
-Justice Online
 Justice Sucks: Tactical Vacuum Action
 Juufuutei Raden's Guide for Pixel Museum
 Jötunnslayer: Hordes of Hel
@@ -10040,6 +10052,7 @@ Killing Time: Resurrected
 Killzone: Liberation
 Killzone: Shadow Fall
 Killzone: Shadow Fall - Intercept
+Kiln
 Kimbap Heaven Simulator
 Kimochii Classroom
 Kin and Quarry
@@ -10392,6 +10405,7 @@ Last Minute Shopping
 Last Moon
 Last Oasis
 Last Outpost
+Last Pirates: Die Together
 Last Remains
 Last Report
 Last Resort
@@ -10731,6 +10745,7 @@ Living With Sister: Monochrome Fantasy
 Living With a Little Fox Girl
 Living with Horses: My Horse Farm
 Living with My Little Sister
+LivingForest
 Lizard Lady vs the Cats
 Lizards Must Die
 Lizards Must Die 2
@@ -10787,6 +10802,7 @@ Long yin lizhi chuan
 Longshot [Dev]
 Longvinter
 Look Outside
+LookPilot
 Looking For Cats In a Badly Drawn City
 Looking For Cats In a Badly Drawn Forest
 Looking Up I See Only a Ceiling
@@ -10800,6 +10816,7 @@ Loot Box Quest: Mystic Maidens
 Loot Box Quest: School Trouble
 Loot Box Quest: Sci-Fi Maidens
 Loot Box Simulator: RPG Anime Girls
+Loot Frog
 Loot Loop
 Loot River
 Loot Tycoon
@@ -10967,6 +10984,7 @@ Ludo XXL
 Ludus
 Ludus Magnatus: Gladiator Manager Simulator
 Luftrausers
+Lugh World
 Luma Island
 LumbearJack
 Lumberjack's Dynasty
@@ -11093,6 +11111,7 @@ MachiaVillain
 Machick
 Machick 2
 Machinarium
+Machine Child
 Machine Mind
 MachineCraft
 Machinika Museum
@@ -11112,6 +11131,7 @@ Mad Rat Dead
 Mad Shark
 Mad Smartphone Tycoon
 Mad Streets
+Mad Television Tycoon
 Mad Tower Tycoon
 Mad World: Age of Darkness
 MadGuns
@@ -12590,7 +12610,6 @@ Nature Escapes 2
 Nature Escapes 3
 Nature Escapes 4
 Naughty Boy
-Nautic XP
 Nauticrawl
 Naval Action
 Naval Tactics
@@ -12728,6 +12747,7 @@ Nevergrind Online
 Neverlast
 Neverlooted Dungeon
 Neverness to Everness
+Neverway
 Neverwinter
 Neverwinter Nights: Enhanced Edition
 New Arc Line
@@ -13347,6 +13367,7 @@ Orb of Creation
 Orbibot
 Orbital Dance
 Orbital Gear
+Orbitmine
 Orbo's Exodus
 Orbo's Odyssey
 Orbt XL
@@ -14490,6 +14511,7 @@ Professional Construction: The Simulation
 Professional Farmer: Cattle and Crops
 Professional Fishing
 Professional Fishing 2
+Professional Ship Simulator
 Professor Rubik's Brain Fitness
 Proficient Paddles
 Profit Sea Incremental
@@ -19740,6 +19762,7 @@ The Z Axis: Continuum
 The Zachtronics Solitaire Collection
 The Zebra Z
 The Zombie Slayers
+The Zone - FPV Drone Simulator
 The one who pulls out the sword will be crowned king
 The very long walk
 The ​Aquarium Does Not Dance
@@ -20086,6 +20109,7 @@ Torchlight
 Torchlight II
 Torchlight III
 Torchlight: Infinite
+Torebia: Island Odyssey
 Toree 3D
 Toree Saturn
 Toree's 3D Platformer Collection
@@ -21453,6 +21477,7 @@ We Were Here Expeditions: The FriendShip
 We Were Here Forever
 We Were Here Together
 We Were Here Together Demo
+We Were Here Tomorrow
 We Were Here Too
 We Who Are About to Die
 We are Football 2024
@@ -22441,6 +22466,7 @@ x2048
 苏丹的游戏
 觅长生
 超将棋
+逆水寒
 違う冬のぼくら Friend's Pass
 違う星のぼくら
 違う星のぼくら　特別体験版
