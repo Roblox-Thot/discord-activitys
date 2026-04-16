@@ -1094,6 +1094,7 @@ Arcus Chroma
 Ardem
 Ardenfall
 Are You Smarter than a 5th Grader?
+Arena Breakout
 Arena Breakout: Infinite
 Arena Renovation
 Arena of Kings
@@ -2729,6 +2730,7 @@ Burger Shop 2
 Burger Shop 3
 Burger Time
 Burgie's Cozy Kitchen
+Burgle Supply Company
 Burglin' Gnomes
 Buried
 Buriedbornes
@@ -3347,7 +3349,7 @@ Chicken Police
 Chicken Range
 Chicken Shoot Gold
 Chickens Madness
-Chickens on the Road
+Chickens On The Road
 Chicory: A Colorful Tale
 Chikaro
 Child of Light
@@ -6404,6 +6406,7 @@ F1 Race Stars
 FATAL FRAME / PROJECT ZERO: Maiden of Black Water
 FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse
 FBC: Firebreak
+FBL - Floorball League
 FEAR OF FAITH
 FIA European Truck Racing Championship
 FIFA 14 Mobile
@@ -6993,7 +6996,6 @@ Flock Around
 Flock of the Seraphim
 Flockout
 Floor 9
-Floorball League
 Floorball League 2010
 Floppy Knights
 Florence
@@ -7891,7 +7893,6 @@ GooCubelets
 Gooba Ball
 Goobies
 GoobnBalloonsDX
-Good Boy
 Good Coffee, Great Coffee
 Good Company
 Good Dog, Bad Dog
@@ -14903,13 +14904,13 @@ Racecraft
 Racerloop
 Racine
 Racing (2 Player Cooperation Edition): Breakthrough Gaming Arcade
+Racing (3 Player Cooperation Edition): Breakthrough Gaming Arcade
 Racing (4 Player Cooperation Edition): Breakthrough Gaming Arcade
 Racing Bros
 Racing Car 2020
 Racing Classics: Drag Race Simulator
 Racing Karts
 Racing Master
-Racing: Breakthrough Gaming Arcade
 Racing: Breakthrough Gaming Arcade
 Rack and Slay
 Rad
@@ -15049,7 +15050,7 @@ Rattyvity Lab
 Ratyboy Adventures
 Ratz Instagib
 Ravager
-Raven 2
+Raven II
 Raven's Hike
 Ravenfield
 Ravenfield: Multiplayer Mod
@@ -17465,7 +17466,7 @@ Stack to Ascension
 Stackflow
 Stacklands
 Stackmon
-Staffer Case
+Staffer Case: A Supernatural Mystery Adventure
 Staffer Case: A Supernatural Mystery Adventure
 Staffer Reborn
 Stairway

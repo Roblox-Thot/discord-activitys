@@ -10703,7 +10703,6 @@ win64/voidbreaker-win64-shipping.exe
 win64/voin-win64-shipping.exe
 win64/voyagesteam-win64-shipping.exe
 win64/vr3_part1.exe
-win64/vrexppluginexample-win64-shipping.exe
 win64/vrflush.exe
 win64/vrpooldemo-win64-shipping.exe
 win64/vrpvpclient-win64-shipping.exe
