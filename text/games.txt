@@ -589,6 +589,7 @@ Airoheart
 Airplane Race Simulator 2 Player Game
 Airport Baggage Simulator
 Airport CEO
+Airport Control 27
 Airport Fire Department: The Simulation
 Airport Police Contraband Simulator: Border Patrol
 Airport Security Sucks!
@@ -735,6 +736,7 @@ Alquiem
 Altar
 Altered Alma
 Alternate Jake Hunter: Daedalus - The Awakening of Golden Jazz
+Alternis
 Altf42
 Altitude
 AltspaceVR
@@ -1978,7 +1980,7 @@ Bibi & Tina: New Adventures with Horses
 Bible Trivia
 Bicolor Bird
 Bid Battle: Auction War Simulator Storage Hunter
-BidKing
+Bid King
 Bifrost Battle
 Big Adventure: Trip to Europe
 Big Adventure: Trip to Europe 2
@@ -10406,7 +10408,7 @@ Last Minute Shopping
 Last Moon
 Last Oasis
 Last Outpost
-Last Pirates: Die Together
+Last Pirates
 Last Remains
 Last Report
 Last Resort
@@ -10608,6 +10610,7 @@ Lies of Astaroth
 Lies of P
 Life Below
 Life Eater
+Life Effect Survival
 Life Force
 Life Goes On
 Life Goes On: Done to Death
@@ -19662,6 +19665,7 @@ The Tiny Bang Story
 The Tomorrow Children
 The Tomorrow Children: Phoenix Edition
 The Touhou Empires
+The Tower Must Fall
 The Tower of Druaga
 The Town of Light
 The Town of The Lost Witch
@@ -21858,6 +21862,7 @@ World War Z
 World War Z: Aftermath
 World Warfare & Economic
 World in Conflict: Complete Edition
+World of Airports
 World of Fate
 World of Final Fantasy
 World of Final Fantasy: Maxima
