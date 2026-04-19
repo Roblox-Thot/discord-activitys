@@ -205,6 +205,7 @@ A Case of Fraud
 A Castle Full of Cats
 A Dance of Fire and Ice
 A Date with Death
+A Date with Death 2: Remnants
 A Day Out
 A Difficult Game About Climbing
 A Difficult Game About Climbing
@@ -2747,6 +2748,7 @@ Burnin' Rubber 6
 Burning Daylight
 Burning Fight
 Burning Force
+Burning Skies Arcade
 Burning Sword: Death Sun
 Burnout Paradise
 Burnout Paradise Remastered
@@ -3334,6 +3336,7 @@ Chess Arena
 Chess Champion
 Chess Evolved Online
 Chess Knights: Viking Lands
+Chess Mate
 Chess Ultimate
 Chess Ultra
 Chess for Idiots
@@ -3503,6 +3506,7 @@ City Patrol: Police
 City Police Simulator: Cop Car Games and Shooter
 City States: Medieval
 City Tales: Medieval Era
+City Transport Simulator 2026
 City Transport Simulator: Tram
 City of Brass
 City of Broken Dreamers: Book One
@@ -5324,7 +5328,7 @@ Doom & Destiny Worlds
 Doom + Doom II
 Doom 3
 Doom 3: BFG Edition
-Doom 3: VR
+Doom 3: VR Edition
 Doom 64
 Doom Eternal
 Doom II
@@ -5868,6 +5872,7 @@ Easy Flight Simulator
 Easy Red 2
 Ebaseball: Pro Spirit
 Ebola 3
+Ecchi Secrets
 Echo Generation
 Echo Point Nova
 Echocalypse: Scarlet Covenant
@@ -13377,6 +13382,7 @@ Orbital Gear
 Orbitmine
 Orbo's Exodus
 Orbo's Odyssey
+Orbrix
 Orbt XL
 OrbusVR
 Orc Massage
@@ -21190,6 +21196,7 @@ Void/Breaker
 VoidCraft Island Chronicles: Sky Survival
 Voidigo
 Voidling Bound
+Voidloop
 Voids Vigil
 Voidtrain
 Voidwrought
@@ -21355,7 +21362,7 @@ Warhammer 40,000: Dawn of War II - Chaos Rising
 Warhammer 40,000: Dawn of War II - Retribution
 Warhammer 40,000: Dawn of War III
 Warhammer 40,000: Eternal Crusade
-Warhammer 40,000: Fire Warrior
+Warhammer 40,000: Fire Warrior (Classic)
 Warhammer 40,000: Gladius - Relics of War
 Warhammer 40,000: Inquisitor - Martyr
 Warhammer 40,000: Inquisitor - Martyr: Ultimate Edition
@@ -21376,6 +21383,7 @@ Warhammer Age of Sigmar: Storm Ground
 Warhammer Quest
 Warhammer Quest II: The End Times
 Warhammer Underworlds: Online
+Warhammer: Battle March
 Warhammer: Chaos & Conquest
 Warhammer: Chaosbane
 Warhammer: Chaosbane - Slayer Edition
