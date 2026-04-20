@@ -514,6 +514,7 @@ Age of Empires IV
 Age of Empires IV Technical Stress Test
 Age of Empires: Definitive Edition
 Age of Empires: Definitive Edition
+Age of History 2: Definitive Edition
 Age of History II
 Age of History III
 Age of Mythology: Extended Edition
@@ -4592,8 +4593,8 @@ Dead In Antares
 Dead In Bermuda
 Dead In Vinland
 Dead Island 2
-Dead Island Definitive Collection
 Dead Island Retro Revenge
+Dead Island: Definitive Collection
 Dead Island: Definitive Edition
 Dead Island: Epidemic
 Dead Island: Riptide - Definitive Edition
@@ -6553,6 +6554,7 @@ Fantasy Aquarium
 Fantasy Ball
 Fantasy Beauties
 Fantasy Blacksmith
+Fantasy Blacksmith Simulator
 Fantasy Chess
 Fantasy Dash
 Fantasy Friends: Under the Sea
@@ -6929,6 +6931,7 @@ Five Laps at Freddy's
 Five Nights At Floppa
 Five Nights At Monkeys: Flat Mode
 Five Nights In Saransk
+Five Nights With Creg
 Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
@@ -6940,7 +6943,6 @@ Five Nights at Freddy's: Secret of the Mimic
 Five Nights at Freddy's: Security Breach
 Five Nights at Freddy's: Sister Location
 Five Nights at Roner's: Remastered
-Five Nights with Creg
 Fivies
 Flag Clicker
 Flamebreak
@@ -7960,6 +7962,7 @@ Grabbed by the Ghoulies
 Grabity
 Gradius III
 Gradius Origins
+Grail
 Gran Saga
 Gran Turismo 7
 Gran Turismo Sport
@@ -8849,6 +8852,7 @@ Holo ADV: SakuraSingularity.exe
 Holo Pop
 Holo X Break
 Holo vs. Robo
+Holo-Kingdom
 Holo8
 HoloCall: Send Your Cheers!
 HoloCure: Save the Fans!
@@ -10037,6 +10041,7 @@ Kill it with Fire 2
 Kill la Kill: If
 Kill or Love
 Kill the Brickman
+Kill the Lich Idle
 KillFish
 KillSteel
 KillStreak.tv
@@ -12490,6 +12495,7 @@ Myst: Masterpiece Edition
 Mysterious School
 Mysterious Voyage: Set Sail
 Mysterium
+Mystery Digger: Definitive Edition
 Mystery Hotel: Hidden Objects
 Mystery Island: Hidden Object Games
 Mystery Wax Museum - Hidden Objects
@@ -15954,6 +15960,7 @@ SWAT
 SWAT 3: Tactical Game of the Year Edition
 SWAT 4
 SWAT Commander
+SWAT Commander Simulator
 SaGa Frontier 2 Remastered
 SaGa Frontier Remastered
 SaGa: Emerald Beyond
@@ -21192,6 +21199,7 @@ Void Stranger
 Void Terrarium++
 Void War
 Void Whispers
+Void of Lilly
 Void/Breaker
 VoidCraft Island Chronicles: Sky Survival
 Voidigo
