@@ -1081,6 +1081,7 @@ Arcade Paradise VR
 Arcade Room Simulator
 Arcade Spirits
 Arcadegeddon
+Arcadia Fallen II
 Arcadium: Space Odyssey
 Arcadius
 Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND
@@ -1478,6 +1479,7 @@ BALLIONAIRE
 BANDIT KNIGHT
 BAPBAP
 BARRIER X
+BASEBALL 9
 BATS: Bloodsucker Anti-Terror Squad
 BATTLE CRUSH
 BATTLESTAR GALACTICA Deadlock
@@ -1731,7 +1733,6 @@ Barro F
 Barro GT
 Base Attack
 Base Defense
-Baseball 9
 Baseball Bout: Otterrific Arcade
 Baseball Stars 2
 Baseball Stars Professional
@@ -1772,6 +1773,7 @@ Batman: The Enemy Within - The Telltale Series
 Batman: The Telltale Series
 Batman: The Telltale Series - Episode 1: Realm of Shadows
 Batman: The Telltale Series - The Enemy Within: Episode 1 - The Enigma
+Batomon Showdown
 Batsugun
 Battalion Commander
 Battalion Legacy
@@ -3082,6 +3084,7 @@ Carrier Command 2
 Carrier Command: Gaea Mission
 Carrier Deck
 Carry The Glass
+Carry the Pack Rack
 Cars
 Cars 2
 Cars 3: Driven to Win
@@ -3325,6 +3328,7 @@ Chaos Code: New Sign of Catastrophe
 Chaos Combat Chess
 Chaos Express
 Chaos Front
+Chaos Method
 Chaos Reborn
 Chaos Theory Pirates
 Chaos Zero Nightmare
@@ -3971,10 +3975,10 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
+CounterSide
 CounterSpy
 Counterpact
 Counterpick Labs
-Counterside
 Countersnipe
 Countless Army
 Countryballs: Power Protocol
@@ -4254,6 +4258,7 @@ Cuboid
 Cuisineer
 Culinary Cooking Master Simulator
 Cult Leader Simulator
+Cult Nation
 Cult ni Kibishii Gal: Cult vs. Gal
 Cult of the Child Eater
 Cult of the Lamb
@@ -4401,6 +4406,7 @@ DIGESTED
 DIGIMON STORY: TIME STRANGER
 DIRECT CONTACT
 DIRT 5
+DISCOPUP
 DISORDER
 DISSIDIA FINAL FANTASY NT: Free Edition
 DISTRAINT: Deluxe Edition
@@ -4449,6 +4455,7 @@ DREAMERS
 DREDGE
 DREDGE: CHAPTER ONE
 DRIFT ISLAND
+DRIFTCE
 DRONE PERSPECTIVE
 DRUDGE
 DSS 2: War Industry
@@ -5169,7 +5176,6 @@ Disco Cannon Airlines
 Disco Dodgeball Remix
 Disco Elysium
 Disco Simulator
-Discopup
 Discord Bot Maker
 Discounty
 Discovery
@@ -5495,6 +5501,7 @@ DrawFighters
 Drawful 2
 Drawing From Memory
 Drawn to Death
+Drawquarium
 Dread Chess
 Dread Dawn
 Dread Delusion
@@ -5559,7 +5566,6 @@ Drift Reign
 Drift Streets Japan
 Drift of the Hill
 Drift.Wav
-Drift21
 Drift86
 Drifter Star: Evolution
 Drifters Don't Brake: Midnight
@@ -7939,6 +7945,7 @@ GoreBox
 Gori: Cuddly Carnage
 Gorilla Attack
 Gorilla Big Adventure
+Gorilla Showdown
 Gorilla Simulator
 Gorilla Soccer
 Gorilla Tag
@@ -7992,6 +7999,7 @@ Grand Tactician: The Civil War (1861-1865)
 Grand Theft Auto III
 Grand Theft Auto III: The Definitive Edition
 Grand Theft Auto IV
+Grand Theft Auto Online
 Grand Theft Auto V
 Grand Theft Auto V Legacy
 Grand Theft Auto VI
@@ -9266,6 +9274,7 @@ Idle Colony
 Idle Commonwealth
 Idle Craft
 Idle Cultivation
+Idle Deepcore
 Idle Devils
 Idle Dice 2
 Idle Dyson Swarm
@@ -9339,6 +9348,7 @@ Immortal Legacy: The Jade Cipher
 Immortal Legacy: The Jade Cipher Console Edition
 Immortal Life
 Immortal Realms: Vampire Wars
+Immortal Rebirth
 Immortal Redneck
 Immortals Fenyx Rising
 Immortals of Aveum
@@ -9619,6 +9629,7 @@ It Takes a War
 It Works: Electronics Repair Simulator
 It follows you
 It gets so lonely here
+It's Fine
 It's Only Money
 It's Quiz Time
 Itadaki Street: Dragon Quest & Final Fantasy - 30th Anniversary
@@ -9879,8 +9890,10 @@ KID A MNESIA EXHIBITION
 KIDO: Ride on Time
 KIDS
 KILL KNIGHT
+KILL la KILL: IF
 KILLER INN
 KILLFISH
+KILLGUN
 KLETKA
 KOMPETE
 KORRIDOR
@@ -10024,10 +10037,9 @@ Kill Strain
 Kill The Crows
 Kill The Music
 Kill it with Fire 2
-Kill la Kill: If
 Kill or Love
 Kill the Brickman
-Kill the Lich Idle
+Kill the Lich
 KillSteel
 KillStreak.tv
 Killer Chat!: Expanded Edition
@@ -10828,6 +10840,7 @@ Lootbane
 Lootbound
 Lootbox Lyfe
 Looterkings
+Looters
 Lootun
 Lophead Adventure World
 Lord of the Click 3
@@ -11085,6 +11098,7 @@ MINECRAFT: Legends
 MINERVA
 MINOS: Home A-Labyrinth
 MIO: Memories in Orbit
+MIR 4
 MISERY
 MISTERY
 MISTOVER Demo
@@ -11651,6 +11665,7 @@ Menace from the Deep
 Mendacium
 Menherarium
 Meow Moments: Celebrating Renewal & Romance
+MeowFactory
 Meowgic
 Meowjiro
 Mercenaries Lament: Requiem of the Silver Wolf
@@ -11733,6 +11748,7 @@ Metro Conflict: The Origin
 Metro Exodus Enhanced Edition
 Metro Exodus: Enhanced Edition
 Metro Gravity
+Metro Quester: Osaka
 Metro Redux
 Metro Simulator 2
 Metro-Cross
@@ -11758,6 +11774,7 @@ Microarcade ApplePie
 Microarcade Rockwork
 Microarcade ShapeSwarm
 Microcivilization
+Microlandia
 Microsoft Bubble
 Microsoft Flight Simulator
 Microsoft Flight Simulator 2024
@@ -11938,8 +11955,7 @@ Mint's Hints
 Minus Nine
 Minutes
 Minutescape
-Mir 4
-Mira: The Legend of the Djinns
+Mira and the Legend of the Djinns
 Miracle Snack Shop
 Miraculous: Paris Under Siege
 Mirage Feathers
@@ -13098,6 +13114,7 @@ ONINAKI Demo
 ONRUSH
 OPERATOR
 OPUS: Echo of Starsong
+OPUS: Prism Peak
 ORDER 13
 ORION: Prelude
 ORMOD: Directive
@@ -13361,7 +13378,6 @@ Oppidum
 Opposwitch
 Opus Castle
 Opus Magnum
-Opus: Prism Peak
 Orangeblood
 Orb of Creation
 Orbibot
@@ -14277,6 +14293,7 @@ Polarity: Ultimate Edition
 Pole Position
 Pole Position II
 Police Car Parking 3D
+Police Chief Simulator
 Police Shootout
 Police Simulator: Patrol Duty
 Police Simulator: Patrol Officers
@@ -14761,7 +14778,6 @@ QUByte Classics: The Humans by PIKO
 QUByte Classics: The Samurai Collection
 QUByte Classics: Thunderbolt Collection by Piko
 QUByte Classics: Zero Tolerance Collection by PIKO
-QUESTER OSAKA
 QUICKERFLAK
 QURARE: Magic Library
 Qanga
@@ -14881,7 +14897,6 @@ RHYTHM SPROUT
 RICO
 RIDE 4
 RIDE 5
-RIDE: Game
 RIFTSTORM
 RIG Riot
 RIGS: Mechanized Combat League
@@ -15952,7 +15967,6 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
-SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -16455,6 +16469,7 @@ Shadow Burglar
 Shadow Complex Remastered
 Shadow Corridor
 Shadow Corridor 2: Ame no Yohira
+Shadow Dungeon
 Shadow Empire
 Shadow Fight: Arena
 Shadow Gambit: The Cursed Crew
@@ -16974,6 +16989,7 @@ Smash Hit Plunder
 Smash It Wild
 Smash Zombies
 Smashing Simulator Idle
+Smerk
 Smile For Me
 Smile More
 Smilemo
@@ -17039,6 +17055,7 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
+Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
@@ -17584,6 +17601,7 @@ Star99
 StarBreak
 StarCraft
 StarCraft II: Battle Chest
+StarCraft: Remastered
 StarRupture
 StarSavior
 StarVaders
@@ -19812,6 +19830,7 @@ Thief Simulator VR
 Thief Simulator: Heist Master
 Thief VR: Legacy of Shadow
 Thief: Deadly Shadows
+Thief: Deadly Shadows
 Thief: The Dark Project
 Thimbleweed Park
 Think a Little
@@ -20384,6 +20403,7 @@ Tray Racers!
 Treachery in Beatdown City: Ultra Remix
 Treason
 Treasure 'n Trio
+Treasure Beach
 Treasure Chest Clicker
 Treasure Hunter Claire
 Treasure Hunter Simulator
@@ -21274,6 +21294,7 @@ Walking Simulator 2020
 Walking Survival
 Wall World
 Wall World 2
+Wall World Strategy
 Waltz and Jam
 Waltz of the Wizard
 Wanba Warriors
