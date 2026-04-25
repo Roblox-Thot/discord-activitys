@@ -131,7 +131,7 @@
 4 in a Row Connect+
 40 Sports Games in 1
 404Sight
-420BLAZE IT 2: GAME OF THE YEAR
+420Blaze It 2: Game of the Year
 428: Shibuya Scramble
 4:LOOP
 4D Golf
@@ -296,6 +296,7 @@ ABYSSAL BLADE
 AC Sailing
 ACA NEOGEO: The King of Fighters '97
 ACA Neo Geo: 3 Count Bout
+ACA Neo Geo: King of the Monsters
 ACA Neo Geo: Ninja Commando
 ACA Neo Geo: Shock Troopers
 ACE COMBAT™ ASSAULT HORIZON Enhanced Edition
@@ -530,6 +531,7 @@ After You
 After the Fall
 After the Inferno
 AfterHours
+Afterbeat
 Afterblast
 Aftercharge
 Afterconflict Lost War
@@ -1061,7 +1063,7 @@ ArcRunner
 Arca's Path VR
 Arcade Archives 2: Ridge Racer
 Arcade Archives Solitary Fighters
-Arcade Archives: Burnin' Rubber
+Arcade Archives: BURNIN' RUBBER
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -2841,7 +2843,6 @@ CPUCores :: Maximize Your FPS
 CRANKED
 CRETE
 CRIMESIGHT
-CRISIS CORE: FINAL FANTASY VII - REUNION
 CROWDED. FOLLOWED.
 CROWZ
 CRSED: F.O.A.D.
@@ -4118,6 +4119,7 @@ Crimsonland
 Crimzon Clover: World Ignition
 Cris Tales
 Crisis Brigade 2: Reloaded
+Crisis Core: Final Fantasy VII - Reunion
 Crisis in the Kremlin
 Crisis in the Kremlin: The Cold War
 Crisis on the Planet of the Apes VR
@@ -6473,6 +6475,7 @@ FIND ALL 9: Fantasy
 FIND ALL: Halloween
 FIRESTARTERS
 FISH FEAR ME
+FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FLATHEAD
 FLATLAND Vol.1
 FLAW
@@ -6956,7 +6959,6 @@ Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
 Five Nights at Freddy's 4
-Five Nights at Freddy's: Help Wanted
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
@@ -8299,7 +8301,6 @@ HackHub: Ultimate Hacker Simulator
 Hacked: The Streamer
 Hacker Simulator
 Hacker Simulator: Free Trial
-Hackmud
 Hacknet
 Hacktag
 Hacky
@@ -9410,6 +9411,7 @@ Indies' Lies
 Indigo 7 Quest For Love
 Indigo Park
 Indivisible
+Indoor Baseball
 Industrial Annihilation
 Industries of Titan
 Industry Giant 4.0
@@ -9890,7 +9892,6 @@ KID A MNESIA EXHIBITION
 KIDO: Ride on Time
 KIDS
 KILL KNIGHT
-KILL la KILL: IF
 KILLER INN
 KILLFISH
 KILLGUN
@@ -10037,6 +10038,7 @@ Kill Strain
 Kill The Crows
 Kill The Music
 Kill it with Fire 2
+Kill la Kill: If
 Kill or Love
 Kill the Brickman
 Kill the Lich
@@ -10098,7 +10100,6 @@ King of the Castle
 King of the Couch: Zoovival
 King of the Dwarves: Underground City Builder
 King of the Hat
-King of the Monsters
 King of the Monsters 2
 King's Bounty II
 King's Bounty: Armored Princess
@@ -11059,7 +11060,6 @@ MANIFESTO
 MARKET GARDEN
 MARVEL Contest of Champions
 MARVEL Cosmic Invasion
-MARVEL MaXimum Collection
 MARVEL SNAP
 MARVEL vs. CAPCOM Fighting Collection: Arcade Classics
 MASH VP! Re:VISION
@@ -11435,6 +11435,7 @@ Maru Expedition: We Can Fly
 Marvel Heroes
 Marvel Heroes 2015
 Marvel Land
+Marvel MaXimum Collection
 Marvel Pinball: Epic Collection Vol. 1
 Marvel Puzzle Quest
 Marvel Rivals
@@ -14199,8 +14200,8 @@ Plant Nursery Simulator
 Plant Therapy
 Plantera
 Plantera 2: Golden Acorn
+Plants vs. Zombies
 Plants vs. Zombies: Battle for Neighborville
-Plants vs. Zombies: GOTY Edition
 Plants vs. Zombies: Garden Warfare
 Plants vs. Zombies: Garden Warfare 2
 Plants vs. Zombies: Replanted
@@ -14536,7 +14537,6 @@ Project 13: Taxidermy Trails
 Project 64
 Project : Summer High - Horse Riding (Story Two (A))
 Project Archipelago
-Project Arrhythmia
 Project Black Budget
 Project Borealis: Prologue
 Project Breakout
@@ -14864,7 +14864,7 @@ RAGE
 RAGE 2
 RAID: World War II
 RAIDBORN
-RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY
+RAIDOU Remastered: The Mystery of the Soulless Army
 RAILGRADE
 RAM: Random Access Mayhem
 RAWMEN
@@ -15967,6 +15967,7 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
+SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -17055,7 +17056,6 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
-Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
@@ -22385,6 +22385,7 @@ goblinAmerica
 gogh: Focus with Your Avatar
 gridkeeper
 hack_me
+hackmud
 hexceed
 holo8
 hololive GoroGoro Mountain
