@@ -2843,6 +2843,7 @@ CPUCores :: Maximize Your FPS
 CRANKED
 CRETE
 CRIMESIGHT
+CRISIS CORE: FINAL FANTASY VII - REUNION
 CROWDED. FOLLOWED.
 CROWZ
 CRSED: F.O.A.D.
@@ -3591,6 +3592,7 @@ Cleaning Simulator
 Cleaning Up!
 Cleared Hot
 Click Click Dig: Idle Mine
+Click Flip
 Click Mage
 Click To Eleven
 Click and Conquer
@@ -3976,10 +3978,10 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
-CounterSide
 CounterSpy
 Counterpact
 Counterpick Labs
+Counterside
 Countersnipe
 Countless Army
 Countryballs: Power Protocol
@@ -4119,7 +4121,6 @@ Crimsonland
 Crimzon Clover: World Ignition
 Cris Tales
 Crisis Brigade 2: Reloaded
-Crisis Core: Final Fantasy VII - Reunion
 Crisis in the Kremlin
 Crisis in the Kremlin: The Cold War
 Crisis on the Planet of the Apes VR
@@ -8301,6 +8302,7 @@ HackHub: Ultimate Hacker Simulator
 Hacked: The Streamer
 Hacker Simulator
 Hacker Simulator: Free Trial
+Hackmud
 Hacknet
 Hacktag
 Hacky
@@ -8436,6 +8438,7 @@ Harmonix Music VR
 Harmony: The Fall of Reverie
 Harms Way
 Harold HALIBUT
+Harry Potter: Hogwarts Mystery
 Harry Potter: Quidditch Champions
 Harventure
 Harvest Moon: A Wonderful Life - Special Edition
@@ -9379,6 +9382,7 @@ In Sink: A Co-Op Escape Prologue
 In Sound Mind
 In Space We Brawl
 In Stars and Time
+In Trusted Hands
 In Woods
 In the Black
 In the Hunt
@@ -9689,6 +9693,7 @@ Jar Wars
 Jason: Coming of Age
 Jaunt VR
 Jawbone Hollow
+Jay and Silent Bob: Chronic Blunt Punch
 Jazzpunk: Director's Cut
 Jeanne d'Arc
 Jected: Rivals
@@ -10545,6 +10550,7 @@ Legend of the Tetrarchs
 Legendary Creatures 2
 Legendary Fishing
 Legendary Hoplite
+Legendary Pilots
 Legendary Tales
 Legendary Tales: Cataclysm
 Legendary Tales: Stolen Life
@@ -11491,6 +11497,7 @@ MasterChef: The Official Video Game
 MasterCube
 Masterplan Tycoon
 Masterplan Tycoon: Foundations
+Masters of Albion
 Masters of Anima
 Masters of Light
 Mat Mania: The Prowrestling Network
@@ -12099,6 +12106,7 @@ Monster Energy Supercross: The Official Videogame 5
 Monster Girl 1,000
 Monster Girl 2
 Monster Girl Island: Prologue
+Monster Harvest
 Monster High Skulltimate Secrets
 Monster Hunter Rise
 Monster Hunter Stories
@@ -15967,7 +15975,6 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
-SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -16401,6 +16408,7 @@ Senren Banka
 Sensei! I Like You So Much!
 Senshi Sokoban Quest
 Sentience
+Sentience: The Android's Tale
 Sentinels of the Multiverse: The Video Game
 Sentry Paragon
 Senua's Saga: Hellblade II
@@ -17056,6 +17064,7 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
+Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
@@ -18360,7 +18369,7 @@ Syphon Filter: Dark Mirror
 Syphon Filter: Logan's Shadow
 Syrian Warfare
 Sys//Purge
-Sysadmin Odyssey: Back To The Office
+SysAdmin Odyssey: Back to the office
 System Shock
 System Shock 2
 System Shock 2: 25th Anniversary Remaster
@@ -18404,6 +18413,7 @@ THE FINALS
 THE GAME OF LIFE 2
 THE HOUSE OF THE DEAD 2: Remake
 THE HOUSE OF THE DEAD: Remake
+THE JOY OF CREATION
 THE KING OF FIGHTERS XIII STEAM EDITION
 THE KING OF FIGHTERS XV
 THE LAST TRAIN: Baquedano
@@ -18614,6 +18624,7 @@ Tasty Planet
 Tasty Planet Forever
 Tasty Planet: Back for Seconds
 Tatari: The Arrival
+Tattered Banners
 Tattletail
 Tattoo Tycoon
 Taur
@@ -19064,6 +19075,7 @@ The Exit 8
 The Exit 9
 The Exit Project: Backstreets
 The Expanse: A Telltale Series
+The Expanse: Osiris Reborn
 The Expendabros
 The Experiment: Escape Room
 The Explorator
@@ -19207,7 +19219,6 @@ The Jackbox Party Pack 9
 The Jackbox Party Starter
 The Jackbox Survey Scramble
 The Japanese Calligraphy
-The Joy of Creation
 The Jumping Alphabet Soup
 The Jumping Bagel
 The Jumping Brownie
@@ -19510,6 +19521,7 @@ The Precinct
 The Price of Flesh
 The Princess Guide
 The Prisoner of the Night
+The Procession to Calvary
 The Projet Poulet
 The Punchuin
 The Purge Dilemma
@@ -20652,6 +20664,7 @@ UFOPHILIA
 ULTIMATE HARDBASS DEFENCE
 ULTRAKILL
 ULTRAKILL Demo
+ULTRATAP
 UMAMI
 UMIGARI
 UNBEATABLE
@@ -21512,6 +21525,7 @@ Wee Tanks!
 Weeb Store Simulator: Supermarket Together
 Weed Shop 2
 Weed Shop 3
+Weed Shop 4: Highland
 Weed Supermarket Simulator
 Weedcraft Inc
 Weeping Doll
@@ -22385,7 +22399,6 @@ goblinAmerica
 gogh: Focus with Your Avatar
 gridkeeper
 hack_me
-hackmud
 hexceed
 holo8
 hololive GoroGoro Mountain
