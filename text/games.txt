@@ -943,6 +943,7 @@ Anime Shop Simulator
 Anime Standing
 Anime Uni 2
 Anime: World War II
+Animic: Attack With Your Voice!
 Animula Nook
 Animus: Revenant
 Aniwars: Call Of The Void
@@ -1063,7 +1064,7 @@ ArcRunner
 Arca's Path VR
 Arcade Archives 2: Ridge Racer
 Arcade Archives Solitary Fighters
-Arcade Archives: BURNIN' RUBBER
+Arcade Archives: Burnin' Rubber
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -2843,7 +2844,6 @@ CPUCores :: Maximize Your FPS
 CRANKED
 CRETE
 CRIMESIGHT
-CRISIS CORE: FINAL FANTASY VII - REUNION
 CROWDED. FOLLOWED.
 CROWZ
 CRSED: F.O.A.D.
@@ -4121,6 +4121,7 @@ Crimsonland
 Crimzon Clover: World Ignition
 Cris Tales
 Crisis Brigade 2: Reloaded
+Crisis Core: Final Fantasy VII - Reunion
 Crisis in the Kremlin
 Crisis in the Kremlin: The Cold War
 Crisis on the Planet of the Apes VR
@@ -5578,6 +5579,7 @@ Drill Bird
 Drill Core
 Drill Deal: Borehole Alpha
 Drill and Delve
+Drillbound
 Drink Factory Simulator
 Drive 21
 Drive Beyond Horizons
@@ -6476,7 +6478,6 @@ FIND ALL 9: Fantasy
 FIND ALL: Halloween
 FIRESTARTERS
 FISH FEAR ME
-FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FLATHEAD
 FLATLAND Vol.1
 FLAW
@@ -6960,6 +6961,7 @@ Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
 Five Nights at Freddy's 4
+Five Nights at Freddy's: Help Wanted
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
@@ -8302,7 +8304,6 @@ HackHub: Ultimate Hacker Simulator
 Hacked: The Streamer
 Hacker Simulator
 Hacker Simulator: Free Trial
-Hackmud
 Hacknet
 Hacktag
 Hacky
@@ -14872,7 +14873,7 @@ RAGE
 RAGE 2
 RAID: World War II
 RAIDBORN
-RAIDOU Remastered: The Mystery of the Soulless Army
+RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY
 RAILGRADE
 RAM: Random Access Mayhem
 RAWMEN
@@ -15975,6 +15976,7 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
+SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -17064,7 +17066,6 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
-Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
@@ -19797,7 +19798,7 @@ The Z Axis: Continuum
 The Zachtronics Solitaire Collection
 The Zebra Z
 The Zombie Slayers
-The Zone - FPV Drone Simulator
+The Zone
 The one who pulls out the sword will be crowned king
 The people of Sea, Sun & Salt
 The very long walk
@@ -20114,6 +20115,7 @@ Tony Hawk's Underground
 Tony Hawk's Underground 2
 Tony and Clyde
 Too Human
+Too Well Hidden
 Toodee and Topdee
 Tools Up!
 Tools Up! Demo
@@ -20688,6 +20690,7 @@ UNO
 UNO Demo
 UNSIGHTED
 UNYIELDER
+URBEX
 URBO
 URBO: Dream One
 US Conflict: Tank Battles
@@ -22359,6 +22362,7 @@ Zup! XS
 Zup! Z
 Zup! Zero
 Zup! Zero 2
+Zupay: Shadows of Independence
 Zusi 3: Aerosoft Edition
 Zwift
 Zynga Poker
@@ -22399,6 +22403,7 @@ goblinAmerica
 gogh: Focus with Your Avatar
 gridkeeper
 hack_me
+hackmud
 hexceed
 holo8
 hololive GoroGoro Mountain
