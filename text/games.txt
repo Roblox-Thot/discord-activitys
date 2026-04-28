@@ -943,7 +943,7 @@ Anime Shop Simulator
 Anime Standing
 Anime Uni 2
 Anime: World War II
-Animic: Attack With Your Voice!
+Animic: Attack with Your Voice
 Animula Nook
 Animus: Revenant
 Aniwars: Call Of The Void
@@ -3978,10 +3978,10 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
+CounterSide
 CounterSpy
 Counterpact
 Counterpick Labs
-Counterside
 Countersnipe
 Countless Army
 Countryballs: Power Protocol
@@ -6478,6 +6478,7 @@ FIND ALL 9: Fantasy
 FIND ALL: Halloween
 FIRESTARTERS
 FISH FEAR ME
+FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FLATHEAD
 FLATLAND Vol.1
 FLAW
@@ -6961,7 +6962,6 @@ Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
 Five Nights at Freddy's 4
-Five Nights at Freddy's: Help Wanted
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
@@ -9898,6 +9898,7 @@ KID A MNESIA EXHIBITION
 KIDO: Ride on Time
 KIDS
 KILL KNIGHT
+KILL la KILL: IF
 KILLER INN
 KILLFISH
 KILLGUN
@@ -10044,7 +10045,6 @@ Kill Strain
 Kill The Crows
 Kill The Music
 Kill it with Fire 2
-Kill la Kill: If
 Kill or Love
 Kill the Brickman
 Kill the Lich
@@ -11105,7 +11105,6 @@ MINECRAFT: Legends
 MINERVA
 MINOS: Home A-Labyrinth
 MIO: Memories in Orbit
-MIR 4
 MISERY
 MISTERY
 MISTOVER Demo
@@ -11964,6 +11963,7 @@ Mint's Hints
 Minus Nine
 Minutes
 Minutescape
+Mir 4
 Mira and the Legend of the Djinns
 Miracle Snack Shop
 Miraculous: Paris Under Siege
@@ -17615,6 +17615,7 @@ StarCraft: Remastered
 StarRupture
 StarSavior
 StarVaders
+StarWard
 Starbase
 Starbeam
 Starblast
@@ -17658,7 +17659,6 @@ Starstruck Vagabond
 Startrail Destiny
 Startup Company
 Starvester
-Starward
 Starwhal
 Stash
 Stash: A Card Looter
