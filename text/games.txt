@@ -530,8 +530,8 @@ After Us
 After You
 After the Fall
 After the Inferno
+AfterBeat
 AfterHours
-Afterbeat
 Afterblast
 Aftercharge
 Afterconflict Lost War
@@ -872,7 +872,7 @@ Ancible Online
 Ancient Amuletor
 Ancient Ants Adventure
 Ancient Cities
-Ancient Dungeon VR
+Ancient Dungeon
 Ancient Farm
 Ancient Kingdoms
 Ancient Mahjong
@@ -1064,7 +1064,7 @@ ArcRunner
 Arca's Path VR
 Arcade Archives 2: Ridge Racer
 Arcade Archives Solitary Fighters
-Arcade Archives: Burnin' Rubber
+Arcade Archives: BURNIN' RUBBER
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -3978,10 +3978,10 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
-CounterSide
 CounterSpy
 Counterpact
 Counterpick Labs
+Counterside
 Countersnipe
 Countless Army
 Countryballs: Power Protocol
@@ -5849,6 +5849,7 @@ EMERGENCY 20
 EMPTY SHELL
 EMPTY SHELL: PROLOGUE
 ENA: Dream BBQ
+ENCHAIN
 ENDALOR
 ENDER LILIES: Quietus of the Knights
 ENDER MAGNOLIA: Bloom in the Mist
@@ -6057,7 +6058,6 @@ EmyLiveShow: Anime Puzzle Game
 EmyLiveShow: Dangers & Mysteries Tale
 En Garde!
 Encased
-Enchain
 Encircled
 Enclave
 Enclave HD
@@ -6478,7 +6478,6 @@ FIND ALL 9: Fantasy
 FIND ALL: Halloween
 FIRESTARTERS
 FISH FEAR ME
-FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FLATHEAD
 FLATLAND Vol.1
 FLAW
@@ -6962,6 +6961,7 @@ Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
 Five Nights at Freddy's 4
+Five Nights at Freddy's: Help Wanted
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
@@ -9898,7 +9898,6 @@ KID A MNESIA EXHIBITION
 KIDO: Ride on Time
 KIDS
 KILL KNIGHT
-KILL la KILL: IF
 KILLER INN
 KILLFISH
 KILLGUN
@@ -10045,6 +10044,7 @@ Kill Strain
 Kill The Crows
 Kill The Music
 Kill it with Fire 2
+Kill la Kill: If
 Kill or Love
 Kill the Brickman
 Kill the Lich
@@ -12590,6 +12590,7 @@ NHL 26
 NHL 94 REWIND
 NHRA Championship Drag Racing: Speed for All
 NIDUS
+NIGHT-RUNNERS PROLOGUE
 NIJICA
 NIKTOPHOBIA
 NIMBY Rails
@@ -12847,7 +12848,6 @@ Night Grove
 Night Loops
 Night Raider
 Night Run
-Night Runners
 Night Security
 Night Shift Nurses
 Night Shippers
@@ -14922,13 +14922,13 @@ ROMEO IS A DEAD MAN
 ROOT
 ROUTINE
 RP7: Spin Your Own Encounter
+RPG MO
 RPG Maker 2003
 RPG Maker MV
 RPG Maker MZ
 RPG Maker VX Ace
 RPG Maker VX Ace Lite
 RPG Maker XP
-RPG Mo
 RPG World - Action RPG Maker
 RPG in a Box
 RUIN: Beast City
@@ -15976,7 +15976,6 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
-SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -17066,6 +17065,7 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
+Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
@@ -18414,7 +18414,6 @@ THE FINALS
 THE GAME OF LIFE 2
 THE HOUSE OF THE DEAD 2: Remake
 THE HOUSE OF THE DEAD: Remake
-THE JOY OF CREATION
 THE KING OF FIGHTERS XIII STEAM EDITION
 THE KING OF FIGHTERS XV
 THE LAST TRAIN: Baquedano
@@ -19220,6 +19219,7 @@ The Jackbox Party Pack 9
 The Jackbox Party Starter
 The Jackbox Survey Scramble
 The Japanese Calligraphy
+The Joy of Creation
 The Jumping Alphabet Soup
 The Jumping Bagel
 The Jumping Brownie
