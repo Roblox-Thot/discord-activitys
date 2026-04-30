@@ -131,7 +131,7 @@
 4 in a Row Connect+
 40 Sports Games in 1
 404Sight
-420Blaze It 2: Game of the Year
+420BLAZE IT 2: GAME OF THE YEAR
 428: Shibuya Scramble
 4:LOOP
 4D Golf
@@ -176,6 +176,7 @@
 8-Bit Invaders!
 80 Days
 80's Overdrive
+8AM
 8Bit Fiesta
 8Days
 9 Clues 2: The Ward
@@ -501,6 +502,7 @@ Aeon Drive
 Aeon Rivals
 Aeon's End
 AeonX
+Aeonic
 Aeons Echo
 Aeons of Rebirth
 Aerial_Knight's DropShot
@@ -638,6 +640,7 @@ Airoheart
 Airplane Race Simulator 2 Player Game
 Airport Baggage Simulator
 Airport CEO
+Airport Contraband
 Airport Control 27
 Airport Fire Department: The Simulation
 Airport Police Contraband Simulator: Border Patrol
@@ -1064,7 +1067,7 @@ ArcRunner
 Arca's Path VR
 Arcade Archives 2: Ridge Racer
 Arcade Archives Solitary Fighters
-Arcade Archives: BURNIN' RUBBER
+Arcade Archives: Burnin' Rubber
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -2067,6 +2070,7 @@ Bikini Beach: Anime Girls Assault
 Bill & Ted's Excellent Retro Collection
 Billie Bust Up
 Billie's Wheelie
+Bills Must Be Paid
 Billy's Game Show
 Bilmo
 Bimochi Gold Rush Adventure
@@ -2844,6 +2848,7 @@ CPUCores :: Maximize Your FPS
 CRANKED
 CRETE
 CRIMESIGHT
+CRISIS CORE: FINAL FANTASY VII - REUNION
 CROWDED. FOLLOWED.
 CROWZ
 CRSED: F.O.A.D.
@@ -4121,7 +4126,6 @@ Crimsonland
 Crimzon Clover: World Ignition
 Cris Tales
 Crisis Brigade 2: Reloaded
-Crisis Core: Final Fantasy VII - Reunion
 Crisis in the Kremlin
 Crisis in the Kremlin: The Cold War
 Crisis on the Planet of the Apes VR
@@ -4437,6 +4441,7 @@ DOOM Eternal
 DOOM II
 DOOM VFR
 DOOM: The Dark Ages
+DOOMBLADE
 DORONKO WANKO
 DOWNHILL
 DPET : Desktop Pet Engine
@@ -6327,6 +6332,7 @@ Eville
 EvilvEvil
 Evitania Online
 EvoCreo
+EvoCreo II
 Evo\Wave
 Evoland
 Evoland 2
@@ -6478,6 +6484,7 @@ FIND ALL 9: Fantasy
 FIND ALL: Halloween
 FIRESTARTERS
 FISH FEAR ME
+FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FLATHEAD
 FLATLAND Vol.1
 FLAW
@@ -6961,7 +6968,6 @@ Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
 Five Nights at Freddy's 4
-Five Nights at Freddy's: Help Wanted
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
@@ -7379,6 +7385,7 @@ Full Fathom
 Full Metal Furies
 Full Metal Panic! Fight! Who Dares Wins
 Full Metal Schoolgirl
+Full Metal Sergeant II
 Full Mojo Rampage
 Full Spectrum Warrior
 Full Spectrum Warrior: Ten Hammers
@@ -7467,7 +7474,6 @@ GRIMPS
 GRIS
 GT Manager
 GTA San Andreas
-GTA Vice City
 GTAIII
 GTFO
 GTTOD: Get to the Orange Door
@@ -8012,6 +8018,7 @@ Grand Theft Auto: Episodes from Liberty City
 Grand Theft Auto: San Andreas
 Grand Theft Auto: The Trilogy - The Definitive Edition
 Grand Theft Auto: Vice City
+Grand Theft Auto: Vice City - The Definitive Edition
 Grandia HD Collection
 Grandia HD Remaster
 Grandia II HD Remaster
@@ -8304,6 +8311,7 @@ HackHub: Ultimate Hacker Simulator
 Hacked: The Streamer
 Hacker Simulator
 Hacker Simulator: Free Trial
+Hackmud
 Hacknet
 Hacktag
 Hacky
@@ -8525,6 +8533,7 @@ Heart of the Machine
 Heart&Slash
 Heartbeat in Thailand
 Heartbound
+Hearth and Hamlet
 Hearthstone
 Hearthstorm
 Heartopia
@@ -8568,6 +8577,7 @@ Hell Architect: Prologue
 Hell Clock
 Hell Girls
 Hell Let Loose
+Hell Let Loose: Vietnam
 Hell Maiden
 Hell Pie
 Hell Survivors
@@ -9055,6 +9065,7 @@ Hubert
 HudSight - custom crosshair overlay
 Hue
 HuggyBros Christmas
+Hull Rupture
 Human Anatomy VR
 Human Resource Machine
 Human-powered spacecraft
@@ -9898,6 +9909,7 @@ KID A MNESIA EXHIBITION
 KIDO: Ride on Time
 KIDS
 KILL KNIGHT
+KILL la KILL: IF
 KILLER INN
 KILLFISH
 KILLGUN
@@ -10044,7 +10056,6 @@ Kill Strain
 Kill The Crows
 Kill The Music
 Kill it with Fire 2
-Kill la Kill: If
 Kill or Love
 Kill the Brickman
 Kill the Lich
@@ -10398,6 +10409,7 @@ Labyrinth of Touhou: Gensokyo and the Heaven-Piercing Tree
 Labyrinth of Zangetsu
 Lacey's Flash Games
 Lacey's Wardrobe
+Lacrosse 26
 Lacuna
 Ladders by POWGI
 Laika: Aged Through Blood
@@ -10747,6 +10759,7 @@ Little Nightmares II
 Little Nightmares II Demo
 Little Nightmares III
 Little Nightmares III - Демо-версия
+Little Nightmares VR: Altered Echoes
 Little Noah: Scion of Paradise
 Little Problems
 Little Ralph
@@ -11105,6 +11118,7 @@ MINECRAFT: Legends
 MINERVA
 MINOS: Home A-Labyrinth
 MIO: Memories in Orbit
+MIR 4
 MISERY
 MISTERY
 MISTOVER Demo
@@ -11963,7 +11977,6 @@ Mint's Hints
 Minus Nine
 Minutes
 Minutescape
-Mir 4
 Mira and the Legend of the Djinns
 Miracle Snack Shop
 Miraculous: Paris Under Siege
@@ -13261,6 +13274,7 @@ Omega Fighter
 Omega Five
 Omega Labyrinth Life
 Omega Labyrinth Z
+Omega Phenex Commenced Project Six
 Omega Strikers
 Omelet You Cook
 Omensight
@@ -14873,7 +14887,7 @@ RAGE
 RAGE 2
 RAID: World War II
 RAIDBORN
-RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY
+RAIDOU Remastered: The Mystery of the Soulless Army
 RAILGRADE
 RAM: Random Access Mayhem
 RAWMEN
@@ -15976,6 +15990,7 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
+SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -16077,6 +16092,7 @@ Sacred Gold
 Sacred Sword Princesses
 Sacred X: Heavens Wonderland
 SacriFire
+Sacrifice
 Safari Cannon
 Safari Puzzle Match
 Safeguard Saga
@@ -16960,6 +16976,7 @@ Slime-san
 Slime-san: Superslime Edition
 Slime: Isekai Memories
 Slimeboo
+Slimeward
 Slinkie Dinkie
 Slinko
 Slip & Skid
@@ -17065,7 +17082,6 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
-Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
@@ -18414,6 +18430,7 @@ THE FINALS
 THE GAME OF LIFE 2
 THE HOUSE OF THE DEAD 2: Remake
 THE HOUSE OF THE DEAD: Remake
+THE JOY OF CREATION
 THE KING OF FIGHTERS XIII STEAM EDITION
 THE KING OF FIGHTERS XV
 THE LAST TRAIN: Baquedano
@@ -19219,7 +19236,6 @@ The Jackbox Party Pack 9
 The Jackbox Party Starter
 The Jackbox Survey Scramble
 The Japanese Calligraphy
-The Joy of Creation
 The Jumping Alphabet Soup
 The Jumping Bagel
 The Jumping Brownie
@@ -19738,7 +19754,7 @@ The WILDS
 The Walking Dead: A New Frontier
 The Walking Dead: Destinies
 The Walking Dead: Michonne
-The Walking Dead: Michonne - A Telltale Miniseries: Episode One - In Too Deep
+The Walking Dead: Michonne - Episode 1: In Too Deep
 The Walking Dead: No Man's Land
 The Walking Dead: Saints & Sinners
 The Walking Dead: Saints & Sinners - Chapter 2: Retribution
@@ -20429,9 +20445,11 @@ Treasures of the Roman Empire
 Tree Simulator 2022
 Tree of Savior
 Tree of Savior (Japanese Ver.)
+Trees Hate You
 Treeverse
 Trek to Yomi
 Trench Face
+Trench Lord: Eastern Front
 Trench Tales
 TrenchesWIP
 Trendpoker 3D: Free Online Poker
@@ -20599,6 +20617,7 @@ Turrican Anthology Vol. 2
 Turrican Flashback Collection
 Turtle Champs
 Turtle Riders
+TurtleSkate
 Tutankham
 Tvö
 Twelve Minutes
@@ -21204,6 +21223,7 @@ VoidCraft Island Chronicles: Sky Survival
 Voidigo
 Voidling Bound
 Voidloop
+Voidpet Dungeon
 Voids Vigil
 Voidtrain
 Voidwrought
@@ -22403,9 +22423,9 @@ goblinAmerica
 gogh: Focus with Your Avatar
 gridkeeper
 hack_me
-hackmud
 hexceed
 holo8
+holoVillage: Our Cozy Days
 hololive GoroGoro Mountain
 hololive Holo's Hanafuda
 hololive Treasure Mountain
@@ -22439,6 +22459,7 @@ openCanvas 7
 orbt xl
 osu!
 outpost4
+over the hill
 pemsa
 pla_toon
 pureya
