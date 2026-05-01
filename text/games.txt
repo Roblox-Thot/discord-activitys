@@ -1067,7 +1067,7 @@ ArcRunner
 Arca's Path VR
 Arcade Archives 2: Ridge Racer
 Arcade Archives Solitary Fighters
-Arcade Archives: Burnin' Rubber
+Arcade Archives: BURNIN' RUBBER
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -2848,7 +2848,6 @@ CPUCores :: Maximize Your FPS
 CRANKED
 CRETE
 CRIMESIGHT
-CRISIS CORE: FINAL FANTASY VII - REUNION
 CROWDED. FOLLOWED.
 CROWZ
 CRSED: F.O.A.D.
@@ -4126,6 +4125,7 @@ Crimsonland
 Crimzon Clover: World Ignition
 Cris Tales
 Crisis Brigade 2: Reloaded
+Crisis Core: Final Fantasy VII - Reunion
 Crisis in the Kremlin
 Crisis in the Kremlin: The Cold War
 Crisis on the Planet of the Apes VR
@@ -6484,7 +6484,6 @@ FIND ALL 9: Fantasy
 FIND ALL: Halloween
 FIRESTARTERS
 FISH FEAR ME
-FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FLATHEAD
 FLATLAND Vol.1
 FLAW
@@ -6968,6 +6967,7 @@ Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
 Five Nights at Freddy's 4
+Five Nights at Freddy's: Help Wanted
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
@@ -8311,7 +8311,6 @@ HackHub: Ultimate Hacker Simulator
 Hacked: The Streamer
 Hacker Simulator
 Hacker Simulator: Free Trial
-Hackmud
 Hacknet
 Hacktag
 Hacky
@@ -9488,6 +9487,7 @@ Injustice 2: Legendary Edition
 Injustice: Gods Among Us
 Injustice: Gods Among Us Ultimate Edition
 Ink: Tournament Paintball
+Inkblood
 Inkborn
 Inkbound
 Inkshade
@@ -10299,6 +10299,7 @@ Kukoos: Lost Pets
 Kukoro: Stream Chat Games
 Kulebra and the Souls of Limbo
 KuloNiku: Bowl Up!
+Kumitantei: Old School Slaughter
 KunKunNest
 Kung Fu FIGHT!
 Kung Fu Panda: Showdown of Legendary Legends
@@ -11118,7 +11119,6 @@ MINECRAFT: Legends
 MINERVA
 MINOS: Home A-Labyrinth
 MIO: Memories in Orbit
-MIR 4
 MISERY
 MISTERY
 MISTOVER Demo
@@ -11977,6 +11977,7 @@ Mint's Hints
 Minus Nine
 Minutes
 Minutescape
+Mir 4
 Mira and the Legend of the Djinns
 Miracle Snack Shop
 Miraculous: Paris Under Siege
@@ -14887,7 +14888,7 @@ RAGE
 RAGE 2
 RAID: World War II
 RAIDBORN
-RAIDOU Remastered: The Mystery of the Soulless Army
+RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY
 RAILGRADE
 RAM: Random Access Mayhem
 RAWMEN
@@ -18430,7 +18431,6 @@ THE FINALS
 THE GAME OF LIFE 2
 THE HOUSE OF THE DEAD 2: Remake
 THE HOUSE OF THE DEAD: Remake
-THE JOY OF CREATION
 THE KING OF FIGHTERS XIII STEAM EDITION
 THE KING OF FIGHTERS XV
 THE LAST TRAIN: Baquedano
@@ -19236,6 +19236,7 @@ The Jackbox Party Pack 9
 The Jackbox Party Starter
 The Jackbox Survey Scramble
 The Japanese Calligraphy
+The Joy of Creation
 The Jumping Alphabet Soup
 The Jumping Bagel
 The Jumping Brownie
@@ -19565,6 +19566,7 @@ The Real Face of a VTuber
 The Red Button
 The Red Exile: Survival Horror
 The Red Lantern
+The Red Pearls Of Borneo
 The Red Solstice
 The Red Stare
 The Red Strings Club
@@ -20722,6 +20724,7 @@ Udonge in Interspecies Cave
 Ufouria: The Saga 2
 Ugly Americans: Apocalypsegeddon
 UglyDolls: An Imperfect Adventure
+Ugoku Sushi Bar
 Uh Oh!
 Ukrainian Fight Drone Simulator
 Ukrainian Warfare: Gostomel Heroes
@@ -21780,6 +21783,7 @@ Witch You Want
 Witch and Council
 Witch of Eclipse
 Witch of the Meta Loop
+Witch the Showdown
 Witch's Apocalyptic Journey
 Witch's Doll
 Witch's Pranks: Frog's Fortune
@@ -22384,6 +22388,7 @@ Zup! Zero
 Zup! Zero 2
 Zupay: Shadows of Independence
 Zusi 3: Aerosoft Edition
+Zwaard
 Zwift
 Zynga Poker
 [HERROR] Gas Station Case
@@ -22423,6 +22428,7 @@ goblinAmerica
 gogh: Focus with Your Avatar
 gridkeeper
 hack_me
+hackmud
 hexceed
 holo8
 holoVillage: Our Cozy Days

@@ -10067,6 +10067,8 @@ win64/nascar25_steam-win64-shipping.exe
 win64/nbaplaygrounds-win64-shipping.exe
 win64/nbaplaygrounds2-win64-shipping.exe
 win64/nebulaclient-win64-shipping.exe
+win64/nebulaclientegs-win64-shipping.exe
+win64/nebulaclientsteam-win64-shipping.exe
 win64/nekopara.exe
 win64/nether.exe
 win64/newgreedland-win64-shipping.exe
