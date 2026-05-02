@@ -654,6 +654,7 @@ Airship
 Airship: Kingdoms Adrift
 Airships: Conquer the Skies
 Airships: Lost Flotilla
+Airsoft Online
 Ajax
 Aka Manto
 Akane
@@ -1067,7 +1068,7 @@ ArcRunner
 Arca's Path VR
 Arcade Archives 2: Ridge Racer
 Arcade Archives Solitary Fighters
-Arcade Archives: BURNIN' RUBBER
+Arcade Archives: Burnin' Rubber
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -1863,6 +1864,7 @@ Bay Breaker
 Bayala: The Game
 Bayonetta
 Bazaar Simulator
+Bazooka: Rhythm Game
 Be Funny Now!
 Be My Horde
 Be Queen Bee
@@ -1935,6 +1937,7 @@ Bee Flowers
 Bee Island
 Bee Simulator
 Beecarbonize
+Beencremental
 Beep! Beep! Deliveries
 Beer Factory
 Beer Manufacture Simulator
@@ -2022,6 +2025,7 @@ Beyond Good & Evil
 Beyond Good & Evil HD
 Beyond Good & Evil: 20th Anniversary Edition
 Beyond Hanwell
+Beyond Sandbox
 Beyond Sunset
 Beyond These Stars
 Beyond Words
@@ -3367,6 +3371,7 @@ Chef
 Chef Knight
 Chef Life: A Restaurant Simulator
 Chef RPG
+Chef's Journey: Cooking Adventures
 Chenso Club
 Chernobyl Again
 Chernobylite
@@ -4240,6 +4245,7 @@ Crystal of Atlan
 Crystalfall
 Crystallium
 Crystallo HD
+Crystar
 Crystarise
 Cthulhu Saves the World
 Cthulhu: The Cosmic Abyss
@@ -8311,6 +8317,7 @@ HackHub: Ultimate Hacker Simulator
 Hacked: The Streamer
 Hacker Simulator
 Hacker Simulator: Free Trial
+Hackmud
 Hacknet
 Hacktag
 Hacky
@@ -10299,7 +10306,7 @@ Kukoos: Lost Pets
 Kukoro: Stream Chat Games
 Kulebra and the Souls of Limbo
 KuloNiku: Bowl Up!
-Kumitantei: Old School Slaughter
+Kumitantei: Old-School Slaughter
 KunKunNest
 Kung Fu FIGHT!
 Kung Fu Panda: Showdown of Legendary Legends
@@ -11092,7 +11099,6 @@ MEGALAN 11
 MELTY BLOOD: TYPE LUMINA
 MEME EXAM 2025
 MEMOLOGY: GOYDA
-MEMORIAPOLIS
 MENACE
 MERRY BUNNY GARDEN
 MESS
@@ -11666,6 +11672,7 @@ Meme Mayhem
 MementoMori
 Memology 2: Old Times
 Memorania
+Memoriapolis
 Memories Off: Innocent Fille
 Memories Off: Innocent Fille for Dearest
 Memories Off: Sorekara
@@ -14864,7 +14871,6 @@ Quiz Thiz United Kingdom
 Qump Jump
 Quomitter's Pinball
 Qwilight
-Qínggǎn fǎn zhà mónǐ qì
 R Drive
 R Wheel
 R-TYPE FINAL 2
@@ -15179,7 +15185,7 @@ Realm Royale Reforged
 Realm of Ink
 Realm of Simplicity
 Realm of the Mad God
-Realm of the Mad God Exalt
+Realm of the Mad God: Exalt
 Realm of the Undead
 Realms Of Bondage
 Realms of Alurya
@@ -15991,7 +15997,6 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
-SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -17083,6 +17088,7 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
+Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
@@ -18431,6 +18437,7 @@ THE FINALS
 THE GAME OF LIFE 2
 THE HOUSE OF THE DEAD 2: Remake
 THE HOUSE OF THE DEAD: Remake
+THE JOY OF CREATION
 THE KING OF FIGHTERS XIII STEAM EDITION
 THE KING OF FIGHTERS XV
 THE LAST TRAIN: Baquedano
@@ -18528,6 +18535,7 @@ Taimumari: Complete Edition
 Tainted Grail: Conquest
 Tainted Grail: The Fall of Avalon
 Taishogun: The Rise of Emperor
+Taival
 Taiwan Love Story⁵
 Takara Cards
 Take Me To The Dungeon!!
@@ -19236,7 +19244,6 @@ The Jackbox Party Pack 9
 The Jackbox Party Starter
 The Jackbox Survey Scramble
 The Japanese Calligraphy
-The Joy of Creation
 The Jumping Alphabet Soup
 The Jumping Bagel
 The Jumping Brownie
@@ -19566,7 +19573,7 @@ The Real Face of a VTuber
 The Red Button
 The Red Exile: Survival Horror
 The Red Lantern
-The Red Pearls Of Borneo
+The Red Pearls of Borneo
 The Red Solstice
 The Red Stare
 The Red Strings Club
@@ -21087,6 +21094,7 @@ Vector
 Vector Strike
 Vectorio
 Vectromirror 0
+Ved: Recure
 Vedelem: The Golden Horde
 Vegas Casino & Slots: Slottist
 Vegas Infinite by PokerStars
@@ -21582,6 +21590,7 @@ Welcome to the Guild Explorers
 Welcome to the World of Nik and Kit
 Welcome to the World of ZJ the Ball
 Welcome to the World of Zippy the Circle (Visual Novel)
+Well Dweller
 Wer Weiss Denn Sowas?
 Werewolf Hunter: Survive The Howl
 Werewolf Party
@@ -22428,7 +22437,6 @@ goblinAmerica
 gogh: Focus with Your Avatar
 gridkeeper
 hack_me
-hackmud
 hexceed
 holo8
 holoVillage: Our Cozy Days
@@ -22565,6 +22573,7 @@ you're just imagining it
 太鼓の達人 ドンダフルフェスティバル 体験版
 孵道
 幻塔
+情感反诈模拟器
 抓到冒險者醬了！～Live2D觸手模擬器～
 日本事故物件監視協会 -Japan Stigmatized Property-
 日本事故物件監視協会2 -Japan Stigmatized Property-
