@@ -687,6 +687,7 @@ Albedo: Eyes from Outer Space
 Albert & Otto: The Adventure Begins
 Albion Online
 Alchemist Shop Simulator
+Alchemist's Garden
 Alchemist: The Potion Monger
 Alchemy Factory
 Alchemy Frogs
@@ -1029,6 +1030,7 @@ Apewar
 Apex Legends
 Apex Point
 Apex Rush
+Aphelion
 Apocalipsis: The Tree of the Knowledge of Good and Evil
 Apocalypse Express
 Apocalypse Party
@@ -1068,7 +1070,7 @@ ArcRunner
 Arca's Path VR
 Arcade Archives 2: Ridge Racer
 Arcade Archives Solitary Fighters
-Arcade Archives: Burnin' Rubber
+Arcade Archives: BURNIN' RUBBER
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -1253,6 +1255,7 @@ Asphalt Legends Unite
 Aspire: Ina's Tale
 Assassin Run 2D
 Assassin's Creed
+Assassin's Creed Black Flag Resynced
 Assassin's Creed Brotherhood
 Assassin's Creed Chronicles: China
 Assassin's Creed Chronicles: India
@@ -6490,6 +6493,7 @@ FIND ALL 9: Fantasy
 FIND ALL: Halloween
 FIRESTARTERS
 FISH FEAR ME
+FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FLATHEAD
 FLATLAND Vol.1
 FLAW
@@ -6973,7 +6977,6 @@ Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
 Five Nights at Freddy's 4
-Five Nights at Freddy's: Help Wanted
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
@@ -7355,6 +7358,7 @@ Frostbound
 Frosthaven
 Frostpunk
 Frostpunk 2
+Frostrail
 Frostrain
 Frostrain2
 Frozen Flame
@@ -7652,7 +7656,7 @@ Gedonia 2
 Gem Defender: Soyjak Survivors
 Gem Miner TD
 Gem Smashers
-GemCraft Chapter Two: Chasing Shadows
+GemCraft - Chasing Shadows
 GemCraft: Frostborn Wrath
 Gemini Wing
 Gemporium
@@ -8317,7 +8321,6 @@ HackHub: Ultimate Hacker Simulator
 Hacked: The Streamer
 Hacker Simulator
 Hacker Simulator: Free Trial
-Hackmud
 Hacknet
 Hacktag
 Hacky
@@ -9147,6 +9150,7 @@ Hyperdimension Neptunia Re;Birth1
 Hyperdimension Neptunia Re;Birth2: Sisters Generation
 Hyperdimension Neptunia Re;Birth3: V Generation
 Hyperdimension Neptunia U: Action Unleashed
+Hyperfight 2
 Hypermarket Simulator
 Hypermarket Simulator Empire 2024
 Hyperwar
@@ -10263,6 +10267,7 @@ Kokoro Kitchen
 Koltera
 Koltera 2
 Kombinera
+KonKan
 Kona
 Kona II: Brume
 Konami's: Ping Pong
@@ -11125,6 +11130,7 @@ MINECRAFT: Legends
 MINERVA
 MINOS: Home A-Labyrinth
 MIO: Memories in Orbit
+MIR 4
 MISERY
 MISTERY
 MISTOVER Demo
@@ -11984,7 +11990,6 @@ Mint's Hints
 Minus Nine
 Minutes
 Minutescape
-Mir 4
 Mira and the Legend of the Djinns
 Miracle Snack Shop
 Miraculous: Paris Under Siege
@@ -13131,6 +13136,7 @@ OFF
 OFF
 OHV
 OKAGE: Shadow King
+OMEGA PHENEX COMMENCED PROJECT SIX
 OMFG: One Million Fatal Guns
 OMNO
 OMON Simulator
@@ -13282,7 +13288,6 @@ Omega Fighter
 Omega Five
 Omega Labyrinth Life
 Omega Labyrinth Z
-Omega Phenex Commenced Project Six
 Omega Strikers
 Omelet You Cook
 Omensight
@@ -13353,6 +13358,7 @@ Onee Chanbara Origin
 Oneirophobia
 Oneway.exe
 Oni
+Oni Sazae Tori
 Onigiri
 Onigiri Shop Simulator
 Onikura
@@ -14894,7 +14900,7 @@ RAGE
 RAGE 2
 RAID: World War II
 RAIDBORN
-RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY
+RAIDOU Remastered: The Mystery of the Soulless Army
 RAILGRADE
 RAM: Random Access Mayhem
 RAWMEN
@@ -19531,6 +19537,7 @@ The Plane Effect
 The Planet Crafter Demo
 The Planet Crafter: Prologue
 The PlayRoom
+The Player Who Can't Level Up
 The Playroom VR
 The Plucky Squire
 The Plumber
@@ -20108,6 +20115,7 @@ Tom Clancy's The Division
 Tom Clancy's The Division 2
 Tom Clancy's The Division Trial
 Tom Clancy's The Division: Heartland
+Tom Clancy's The Division: Resurgence
 Tom the Postgirl
 Tomb Raider
 Tomb Raider I
@@ -21502,6 +21510,7 @@ Water Delivery
 Water Margin: The Tales of Clouds and Winds
 Water Ski
 Water Sort Puzzle 2023
+Water Womb World
 Watermelon Game
 Watermelon Game: Fruits Puzzle
 Waterpark Simulator
@@ -22437,6 +22446,7 @@ goblinAmerica
 gogh: Focus with Your Avatar
 gridkeeper
 hack_me
+hackmud
 hexceed
 holo8
 holoVillage: Our Cozy Days
@@ -22452,7 +22462,7 @@ iRacing.com Race Simulation
 iScoot
 ibb & obb
 inFAMOUS: Second Son
-inKONBINI
+inKONBINI: One Store. Many Stories
 inZOI
 inbento
 is this seat taken?
