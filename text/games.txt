@@ -131,7 +131,7 @@
 4 in a Row Connect+
 40 Sports Games in 1
 404Sight
-420Blaze It 2: Game of the Year
+420BLAZE IT 2: GAME OF THE YEAR
 428: Shibuya Scramble
 4:LOOP
 4D Golf
@@ -351,7 +351,6 @@ ANLIFE: Motion-Learning Life Evolution
 ANNO: Mutationem
 ANNO: Mutationem Demo
 ANONYMOUS;CODE
-ANTHEM
 ANTHEM#9
 ANTONBLAST
 AO Tennis 2
@@ -993,6 +992,7 @@ Another World: 20th Anniversary Edition
 Anoxia Station
 Ant Colony: Wild Forest
 Anterris
+Anthem™
 Anthill Village
 Anthology of Fear
 Anthro Heat
@@ -1072,7 +1072,7 @@ ArcRunner
 Arca's Path VR
 Arcade Archives 2: Ridge Racer
 Arcade Archives Solitary Fighters
-Arcade Archives: BURNIN' RUBBER
+Arcade Archives: Burnin' Rubber
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -2996,7 +2996,7 @@ Capcom Fighting Collection
 Capcom Fighting Collection 2
 Capes
 Capital Command
-Capitalism II
+Capitalism 2
 Capote
 Cappuccino Assassino Shooter
 Capsule Fight
@@ -4001,10 +4001,10 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
-CounterSide
 CounterSpy
 Counterpact
 Counterpick Labs
+Counterside
 Countersnipe
 Countless Army
 Countryballs: Power Protocol
@@ -6515,6 +6515,7 @@ FIND KITTENS 9: Aliens
 FIND KITTENS: The last of cats
 FIRESTARTERS
 FISH FEAR ME
+FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FLATHEAD
 FLATLAND Vol.1
 FLAW
@@ -7001,7 +7002,6 @@ Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
 Five Nights at Freddy's 4
-Five Nights at Freddy's: Help Wanted
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
@@ -7691,6 +7691,7 @@ Gems Rush
 Gems of War
 Gene Rain
 Generation Zero
+Generic Fighter Maybe
 Genesis Alpha One
 Genesis Alpha One: Deluxe Edition
 Genesis Noir
@@ -11873,6 +11874,7 @@ Midnight Deluxe
 Midnight Fight Express
 Midnight Ghost Hunt
 Midnight Heist
+Midnight Hoops
 Midnight Mayhem
 Midnight Murder Club
 Midnight Paradise
@@ -12773,8 +12775,8 @@ Nefiriya and the Sands of Eternity
 Negligee
 Nehrim: At Fate's Edge
 Neighbors: Suburban Warfare
+Neighbours From Hell Compilation
 Neighbours back From Hell
-Neighbours from Hell Compilation
 Nekketsu! Street Basketball All-Out Dunk Heroes
 Neko Arena
 Neko Atsume VR
@@ -13534,6 +13536,7 @@ Ouros
 Out Fishing
 Out There Somewhere
 Out There: Ω Edition
+Out To Deliver
 Out and About
 Out of Action
 Out of Hands
@@ -16971,6 +16974,7 @@ Sky: Children of the Light
 SkyBot Valley
 SkyDrift
 SkyGunner
+SkyInFlames
 SkyIsland
 SkyShard
 Skybreakers
@@ -20079,6 +20083,7 @@ Tinkle Pit
 Tint n Ink
 Tiny Aquarium: Social Fishkeeping
 Tiny Auto Knights
+Tiny Bakery
 Tiny Biomes: Cozy Idle
 Tiny Bookshop
 Tiny Bunny
@@ -20759,6 +20764,7 @@ Tyrant's Realm
 Tyrion Cuthbert: Attorney of the Arcane
 Tyrone Soulz
 Tzar: The Burden of the Crown
+U.V.S. Nirmana
 UBERMOSH
 UBOAT
 UD CAVE
