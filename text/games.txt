@@ -752,7 +752,7 @@ All Mechs On Deck
 All Mighty Tower
 All Quiet in the Trenches
 All Walls Must Fall
-All You Need is Help
+All You Need Is Help
 All in Abyss: Judge the Fake
 All-In-One Sports VR
 Allegiance
@@ -1038,6 +1038,7 @@ Apocalypse Express
 Apocalypse Party
 Apocalypter
 Apogea
+Apokerlypse
 Apollo 13: The Lost Tapes VR
 Apollo Justice: Ace Attorney Trilogy
 Apotheon
@@ -1070,7 +1071,6 @@ Arc of Alchemist
 Arc the Lad: Twilight of the Spirits
 ArcRunner
 Arca's Path VR
-Arcade Archives 2: Ridge Racer
 Arcade Archives Solitary Fighters
 Arcade Archives: Burnin' Rubber
 Arcade Archives: Cue Brick
@@ -1527,6 +1527,7 @@ BLITZ ARENA
 BLOCKLORDS
 BLOCKPOST MOBILE
 BLOK
+BLOOD MALL: RETAPED
 BLOOD VIAL
 BLOODSTRIKE
 BLOW-UP: Avenge Humanity
@@ -2863,7 +2864,6 @@ CPUCores :: Maximize Your FPS
 CRANKED
 CRETE
 CRIMESIGHT
-CRISIS CORE: FINAL FANTASY VII - REUNION
 CROWDED. FOLLOWED.
 CROWZ
 CRSED: F.O.A.D.
@@ -4001,10 +4001,10 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
+CounterSide
 CounterSpy
 Counterpact
 Counterpick Labs
-Counterside
 Countersnipe
 Countless Army
 Countryballs: Power Protocol
@@ -4145,6 +4145,7 @@ Crimsonland
 Crimzon Clover: World Ignition
 Cris Tales
 Crisis Brigade 2: Reloaded
+Crisis Core: Final Fantasy VII - Reunion
 Crisis in the Kremlin
 Crisis in the Kremlin: The Cold War
 Crisis on the Planet of the Apes VR
@@ -6114,7 +6115,7 @@ Endless Shaft
 Endless Sky
 Endless Space
 Endless Space 2
-Endless World
+Endless World Idle RPG
 Endless Zone
 Endling: Extinction is Forever
 Endoparasitic
@@ -7369,6 +7370,7 @@ Front Mission 1st: Remake
 Front Mission 2: Remake
 Frontier
 Frontier Hunter: Erza's Wheel of Fortune
+Frontier Legends
 Frontier Pilot Simulator
 Frontline 1942
 Frontline Crisis
@@ -7885,6 +7887,7 @@ Goblin Sushi
 Goblin Vyke: The Thief Tycoon
 Goblin in the Castle
 Goblin's Die
+Goblins Can Conquer
 God Awefull Clicker
 God Eater 2: Rage Burst
 God Eater 3
@@ -8220,6 +8223,7 @@ Gun Center Simulator
 Gun Club VR
 Gun Devil
 Gun Free To Fire: Shooter Game
+Gun Frog
 Gun Frontier
 Gun Godz
 Gun Shop Dealer Simulator
@@ -8595,6 +8599,7 @@ Heaven Will Be Mine
 Heaven's Vault
 Heavenhells
 Heavenly Bodies
+Heavenly Guitars
 Heavy Bullets
 Heavy Cargo: The Truck Simulator
 Heavy Fire: Red Shadow
@@ -9212,6 +9217,7 @@ I Expect You to Die 3
 I Got a Millenary Cat
 I Hate My Waifu Streamer
 I Hate this Place
+I Have No Change
 I Have No Mouth, and I Must Scream
 I Have an Item
 I Just Want to Be Single!!
@@ -9949,6 +9955,7 @@ KID A MNESIA EXHIBITION
 KIDO: Ride on Time
 KIDS
 KILL KNIGHT
+KILL la KILL: IF
 KILLER INN
 KILLFISH
 KILLGUN
@@ -10096,7 +10103,6 @@ Kill Strain
 Kill The Crows
 Kill The Music
 Kill it with Fire 2
-Kill la Kill: If
 Kill or Love
 Kill the Brickman
 Kill the Lich
@@ -13181,7 +13187,6 @@ OHV
 OKAGE: Shadow King
 OMEGA PHENEX COMMENCED PROJECT SIX
 OMFG: One Million Fatal Guns
-OMNO
 OMON Simulator
 OMORI
 OMSI 2
@@ -13337,6 +13342,7 @@ Omensight
 Omerta: City of Gangsters
 Ominous Tales: The Forsaken Isle
 Omnibus
+Omno
 Omri Final Fighter
 On Sunday
 On Sunday 2
@@ -14951,7 +14957,7 @@ RAGE
 RAGE 2
 RAID: World War II
 RAIDBORN
-RAIDOU Remastered: The Mystery of the Soulless Army
+RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY
 RAILGRADE
 RAM: Random Access Mayhem
 RAWMEN
@@ -15526,6 +15532,7 @@ Ride 6
 Rider's Spirits
 Riders Republic
 Riders of Icarus
+Ridge Racer
 Ridge Racer 2
 Ridge Racer Unbounded
 Riding Club Championships
@@ -16831,6 +16838,7 @@ Silent Still II
 Silent dream
 Silica
 Silicon Zeroes
+Silicone Heart
 Silkbulb Test
 Silkworm
 Silly Linguine Cat Simulator Deluxe Online
@@ -17659,6 +17667,7 @@ Star Wars Episode I: The Phantom Menace
 Star Wars Jedi: Fallen Order
 Star Wars Jedi: Survivor
 Star Wars Outlaws
+Star Wars Rebel Assault II: The Hidden Empire
 Star Wars: Battlefront Classic Collection
 Star Wars: Battlefront Classic Collection
 Star Wars: Battlefront II
@@ -17683,7 +17692,6 @@ Star Wars: Jedi Starfighter
 Star Wars: Knights of the Old Republic
 Star Wars: Knights of the Old Republic II - The Sith Lords
 Star Wars: Racer Revenge
-Star Wars: Rebel Assault II - The Hidden Empire
 Star Wars: Rebellion
 Star Wars: Republic Commando
 Star Wars: Rogue Squadron
@@ -17754,8 +17762,8 @@ Starvester
 Starwhal
 Stash
 Stash: A Card Looter
-State of Decay 2
 State of Decay 2: Juggernaut Edition
+State of Decay 2: Ultimate Edition
 State of Decay: Year-One Survival Edition
 State of Mind
 State of Survival
@@ -18506,7 +18514,6 @@ THE FINALS
 THE GAME OF LIFE 2
 THE HOUSE OF THE DEAD 2: Remake
 THE HOUSE OF THE DEAD: Remake
-THE JOY OF CREATION
 THE KING OF FIGHTERS XIII STEAM EDITION
 THE KING OF FIGHTERS XV
 THE LAST TRAIN: Baquedano
@@ -19316,6 +19323,7 @@ The Jackbox Party Pack 9
 The Jackbox Party Starter
 The Jackbox Survey Scramble
 The Japanese Calligraphy
+The Joy of Creation
 The Jumping Alphabet Soup
 The Jumping Bagel
 The Jumping Brownie
