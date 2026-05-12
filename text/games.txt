@@ -12905,7 +12905,7 @@ Nickelodeon Kart Racers
 Nickelodeon Kart Racers 2: Grand Prix
 Nickelodeon Kart Racers 3: Slime Speedway
 Nicktoons & The Dice of Destiny
-Nicole
+Nicole (otome version)
 Nidhogg
 Nidhogg 2
 NieR Replicant ver.1.22474487139...
@@ -13187,6 +13187,7 @@ OHV
 OKAGE: Shadow King
 OMEGA PHENEX COMMENCED PROJECT SIX
 OMFG: One Million Fatal Guns
+OMNO
 OMON Simulator
 OMORI
 OMSI 2
@@ -13342,7 +13343,6 @@ Omensight
 Omerta: City of Gangsters
 Ominous Tales: The Forsaken Isle
 Omnibus
-Omno
 Omri Final Fighter
 On Sunday
 On Sunday 2
@@ -16312,6 +16312,7 @@ Say No! More
 Say a Prayer
 Saya no Uta
 Sayonara Wild Hearts
+Scad
 Scale the Depths
 Scam Line
 Scania Truck Driving Simulator
