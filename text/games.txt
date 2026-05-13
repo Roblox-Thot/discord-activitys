@@ -15,6 +15,7 @@
 0 Day Attack on Earth
 0 Degrees
 0 Rally Desert Race: Offroad Dirt Simulator
+007 First Light
 1 Gēn xiāngcháng zǒujiānghú
 1 Square
 1-2-Whopping Word Search!
@@ -815,6 +816,7 @@ Amazing Superhero Squad
 Amber Alert
 Amber Isle
 Ambidextro
+Ambroise Niflette & the Gleaned Bell
 Ambrosia Sky: Act One
 Ambulance Life: A Paramedic Simulator
 Amelia's Diner
@@ -1072,7 +1074,7 @@ Arc the Lad: Twilight of the Spirits
 ArcRunner
 Arca's Path VR
 Arcade Archives Solitary Fighters
-Arcade Archives: Burnin' Rubber
+Arcade Archives: BURNIN' RUBBER
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -1127,6 +1129,7 @@ Archons
 Archvale
 Arco
 Arctic Awakening
+Arctic Drive
 Arctic Eggs
 Arctic Motel Simulator
 Arcticide
@@ -1897,6 +1900,7 @@ Bearly Brave
 Bears Can't Drift!?
 Bears In Space
 Beast Battle Simulator
+Beast Saga
 Beastieball
 Beastro
 Beasts of Bermuda
@@ -2612,6 +2616,7 @@ Bridge Constructor: Stunts
 Bridge Constructor: The Walking Dead
 Bridge the Gap!
 Brief Karate Foolish
+Brigador Killers
 Brigador: Up-Armored Edition
 Brigandine: The Legend of Runersia
 Bright Escape
@@ -2864,6 +2869,7 @@ CPUCores :: Maximize Your FPS
 CRANKED
 CRETE
 CRIMESIGHT
+CRISIS CORE: FINAL FANTASY VII - REUNION
 CROWDED. FOLLOWED.
 CROWZ
 CRSED: F.O.A.D.
@@ -3072,6 +3078,7 @@ Card-en-Ciel
 CardLife
 Cardaclysm
 Cardboard Town
+Cardburners
 Cardfight!! Vanguard Dear Days Demo
 Cardfight!! Vanguard: Dear Days
 Cardfight!! Vanguard: Dear Days 2
@@ -4001,10 +4008,10 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
-CounterSide
 CounterSpy
 Counterpact
 Counterpick Labs
+Counterside
 Countersnipe
 Countless Army
 Countryballs: Power Protocol
@@ -4017,6 +4024,7 @@ Cozy Builder
 Cozy Caravan
 Cozy Claw Machine
 Cozy Cleaner
+Cozy Game Restoration
 Cozy Grove
 Cozy Island
 Cozy Keep: Farm, Craft, Manage
@@ -4145,7 +4153,6 @@ Crimsonland
 Crimzon Clover: World Ignition
 Cris Tales
 Crisis Brigade 2: Reloaded
-Crisis Core: Final Fantasy VII - Reunion
 Crisis in the Kremlin
 Crisis in the Kremlin: The Cold War
 Crisis on the Planet of the Apes VR
@@ -4199,6 +4206,7 @@ Crowalt: Traces of the Lost Colony
 Crowd Run
 Crowfall
 Crown Champion: Legends of the Arena
+Crown Siege
 Crown Trick
 Crown Wars: The Black Prince
 Crown and Adventure
@@ -4956,6 +4964,7 @@ DemonCrawl
 Demonic Mahjong
 Demonologist
 Demons Roots
+Demons' Timeline
 DemonsAreCrazy
 Demonschool
 Demonsomnia
@@ -5958,6 +5967,7 @@ EcoGnomix
 Ecopunk
 Ecosystem
 Ecosystem Demo
+Ecto
 Ed-0: Zombie Uprising
 Eden Crafters
 Eden Eternal
@@ -6036,6 +6046,7 @@ Elevator Action Returns
 Eleven: Table Tennis VR
 Elewar: Fused Survivors
 Elin
+Elise and the Spellbinding Marionette
 Elite Exorcist Miko
 Elite: Dangerous
 Ellen
@@ -7332,6 +7343,7 @@ Friends vs Friends Demo
 Friends vs. Friends
 Friendship with Benefits
 Friendslop Drive
+Fright Train
 Frigore
 Frisky Tom
 Frog Bath
@@ -7508,6 +7520,7 @@ GRID: Autosport
 GRIDROAD
 GRIME Demo
 GRIMPS
+GRIP XR
 GRIS
 GT Manager
 GTA San Andreas
@@ -8501,6 +8514,7 @@ Harvest Moon: Light of Hope Special Edition
 Harvest Moon: Save the Homeland
 Harvest Moon: The Winds of Anthos
 Harvest Seasons
+Harvest Skies: Crop Dusting Simulator
 Harvester
 Hasbro Family Fun Pack: Conquest Edition
 Hasbro's BATTLESHIP
@@ -8551,6 +8565,7 @@ Hayarigami 2: Keishichou Kaii Jiken File
 Haydee
 Haydee 2
 Haydee 3
+Hazard Levels
 He Needs His Medicine
 He Who Watches
 He is Coming
@@ -8909,6 +8924,7 @@ Holdfast: Nations At War
 Hole
 Hole Digging Master
 Hole Dweller
+Hole Is Mine
 Hole Theory
 Hole.io
 Holey
@@ -9136,6 +9152,7 @@ Hunt and Snare
 Hunt: Showdown
 Hunt: Showdown 1896
 Hunt: Showdown 1896
+Huntdown: Overtime
 Hunted: The Demon's Forge
 Hunter Roulette
 Hunter Shooting Camp
@@ -9246,7 +9263,6 @@ I got a cat maid
 I hate this game
 I'm Counting to 6...
 I'm Pregnant at 16
-I'm a Wizard, But I Dig
 I'm in Love With Your Dead Grandmother
 I'm in Love With Your Dead Grandmother Presents: Noah SmallJohnson's Puzzle Game
 I'm in Love With Your Dead Grandmother: Online Battle Royale
@@ -9702,6 +9718,7 @@ Italian Pizza Simulator
 Ithya: Magic Studies
 IvAc
 Iverian Wars: Craxion vs Defugel
+I’m a Wizard, But I Dig
 I’m not a Monster
 J-Jump Arena
 J.A.W.S
@@ -9723,6 +9740,7 @@ Jack Move
 Jack the Mechanician
 Jackal
 Jackpot Buffalo Slots
+Jackpot Crash Course
 Jackpot Poker by PokerStars
 Jackpot Poker by PokerStars
 Jacksmith: Weapons and Warriors
@@ -10840,6 +10858,7 @@ Living With Sister: Monochrome Fantasy
 Living With a Little Fox Girl
 Living with Horses: My Horse Farm
 Living with My Little Sister
+LivingBattle
 LivingForest
 Lizard Lady vs the Cats
 Llamacorn
@@ -11171,6 +11190,7 @@ MINECRAFT: Legends
 MINERVA
 MINOS: Home A-Labyrinth
 MIO: Memories in Orbit
+MIR 4
 MISERY
 MISTERY
 MISTOVER Demo
@@ -12035,7 +12055,6 @@ Mint's Hints
 Minus Nine
 Minutes
 Minutescape
-Mir 4
 Mira and the Legend of the Djinns
 Miracle Snack Shop
 Miraculous: Paris Under Siege
@@ -12084,6 +12103,7 @@ Mitsurugi Kamui Hikae
 Mittelborg: City of Mages
 Mix AI Animal Ultimate
 Mixed Spirits: Bartender Simulator
+Mixtape
 Mixups by POWGI
 Mixx Island: Remix
 Mizi NO!
@@ -12576,6 +12596,7 @@ Mystic Warriors
 Mystic Warriors Battleground
 Mystina: Remaster Online
 Myth of Empires
+Myth of Empires: Throne
 MythForce
 Mythgard
 Mythrealm
@@ -12675,6 +12696,7 @@ NITE Team 4
 NITRO GEN OMEGA
 NKO DICE
 NMO: No More Operators
+NO BACKUP
 NO STRANGERS
 NO-SKIN
 NOBUNAGA'S AMBITION: Awakening
@@ -13187,7 +13209,6 @@ OHV
 OKAGE: Shadow King
 OMEGA PHENEX COMMENCED PROJECT SIX
 OMFG: One Million Fatal Guns
-OMNO
 OMON Simulator
 OMORI
 OMSI 2
@@ -13343,6 +13364,7 @@ Omensight
 Omerta: City of Gangsters
 Ominous Tales: The Forsaken Isle
 Omnibus
+Omno
 Omri Final Fighter
 On Sunday
 On Sunday 2
@@ -13651,6 +13673,7 @@ Oxenfree II: Lost Signals
 Oxide: Room 104
 Oxygen
 Oxygen Not Included
+Oxygen Train
 Ozmafia!!
 Ozymandias
 P Fit
@@ -13771,6 +13794,7 @@ Paddle Together
 Paddle Vs. Paddle
 Paddles
 Pagan: Absent Gods
+Pagoda
 Painkiller
 Painkiller: Black Edition
 Painkiller: Hell & Damnation
@@ -14784,6 +14808,7 @@ Punch Monk
 PunchMan Online
 Puni the Florist
 Punishing: Gray Raven
+Punk
 Pupil: Wandering VR
 Puppet Master: The Game
 Puppet Team
@@ -15352,6 +15377,7 @@ Relayer
 Relayer Advanced
 Relentless Expanse
 Relic Abyss
+Relic Arena
 Relic Guardian
 Relic Hunters Legend
 Relic Hunters Zero
@@ -15617,6 +15643,7 @@ River City Girls 2
 River City Girls Zero
 River City Ransom
 River City Ransom: Underground
+River Drift
 River Pirates
 River Runners
 River Tails: Stronger Together
@@ -16060,7 +16087,6 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
-SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -17162,6 +17188,7 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
+Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
@@ -18126,6 +18153,7 @@ Summonsters
 Sumo
 Sun Haven
 Sunbeam Feast
+Suncraft
 Sundered: Eldritch Edition
 Sunderfolk
 Sunforge Solar Survival
@@ -18515,6 +18543,7 @@ THE FINALS
 THE GAME OF LIFE 2
 THE HOUSE OF THE DEAD 2: Remake
 THE HOUSE OF THE DEAD: Remake
+THE JOY OF CREATION
 THE KING OF FIGHTERS XIII STEAM EDITION
 THE KING OF FIGHTERS XV
 THE LAST TRAIN: Baquedano
@@ -19059,6 +19088,7 @@ The Coin Game Demo
 The Cold White
 The Colonists
 The Coma 2: Vicious Sisters
+The Coma 3: Bloodlines
 The Coma: Recut
 The Complex
 The Complex: Expedition
@@ -19253,6 +19283,7 @@ The Great Hatch
 The Great Villainess: Strategy of Lily
 The Great War: Western Front
 The Greatest Penguin Heist of All Time
+The Greenening
 The Grey Dream
 The Grid Platformer
 The Grinch: Christmas Adventures
@@ -19324,7 +19355,6 @@ The Jackbox Party Pack 9
 The Jackbox Party Starter
 The Jackbox Survey Scramble
 The Japanese Calligraphy
-The Joy of Creation
 The Jumping Alphabet Soup
 The Jumping Bagel
 The Jumping Brownie
@@ -19920,6 +19950,7 @@ TheDawn
 TheFighters: NewBlood
 Thea 2: The Shattering
 Thea: The Awakening
+Theatre of War: Rearmed
 Their Land
 Thekku Island
 Them Bombs!
@@ -20304,6 +20335,7 @@ Totally Normal Journey: The Interactive Musical
 Totally Reliable Delivery Service
 Totally Reliable Delivery Service Beta
 Totemori
+Totopia
 Touch Type Tale
 Touge Shakai
 Touhou 10.5: Scarlet Weather Rhapsody
@@ -21538,6 +21570,7 @@ Warhammer: Chaosbane
 Warhammer: Chaosbane - Slayer Edition
 Warhammer: Dark Omen
 Warhammer: End Times - Vermintide
+Warhammer: Shadow of the Horned Rat
 Warhammer: The Horus Heresy - Legions
 Warhammer: Vermintide 2
 Warhaven
@@ -21629,7 +21662,7 @@ We Escaped a Twisted Game
 We Gotta Go
 We Happy Few
 We Harvest Shadows
-We Love Katamari Reroll + Royal Reverie
+We Love Katamari REROLL+ Royal Reverie
 We Need to Go Deeper
 We Sing Pop!
 We Used to Play Here
