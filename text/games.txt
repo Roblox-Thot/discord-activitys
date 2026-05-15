@@ -132,7 +132,7 @@
 4 in a Row Connect+
 40 Sports Games in 1
 404Sight
-420BLAZE IT 2: GAME OF THE YEAR
+420Blaze It 2: Game of the Year
 428: Shibuya Scramble
 4:LOOP
 4D Golf
@@ -298,7 +298,6 @@ ABYSSAL BLADE
 AC Sailing
 ACA NEOGEO: The King of Fighters '97
 ACA Neo Geo: 3 Count Bout
-ACA Neo Geo: King of the Monsters
 ACA Neo Geo: Ninja Commando
 ACA Neo Geo: Shock Troopers
 ACE COMBAT™ ASSAULT HORIZON Enhanced Edition
@@ -352,6 +351,7 @@ ANLIFE: Motion-Learning Life Evolution
 ANNO: Mutationem
 ANNO: Mutationem Demo
 ANONYMOUS;CODE
+ANTHEM
 ANTHEM#9
 ANTONBLAST
 AO Tennis 2
@@ -753,7 +753,7 @@ All Mechs On Deck
 All Mighty Tower
 All Quiet in the Trenches
 All Walls Must Fall
-All You Need Is Help
+All You Need is Help
 All in Abyss: Judge the Fake
 All-In-One Sports VR
 Allegiance
@@ -994,7 +994,6 @@ Another World: 20th Anniversary Edition
 Anoxia Station
 Ant Colony: Wild Forest
 Anterris
-Anthem™
 Anthill Village
 Anthology of Fear
 Anthro Heat
@@ -1558,6 +1557,7 @@ BREAK ARTS II
 BREAK STUFF VR
 BREATHE
 BRIKS Head to Head
+BROK the InvestiGator
 BROKE PROTOCOL
 BROTHER!!! Save him!
 BRUTAL JOHN 2
@@ -2638,7 +2638,6 @@ Broadsword: Warlord Edition
 Brocula
 Broforce
 Broilers
-Brok the InvestiGator
 Broke Alchemist Emma's Debt Repayment Plan
 Broken Age
 Broken Arrow
@@ -6126,7 +6125,7 @@ Endless Shaft
 Endless Sky
 Endless Space
 Endless Space 2
-Endless World Idle RPG
+Endless World
 Endless Zone
 Endling: Extinction is Forever
 Endoparasitic
@@ -8343,13 +8342,13 @@ HOOK
 HORROR TALES: The Beggar
 HOTEL BARCELONA
 HOUSE
-HOW TO SURVIVE 2
 HROT
 HROT Demo
 HSS: Reload
 HUMANKIND
 HUMANKIND™ Demo
 HUNTDOWN
+HUNTDOWN: OVERTIME
 HYPER DEMON
 HYPER DEMON PVP
 HYPERBEAT
@@ -8365,6 +8364,7 @@ HackHub: Ultimate Hacker Simulator
 Hacked: The Streamer
 Hacker Simulator
 Hacker Simulator: Free Trial
+Hackmud
 Hacknet
 Hacktag
 Hacky
@@ -9152,7 +9152,6 @@ Hunt and Snare
 Hunt: Showdown
 Hunt: Showdown 1896
 Hunt: Showdown 1896
-Huntdown: Overtime
 Hunted: The Demon's Forge
 Hunter Roulette
 Hunter Shooting Camp
@@ -9973,7 +9972,6 @@ KID A MNESIA EXHIBITION
 KIDO: Ride on Time
 KIDS
 KILL KNIGHT
-KILL la KILL: IF
 KILLER INN
 KILLFISH
 KILLGUN
@@ -10121,6 +10119,7 @@ Kill Strain
 Kill The Crows
 Kill The Music
 Kill it with Fire 2
+Kill la Kill: If
 Kill or Love
 Kill the Brickman
 Kill the Lich
@@ -10183,6 +10182,7 @@ King of the Castle
 King of the Couch: Zoovival
 King of the Dwarves: Underground City Builder
 King of the Hat
+King of the Monsters
 King of the Monsters 2
 King's Bounty II
 King's Bounty: Armored Princess
@@ -10418,6 +10418,7 @@ LEGO Harry Potter Collection
 LEGO Harry Potter: Years 1-4
 LEGO Harry Potter: Years 5-7
 LEGO Horizon Adventures
+LEGO Indiana Jones 2: The Adventure Continues
 LEGO Indiana Jones: The Original Adventures
 LEGO Jurassic World
 LEGO Marvel Collection
@@ -10437,7 +10438,6 @@ LEGO The Lord of the Rings
 LEGO Voyagers
 LEGO Worlds
 LEGO® Batman 2 DC Super Heroes™
-LEGO® Indiana Jones™ 2: The Adventure Continues
 LET IT DIE: INFERNO
 LEWD GYM
 LEWDAPOCALYPSE
@@ -11845,7 +11845,6 @@ Metro Conflict: The Origin
 Metro Exodus Enhanced Edition
 Metro Exodus: Enhanced Edition
 Metro Gravity
-Metro Quester: Osaka
 Metro Redux
 Metro Simulator 2
 Metro-Cross
@@ -12803,8 +12802,8 @@ Nefiriya and the Sands of Eternity
 Negligee
 Nehrim: At Fate's Edge
 Neighbors: Suburban Warfare
-Neighbours From Hell Compilation
 Neighbours back From Hell
+Neighbours from Hell Compilation
 Nekketsu! Street Basketball All-Out Dunk Heroes
 Neko Arena
 Neko Atsume VR
@@ -12927,7 +12926,7 @@ Nickelodeon Kart Racers
 Nickelodeon Kart Racers 2: Grand Prix
 Nickelodeon Kart Racers 3: Slime Speedway
 Nicktoons & The Dice of Destiny
-Nicole (otome version)
+Nicole
 Nidhogg
 Nidhogg 2
 NieR Replicant ver.1.22474487139...
@@ -13229,6 +13228,7 @@ ORX Demo
 OTXO
 OUT OF AMMO
 OUTBRK
+OUTBUDDIES
 OUTERPLANE
 OUTLAWED
 OVERKILL's The Walking Dead
@@ -13483,6 +13483,7 @@ Operation: Outbreak
 Operation: Polygon Storm
 Operation: Tango
 Operation: Tango - Demo
+Operator
 Oppidum
 Opposwitch
 Opus Castle
@@ -13598,7 +13599,6 @@ Outbreak: Epidemic
 Outbreak: Lost Hope
 Outbreak: The New Nightmare
 Outbreak: The Nightmare Chronicles
-Outbuddies DX
 Outcast Tales
 Outcast: A New Beginning
 Outcast: Second Contact
@@ -14939,6 +14939,7 @@ Queen's Quest 5: Symphony of Death
 Queens Casino
 Quern: Undying Thoughts
 Quest Master
+Quester: Osaka
 QuiVr
 Quick Mafs Advanced
 Quick Race
@@ -14973,7 +14974,7 @@ R.B.I. Baseball 2017
 R.E.P.O.
 R.E.P.O.: Ghost Haul
 R.I.P.: Reincarnation Insurance Program
-R.U.S.E
+R.U.S.E.
 R4: Ridge Racer Type 4
 RACCOIN: Coin Pusher Roguelike
 RACING BROS
@@ -14983,7 +14984,7 @@ RAGE
 RAGE 2
 RAID: World War II
 RAIDBORN
-RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY
+RAIDOU Remastered: The Mystery of the Soulless Army
 RAILGRADE
 RAM: Random Access Mayhem
 RAWMEN
@@ -15997,6 +15998,7 @@ SAEKO: Giantess Dating Sim
 SAELIG
 SAHUR: Escape Together
 SAMURAI WARRIORS 5 Trial version
+SANABI
 SAND LAND
 SAROS
 SAS: Zombie Assault 4
@@ -17696,7 +17698,6 @@ Star Wars Episode I: The Phantom Menace
 Star Wars Jedi: Fallen Order
 Star Wars Jedi: Survivor
 Star Wars Outlaws
-Star Wars Rebel Assault II: The Hidden Empire
 Star Wars: Battlefront Classic Collection
 Star Wars: Battlefront Classic Collection
 Star Wars: Battlefront II
@@ -17721,6 +17722,7 @@ Star Wars: Jedi Starfighter
 Star Wars: Knights of the Old Republic
 Star Wars: Knights of the Old Republic II - The Sith Lords
 Star Wars: Racer Revenge
+Star Wars: Rebel Assault II - The Hidden Empire
 Star Wars: Rebellion
 Star Wars: Republic Commando
 Star Wars: Rogue Squadron
@@ -17807,7 +17809,7 @@ Stay Close
 Stay Cool, Kobayashi-san!: A River City Ransom Story
 Stay Out
 Stay Out of the House
-Stealth Inc. 2: A Game of Clones
+Stealth Inc 2: A Game of Clones
 Stealth Inc.: A Clone in the Dark - Ultimate Edition
 Steam
 Steam Engine Simulator
@@ -19978,8 +19980,8 @@ They Can't Stop all of Us
 They Killed Your Cat
 They See Us
 Thief
-Thief 2
 Thief Gold
+Thief II: The Metal Age
 Thief Simulator
 Thief Simulator 2
 Thief Simulator 2: Prologue
@@ -20234,10 +20236,10 @@ Tom Clancy's The Division: Resurgence
 Tom the Postgirl
 Tomb Raider
 Tomb Raider I
+Tomb Raider I-III Remastered Starring Lara Croft
 Tomb Raider II
 Tomb Raider III: Adventures of Lara Croft
 Tomb Raider IV•V•VI Remastered
-Tomb Raider I•II•III Remastered
 Tomb Raider: Anniversary
 Tomb Raider: Chronicles
 Tomb Raider: Definitive Edition
@@ -20570,7 +20572,7 @@ Treasure Beach
 Treasure Chest Clicker
 Treasure Hunter Claire
 Treasure Hunter Simulator
-Treasure Hunters
+Treasure Hunters: Raid Together
 Treasure Rangers
 Treasure of Nadia
 Treasures of the Aegean
@@ -21248,7 +21250,6 @@ Verdun
 Verge: Lost Chapter
 Verho: Curse of Faces
 Verlet Swing
-Vermillion
 Verse Project
 Versus Squad
 Vertical Kingdom
@@ -21663,7 +21664,7 @@ We Escaped a Twisted Game
 We Gotta Go
 We Happy Few
 We Harvest Shadows
-We Love Katamari REROLL+ Royal Reverie
+We Love Katamari Reroll + Royal Reverie
 We Need to Go Deeper
 We Sing Pop!
 We Used to Play Here
@@ -21802,6 +21803,7 @@ Whiteout Survival
 Who Needs a Hero?
 Who Wants to Be a Millionaire
 Who Wears The Crown?
+Who's Lila?
 Who's Lila?
 Who's Next?
 Who's Who 2.0
@@ -22570,7 +22572,6 @@ goblinAmerica
 gogh: Focus with Your Avatar
 gridkeeper
 hack_me
-hackmud
 hexceed
 holo8
 holoVillage: Our Cozy Days
@@ -22741,7 +22742,6 @@ you're just imagining it
 마법소녀 카와이 러블리 즈큥도큥 바큥부큥 루루핑
 마비노기 영웅전
 메탈슬러그: 각성
-산나비
 삼국지14
 세피리아
 유리세계

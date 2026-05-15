@@ -1,6 +1,5 @@
 -arcane raise-/game.exe
 .autorun/autorun.exe
-01spacecalibrator/spacecalibrator.exe
 10 minutes till dawn/minutestilldawn.exe
 10 second ninja x/10snx.exe
 100 aliens cats/100 aliens cats.exe
