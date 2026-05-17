@@ -133,7 +133,7 @@
 4 in a Row Connect+
 40 Sports Games in 1
 404Sight
-420BLAZE IT 2: GAME OF THE YEAR
+420Blaze It 2: Game of the Year
 428: Shibuya Scramble
 4:LOOP
 4D Golf
@@ -1078,7 +1078,7 @@ Arc the Lad: Twilight of the Spirits
 ArcRunner
 Arca's Path VR
 Arcade Archives Solitary Fighters
-Arcade Archives: BURNIN' RUBBER
+Arcade Archives: Burnin' Rubber
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -1098,6 +1098,7 @@ Arcade Paradise VR
 Arcade Room Simulator
 Arcade Spirits
 Arcadegeddon
+Arcadia Fallen
 Arcadia Fallen II
 Arcadium: Space Odyssey
 Arcadius
@@ -1247,6 +1248,7 @@ Asdivine Saga
 Aseprite
 Asgard's Fall — Viking Survivors
 Asgard's Fall: Origins
+Ash & Adam's Existential Treads
 Ash Echoes
 Ash Warden
 Ash of Gods: Redemption
@@ -1763,6 +1765,7 @@ Baseball: 3 Player Cooperation Edition - Challenge Mode: Breakthrough Gaming Arc
 Baseball: 4 Player Cooperation Edition - Breakthrough Gaming Arcade
 Baseball: Breakthrough Gaming Arcade
 Baseball: Challenge Mode Edition - Breakthrough Gaming Arcade
+Based
 Basement
 Basement Crawl
 Basement To The Sky
@@ -2017,7 +2020,6 @@ Besiege
 Best Served Cold
 Betomis
 Betrayal Beach
-Betrayer
 Betrayer
 Betrix
 Better Mart Simulator
@@ -2526,7 +2528,7 @@ Box Clicker
 Box Dash
 Box Smash
 BoxVR
-Boxes: Lost Fragments
+Boxes
 Boxing School
 Boxroom
 Boxville
@@ -2988,7 +2990,7 @@ Can't Wait to Die
 Canada Break
 Canada Break: Head to Head
 Candle
-Candleman
+Candleman: The Complete Journey
 Candy Crush Saga
 Candy Crush Soda Saga
 Candy Match Kiddies
@@ -3200,6 +3202,7 @@ Cat God Ranch
 Cat Goes Fishing
 Cat Island Petrichor
 Cat Isle
+Cat Me If You Can
 Cat Named Mojave
 Cat Ping Pong
 Cat Plus
@@ -3373,6 +3376,7 @@ Chaos;Child
 Chaos;Child Love Chu Chu!!
 Chaos;Head Noah
 Chari Sou VR
+Charlatan
 Charlie Murder
 Charon's Staircase
 Charrua Soccer: Mirror Edition
@@ -4016,10 +4020,10 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
+CounterSide
 CounterSpy
 Counterpact
 Counterpick Labs
-Counterside
 Countersnipe
 Countless Army
 Countryballs: Power Protocol
@@ -4461,7 +4465,6 @@ DJMAX Respect
 DK Online
 DKO: Divine Knockout
 DLC Quest
-DNF DUEL
 DNF Duel
 DO NOT FEED THE VIRUS
 DOG!
@@ -4808,8 +4811,8 @@ Death Roads: Tournament
 Death Rooms
 Death Scourges
 Death Squared
+Death Stranding
 Death Stranding 2: On the Beach
-Death Stranding: Director's Cut
 Death Traps
 Death Trash
 Death Trash Demo
@@ -5094,7 +5097,7 @@ DiRT Showdown
 Diablo
 Diablo + Hellfire
 Diablo II
-Diablo II: Resurrected – Infernal Edition
+Diablo II: Resurrected
 Diablo II: Resurrected – Infernal Edition
 Diablo III
 Diablo III: Eternal Collection
@@ -5369,6 +5372,7 @@ Don't FOOL ME, Beauties!
 Don't Fall: Aleph
 Don't Forget
 Don't Get Lost
+Don't Go Live
 Don't Kill Them All
 Don't Let Him In
 Don't Look Away
@@ -5477,6 +5481,7 @@ Dragon Ball FighterZ
 Dragon Ball Legends
 Dragon Ball Xenoverse 2 Lite
 Dragon Ball: The Breakers
+Dragon Ball: Xenoverse
 Dragon Ball: Xenoverse 2
 Dragon Break Classic
 Dragon Break Classic Head to Head
@@ -5878,6 +5883,7 @@ EA Sports UFC
 EA Sports UFC 3
 EA Sports UFC 4
 EA Sports UFC 5
+EA Sports UFC 6
 EA Sports WRC
 EA Sports WRC 24
 EA Sports: Rory McIlroy - PGA Tour
@@ -6229,7 +6235,6 @@ Escape From Boykisser
 Escape From Crimson Manor: Trapped Together
 Escape From Mystwood Mansion
 Escape From School
-Escape From Tethys
 Escape From the Pharaoh's Tomb
 Escape Game: Aloha
 Escape Kids
@@ -6253,6 +6258,7 @@ Escape from Monkey Island
 Escape from Tarkov
 Escape from Tarkov: Arena
 Escape from Tatris
+Escape from Tethys
 Escape from Yandere
 Escape from the Dungeon
 Escape the Ayurok
@@ -6334,6 +6340,7 @@ Ever Forward Prologue
 Ever Maiden: Daraku no Sono no Otome-tachi
 Ever Seen A Cat?
 Ever Seen A Cat? 2
+Ever Seen A Cat? 3
 EverQuest
 EverQuest Free-to-Play
 EverQuest II
@@ -6522,7 +6529,6 @@ FINAL FANTASY XIV ONLINE
 FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO
 FINAL FANTASY XV: Multiplayer Expansion - Comrades
 FINAL FANTASY XV: POCKET EDITION
-FINAL FANTASY XV: ROYAL EDITION
 FINAL FANTASY XVI
 FINAL FANTASY® XI: Ultimate Collection Seekers Edition NA
 FINAL KNIGHT
@@ -6539,7 +6545,6 @@ FIND KITTENS 9: Aliens
 FIND KITTENS: The last of cats
 FIRESTARTERS
 FISH FEAR ME
-FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FLATHEAD
 FLATLAND Vol.1
 FLAW
@@ -6916,6 +6921,7 @@ Final Fantasy VII
 Final Fantasy VII Remake Intergrade
 Final Fantasy VII: Ever Crisis
 Final Fantasy XII: The Zodiac Age
+Final Fantasy XV: Windows Edition
 Final Frog
 Final Horizon
 Final Liberation: Warhammer Epic 40,000
@@ -7025,6 +7031,7 @@ Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
 Five Nights at Freddy's 4
+Five Nights at Freddy's: Help Wanted
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
@@ -7054,6 +7061,7 @@ FlatOut
 FlatOut 2
 FlatOut 3: Chaos & Destruction
 FlatOut 4: Total Insanity
+FlatOut 4: Total Insanity VR
 FlatOut: Ultimate Carnage
 Flatland Vol.2
 Flatout Pixel Racing
@@ -7961,6 +7969,7 @@ Gold Hunter
 Gold Miner
 Gold Mining Simulator
 Gold Mining Simulator
+Gold Mining Simulator 2
 Golden Axe Idol: Escape The Room
 Golden Axed: A Cancelled Prototype
 Golden Lap
@@ -8035,7 +8044,7 @@ Gospodar's Tales
 Gotcha Racing 2nd
 Gotham City Impostors Free to Play
 Gotham Knights
-Gothic
+Gothic 1 Classic
 Gothic 1 Remake - Demo (Nyras Prologue)
 Gothic 3
 Gothic 3 Forsaken Gods Enhanced Edition
@@ -8356,6 +8365,7 @@ HOOK
 HORROR TALES: The Beggar
 HOTEL BARCELONA
 HOUSE
+HOW TO SURVIVE 2
 HROT
 HROT Demo
 HSS: Reload
@@ -8378,6 +8388,7 @@ HackHub: Ultimate Hacker Simulator
 Hacked: The Streamer
 Hacker Simulator
 Hacker Simulator: Free Trial
+Hackmud
 Hacknet
 Hacktag
 Hacky
@@ -9261,6 +9272,7 @@ I Love Food
 I Love You, Colonel Sanders! A Finger Lickin' Good Dating Simulator
 I Made a Game with Zombies in It!
 I See Me
+I Sell Lemonade: Prologue
 I Wani Hug that Gator!
 I Wanna Be A Game Dev!
 I Wanna Be the Boshy
@@ -9989,7 +10001,6 @@ KID A MNESIA EXHIBITION
 KIDO: Ride on Time
 KIDS
 KILL KNIGHT
-KILL la KILL: IF
 KILLER INN
 KILLFISH
 KILLGUN
@@ -10137,6 +10148,7 @@ Kill Strain
 Kill The Crows
 Kill The Music
 Kill it with Fire 2
+Kill la Kill: If
 Kill or Love
 Kill the Brickman
 Kill the Lich
@@ -10292,6 +10304,7 @@ Klonoa Phantasy Reverie Series
 Klostyn
 Knack
 Knack II
+Knee Deep!: In Love
 Kneedle Knight
 Knight Arcade
 Knight Club +
@@ -10748,12 +10761,12 @@ Life Goes On
 Life Goes On: Done to Death
 Life Inc.
 Life Is Feudal: MMO
+Life Is Strange 2
 Life Makeover
 Life in the Janitor's Room with a JK Girl
 Life is Feudal: Arden
 Life is Feudal: Forest Village
 Life is Feudal: Your Own
-Life is Strange 2
 Life is Strange 2: Episode 1 - Roads
 Life is Strange Remastered
 Life is Strange Remastered Collection
@@ -10804,6 +10817,7 @@ Limbus Company
 Liminalcore
 Limit Ragnarok Online
 Limitless
+Limitless Survivor
 Line Connect Puzzle
 Line War
 Line of Defense: Tactics
@@ -10879,6 +10893,7 @@ Living with My Little Sister
 LivingBattle
 LivingForest
 Lizard Lady vs the Cats
+Lizard State
 Llamacorn
 Loading Human: Chapter 1
 Loading Screen Simulator
@@ -11208,7 +11223,6 @@ MINECRAFT: Legends
 MINERVA
 MINOS: Home A-Labyrinth
 MIO: Memories in Orbit
-MIR 4
 MISERY
 MISTERY
 MISTOVER Demo
@@ -11406,6 +11420,7 @@ Magicite
 Magicka
 Magicka 2
 Magicraft
+Magin: The Rat Project Stories
 Maglam Lord
 Magnet Knights
 Magnitude: Epsilon
@@ -11780,6 +11795,7 @@ Menace from the Deep
 Mendacium
 Menherarium
 Meow Moments: Celebrating Renewal & Romance
+Meow My Crop!
 MeowFactory
 Meowgic
 Meowjiro
@@ -12073,6 +12089,7 @@ Mint's Hints
 Minus Nine
 Minutes
 Minutescape
+Mir 4
 Mira and the Legend of the Djinns
 Miracle Snack Shop
 Miraculous: Paris Under Siege
@@ -14653,6 +14670,7 @@ Pro Evolution Soccer 2016 myClub
 Pro Evolution Soccer 2017
 Pro Evolution Soccer 2018 Lite
 Pro Flight Simulator: Deluxe
+Pro Gymnast Simulator
 Pro Jank Footy
 Pro Soccer Online
 Pro Tennis: World Court
@@ -14836,6 +14854,7 @@ Pupil: Wandering VR
 Puppet Master: The Game
 Puppet Team
 Puppet: Hide And Seek
+Puppeteer: No Strings Attached
 Puppies Jigsaw Puzzles
 Pupple Pop
 Puppy Park
@@ -15006,7 +15025,7 @@ RAGE
 RAGE 2
 RAID: World War II
 RAIDBORN
-RAIDOU Remastered: The Mystery of the Soulless Army
+RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY
 RAILGRADE
 RAM: Random Access Mayhem
 RAWMEN
@@ -15038,7 +15057,7 @@ RGX Showdown
 RHYTHM SPROUT
 RICO
 RIDE 4
-RIDE 5: Special Edition
+RIDE 5
 RIFTSTORM
 RIG Riot
 RIGS: Mechanized Combat League
@@ -15441,6 +15460,7 @@ Replicube
 Repterra
 Republic of Jungle
 Republic of Pirates
+Requiem: Desiderium Mortis
 Rescue
 Rescue HQ: The Tycoon
 Rescue Ops: Wildfire
@@ -15492,6 +15512,7 @@ Rest Area Simulator
 Restaurant Owner: A Restaurant Simulator
 Restaurant Tycoon Simulator
 Restaurats
+Restitched
 Restless Night
 Restore Your Island
 Resurrection of Soul Drain
@@ -16369,7 +16390,7 @@ Scale the Depths
 Scam Line
 Scania Truck Driving Simulator
 Scanner Sombre
-Scapewatch: Idle MMO
+Scapewatch
 Scarlet Deer Inn
 Scarlet Hollow
 Scarlet Idol
@@ -16465,6 +16486,7 @@ Sea of Stars Demo
 Sea of Survivors
 Sea of Thieves
 Sea of Thieves: 2024 Edition
+Sea of Thieves: 2026 Edition
 SeaOrama: World of Shipping
 Seablip
 Seafarer: The Ship Sim
@@ -16770,6 +16792,7 @@ Shiny
 Shiny the Firefly
 Ship Graveyard Simulator
 Ship Graveyard Simulator 2
+Ship Graveyard Simulator 3
 Ship Simulator Extremes
 Ship of Fools
 Ship, Inc.
@@ -16895,6 +16918,7 @@ Silicon Zeroes
 Silicone Heart
 Silkbulb Test
 Silkworm
+Sill Cats
 Silly Linguine Cat Simulator Deluxe Online
 Silly Polly Beast
 Silly's Gameshow
@@ -18096,6 +18120,7 @@ Submerge
 Submerged
 Submerged: Hidden Depths
 Subnautica
+Subnautica 2
 Subnautica: Below Zero
 Subside
 Subsiege
@@ -18570,7 +18595,6 @@ THE FINALS
 THE GAME OF LIFE 2
 THE HOUSE OF THE DEAD 2: Remake
 THE HOUSE OF THE DEAD: Remake
-THE JOY OF CREATION
 THE KING OF FIGHTERS XIII STEAM EDITION
 THE KING OF FIGHTERS XV
 THE LAST TRAIN: Baquedano
@@ -19302,6 +19326,7 @@ The Golden Eagle
 The Golf Club 2
 The Golf Club 2019 featuring PGA Tour
 The Golf G
+The Good Dog: Chasing Shadows
 The Good Time Garden
 The Gravity Trickster
 The Great Ace Attorney Chronicles
@@ -19382,6 +19407,7 @@ The Jackbox Party Pack 9
 The Jackbox Party Starter
 The Jackbox Survey Scramble
 The Japanese Calligraphy
+The Joy of Creation
 The Jumping Alphabet Soup
 The Jumping Bagel
 The Jumping Brownie
@@ -20009,6 +20035,7 @@ Thief II: The Metal Age
 Thief Simulator
 Thief Simulator 2
 Thief Simulator 2: Prologue
+Thief Simulator 3
 Thief Simulator VR
 Thief Simulator: Heist Master
 Thief VR: Legacy of Shadow
@@ -21829,7 +21856,6 @@ Who Needs a Hero?
 Who Wants to Be a Millionaire
 Who Wears The Crown?
 Who's Lila?
-Who's Lila?
 Who's Next?
 Who's Who 2.0
 Who's Who?
@@ -21846,6 +21872,7 @@ Wild & Adventure Pinball
 Wild & Horror Pinball
 Wild Animal Racing
 Wild Arms 3
+Wild Arms 4
 Wild Assault
 Wild Bastards
 Wild Blue Skies
@@ -21936,7 +21963,7 @@ Winter Sports Games
 Winter Survival
 Winter Survival: Prologue
 Winx Club: Alfea Butterflix Adventures
-Winx Club: The Magic is Back
+Winx Club: The Magic Is Back
 WipEout: Omega Collection
 Wiper
 Wires and Whiskers
@@ -21993,6 +22020,7 @@ Wo Long: Fallen Dynasty
 Wo Long: Fallen Dynasty - Complete Edition
 Wobbledogs
 Wobbly Life
+Woim
 Wolcen: Lords of Mayhem
 Wolf Mate
 Wolf Sim: Animal Battle Survival RPG
@@ -22598,7 +22626,6 @@ goblinAmerica
 gogh: Focus with Your Avatar
 gridkeeper
 hack_me
-hackmud
 hexceed
 holo8
 holoVillage: Our Cozy Days
