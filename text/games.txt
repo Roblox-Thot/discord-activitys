@@ -133,7 +133,7 @@
 4 in a Row Connect+
 40 Sports Games in 1
 404Sight
-420Blaze It 2: Game of the Year
+420BLAZE IT 2: GAME OF THE YEAR
 428: Shibuya Scramble
 4:LOOP
 4D Golf
@@ -1078,7 +1078,7 @@ Arc the Lad: Twilight of the Spirits
 ArcRunner
 Arca's Path VR
 Arcade Archives Solitary Fighters
-Arcade Archives: Burnin' Rubber
+Arcade Archives: BURNIN' RUBBER
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -1502,6 +1502,7 @@ BANDIT KNIGHT
 BAPBAP
 BARRIER X
 BASEBALL 9
+BASED
 BATS: Bloodsucker Anti-Terror Squad
 BATTLE CRUSH
 BATTLESTAR GALACTICA Deadlock
@@ -1765,7 +1766,6 @@ Baseball: 3 Player Cooperation Edition - Challenge Mode: Breakthrough Gaming Arc
 Baseball: 4 Player Cooperation Edition - Breakthrough Gaming Arcade
 Baseball: Breakthrough Gaming Arcade
 Baseball: Challenge Mode Edition - Breakthrough Gaming Arcade
-Based
 Basement
 Basement Crawl
 Basement To The Sky
@@ -2020,6 +2020,7 @@ Besiege
 Best Served Cold
 Betomis
 Betrayal Beach
+Betrayer
 Betrayer
 Betrix
 Better Mart Simulator
@@ -2528,7 +2529,7 @@ Box Clicker
 Box Dash
 Box Smash
 BoxVR
-Boxes
+Boxes: Lost Fragments
 Boxing School
 Boxroom
 Boxville
@@ -3157,8 +3158,8 @@ Castle Break
 Castle Clicker
 Castle Costume
 Castle Craft
-Castle Crashers
 Castle Crashers Demo
+Castle Crashers Remastered
 Castle Flipper
 Castle Idler
 Castle Kingdom Season
@@ -4020,10 +4021,10 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
-CounterSide
 CounterSpy
 Counterpact
 Counterpick Labs
+Counterside
 Countersnipe
 Countless Army
 Countryballs: Power Protocol
@@ -4465,6 +4466,7 @@ DJMAX Respect
 DK Online
 DKO: Divine Knockout
 DLC Quest
+DNF DUEL
 DNF Duel
 DO NOT FEED THE VIRUS
 DOG!
@@ -5481,7 +5483,6 @@ Dragon Ball FighterZ
 Dragon Ball Legends
 Dragon Ball Xenoverse 2 Lite
 Dragon Ball: The Breakers
-Dragon Ball: Xenoverse
 Dragon Ball: Xenoverse 2
 Dragon Break Classic
 Dragon Break Classic Head to Head
@@ -8044,7 +8045,7 @@ Gospodar's Tales
 Gotcha Racing 2nd
 Gotham City Impostors Free to Play
 Gotham Knights
-Gothic 1 Classic
+Gothic
 Gothic 1 Remake - Demo (Nyras Prologue)
 Gothic 3
 Gothic 3 Forsaken Gods Enhanced Edition
@@ -8388,7 +8389,6 @@ HackHub: Ultimate Hacker Simulator
 Hacked: The Streamer
 Hacker Simulator
 Hacker Simulator: Free Trial
-Hackmud
 Hacknet
 Hacktag
 Hacky
@@ -10001,6 +10001,7 @@ KID A MNESIA EXHIBITION
 KIDO: Ride on Time
 KIDS
 KILL KNIGHT
+KILL la KILL: IF
 KILLER INN
 KILLFISH
 KILLGUN
@@ -10148,7 +10149,6 @@ Kill Strain
 Kill The Crows
 Kill The Music
 Kill it with Fire 2
-Kill la Kill: If
 Kill or Love
 Kill the Brickman
 Kill the Lich
@@ -12339,7 +12339,7 @@ Mortal Kombat
 Mortal Kombat 1
 Mortal Kombat 11
 Mortal Kombat Kollection
-Mortal Kombat X
+Mortal Kombat XL
 Mortal Kombat vs DC Universe
 Mortal Kombat: Komplete Edition
 Mortal Kombat: Legacy Kollection
@@ -12524,7 +12524,7 @@ Muv-Luv
 My Arms Are Longer Now
 My Aunt is a Witch
 My Bath Tub Companion
-My Beautiful Faraway, Please Don't Be Cruel To Me
+My Beautiful Faraway, Please Don't Be Cruel to Me
 My Bimbo Dream
 My Business Empire
 My Café Manager Simulator
@@ -14355,8 +14355,8 @@ Plant Nursery Simulator
 Plant Therapy
 Plantera
 Plantera 2: Golden Acorn
-Plants vs. Zombies
 Plants vs. Zombies: Battle for Neighborville
+Plants vs. Zombies: GOTY Edition
 Plants vs. Zombies: Garden Warfare
 Plants vs. Zombies: Garden Warfare 2
 Plants vs. Zombies: Replanted
@@ -14670,7 +14670,6 @@ Pro Evolution Soccer 2016 myClub
 Pro Evolution Soccer 2017
 Pro Evolution Soccer 2018 Lite
 Pro Flight Simulator: Deluxe
-Pro Gymnast Simulator
 Pro Jank Footy
 Pro Soccer Online
 Pro Tennis: World Court
@@ -15064,6 +15063,7 @@ RIGS: Mechanized Combat League
 RIOT: Civil Unrest
 RIPOUT
 RISK: Global Domination
+RKGK
 RMF's Ragdoll Physics Experiments
 ROBLOX
 ROBOBEAT
@@ -16133,7 +16133,6 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
-SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -16485,8 +16484,8 @@ Sea of Stars
 Sea of Stars Demo
 Sea of Survivors
 Sea of Thieves
+Sea of Thieves
 Sea of Thieves: 2024 Edition
-Sea of Thieves: 2026 Edition
 SeaOrama: World of Shipping
 Seablip
 Seafarer: The Ship Sim
@@ -17239,6 +17238,7 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
+Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
@@ -17830,7 +17830,6 @@ Starship Command: Orion Spur
 Starship EVO
 Starship Infinite
 Starship Simulator
-Starship Troopers: Extermination
 Starship Troopers: Terran Command
 Starship Troopers: Ultimate Bug War!
 Starsiege: Deadzone
@@ -18596,6 +18595,7 @@ THE FINALS
 THE GAME OF LIFE 2
 THE HOUSE OF THE DEAD 2: Remake
 THE HOUSE OF THE DEAD: Remake
+THE JOY OF CREATION
 THE KING OF FIGHTERS XIII STEAM EDITION
 THE KING OF FIGHTERS XV
 THE LAST TRAIN: Baquedano
@@ -18743,7 +18743,7 @@ Tales of Vesperia: Definitive Edition
 Tales of Wind
 Tales of Wind Online
 Tales of Wind: Radiant Rebirth
-Tales of Xillia Remastered
+Tales of Xillia Remastered: Deluxe Edition
 Tales of Yore
 Tales of Zestiria
 Tales of the Black Forest
@@ -19100,7 +19100,7 @@ The Button Be: Daylight
 The Button Be: Mizzle
 The Cabin Factory
 The Cable Guy
-The Caligula Effect: Overdose
+The Caligula Effect: Overdose - Limited Edition
 The Call of Karen
 The Callisto Protocol
 The Capybara P
@@ -19408,7 +19408,6 @@ The Jackbox Party Pack 9
 The Jackbox Party Starter
 The Jackbox Survey Scramble
 The Japanese Calligraphy
-The Joy of Creation
 The Jumping Alphabet Soup
 The Jumping Bagel
 The Jumping Brownie
@@ -21360,7 +21359,7 @@ Viper Phase 1
 Virginia
 Virgo Versus the Zodiac
 Viridi
-Virtua Fighter 5: Ultimate Showdown
+Virtua Fighter 5 R.E.V.O.
 Virtual Aquarium - Overlay Desktop Game
 Virtual City Playground
 Virtual Cottage
@@ -21538,6 +21537,7 @@ Wanted: Dead
 War Hospital
 War Mongrels
 War Of Banners
+War Of Being
 War Of Earth Change The Game
 War Planet Online: Global Conquest
 War Rats: The Rat em Up
@@ -22627,6 +22627,7 @@ goblinAmerica
 gogh: Focus with Your Avatar
 gridkeeper
 hack_me
+hackmud
 hexceed
 holo8
 holoVillage: Our Cozy Days
