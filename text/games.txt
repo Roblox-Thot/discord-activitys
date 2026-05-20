@@ -1511,6 +1511,7 @@ BBQ Simulator: The Squad
 BBY Don't Hurt Me
 BEACHED
 BEAR, VODKA, STALINGRAD!
+BECROWNED
 BEHEMOTH
 BETON BRUTAL
 BEYBLADE X EVOBATTLE
@@ -1951,7 +1952,6 @@ Become The Moon
 Become The Wild
 Becoming Saint
 Becoming a King
-Becrowned
 Bedlam
 Bee Flowers
 Bee Island
@@ -21537,7 +21537,6 @@ Wanted: Dead
 War Hospital
 War Mongrels
 War Of Banners
-War Of Being
 War Of Earth Change The Game
 War Planet Online: Global Conquest
 War Rats: The Rat em Up
@@ -21552,6 +21551,7 @@ War Trigger 3
 War for the Overworld
 War in the Caverns
 War of Aero
+War of Being
 War of Dots
 War of Rights
 War of the Three Kingdoms
