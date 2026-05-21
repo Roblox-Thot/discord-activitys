@@ -342,6 +342,7 @@ AK-xolotl Demo
 AL QMRAH RESTAURANT
 ALARA Prime
 ALL WILL FALL
+ALLfiring
 ALTF4
 AM2R: Return of Samus
 AMID EVIL
@@ -1782,6 +1783,7 @@ Baskhead Training
 Bassmaster Fishing 2022
 Bastard Bonds
 Bastion
+BastionOS
 Basureroes: Invasion
 Bat to Bed
 Bat to the Heavens
@@ -1910,6 +1912,7 @@ Bears Can't Drift!?
 Bears In Space
 Beast Battle Simulator
 Beast Saga
+BeastLink
 Beastieball
 Beastro
 Beasts of Bermuda
@@ -2913,6 +2916,7 @@ Cadria Item Shop
 Caesar Empire War
 Caesar III
 Cafe Business Manager
+Cafe Crew Simulator
 Cafe Express-o
 Cafe Owner Simulator
 Cafe Owner Simulator: Prologue
@@ -2990,6 +2994,7 @@ Can't Escape the Backrooms
 Can't Wait to Die
 Canada Break
 Canada Break: Head to Head
+Candellum
 Candle
 Candleman: The Complete Journey
 Candy Crush Saga
@@ -3757,6 +3762,7 @@ College Kings
 College Kings 2: Episode 1
 Colonial Tycoon
 Colonize Prologue
+Colony 37
 Colony Ship: A Post-Earth Role Playing Game
 Colony Simulator
 Colony Survival
@@ -4175,6 +4181,7 @@ Criss Cross
 Criss Cross Bomb
 Critical Ops
 Critical Strike Shooter: SWAT Rescue Missions
+Criticality
 Critter Café
 Critter Clicker
 Critter Cove
@@ -5189,6 +5196,7 @@ Dino Path Trail
 Dino Rex
 Dino Run DX
 Dino and The Depths
+Dino running from a FURRY: GAMESFORFARM
 DinoScape
 DinoTribe
 Dinoblade
@@ -5211,6 +5219,7 @@ Dirge
 Dirt 3: Complete Edition
 Dirt Journey
 Dirty Bomb
+Dirty Business
 Dirty League
 Dis: The Game
 Disaster Band
@@ -5734,6 +5743,7 @@ Dung Ho!
 Dungeon Alchemist
 Dungeon Antiqua
 Dungeon Antiqua 2
+Dungeon Baller
 Dungeon Bodega Simulator
 Dungeon Brawls
 Dungeon CEO
@@ -5905,6 +5915,7 @@ EMBATTLED
 EMERGENCY 20
 EMPTY SHELL
 EMPTY SHELL: PROLOGUE
+EMPULSE
 ENA: Dream BBQ
 ENCHAIN
 ENDALOR
@@ -6085,6 +6096,7 @@ Ember & Blade
 Ember Knights
 Emberbane
 Embers Adrift
+Embers of the Gods
 Emberward
 Embr
 Emeraldia
@@ -6124,6 +6136,7 @@ Encircled
 Enclave
 Enclave HD
 Encleverment Experiment
+Encounter: The Lost Cards
 End Transmission?
 End of the Earth
 Ender of Fire
@@ -7270,6 +7283,7 @@ Forty Thieves Solitaire Collection
 Forward: Escape the Fold
 Forza Horizon
 Forza Horizon 2
+Forza Horizon 2: Presents - Fast & Furious
 Forza Horizon 3
 Forza Horizon 4
 Forza Horizon 4 Demo
@@ -8155,6 +8169,7 @@ Green: The Life Algorithm
 Greenhearth Necromancer
 Gremlins vs Automotons
 Gremlins, Inc.
+Grenouilles 3D
 Gretel & Hansel
 Gretel and Winslow's Mansion
 Grey Goo
@@ -8680,6 +8695,7 @@ Hellbrella
 Hellcard
 Helldivers: Dive Harder
 Hellevator
+Hellforged
 Hellgate: London
 Hellion
 Hellish Quart
@@ -9022,6 +9038,7 @@ Honkai Impact 3rd
 Honkai: Star Rail
 Honor and Duty: Arcade Edition
 Honor and Duty: D-Day
+Honor of Kings: World
 Hood Warfare
 Hood: Outlaws & Legends
 Hoofobia
@@ -9134,6 +9151,7 @@ Hoversteppers
 How 2 Escape
 How 2 Escape - Companion App
 How 2 Escape: Lost Submarine
+How Asian Parents went to School
 How Fish Is Made
 How Many Dudes?
 How We Soar
@@ -10877,6 +10895,7 @@ Little Witch Survivors
 Little Witch in the Woods
 Little-Known Galaxy
 LittleBigPlanet 3
+Littlelands
 Littlewood
 Liuyin's World
 Live
@@ -11602,6 +11621,7 @@ Massive
 Massive Chalice
 Master Agent
 Master Detective Archives: Rain Code Plus
+Master Healer Kale With Useless Party
 Master Heroes
 Master Levels for DOOM II
 Master Maker 3D Ultimate
@@ -12249,6 +12269,7 @@ Monster Jam Steel Titans 2
 Monster Jam: Crush It!
 Monster Jump Run
 Monster Lab Simulator
+Monster Legends
 Monster Menu: The Scavenger's Cookbook
 Monster Mop Up
 Monster Panic
@@ -12414,6 +12435,7 @@ Mouser
 Mouthwashing
 Movavi Video Suite
 Move or Die
+Moventure
 MovieStarPlanet
 Movies Tycoon
 Moving Day: Make It Home
@@ -13015,6 +13037,7 @@ Nightmares from the Deep: The Cursed Heart
 Nightmariners
 Nights of Azure
 Nightshade Ninja Warrior
+Nightwater
 Nihilumbra
 Nik & Kit
 Nik And Kit Arcade: Breakthrough Gaming Arcade
@@ -13757,6 +13780,7 @@ PGA TOUR 2K23
 PGA TOUR 2K25
 PGA TOUR 2K25 First Look
 PGA Tour 2K21
+PHASE ZERO
 PHOGS!
 PHOGS! Demo
 PICO PARK
@@ -13773,6 +13797,7 @@ PJ Masks Power Heroes: Mighty Alliance
 PLAYNE
 PLEASE STOP CRYING
 POJANGMACHA: Korean Street Food Management Simulator
+POLYARIS
 POLYGON
 POMBERO: The Lord of the Night
 POOLS
@@ -15206,6 +15231,7 @@ Rainbow Snake
 Raining Blood: Hellfire
 Raise Your Tribe
 Raise the Colours
+Raising a Happy NEET
 Raji: An Ancient Epic
 Rake
 Rakion Chaos Force
@@ -16399,6 +16425,7 @@ Scarlett Mysteries: Cursed Child
 Scars Above
 Scars of Honor
 Scary Game
+Scary Game 2: The Mad Shepherd
 Scary Teacher 3D
 Scauage
 Scavenger Hunt: Italy
@@ -16412,6 +16439,7 @@ Schedule I
 Schedule I: Dope Empire
 Schedule I: Drug Dealer
 Scheming Through The Zombie Apocalypse: The Beginning
+Schizophrenia
 Scholar's Mate
 School 666
 School Bus Driver Simulator
@@ -16584,6 +16612,7 @@ Serena
 Serial Cleaner
 Serial Cleaners
 Serial Lover
+Serial World
 Series Makers Tycoon
 Serious Sam 3 VR: BFE
 Serious Sam 3: BFE
@@ -16866,6 +16895,7 @@ Shut Up and Dance: Special Edition
 Shutter Story
 Shutterbuds
 Shuttles
+SiNiSistar 2
 Sick Samurai
 Sickly Days and Summer Traces
 Sid Meier's Alpha Centauri Planetary Pack
@@ -17285,6 +17315,7 @@ Sol-Rui: After Mini
 Solar 2
 Solar Ash
 Solar Expanse
+Solar Nations 2
 Solar Raiders
 Solar Smash
 Solaris Offworld Combat
@@ -17942,6 +17973,7 @@ Sticky Business Demo
 Still It Runs
 Still There
 Still Wakes the Deep
+Stitchlings
 Stoatman
 Stolen Realm
 Stolen Realm Survivors
@@ -18940,6 +18972,7 @@ Terror Mansion
 Terror of Hemasaurus
 Terrorbytes
 Terroro
+Terrors to Unveil: Day Off
 Terrors to Unveil: Intrusion
 Terry’s Vegetable Patch
 Tesera
@@ -19224,6 +19257,7 @@ The Dungeon Beneath
 The Dungeon Experience
 The Dungeon of Naheulbeuk: The Amulet of Chaos
 The Dwarves
+The Echoes
 The Edge of Allegoria
 The Elder Scrolls Adventures: Redguard
 The Elder Scrolls II: Daggerfall
@@ -21519,6 +21553,7 @@ Walkabout Mini Golf
 Walker
 Walking Simulator 2020
 Walking Survival
+Wall Street Raider
 Wall World
 Wall World 2
 Wall World Strategy
@@ -22191,6 +22226,7 @@ Wurm Online
 Wurm Unlimited
 Wuthering Waves
 Wylde Flowers
+Wyldheart
 Wyoming Winter
 Wytchwood
 X Invader
@@ -22554,6 +22590,7 @@ Zoonomaly
 Zoria: Age of Shattering
 Zorro: The Chronicles
 Zort
+Zouhri: The Cursed Blood
 ZuPaPa!
 Zueirama
 Zula
@@ -22708,6 +22745,7 @@ you're just imagining it
 Öoo
 âªâ«â€‹â€‹â¬â«Open Tyrianâ«â¬â«âªâ«Øœ
 ŌKAMI HD
+Život Není Krásný: Poslední Exekuce
 Г.О.П.О.Т.А
 Древние Ящеры Против Русов: Битва за Гиперборею
 Копатель Онлайн
