@@ -193,6 +193,7 @@
 911 Ambulance Simulator
 911 Operator
 911: First Responders
+93, Kuindzhi
 98xx
 9Dragons
 9th Dawn Remake
@@ -342,6 +343,7 @@ AL QMRAH RESTAURANT
 ALARA Prime
 ALL WILL FALL
 ALLfiring
+ALTEREDBLOOD+
 ALTF4
 AM2R: Return of Samus
 AMID EVIL
@@ -3718,6 +3720,7 @@ Cocos: Shark Island
 Code 51: Mecha Arena
 Code Vein
 Code Violet
+Code of War
 Code2040
 Code: Realize - Bouquet of Rainbows
 Code: Realize - Wintertide Miracles
@@ -4903,6 +4906,7 @@ Deep Space Rush
 Deep Space Waifu: World
 Deep Space: Action Fire Sci-Fi Game 2023 Shooter Strike Simulator Alien Death Ultimate
 DeepOne
+Deeper
 Deepest Chamber: Resurrection
 Deepest Sword
 Deeply Dark: Found Footage
@@ -5469,6 +5473,7 @@ Downfall: A Slay the Spire Fan Expansion
 Downtown Drift
 Downwell
 Dr Livesey Rom and Death Edition
+Dr. Fetus' Mean Meat Machine
 Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist
 Dr. Oil
 Dr.Clone
@@ -6026,6 +6031,7 @@ Egg Surprise
 Egging On
 Eggo
 Eggstraction
+Eggstreme Farming
 Ego League
 Egress
 Egypt: Old Kingdom
@@ -6679,6 +6685,7 @@ False Front
 False Hero
 False Mall
 Falsepine
+Fame Or Folly
 Family Breeding
 Family Crush
 Family Feud
@@ -10024,6 +10031,7 @@ KILL KNIGHT
 KILLER INN
 KILLFISH
 KILLGUN
+KKnD2: Krossfire
 KLETKA
 KOMPETE
 KORRIDOR
@@ -11326,6 +11334,7 @@ Mabinogi
 Mabinogi Mobile
 Maboroshi Caravan
 Macabre
+Mach Speed Intercept
 Machi Knights: Blood Bagos
 MachiaVillain
 Machick
@@ -11444,6 +11453,7 @@ Magicka 2
 Magicraft
 Magin: The Rat Project Stories
 Maglam Lord
+Magnavis
 Magnet Knights
 Magnitude: Epsilon
 Magnus Trilogy
@@ -18056,11 +18066,11 @@ Streamer Life Simulator
 Streamer Life Simulator 2
 Street Drag Racing Car Driving Simulator 2022 Games
 Street Fighter 30th Anniversary Collection
+Street Fighter 6
 Street Fighter 6 - Closed Beta
 Street Fighter IV
 Street Fighter V
 Street Fighter X Tekken
-Street Fighter™ 6
 Street Fighter™ 6 Demo
 Street Food Restaurant Owner
 Street Hoop
@@ -18988,6 +18998,7 @@ Test Drive Unlimited 2
 Test Drive Unlimited Solar Crown
 Test Test Test
 Test: The Game
+TetherGeist
 Tethered
 Tetrack
 Tetraminos
@@ -19870,6 +19881,7 @@ The Smurfs: Dreams
 The Smurfs: Mission Vileaf
 The Smurfs: Village Party
 The Sokoban
+The Sorting Bureau
 The SpeedRun Game
 The Spell Brigade
 The Spidy D
@@ -20070,6 +20082,7 @@ They Bleed Pixels
 They Can't Stop all of Us
 They Killed Your Cat
 They See Us
+Thick as Thieves
 Thief
 Thief Gold
 Thief II: The Metal Age
@@ -20181,6 +20194,7 @@ Timberborn
 Timberman
 Timberman VS
 Time Clickers
+Time Crisis
 Time Flies
 Time Is Honey
 Time Machine
@@ -20235,6 +20249,7 @@ Tiny Little Farm
 Tiny Pasture
 Tiny Rogues
 Tiny Shadows Interwoven Hearts
+Tiny Shop
 Tiny Speedster
 Tiny Survivors
 Tiny Tactics
@@ -20429,6 +20444,7 @@ Totally Accurate Battlegrounds
 Totally Normal Journey: The Interactive Musical
 Totally Reliable Delivery Service
 Totally Reliable Delivery Service Beta
+Totally Safe Moon Project
 Totemori
 Totopia
 Touch Type Tale
@@ -21050,6 +21066,7 @@ Under the Warehouse
 Under the Waves
 UnderMine
 UnderMine 2
+UnderMire
 UnderRail
 Underboard
 Underchoice
@@ -21839,6 +21856,7 @@ Westminster Darkly
 Westview Academy
 Wet Girl
 Weyrdlets
+Whack-A-Monster
 Whale Game Online
 WhamPunch
 What Awaits, Aleksey?
