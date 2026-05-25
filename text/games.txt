@@ -133,7 +133,7 @@
 4 in a Row Connect+
 40 Sports Games in 1
 404Sight
-420Blaze It 2: Game of the Year
+420BLAZE IT 2: GAME OF THE YEAR
 428: Shibuya Scramble
 4:LOOP
 4D Golf
@@ -1080,7 +1080,7 @@ Arc the Lad: Twilight of the Spirits
 ArcRunner
 Arca's Path VR
 Arcade Archives Solitary Fighters
-Arcade Archives: BURNIN' RUBBER
+Arcade Archives: Burnin' Rubber
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -4030,10 +4030,10 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
+CounterSide
 CounterSpy
 Counterpact
 Counterpick Labs
-Counterside
 Countersnipe
 Countless Army
 Countryballs: Power Protocol
@@ -6512,6 +6512,7 @@ FAR: Lone Sails
 FATAL ERROR
 FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse
 FATAL FRAME II: Crimson Butterfly REMAKE
+FATE
 FATE: Reawakened
 FATE: Undiscovered Realms
 FBC: Firebreak
@@ -6814,7 +6815,6 @@ Fatal Fury: Battle Archives Volume 2
 Fatal Fury: City of the Wolves
 FatalZone
 FatalZone: Outbreak
-Fate
 Fate Arena
 Fate Seeker
 Fate Trigger
@@ -11253,6 +11253,7 @@ MINECRAFT: Legends
 MINERVA
 MINOS: Home A-Labyrinth
 MIO: Memories in Orbit
+MIR 4
 MISERY
 MISTERY
 MISTOVER Demo
@@ -12123,7 +12124,6 @@ Mint's Hints
 Minus Nine
 Minutes
 Minutescape
-Mir 4
 Mira and the Legend of the Djinns
 Miracle Snack Shop
 Miraculous: Paris Under Siege
@@ -16171,7 +16171,6 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
-SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -17284,6 +17283,7 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
+Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
@@ -18643,6 +18643,7 @@ THE FINALS
 THE GAME OF LIFE 2
 THE HOUSE OF THE DEAD 2: Remake
 THE HOUSE OF THE DEAD: Remake
+THE JOY OF CREATION
 THE KING OF FIGHTERS XIII STEAM EDITION
 THE KING OF FIGHTERS XV
 THE LAST TRAIN: Baquedano
@@ -19459,7 +19460,6 @@ The Jackbox Party Pack 9
 The Jackbox Party Starter
 The Jackbox Survey Scramble
 The Japanese Calligraphy
-The Joy of Creation
 The Jumping Alphabet Soup
 The Jumping Bagel
 The Jumping Brownie
@@ -22442,7 +22442,7 @@ Yuma Nest
 Yume Nikki
 Yume Nikki: Dream Diary
 Yumeutsutsu Re:Master
-Yunyun Syndrome!? Rhythm Psychosis
+Yunyun Syndrome!?: Rhythm Psychosis
 Yuoni
 Yuppie Psycho: Executive Edition
 Yurukill: The Calumniation Games
