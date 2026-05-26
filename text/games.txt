@@ -133,7 +133,7 @@
 4 in a Row Connect+
 40 Sports Games in 1
 404Sight
-420BLAZE IT 2: GAME OF THE YEAR
+420Blaze It 2: Game of the Year
 428: Shibuya Scramble
 4:LOOP
 4D Golf
@@ -1080,7 +1080,7 @@ Arc the Lad: Twilight of the Spirits
 ArcRunner
 Arca's Path VR
 Arcade Archives Solitary Fighters
-Arcade Archives: Burnin' Rubber
+Arcade Archives: BURNIN' RUBBER
 Arcade Archives: Cue Brick
 Arcade Archives: Fighting Hawk
 Arcade Archives: Itazura Tenshi
@@ -2882,7 +2882,6 @@ CPUCores :: Maximize Your FPS
 CRANKED
 CRETE
 CRIMESIGHT
-CRISIS CORE: FINAL FANTASY VII - REUNION
 CROWDED. FOLLOWED.
 CROWZ
 CRSED: F.O.A.D.
@@ -4030,10 +4029,10 @@ Counter-Strike: Condition Zero
 Counter-Strike: Global Offensive
 Counter-Strike: Source
 CounterAttack: Uprising
-CounterSide
 CounterSpy
 Counterpact
 Counterpick Labs
+Counterside
 Countersnipe
 Countless Army
 Countryballs: Power Protocol
@@ -4175,6 +4174,7 @@ Crimsonland
 Crimzon Clover: World Ignition
 Cris Tales
 Crisis Brigade 2: Reloaded
+Crisis Core: Final Fantasy VII - Reunion
 Crisis in the Kremlin
 Crisis in the Kremlin: The Cold War
 Crisis on the Planet of the Apes VR
@@ -6567,7 +6567,6 @@ FIND KITTENS 9: Aliens
 FIND KITTENS: The last of cats
 FIRESTARTERS
 FISH FEAR ME
-FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FLATHEAD
 FLATLAND Vol.1
 FLAW
@@ -7055,6 +7054,7 @@ Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
 Five Nights at Freddy's 4
+Five Nights at Freddy's: Help Wanted
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
@@ -10028,6 +10028,7 @@ KID A MNESIA EXHIBITION
 KIDO: Ride on Time
 KIDS
 KILL KNIGHT
+KILL la KILL: IF
 KILLER INN
 KILLFISH
 KILLGUN
@@ -10176,7 +10177,6 @@ Kill Strain
 Kill The Crows
 Kill The Music
 Kill it with Fire 2
-Kill la Kill: If
 Kill or Love
 Kill the Brickman
 Kill the Lich
@@ -16171,6 +16171,7 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
+SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -17283,7 +17284,6 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
-Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
