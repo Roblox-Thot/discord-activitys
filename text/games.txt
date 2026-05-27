@@ -2882,6 +2882,7 @@ CPUCores :: Maximize Your FPS
 CRANKED
 CRETE
 CRIMESIGHT
+CRISIS CORE: FINAL FANTASY VII - REUNION
 CROWDED. FOLLOWED.
 CROWZ
 CRSED: F.O.A.D.
@@ -4174,7 +4175,6 @@ Crimsonland
 Crimzon Clover: World Ignition
 Cris Tales
 Crisis Brigade 2: Reloaded
-Crisis Core: Final Fantasy VII - Reunion
 Crisis in the Kremlin
 Crisis in the Kremlin: The Cold War
 Crisis on the Planet of the Apes VR
@@ -6567,6 +6567,7 @@ FIND KITTENS 9: Aliens
 FIND KITTENS: The last of cats
 FIRESTARTERS
 FISH FEAR ME
+FIVE NIGHTS AT FREDDY'S: HELP WANTED
 FLATHEAD
 FLATLAND Vol.1
 FLAW
@@ -7054,7 +7055,6 @@ Five Nights at Freddy's
 Five Nights at Freddy's 2
 Five Nights at Freddy's 3
 Five Nights at Freddy's 4
-Five Nights at Freddy's: Help Wanted
 Five Nights at Freddy's: Help Wanted 2
 Five Nights at Freddy's: Into the Pit
 Five Nights at Freddy's: Secret of the Mimic
@@ -8415,6 +8415,7 @@ HackHub: Ultimate Hacker Simulator
 Hacked: The Streamer
 Hacker Simulator
 Hacker Simulator: Free Trial
+Hackmud
 Hacknet
 Hacktag
 Hacky
@@ -10028,7 +10029,6 @@ KID A MNESIA EXHIBITION
 KIDO: Ride on Time
 KIDS
 KILL KNIGHT
-KILL la KILL: IF
 KILLER INN
 KILLFISH
 KILLGUN
@@ -10177,6 +10177,7 @@ Kill Strain
 Kill The Crows
 Kill The Music
 Kill it with Fire 2
+Kill la Kill: If
 Kill or Love
 Kill the Brickman
 Kill the Lich
@@ -15062,7 +15063,7 @@ RAGE
 RAGE 2
 RAID: World War II
 RAIDBORN
-RAIDOU Remastered: THE MYSTERY OF THE SOULLESS ARMY
+RAIDOU Remastered: The Mystery of the Soulless Army
 RAILGRADE
 RAM: Random Access Mayhem
 RAWMEN
@@ -16171,7 +16172,6 @@ SNK vs. Capcom: SVC Chaos
 SNKRX
 SNOW BROS. 2 SPECIAL
 SNOW BROS. WONDERLAND
-SNWBRD: Freestyle Snowboarding
 SNØ: Ultimate Freeriding
 SOMA
 SONG OF HORROR
@@ -17284,6 +17284,7 @@ Snowdrop Escape
 Snowland Adventure
 Snowtopia: Ski Resort Builder
 Snufkin: Melody of Moominvalley
+Snwbrd: Freestyle Snowboarding
 So Much Stuff 2
 So Much Stuff 3: Odds & Ends
 So Much Stuff 4: Bits & Bobs
@@ -22691,7 +22692,6 @@ goblinAmerica
 gogh: Focus with Your Avatar
 gridkeeper
 hack_me
-hackmud
 hexceed
 holo8
 holoVillage: Our Cozy Days
