@@ -152,6 +152,7 @@
 5omeday
 6 Seasons and a Game
 6-7
+60 Minutes to Extinction: Escape Room
 60 Parsecs!
 60 Parsecs!
 60 Seconds!
@@ -326,6 +327,7 @@ AI Gobang
 AI Image Generator
 AI LIMIT
 AI Learns To Drive
+AI Pixel Battle
 AI Roguelite
 AI Spellcraft
 AI War 2
@@ -923,6 +925,7 @@ Aniimo
 Anima Gate of Memories: I & II Remaster
 Anima: Gate of Memories - The Nameless Chronicles
 Animal Battle Arena
+Animal Company
 Animal Drifters
 Animal Force
 Animal Hunting 3D
@@ -1019,6 +1022,7 @@ Ants in Space!
 Anuchard
 Anvil Empires
 Anvil Saga
+Anymaker
 Anyone's Diary
 AnywhereVR
 Ao Oni
@@ -1653,6 +1657,7 @@ Bad Rats
 Badland: Game of the Year Edition
 Badlanders
 Badlands Crew
+Bag Fight
 Bagdex
 Baila Latino
 Baisu
@@ -2560,6 +2565,7 @@ Bramble: The Mountain King
 Bratz Rhythm & Style
 Bratz: Flaunt Your Fashion
 Brave
+Brave New Wonders
 Brave Nine
 BraveMatch
 Braveland
@@ -2756,7 +2762,9 @@ Bunkered with Femboy
 Bunkerzone
 Bunny Battle Nemesis
 Bunny Garden
+Bunny Guys!
 Bunny Hop League
+Bunny Hurling
 Bunny Must Die! Chelsea and the 7 Devils
 Bunny Raiders
 Buoyancy
@@ -3368,6 +3376,7 @@ Champions Tactics Reforged
 Changed
 Changgwi
 Channel 4 Midnight
+Chant Wizard
 Chants of Sennaar
 Chaos
 Chaos Code: New Sign of Catastrophe
@@ -3479,6 +3488,7 @@ Choo Choo Survivor
 Choo-Choo Charles
 Choo-Choose
 Chop Chains
+Chop Chop Inc
 Chop Chop Together
 Chop Goblins
 Chop is Dish
@@ -3718,6 +3728,7 @@ Coconut Simulator
 Coconut Simulator 2
 Cocos: Shark Island
 Code 51: Mecha Arena
+Code Exit
 Code Vein
 Code Violet
 Code of War
@@ -3984,6 +3995,7 @@ Corrupt: Political Idle City War Strategy Simulator Craft
 Corruption Town
 Corruption of Champions II
 Corsairs Legacy
+Corsairs: Battle of the Caribbean
 Cortex Command
 Cosmic Break
 Cosmic Dust & Rust
@@ -4799,6 +4811,7 @@ Deadly Premonition: The Director's Cut
 Deadly Quiet
 Deadpool
 Deadside
+Deadstick: Bush Flight Simulator
 Deadswitch 3
 Deadswitch Combat
 Deadtime Defenders
@@ -4886,6 +4899,7 @@ Deducto
 Deducto 2
 Deemo: Reborn
 Deep
+Deep Blue: Devour and Evolve
 Deep Corp
 Deep Crafter
 Deep Dish Dungeon
@@ -5130,6 +5144,7 @@ Dice Dice Baby
 Dice Eater
 Dice Gambit
 Dice Goblins Clicker
+Dice Have No Eyes
 Dice Kingdoms
 Dice Legacy
 Dice Legacy: Definitive Edition
@@ -5466,6 +5481,7 @@ DoubleShake
 Doug Hates His Job
 Dovetail Games: Euro Fishing
 Down & Out
+Down in Bermuda
 Down the Rabbit Hole Flattened
 Down with the Ship
 DownSouth
@@ -5797,6 +5813,7 @@ Dungeon Vixens: A Tale of Temptation
 Dungeon Warfare
 Dungeon Warfare 2
 Dungeon Warfare III
+Dungeon Within
 Dungeon and Gravestone
 Dungeon of Erotic Master Reboot
 Dungeon of the Endless
@@ -6149,6 +6166,7 @@ End of the Earth
 Ender of Fire
 Enderal: Forgotten Stories
 Endgame of Devil
+Endix
 Endless ATC
 Endless Alice
 Endless Battle
@@ -6686,7 +6704,7 @@ False Front
 False Hero
 False Mall
 Falsepine
-Fame Or Folly
+Fame or Folly
 Family Breeding
 Family Crush
 Family Feud
@@ -6861,6 +6879,7 @@ Feed My Raptor
 Feed The Forest
 Feed The Reactor
 Feed The Scorchpot
+Feed The Void
 Feed and Grow: Fish
 Feed the AI
 Feed the Cups
@@ -7022,6 +7041,7 @@ Fish Game
 Fish Hero
 Fish Hunters: The Most Ridiculous Fishing Simulator
 Fish Idle 2: Underwater Mystery
+Fish Lab
 Fish Stick Protocol
 Fish Tycoon 2: Virtual Aquarium
 Fish to Dish: Idle Sushi
@@ -8950,6 +8970,7 @@ Hitman: Sniper Assassin
 Hitman: Sniper Challenge
 Hive Blight
 Hmmsim Metro
+HoRoyal Hololive Battle Royal
 Hoa
 Hob
 Hobby Horse
@@ -10209,6 +10230,7 @@ Killzone: Shadow Fall - Intercept
 Kiln
 Kimbap Heaven Simulator
 Kimochii Classroom
+Kin and Conquest
 Kin and Quarry
 Kind Words
 Kind Words 2
@@ -10264,6 +10286,7 @@ Kingdom Hearts III: Re Mind
 Kingdom Hearts: Melody of Memory
 Kingdom Hearts: VR Experience
 Kingdom Heroes: Arena
+Kingdom Inc.
 Kingdom Rush
 Kingdom Rush 5: Alliance
 Kingdom Rush Frontiers
@@ -11948,6 +11971,7 @@ Microsoft Flight Simulator X: Steam Edition
 Microsoft Flight Simulator: 40th Anniversary Edition
 Microsoft Halo
 Microsoft Halo Trial
+Microsoft Jewel
 Microsoft Jigsaw
 Microsoft Mahjong
 Microsoft Minesweeper
@@ -12537,6 +12561,7 @@ Mushroom Musume
 Mushroom Run 2D
 Mushroom Savior
 Mushroom Season
+Mushroom Simulator Co-op
 Mushroom Wars
 Mushroom Wars 2
 Mushy
@@ -13645,6 +13670,7 @@ Out and About
 Out of Action
 Out of Hands
 Out of Line
+Out of Orbit
 Out of Ore
 Out of Reach
 Out of Sight
@@ -14393,6 +14419,7 @@ Planetka
 Planets Under Attack
 Plant Nursery Simulator
 Plant Therapy
+Plantation Simulator
 Plantera
 Plantera 2: Golden Acorn
 Plants vs. Zombies
@@ -14447,7 +14474,7 @@ PockeDate!
 Pocket Academy 3
 Pocket Academy Zero
 Pocket Arcade Story
-Pocket Bravery Demo
+Pocket Bravery
 Pocket God vs Desert Ashes
 Pocket Legends
 Pocket Mirror ~ GoldenerTraum
@@ -15754,6 +15781,7 @@ Road to Empress
 Road to Guangdong
 Road to Vostok
 RoadCraft
+Roadhouse Simulator
 Roads of Time: Odyssey
 Roadside Research
 Roadwarden
@@ -16564,6 +16592,7 @@ Sector 13: Haunted Woods
 Sector Beam
 Sector Unknown
 Sector's Edge
+Security 51
 Security Control
 Seduce Me the Otome
 Seduce Me: The Complete Story
@@ -16650,6 +16679,7 @@ Servant of the Lake
 Service Please
 ServiceIT
 Session: Skate Sim
+Set Yourself on Fire
 Settlement Survival
 Settlements Rising
 Settler's Domain
@@ -16774,6 +16804,7 @@ SharpShooter3D
 Sharpshoot
 Shashingo: Learn Japanese With Photography
 ShatterRush
+Shattered Divinities
 Shattered Lights
 Shattered Minds
 Shattered Pixel Dungeon
@@ -18375,6 +18406,7 @@ Super Robot Wars X
 Super Scooter
 Super Seducer
 Super Seducer 2
+Super Shout Showdown
 Super Sidekicks
 Super Sidekicks 2: The World Championship
 Super Sidekicks 3: The Next Glory
@@ -18991,6 +19023,7 @@ Terrorbytes
 Terroro
 Terrors to Unveil: Day Off
 Terrors to Unveil: Intrusion
+Terrors to Unveil: Last Trace
 Terry’s Vegetable Patch
 Tesera
 Tesla Force
@@ -21329,6 +21362,7 @@ Vault of the Void
 Vaultbreakers
 Vaulting Champions
 Vaygren - Lustful Temptation
+Vecchio Furioso
 Vecter
 Vector
 Vector Strike
@@ -21678,6 +21712,7 @@ Warhammer Age of Sigmar: Realms of Ruin
 Warhammer Age of Sigmar: Storm Ground
 Warhammer Quest
 Warhammer Quest II: The End Times
+Warhammer Survivors
 Warhammer Underworlds: Online
 Warhammer: Battle March
 Warhammer: Chaos & Conquest
@@ -22186,6 +22221,7 @@ World of Solitaire
 World of Talesworth: Idle MMO Simulator
 World of Tanks
 World of Tanks: Blitz
+World of Tanks: HEAT
 World of Tennis: Roaring '20s
 World of Warcraft
 World of Warcraft Classic
@@ -22289,6 +22325,7 @@ XPOSED Reloaded
 XX Mission
 XXX Puzzle
 Xanadu Land
+Xanadu Next
 Xbox Fitness
 Xeno
 Xenonauts

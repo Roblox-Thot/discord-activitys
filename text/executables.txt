@@ -9188,6 +9188,7 @@ wet girl/wetgirl.exe
 wetherevolution/we.therevolution_x86_64.exe
 weyrdlets/weyrdlets.exe
 wftogame.exe
+wgcs_api.exe
 wgt golf/golf.exe
 whalegame/whalegame.exe
 what the car/whatthecar.exe
@@ -10970,6 +10971,7 @@ wormsworldparty/w2.exe
 wormsxhd/wormsmayhem.exe
 worn thin/worn thin.exe
 worshippersofcthulhu/worshippersofcthulhu.exe
+wot heat/bin/engine_launcher.exe
 wotblitz.exe
 wowclassic.exe
 wowowow korone box/wowowow korone box.exe
